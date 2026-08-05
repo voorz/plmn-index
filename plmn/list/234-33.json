@@ -19,18 +19,21 @@
       "subs": [
         {
           "brand": "CTExcel",
-          "names": [
-            "ctexcel",
-            "cmlink",
-            "esim"
-          ],
+          "names": ["ctexcel", "esim"],
           "gid1": "0000",
           "gid2": "ffff",
-          "profile_names": [
-            "CTExcel eSIM",
-            "CMI eSIM",
-            "eSIM"
-          ]
+          "profile_names": ["CTExcel eSIM", "eSIM"],
+          "icon": "ctexcel",
+          "icon_scope": "234"
+        },
+        {
+          "brand": "CMlink",
+          "names": ["cmlink"],
+          "gid1": "0000",
+          "gid2": "ffff",
+          "profile_names": ["CMI eSIM"],
+          "icon": "cmlink",
+          "icon_scope": "234"
         }
       ]
     },
@@ -45,18 +48,21 @@
       "subs": [
         {
           "brand": "CTExcel",
-          "names": [
-            "ctexcel",
-            "cmlink",
-            "esim"
-          ],
+          "names": ["ctexcel", "esim"],
           "gid1": "0000",
           "gid2": "ffff",
-          "profile_names": [
-            "CTExcel eSIM",
-            "CMI eSIM",
-            "eSIM"
-          ]
+          "profile_names": ["CTExcel eSIM", "eSIM"],
+          "icon": "ctexcel",
+          "icon_scope": "234"
+        },
+        {
+          "brand": "CMlink",
+          "names": ["cmlink"],
+          "gid1": "0000",
+          "gid2": "ffff",
+          "profile_names": ["CMI eSIM"],
+          "icon": "cmlink",
+          "icon_scope": "234"
         }
       ]
     }
