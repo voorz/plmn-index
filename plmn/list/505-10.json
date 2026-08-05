@@ -1,0 +1,26 @@
+{
+  "mcc": "505",
+  "mnc": "10",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Norfolk Island",
+      "operator": "Norfolk Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900"
+    },
+    {
+      "brand": "Norfolk Telecom",
+      "operator": "Norfolk Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 1800"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "990",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Evolve Broadband",
+      "operator": "Evolve Cellular Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700"
+    }
+  ]
+}

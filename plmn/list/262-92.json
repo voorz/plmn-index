@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "92",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Nash Technologies",
+      "operator": "Nash Technologies",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 2100"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "14",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Ålcom",
+      "operator": "Ålands Telekommunikation Ab",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800"
+    }
+  ]
+}

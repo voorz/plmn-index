@@ -1,0 +1,19 @@
+{
+  "mcc": "238",
+  "mnc": "28",
+  "country": {
+    "name": "Denmark (Kingdom of Denmark)",
+    "iso": "DK",
+    "code": "45",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "LINK Mobility",
+      "operator": "LINK Mobile A/S",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

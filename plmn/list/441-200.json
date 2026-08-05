@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "200",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "Soracom Inc.",
+      "operator": "Soracom Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

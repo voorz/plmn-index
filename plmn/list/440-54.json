@@ -1,0 +1,36 @@
+{
+  "mcc": "440",
+  "mnc": "54",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "au",
+      "operator": "KDDI Corporation",
+      "status": "Operational",
+      "type": "National",
+      "bands": "5G NR 3500",
+      "icon": "au",
+      "icon_scope": "440",
+      "subs": [
+        {
+          "brand": "UQ mobile",
+          "names": [
+            "uq mobile"
+          ],
+          "gid1": "20",
+          "gid2": "00",
+          "profile_names": [
+            "KDDI"
+          ],
+          "icon": "au-3",
+          "icon_scope": "440"
+        }
+      ]
+    }
+  ]
+}

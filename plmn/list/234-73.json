@@ -1,0 +1,26 @@
+{
+  "mcc": "234",
+  "mnc": "73",
+  "country": {
+    "name": "Isle of Man (United Kingdom)",
+    "iso": "IM",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Bluewave Communications Ltd.",
+      "operator": "Bluewave Communications Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 3500"
+    },
+    {
+      "brand": "Bluewave Communications Ltd",
+      "operator": "Bluewave Communications Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 3500"
+    }
+  ]
+}

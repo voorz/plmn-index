@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "300",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Southern California Edison",
+      "operator": "Southern California Edison",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

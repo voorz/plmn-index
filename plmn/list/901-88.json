@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "88",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Bondio Limited",
+      "operator": "Bondio Limited",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

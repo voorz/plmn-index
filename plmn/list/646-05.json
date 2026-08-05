@@ -1,0 +1,18 @@
+{
+  "mcc": "646",
+  "mnc": "05",
+  "country": {
+    "name": "Madagascar",
+    "iso": "MG",
+    "code": "261"
+  },
+  "operators": [
+    {
+      "brand": "BIP / blueline",
+      "operator": "Gulfsat Madagascar S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 2100 / TD-LTE 2600"
+    }
+  ]
+}

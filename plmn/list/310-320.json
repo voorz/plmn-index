@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "320",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Cellular One",
+      "operator": "Smith Bagley, Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS / LTE"
+    }
+  ]
+}

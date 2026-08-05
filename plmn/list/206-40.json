@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "40",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "JOIN",
+      "operator": "JOIN Experience (Belgium)",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

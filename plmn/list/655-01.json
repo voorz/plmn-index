@@ -1,0 +1,32 @@
+{
+  "mcc": "655",
+  "mnc": "01",
+  "country": {
+    "name": "South Africa",
+    "iso": "ZA",
+    "code": "27",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Vodacom",
+      "operator": "Vodacom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 5200 / LTE 5800 / 5G 700 / 5G 3500",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "Vodacom eSim"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "640",
+  "mnc": "14",
+  "country": {
+    "name": "Tanzania",
+    "iso": "TZ",
+    "code": "255",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "MO Mobile",
+      "operator": "MO Mobile Holding Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

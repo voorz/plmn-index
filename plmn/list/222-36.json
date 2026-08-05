@@ -1,0 +1,19 @@
+{
+  "mcc": "222",
+  "mnc": "36",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Digi Mobil",
+      "operator": "Digi Italy S.r.l.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "mcc": "428",
+  "mnc": "06",
+  "country": {
+    "name": "Mongolia",
+    "iso": "MN",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "gmobile 4g",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "gmobile-4g",
+      "icon_scope": "428",
+      "subs": [
+        {
+          "brand": "gmobile 4g",
+          "names": [
+            "gmobile 4g"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "profilename"
+          ]
+        }
+      ]
+    }
+  ]
+}

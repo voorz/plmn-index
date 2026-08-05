@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "91",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "NTT DoCoMo",
+      "operator": "Tokyo Organising Committee of the Olympic and Paralympic Games",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

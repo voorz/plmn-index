@@ -1,0 +1,115 @@
+{
+  "mcc": "260",
+  "mnc": "03",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Orange",
+      "operator": "Orange Polska S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 1800 / LTE 2100 / 5G 2100 / 5G 3500",
+      "icon": "orange-france",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim",
+            "orange",
+            "redtea mobile",
+            "carrier",
+            "global",
+            "roamic",
+            "airalo",
+            "redteago"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "eSIM",
+            "Orange eSIM",
+            "Global1SIM_Single_SP05",
+            "ESIM_ACCESS_CARRIER",
+            "Slick",
+            "RTG_Android",
+            "Roamic_APP",
+            "RedteaGO",
+            "22SIM",
+            "Global1SIM_MultiIMSI_Master"
+          ]
+        },
+        {
+          "brand": "DENT",
+          "names": [
+            "dent"
+          ],
+          "gid1": "3597bfd533ffffff",
+          "gid2": "ffffffffffffffff"
+        },
+        {
+          "brand": "Global",
+          "names": [
+            "global"
+          ],
+          "gid1": "476c6f62616cffffffff",
+          "gid2": "ffffffffffffffffffff"
+        },
+        {
+          "brand": "YESIM",
+          "names": [
+            "yesim"
+          ],
+          "gid1": "596553494d313054ff",
+          "gid2": "596553494d313054ff",
+          "profile_names": [
+            "YESIM"
+          ]
+        },
+        {
+          "brand": "infra",
+          "names": [
+            "infra",
+            "tgt"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "infra",
+            "TUGE"
+          ]
+        },
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "S11 Applet 2.0",
+            "S6 Applet 2.0 SAME_EID_MID",
+            "S6 Applet 1.9 SAME_EID_MID",
+            "eSIM",
+            "S6 Applet 2.0 PLMN List"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "none",
+          "gid2": "none",
+          "profile_names": [
+            "ESIM_ACCESS_CARRIER",
+            "eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

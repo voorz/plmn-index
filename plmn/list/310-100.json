@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "100",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Plateau Wireless",
+      "operator": "New Mexico RSA 4 East LP",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / UMTS 850 / UMTS 1700"
+    }
+  ]
+}

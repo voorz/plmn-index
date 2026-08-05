@@ -1,0 +1,19 @@
+{
+  "mcc": "293",
+  "mnc": "86",
+  "country": {
+    "name": "Slovenia",
+    "iso": "SI",
+    "code": "386",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Elektro Gorenjska",
+      "operator": "ELEKTRO GORENJSKA, d.d",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "LTE 700"
+    }
+  ]
+}

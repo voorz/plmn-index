@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "10",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "UQ WiMAX",
+      "operator": "UQ Communications Inc.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "TD-LTE 2500"
+    }
+  ]
+}

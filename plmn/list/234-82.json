@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "82",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "GeoNetworks",
+      "operator": "GeoNetworks",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "5G"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "246",
+  "mnc": "13",
+  "country": {
+    "name": "Lithuania",
+    "iso": "LT",
+    "code": "370",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Travel Communication SIA",
+      "operator": "Travel Communication SIA",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

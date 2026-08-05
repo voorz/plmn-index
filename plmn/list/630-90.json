@@ -1,0 +1,34 @@
+{
+  "mcc": "630",
+  "mnc": "90",
+  "country": {
+    "name": "Democratic Republic of the Congo",
+    "iso": "CD",
+    "code": "243",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Africell",
+      "operator": "Africell RDC sprl",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800",
+      "icon": "africell",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Africell RDC",
+          "names": [
+            "africell rdc"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Africell RDC"
+          ]
+        }
+      ]
+    }
+  ]
+}

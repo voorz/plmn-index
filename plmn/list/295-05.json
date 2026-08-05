@@ -1,0 +1,42 @@
+{
+  "mcc": "295",
+  "mnc": "05",
+  "country": {
+    "name": "Liechtenstein",
+    "iso": "LI",
+    "code": "423",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "FL1",
+      "operator": "Telecom Liechtenstein AG",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 800",
+      "icon": "fl1",
+      "icon_scope": "295",
+      "subs": [
+        {
+          "brand": "airalo",
+          "names": [
+            "airalo"
+          ],
+          "gid1": "616972616c6f31",
+          "gid2": "616972616c6f32"
+        },
+        {
+          "brand": "BNESIM",
+          "names": [
+            "bnesim"
+          ],
+          "gid1": "626e6573696d31ffffffffffffffff",
+          "gid2": "626e6573696d32ffffffffffffffff",
+          "profile_names": [
+            "Telna_MI14_BNESIM_SPN_GID_GP1_v02.07.01.01"
+          ]
+        }
+      ]
+    }
+  ]
+}

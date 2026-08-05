@@ -1,0 +1,34 @@
+{
+  "mcc": "645",
+  "mnc": "02",
+  "country": {
+    "name": "Zambia",
+    "iso": "ZM",
+    "code": "260",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "MTN",
+      "operator": "MTN Group",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 1800 / 5G 2600",
+      "icon": "mtn",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "MTN Zambia",
+          "names": [
+            "mtn zambia"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "MTN Zambia"
+          ]
+        }
+      ]
+    }
+  ]
+}

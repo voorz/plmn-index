@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "13",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telia",
+      "operator": "Telia Eesti AS",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

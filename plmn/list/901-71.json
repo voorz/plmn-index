@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "71",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Tampnet AS",
+      "operator": "Tampnet AS",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

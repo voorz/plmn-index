@@ -1,0 +1,34 @@
+{
+  "mcc": "450",
+  "mnc": "06",
+  "country": {
+    "name": "South Korea",
+    "iso": "KR",
+    "code": "82",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "LG U+",
+      "operator": "LG Uplus",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 850 / LTE 2100 / LTE 2600 / 5G 3500",
+      "icon": "lg-u-plus",
+      "icon_scope": "450",
+      "subs": [
+        {
+          "brand": "LGU+",
+          "names": [
+            "lgu+"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "LGU+"
+          ]
+        }
+      ]
+    }
+  ]
+}

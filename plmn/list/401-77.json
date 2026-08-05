@@ -1,0 +1,57 @@
+{
+  "mcc": "401",
+  "mnc": "77",
+  "country": {
+    "name": "Kazakhstan",
+    "iso": "KZ",
+    "code": "7",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Tele2.kz",
+      "operator": "MTS",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / 5G 3500",
+      "icon": "tele2",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Mobile Telecom - Service",
+          "names": [
+            "mobile telecom - service"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Mobile Telecom - Service"
+          ]
+        },
+        {
+          "brand": "Tele2",
+          "names": [
+            "tele2",
+            "altel"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "Tele2_TK_eSIM_test03",
+            "Tele2_TK_eSIM_E01_2",
+            "Altel_TK_eSIM_E01_3"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "none",
+          "gid2": "none",
+          "profile_names": [
+            "Mobile Telecom - Service"
+          ]
+        }
+      ]
+    }
+  ]
+}

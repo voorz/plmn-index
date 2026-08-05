@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "710",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Tribal Ready, PBC",
+      "operator": "Tribal Ready, PBC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

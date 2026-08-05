@@ -1,0 +1,38 @@
+{
+  "mcc": "724",
+  "mnc": "05",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Claro",
+      "operator": "Claro",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600 / 5G 2300 / 5G 2600 / 5G 3500",
+      "icon": "claro",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "CLARO BR",
+          "names": [
+            "claro br"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "BRAMCL005891V2.00_AMDOCS_MINHA_CLARO",
+            "BRAMCL005891V2.00_AMDOCS",
+            "BRAMCL004891V2.00_5GSA_AMDOCS",
+            "BRAMCL005891V2.00_AMDOCS_FLEX",
+            "ClaroBR"
+          ]
+        }
+      ]
+    }
+  ]
+}

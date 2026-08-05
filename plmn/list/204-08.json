@@ -1,0 +1,94 @@
+{
+  "mcc": "204",
+  "mnc": "08",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "KPN",
+      "operator": "KPN Mobile The Netherlands B.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600 / 5G 700",
+      "icon": "kpn",
+      "icon_scope": "204",
+      "subs": [
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim",
+            "esim"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "TCL-EP3311_Fonus_TEA02598_2K",
+            "ESIM",
+            "JOYTEL_BLANK_QRCODE_appletV4"
+          ]
+        },
+        {
+          "brand": "BetterRoaming",
+          "names": [
+            "betterroaming",
+            "1global",
+            "speedtest travel",
+            "heinemann",
+            "xesim",
+            "sparhandy",
+            "cluj airport",
+            "digital republic",
+            "bunq",
+            "freenet travel",
+            "esimfirst",
+            "truphone",
+            "high mobile",
+            "jazeera",
+            "getesim",
+            "adnec",
+            "ntv",
+            "simly",
+            "numero"
+          ],
+          "gid1": "547275554b3030656e",
+          "gid2": "547275554b3030656e",
+          "profile_names": [
+            "BetterRoaming",
+            "bunq",
+            "Truphone",
+            "Simly",
+            "1GLOBAL",
+            "freenet Travel",
+            "USim",
+            "Yonder"
+          ],
+          "icon": "betterroaming",
+          "icon_scope": "204"
+        },
+        {
+          "brand": "Airalo",
+          "names": [
+            "airalo",
+            "simyo",
+            "connect",
+            "kpn"
+          ],
+          "gid1": "ffffffffffffffffff",
+          "gid2": "ffffffffffffffffff",
+          "profile_names": [
+            "Simyo Android eSIM",
+            "Airalo1.0081",
+            "Connect1.0082",
+            "KPN Android eSIM",
+            "KPN_RoutIT1.0030",
+            "Visim Generic eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

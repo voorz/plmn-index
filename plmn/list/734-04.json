@@ -1,0 +1,19 @@
+{
+  "mcc": "734",
+  "mnc": "04",
+  "country": {
+    "name": "Venezuela",
+    "iso": "VE",
+    "code": "58",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Movistar",
+      "operator": "Telefónica Móviles Venezuela",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 1900 / LTE 1700"
+    }
+  ]
+}

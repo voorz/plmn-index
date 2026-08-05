@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "38",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Movistar",
+      "operator": "Telefónica Móviles España, S.A.U.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

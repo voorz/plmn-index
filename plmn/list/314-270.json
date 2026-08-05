@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "270",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "AT&T Mobility",
+      "operator": "AT&T Mobility",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

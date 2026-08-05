@@ -1,0 +1,19 @@
+{
+  "mcc": "515",
+  "mnc": "05",
+  "country": {
+    "name": "Philippines",
+    "iso": "PH",
+    "code": "63",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Sun Cellular",
+      "operator": "Digital Telecommunications Philippines",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 2100"
+    }
+  ]
+}

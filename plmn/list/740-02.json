@@ -1,0 +1,19 @@
+{
+  "mcc": "740",
+  "mnc": "02",
+  "country": {
+    "name": "Ecuador",
+    "iso": "EC",
+    "code": "593",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "CNT Mobile",
+      "operator": "Corporación Nacional de Telecomunicaciones (CNT EP)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 1900 / LTE 1700"
+    }
+  ]
+}

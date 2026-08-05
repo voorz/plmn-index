@@ -1,0 +1,84 @@
+{
+  "mcc": "425",
+  "mnc": "03",
+  "country": {
+    "name": "Israel",
+    "iso": "IL",
+    "code": "970",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Pelephone",
+      "operator": "Pelephone Communications Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / UMTS 2100 / LTE 1800 / 5G 2600 / 5G 3500",
+      "icon": "pelephone",
+      "icon_scope": "425",
+      "subs": [
+        {
+          "brand": "Slick",
+          "names": [
+            "slick",
+            "carrier"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Global1SIM_Single_SP05",
+            "ESIM_ACCESS_CARRIER"
+          ]
+        },
+        {
+          "brand": "Pelephone",
+          "names": [
+            "pelephone",
+            "global",
+            "rami levy"
+          ],
+          "gid1": "25ffffff",
+          "gid2": "46ffffff",
+          "profile_names": [
+            "Cellular Data Profile"
+          ]
+        },
+        {
+          "brand": "DENT",
+          "names": [
+            "dent"
+          ],
+          "gid1": "3597bfd533ffffff",
+          "gid2": "ffffffffffffffff"
+        },
+        {
+          "brand": "tgt",
+          "names": [
+            "tgt"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "infra"
+          ]
+        },
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim",
+            "yesim"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "S11 Applet 2.0 Pelephone Privileges",
+            "Nexuce Test 03",
+            "S11 Applet 2.0 PLMN List",
+            "eSIM",
+            "S11 Applet 2.0"
+          ]
+        }
+      ]
+    }
+  ]
+}

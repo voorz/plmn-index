@@ -1,0 +1,19 @@
+{
+  "mcc": "232",
+  "mnc": "26",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "LIWEST Mobil",
+      "operator": "LIWEST Kabelmedien GmbH",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

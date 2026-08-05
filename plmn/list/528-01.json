@@ -1,0 +1,19 @@
+{
+  "mcc": "528",
+  "mnc": "01",
+  "country": {
+    "name": "Brunei",
+    "iso": "BN",
+    "code": "673",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "TelBru",
+      "operator": "Telekom Brunei Berhad",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

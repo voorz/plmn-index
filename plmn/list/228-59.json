@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "59",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vectone",
+      "operator": "Mundio Mobile Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

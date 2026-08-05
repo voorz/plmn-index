@@ -1,0 +1,19 @@
+{
+  "mcc": "219",
+  "mnc": "03",
+  "country": {
+    "name": "Croatia",
+    "iso": "HR",
+    "code": "385",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "ALTAVOX d.o.o.",
+      "operator": "ALTAVOX d.o.o.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

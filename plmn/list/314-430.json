@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "430",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Highway9 Networks, Inc",
+      "operator": "Highway9 Networks, Inc",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "5G"
+    }
+  ]
+}

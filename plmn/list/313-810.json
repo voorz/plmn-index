@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "810",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Watch Communications",
+      "operator": "Watch Communications",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 3500"
+    }
+  ]
+}

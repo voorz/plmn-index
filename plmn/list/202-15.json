@@ -1,0 +1,19 @@
+{
+  "mcc": "202",
+  "mnc": "15",
+  "country": {
+    "name": "Greece",
+    "iso": "GR",
+    "code": "30",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "BWS",
+      "operator": "BWS",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

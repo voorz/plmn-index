@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "38",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Virgin Mobile",
+      "operator": "Virgin Media",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

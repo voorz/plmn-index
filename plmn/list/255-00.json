@@ -1,0 +1,19 @@
+{
+  "mcc": "255",
+  "mnc": "00",
+  "country": {
+    "name": "Moldova",
+    "iso": "MD",
+    "code": "380",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "IDC",
+      "operator": "Interdnestrcom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA 800"
+    }
+  ]
+}

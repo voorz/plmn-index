@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "54",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "SimCorner Pty Ltd",
+      "operator": "SimCorner Pty Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

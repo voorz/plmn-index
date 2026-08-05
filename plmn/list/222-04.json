@@ -1,0 +1,19 @@
+{
+  "mcc": "222",
+  "mnc": "04",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Intermatica",
+      "operator": "Intermatica S.p.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

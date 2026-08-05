@@ -1,0 +1,58 @@
+{
+  "mcc": "255",
+  "mnc": "07",
+  "country": {
+    "name": "Ukraine",
+    "iso": "UA",
+    "code": "380",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "3Mob; Lycamobile",
+      "operator": "Trimob LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100",
+      "icon": "3mob",
+      "icon_scope": "255",
+      "subs": [
+        {
+          "brand": "3Mob",
+          "names": [
+            "3mob"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "TriMob_INTERTELECOM_T01",
+            "TriMob_T01"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "\\\"3Mob",
+      "operator": "Trimob LLC",
+      "status": "",
+      "type": "",
+      "bands": "UKRUT",
+      "icon": "3mob",
+      "icon_scope": "255",
+      "subs": [
+        {
+          "brand": "3Mob",
+          "names": [
+            "3mob"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "TriMob_INTERTELECOM_T01",
+            "TriMob_T01"
+          ]
+        }
+      ]
+    }
+  ]
+}

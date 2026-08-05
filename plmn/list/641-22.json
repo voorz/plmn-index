@@ -1,0 +1,19 @@
+{
+  "mcc": "641",
+  "mnc": "22",
+  "country": {
+    "name": "Uganda",
+    "iso": "UG",
+    "code": "256",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Airtel",
+      "operator": "Bharti Airtel",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS"
+    }
+  ]
+}

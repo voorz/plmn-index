@@ -1,0 +1,19 @@
+{
+  "mcc": "724",
+  "mnc": "01",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Vivo S.A./Telemig ",
+      "operator": "SISTEER DO BRASIL TELECOMUNICAÇÔES",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "mcc": "716",
+  "mnc": "15",
+  "country": {
+    "name": "Peru",
+    "iso": "PE",
+    "code": "51",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Bitel",
+      "operator": "Viettel Peru S.A.C.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 1900 / LTE 900",
+      "icon": "bitel",
+      "icon_scope": "716",
+      "subs": [
+        {
+          "brand": "BITEL",
+          "names": [
+            "bitel"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff"
+        }
+      ]
+    }
+  ]
+}

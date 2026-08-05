@@ -1,0 +1,26 @@
+{
+  "mcc": "270",
+  "mnc": "77",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "352",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Tango",
+      "operator": "Proximus Luxembourg S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    },
+    {
+      "brand": "Tango",
+      "operator": "Tango SA",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / 5G 700 / 5G 3500"
+    }
+  ]
+}

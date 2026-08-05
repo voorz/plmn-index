@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "480",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Nemont",
+      "operator": "Sagebrush Cellular, Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "362",
+  "mnc": "94",
+  "country": {
+    "name": "Former Netherlands Antilles (Kingdom of the Netherlands)",
+    "iso": "BQ/CW/SX",
+    "code": "599",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Bayòs",
+      "operator": "Bòbò Frus N.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TDMA PCS"
+    }
+  ]
+}

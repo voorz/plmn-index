@@ -1,0 +1,18 @@
+{
+  "mcc": "652",
+  "mnc": "04",
+  "country": {
+    "name": "Botswana",
+    "iso": "BW",
+    "code": "267"
+  },
+  "operators": [
+    {
+      "brand": "BTC Mobile",
+      "operator": "Botswana Telecommunications Corporation",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

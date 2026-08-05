@@ -1,0 +1,19 @@
+{
+  "mcc": "417",
+  "mnc": "50",
+  "country": {
+    "name": "Syria",
+    "iso": "SY",
+    "code": "963",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Rcell",
+      "operator": "Rcell",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 800 / LTE 2600"
+    }
+  ]
+}

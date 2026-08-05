@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "180",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Keystone Wireless LLC",
+      "operator": "Limitless Mobile LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1900"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "454",
+  "mnc": "32",
+  "country": {
+    "name": "Hong Kong",
+    "iso": "HK",
+    "code": "852",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Hong Kong Broadband Network Ltd",
+      "operator": "Hong Kong Broadband Network Ltd",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

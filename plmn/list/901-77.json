@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "77",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Bouygues Telecom",
+      "operator": "Bouygues Telecom",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "23",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "EXFO Oy",
+      "operator": "EXFO Oy",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

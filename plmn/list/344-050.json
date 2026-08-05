@@ -1,0 +1,18 @@
+{
+  "mcc": "344",
+  "mnc": "050",
+  "country": {
+    "name": "Antigua and Barbuda",
+    "iso": "AG",
+    "code": "1268"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Antigua Wireless Ventures Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / LTE 700"
+    }
+  ]
+}

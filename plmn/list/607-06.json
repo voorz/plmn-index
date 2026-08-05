@@ -1,0 +1,19 @@
+{
+  "mcc": "607",
+  "mnc": "06",
+  "country": {
+    "name": "Gambia",
+    "iso": "GM",
+    "code": "220",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "NETPAGE",
+      "operator": "NETPAGE",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 2300"
+    }
+  ]
+}

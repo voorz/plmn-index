@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "17",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Gotanet",
+      "operator": "Götalandsnätet AB",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

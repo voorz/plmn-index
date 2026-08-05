@@ -1,0 +1,32 @@
+{
+  "mcc": "716",
+  "mnc": "20",
+  "country": {
+    "name": "Peru",
+    "iso": "PE",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Claro",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "claro",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Airalo",
+          "names": [
+            "airalo"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "A08.02"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "mcc": "232",
+  "mnc": "07",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Hofer Telekom",
+      "operator": "T-Mobile Austria",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "t-mobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "HoT eSIM",
+          "names": [
+            "hot esim"
+          ],
+          "gid1": "70",
+          "gid2": "ff",
+          "profile_names": [
+            "HoT eSIM"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "tele.ring",
+      "operator": "T-Mobile Austria",
+      "status": "",
+      "type": "",
+      "bands": "MVNO",
+      "icon": "t-mobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "HoT eSIM",
+          "names": [
+            "hot esim"
+          ],
+          "gid1": "70",
+          "gid2": "ff",
+          "profile_names": [
+            "HoT eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

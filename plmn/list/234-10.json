@@ -1,0 +1,91 @@
+{
+  "mcc": "234",
+  "mnc": "10",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "O2 (UK)",
+      "operator": "Telefónica Europe",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / 5G 700 / 5G 900 / TD-5G 2600 / 5G 3500",
+      "icon": "o2",
+      "icon_scope": "234",
+      "subs": [
+        {
+          "brand": "TESCO",
+          "names": [
+            "tesco"
+          ],
+          "gid1": "0affffffffff544553434f202020202020202020",
+          "gid2": "ffffffffffff2020202020202020202020202020",
+          "profile_names": [
+            "O2 - UK"
+          ]
+        },
+        {
+          "brand": "giffgaff",
+          "names": [
+            "giffgaff"
+          ],
+          "gid1": "508fffffffff4d564e4520202020202020202020",
+          "gid2": "ffffffffffff2020202020202020202020202020",
+          "profile_names": [
+            "giffgaff"
+          ],
+          "icon": "giffgaff",
+          "icon_scope": "234"
+        },
+        {
+          "brand": "aloSIM",
+          "names": [
+            "alosim"
+          ],
+          "gid1": "616c6f73696d31ffffffffffffffff",
+          "gid2": "616c6f73696d32ffffffffffffffff",
+          "profile_names": [
+            "Telna_MI22_aloSIM_SPN_GID_CP_v02.20.03"
+          ]
+        },
+        {
+          "brand": "connect",
+          "names": [
+            "connect"
+          ],
+          "gid1": "636f6e6e65637431",
+          "gid2": "636f6e6e65637432"
+        },
+        {
+          "brand": "Connect",
+          "names": [
+            "connect",
+            "globalyo",
+            "esimcard.com"
+          ],
+          "gid1": "636f6e6e65637431ffffffffffffff",
+          "gid2": "636f6e6e65637432ffffffffffffff",
+          "profile_names": [
+            "Telna_MI22_Connect_SPN_GID_v02.20.04",
+            "Telna_MI_Olivia_Connect_SPN_GID_GP1_v02.19.01.01"
+          ]
+        },
+        {
+          "brand": "O2-UK",
+          "names": [
+            "o2-uk"
+          ],
+          "gid1": "90ffffffffff43434c2020202020202020202020",
+          "gid2": "ffffffffffff2020202020202020202020202020",
+          "profile_names": [
+            "O2 - UK"
+          ]
+        }
+      ]
+    }
+  ]
+}

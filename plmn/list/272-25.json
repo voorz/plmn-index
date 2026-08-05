@@ -1,0 +1,55 @@
+{
+  "mcc": "272",
+  "mnc": "25",
+  "country": {
+    "name": "Ireland",
+    "iso": "IE",
+    "code": "353",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Sky Mobile",
+      "operator": "Sky Ireland",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "sky",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Sky IE",
+          "names": [
+            "sky ie"
+          ],
+          "gid1": "0d",
+          "gid2": "ff",
+          "profile_names": [
+            "Sky IE"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Sky IE",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "sky",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Sky IE",
+          "names": [
+            "sky ie"
+          ],
+          "gid1": "0d",
+          "gid2": "ff",
+          "profile_names": [
+            "Sky IE"
+          ]
+        }
+      ]
+    }
+  ]
+}

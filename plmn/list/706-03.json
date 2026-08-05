@@ -1,0 +1,46 @@
+{
+  "mcc": "706",
+  "mnc": "03",
+  "country": {
+    "name": "El Salvador",
+    "iso": "SV",
+    "code": "503",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Tigo",
+      "operator": "Telemovil El Salvador S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / UMTS 850 / LTE 850 / LTE 1700",
+      "icon": "tigo",
+      "icon_scope": "706",
+      "subs": [
+        {
+          "brand": "TIGO",
+          "names": [
+            "tigo",
+            "tigo"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "eSIM 5.8",
+            "Tigo"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "none",
+          "gid2": "none",
+          "profile_names": [
+            "eSIM 5.8",
+            "Tigo"
+          ]
+        }
+      ]
+    }
+  ]
+}

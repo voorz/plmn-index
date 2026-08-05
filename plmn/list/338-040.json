@@ -1,0 +1,19 @@
+{
+  "mcc": "338",
+  "mnc": "040",
+  "country": {
+    "name": "Jamaica",
+    "iso": "JM",
+    "code": "1876",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Caricel",
+      "operator": "Symbiote Investment Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

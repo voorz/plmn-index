@@ -1,0 +1,57 @@
+{
+  "mcc": "422",
+  "mnc": "06",
+  "country": {
+    "name": "Oman",
+    "iso": "OM",
+    "code": "968",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "Oman Future Telecommunications Company SAOC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "5G 700 / 5G 1800 / 5G 2600",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vodafone Oman",
+          "names": [
+            "vodafone oman"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Vodafone Oman esim supporting SPM",
+            "Vodafone Oman esim"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Vodafone Oman",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vodafone Oman",
+          "names": [
+            "vodafone oman"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Vodafone Oman esim supporting SPM",
+            "Vodafone Oman esim"
+          ]
+        }
+      ]
+    }
+  ]
+}

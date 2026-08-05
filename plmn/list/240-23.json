@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "23",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Infobip",
+      "operator": "Infobip Limited (UK)",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

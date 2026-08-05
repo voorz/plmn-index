@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "08",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "VOO",
+      "operator": "Nethys",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

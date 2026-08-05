@@ -1,0 +1,18 @@
+{
+  "mcc": "350",
+  "mnc": "00",
+  "country": {
+    "name": "Bermuda",
+    "iso": "BM",
+    "code": "1441"
+  },
+  "operators": [
+    {
+      "brand": "One",
+      "operator": "Bermuda Digital Communications Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 850 / LTE 700 / 5G 3500"
+    }
+  ]
+}

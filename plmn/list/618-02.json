@@ -1,0 +1,18 @@
+{
+  "mcc": "618",
+  "mnc": "02",
+  "country": {
+    "name": "Liberia",
+    "iso": "LR",
+    "code": "231"
+  },
+  "operators": [
+    {
+      "brand": "Libercell",
+      "operator": "Atlantic Wireless (Liberia) Inc.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

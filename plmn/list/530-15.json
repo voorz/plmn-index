@@ -1,0 +1,19 @@
+{
+  "mcc": "530",
+  "mnc": "15",
+  "country": {
+    "name": "New Zealand",
+    "iso": "NZ",
+    "code": "64",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Spark",
+      "operator": "Spark New Zealand",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

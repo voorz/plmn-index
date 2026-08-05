@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "90",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Polska Spolka Gazownictwa",
+      "operator": "Polska Spółka Gazownictwa Sp. z o.o.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

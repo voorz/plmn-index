@@ -1,0 +1,45 @@
+{
+  "mcc": "208",
+  "mnc": "20",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Bouygues",
+      "operator": "Bouygues Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500",
+      "icon": "bouygues",
+      "icon_scope": "208",
+      "subs": [
+        {
+          "brand": "Bouygues Telecom",
+          "names": [
+            "bouygues telecom"
+          ],
+          "gid1": "4e524a31",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Bouygues Telecom"
+          ]
+        },
+        {
+          "brand": "Bouygues Telecom",
+          "names": [
+            "bouygues telecom"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Bouygues Telecom"
+          ]
+        }
+      ]
+    }
+  ]
+}

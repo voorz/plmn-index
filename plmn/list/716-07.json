@@ -1,0 +1,19 @@
+{
+  "mcc": "716",
+  "mnc": "07",
+  "country": {
+    "name": "Peru",
+    "iso": "PE",
+    "code": "51",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Entel",
+      "operator": "Entel Perú S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "iDEN"
+    }
+  ]
+}

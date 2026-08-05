@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "340",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Dish",
+      "operator": "Dish Wireless",
+      "status": "Operational",
+      "type": "National",
+      "bands": "5G 600 / 5G 1700"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "mcc": "250",
+  "mnc": "98",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MKS (ex. Lugacom)",
+      "operator": "OOO \"MKS\"",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600",
+      "icon": "mcs",
+      "icon_scope": "250",
+      "subs": [
+        {
+          "brand": "MCS",
+          "names": [
+            "mcs"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "MCS"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "MCS",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "mcs",
+      "icon_scope": "250",
+      "subs": [
+        {
+          "brand": "MCS",
+          "names": [
+            "mcs"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "MCS"
+          ]
+        }
+      ]
+    }
+  ]
+}

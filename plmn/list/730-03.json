@@ -1,0 +1,19 @@
+{
+  "mcc": "730",
+  "mnc": "03",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Claro",
+      "operator": "Claro Chile S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 1700 / UMTS 1900 / LTE 700 / LTE 850 / LTE 1700 / LTE 1900 / LTE 2600 / 5G 3500"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "630",
+  "mnc": "02",
+  "country": {
+    "name": "Democratic Republic of the Congo",
+    "iso": "CD",
+    "code": "243",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Airtel",
+      "operator": "Airtel sprl",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

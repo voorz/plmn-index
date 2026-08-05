@@ -1,0 +1,47 @@
+{
+  "mcc": "466",
+  "mnc": "92",
+  "country": {
+    "name": "Taiwan",
+    "iso": "TW",
+    "code": "886",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Chunghwa",
+      "operator": "Chunghwa Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500",
+      "icon": "chunghwa",
+      "icon_scope": "466",
+      "subs": [
+        {
+          "brand": "Redtea Mobile",
+          "names": [
+            "redtea mobile",
+            "redteago"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "RedteaGO",
+            "RTG_Android"
+          ]
+        },
+        {
+          "brand": "CHT Taiwan",
+          "names": [
+            "cht taiwan"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Chunghwa Telecom"
+          ]
+        }
+      ]
+    }
+  ]
+}

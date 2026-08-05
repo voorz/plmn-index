@@ -1,0 +1,56 @@
+{
+  "mcc": "216",
+  "mnc": "70",
+  "country": {
+    "name": "Hungary",
+    "iso": "HU",
+    "code": "36",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "one",
+      "operator": "One Hungary Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 800 / LTE 1800 / LTE 2600 / 5G 700 / 5G 2100 / 5G 3500",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vodafone HU",
+          "names": [
+            "vodafone hu"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "Vodafone HU eSIM"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Vodafone",
+      "operator": "Vodafone Magyarország Zrt.",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vodafone HU",
+          "names": [
+            "vodafone hu"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "Vodafone HU eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

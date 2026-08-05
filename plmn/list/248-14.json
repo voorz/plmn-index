@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "14",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Estonian Crafts OÜ",
+      "operator": "Estonian Crafts OÜ",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

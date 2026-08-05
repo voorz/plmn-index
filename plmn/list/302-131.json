@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "131",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Xplore",
+      "operator": "Xplore Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 3500 / WiMAX / 5G 3500"
+    }
+  ]
+}

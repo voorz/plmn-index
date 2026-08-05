@@ -1,0 +1,18 @@
+{
+  "mcc": "742",
+  "mnc": "04",
+  "country": {
+    "name": "French Guiana (France)",
+    "iso": "GF",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Free",
+      "operator": "Free Caraïbe",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100 / LTE 2600"
+    }
+  ]
+}

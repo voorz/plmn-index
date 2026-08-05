@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "990",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Ericsson Canada",
+      "operator": "Ericsson Canada",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

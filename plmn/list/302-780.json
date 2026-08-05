@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "780",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "SaskTel",
+      "operator": "SaskTel Mobility",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / UMTS 1900 / LTE 600 / LTE 700 / LTE 850 / LTE 1900 / LTE 1700 / LTE 2600 / 5G 1700 / 5G 3500"
+    }
+  ]
+}

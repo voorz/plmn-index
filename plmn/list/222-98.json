@@ -1,0 +1,19 @@
+{
+  "mcc": "222",
+  "mnc": "98",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Blu",
+      "operator": "Blu S.p.A.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

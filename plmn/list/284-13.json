@@ -1,0 +1,19 @@
+{
+  "mcc": "284",
+  "mnc": "13",
+  "country": {
+    "name": "Bulgaria",
+    "iso": "BG",
+    "code": "359",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Ти.ком",
+      "operator": "Ti.com JSC",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "LTE 1800"
+    }
+  ]
+}

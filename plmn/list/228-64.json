@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "64",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Nth AG",
+      "operator": "Nth AG",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

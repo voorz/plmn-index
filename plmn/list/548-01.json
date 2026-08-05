@@ -1,0 +1,18 @@
+{
+  "mcc": "548",
+  "mnc": "01",
+  "country": {
+    "name": "Cook Islands (Pacific Ocean)",
+    "iso": "CK",
+    "code": "682"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "Telecom Cook Islands",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / LTE 700 / LTE 1800"
+    }
+  ]
+}

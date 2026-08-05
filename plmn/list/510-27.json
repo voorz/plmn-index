@@ -1,0 +1,19 @@
+{
+  "mcc": "510",
+  "mnc": "27",
+  "country": {
+    "name": "Indonesia",
+    "iso": "ID",
+    "code": "62",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Net1",
+      "operator": "PT Net Satu Indonesia",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "LTE 450"
+    }
+  ]
+}

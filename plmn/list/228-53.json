@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "53",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "upc cablecom",
+      "operator": "Sunrise UPC GmbH",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "530",
+  "mnc": "04",
+  "country": {
+    "name": "New Zealand",
+    "iso": "NZ",
+    "code": "64",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "One NZ",
+      "operator": "One NZ",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 2100"
+    }
+  ]
+}

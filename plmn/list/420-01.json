@@ -1,0 +1,36 @@
+{
+  "mcc": "420",
+  "mnc": "01",
+  "country": {
+    "name": "Saudi Arabia",
+    "iso": "SA",
+    "code": "966",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Al Jawal (STC )",
+      "operator": "Saudi Telecom Company",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 700 / LTE 1800 / LTE 2100 / TD-LTE 2300 / 5G 3500",
+      "icon": "stc",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "stc",
+          "names": [
+            "stc",
+            "stc ksa"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "PV Mass Production",
+            "Physical Voucher for Mass Production"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "255",
+  "mnc": "701",
+  "country": {
+    "name": "Ukraine",
+    "iso": "UA",
+    "code": "380",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Ukrainian Special Systems",
+      "operator": "Ukrainian Special Systems",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

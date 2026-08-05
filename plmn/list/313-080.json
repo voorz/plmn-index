@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "080",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Speedwavz LLP",
+      "operator": "Speedwavz LLP",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

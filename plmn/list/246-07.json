@@ -1,0 +1,19 @@
+{
+  "mcc": "246",
+  "mnc": "07",
+  "country": {
+    "name": "Lithuania",
+    "iso": "LT",
+    "code": "370",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Compatel Ltd.",
+      "operator": "Compatel Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

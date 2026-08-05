@@ -1,0 +1,34 @@
+{
+  "mcc": "280",
+  "mnc": "20",
+  "country": {
+    "name": "Cyprus",
+    "iso": "CY",
+    "code": "357",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "PrimeTel",
+      "operator": "PrimeTel PLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100 / LTE 900 / LTE 1800",
+      "icon": "primetel",
+      "icon_scope": "280",
+      "subs": [
+        {
+          "brand": "Primetel",
+          "names": [
+            "primetel"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Primetel eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

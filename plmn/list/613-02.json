@@ -1,0 +1,18 @@
+{
+  "mcc": "613",
+  "mnc": "02",
+  "country": {
+    "name": "Burkina Faso",
+    "iso": "BF",
+    "code": "226"
+  },
+  "operators": [
+    {
+      "brand": "Orange",
+      "operator": "Orange Burkina Faso",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

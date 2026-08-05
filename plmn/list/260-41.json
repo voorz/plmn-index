@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "41",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "EZ Mobile",
+      "operator": "EZ PHONE MOBILE Sp. z o.o.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

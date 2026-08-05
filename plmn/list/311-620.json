@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "620",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "TerreStar Networks, Inc.",
+      "operator": "TerreStar Networks, Inc.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Satellite"
+    }
+  ]
+}

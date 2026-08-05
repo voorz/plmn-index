@@ -1,0 +1,19 @@
+{
+  "mcc": "290",
+  "mnc": "02",
+  "country": {
+    "name": "Greenland (Kingdom of Denmark)",
+    "iso": "GL",
+    "code": "299",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Nanoq Media",
+      "operator": "inu:it a/s",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 2500"
+    }
+  ]
+}

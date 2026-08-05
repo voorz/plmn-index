@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "70",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Tismi",
+      "operator": "Tismi BV",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

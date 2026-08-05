@@ -1,0 +1,18 @@
+{
+  "mcc": "340",
+  "mnc": "09",
+  "country": {
+    "name": "French Antilles (France)",
+    "iso": "BL/GF/GP/MF/MQ",
+    "code": "596"
+  },
+  "operators": [
+    {
+      "brand": "Free",
+      "operator": "Free Caraïbe",
+      "status": "Upcoming",
+      "type": "National",
+      "bands": "UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+    }
+  ]
+}

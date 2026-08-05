@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "11",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "L-mobi",
+      "operator": "L-Mobi Mobile",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

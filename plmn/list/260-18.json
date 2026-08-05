@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "18",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "AMD Telecom",
+      "operator": "AMD Telecom S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

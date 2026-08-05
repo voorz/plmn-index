@@ -1,0 +1,47 @@
+{
+  "mcc": "248",
+  "mnc": "01",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telia",
+      "operator": "Telia Eesti",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 2100 / 5G 3500",
+      "icon": "telia",
+      "icon_scope": "248",
+      "subs": [
+        {
+          "brand": "eSIM Internet",
+          "names": [
+            "esim internet"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "Top_Connect_eSIM"
+          ]
+        },
+        {
+          "brand": "Super",
+          "names": [
+            "super",
+            "telia ee"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Super",
+            "Telia EE"
+          ]
+        }
+      ]
+    }
+  ]
+}

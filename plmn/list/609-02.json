@@ -1,0 +1,18 @@
+{
+  "mcc": "609",
+  "mnc": "02",
+  "country": {
+    "name": "Mauritania",
+    "iso": "MR",
+    "code": "222"
+  },
+  "operators": [
+    {
+      "brand": "Chinguitel",
+      "operator": "Chinguitel",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA / GSM 900 / GSM 1800 / UMTS 2100 / LTE"
+    }
+  ]
+}

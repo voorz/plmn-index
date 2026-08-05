@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "11",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "GlobalCell",
+      "operator": "GlobalCell EU Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

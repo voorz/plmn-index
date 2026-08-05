@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "212",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "I-TEC Solutions Co., Ltd.",
+      "operator": "I-TEC Solutions Co., Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

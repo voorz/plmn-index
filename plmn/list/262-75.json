@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "75",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Core Network Dynamics GmbH",
+      "operator": "Core Network Dynamics GmbH",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

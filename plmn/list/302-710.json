@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "710",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Globalstar",
+      "operator": "Globalstar Canada Satellite Co.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Satellite CDMA"
+    }
+  ]
+}

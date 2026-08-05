@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "701",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "GIP Vendée numérique",
+      "operator": "GIP Vendée numérique",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

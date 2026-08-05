@@ -1,0 +1,19 @@
+{
+  "mcc": "220",
+  "mnc": "02",
+  "country": {
+    "name": "Serbia",
+    "iso": "RS",
+    "code": "381",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "One",
+      "operator": "Telenor Montenegro",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100"
+    }
+  ]
+}

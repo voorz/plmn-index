@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "090",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Vivint Wireless, Inc.",
+      "operator": "Vivint Wireless, Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

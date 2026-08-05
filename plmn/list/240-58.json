@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "58",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telia Sverige AB",
+      "operator": "Telia Sverige AB",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

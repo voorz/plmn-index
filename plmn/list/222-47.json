@@ -1,0 +1,19 @@
+{
+  "mcc": "222",
+  "mnc": "47",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Fastweb",
+      "operator": "Fastweb S.p.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 3500 / 5G 3500 / 5G 26000"
+    }
+  ]
+}

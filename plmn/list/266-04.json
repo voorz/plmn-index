@@ -1,0 +1,19 @@
+{
+  "mcc": "266",
+  "mnc": "04",
+  "country": {
+    "name": "Gibraltar (United Kingdom)",
+    "iso": "GI",
+    "code": "350",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MCOM",
+      "operator": "Melmasti Global (Gibraltar) Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

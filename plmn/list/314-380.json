@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "380",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "CCR",
+      "operator": "Circle Computer Resources, Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

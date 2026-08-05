@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "32",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Sky High",
+      "operator": "MegaFon",
+      "status": "Not operational",
+      "type": "International",
+      "bands": "GSM 900"
+    }
+  ]
+}

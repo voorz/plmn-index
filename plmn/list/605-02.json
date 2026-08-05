@@ -1,0 +1,18 @@
+{
+  "mcc": "605",
+  "mnc": "02",
+  "country": {
+    "name": "Tunisia",
+    "iso": "TN",
+    "code": "216"
+  },
+  "operators": [
+    {
+      "brand": "Tunicell",
+      "operator": "Tunisie Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+    }
+  ]
+}

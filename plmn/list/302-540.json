@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "540",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Rovvr Communications Inc.",
+      "operator": "Rovvr Communications Inc.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

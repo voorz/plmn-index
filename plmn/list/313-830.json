@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "830",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "360 Communications",
+      "operator": "360 Communications",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "639",
+  "mnc": "01",
+  "country": {
+    "name": "Kenya",
+    "iso": "KE",
+    "code": "254",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Safaricom IoT",
+      "operator": "Safaricom Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / NB-IoT / LTE 800 / 5G 3500"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "202",
+  "mnc": "13",
+  "country": {
+    "name": "Greece",
+    "iso": "GR",
+    "code": "30",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Compatel Limited",
+      "operator": "Compatel Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

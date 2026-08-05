@@ -1,0 +1,19 @@
+{
+  "mcc": "702",
+  "mnc": "67",
+  "country": {
+    "name": "Belize",
+    "iso": "BZ",
+    "code": "501",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "DigiCell",
+      "operator": "Belize Telemedia Limited (BTL)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1900"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "790",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Neuner Mobile Technologies LLC",
+      "operator": "Neuner Mobile Technologies LLC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

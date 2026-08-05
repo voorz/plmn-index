@@ -1,0 +1,19 @@
+{
+  "mcc": "640",
+  "mnc": "03",
+  "country": {
+    "name": "Tanzania",
+    "iso": "TZ",
+    "code": "255",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Zantel",
+      "operator": "MIC Tanzania Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

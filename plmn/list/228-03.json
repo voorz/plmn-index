@@ -1,0 +1,34 @@
+{
+  "mcc": "228",
+  "mnc": "03",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Salt",
+      "operator": "Salt Mobile SA",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500",
+      "icon": "salt",
+      "icon_scope": "228",
+      "subs": [
+        {
+          "brand": "Salt",
+          "names": [
+            "salt"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Salt-eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

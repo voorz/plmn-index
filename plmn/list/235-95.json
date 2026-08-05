@@ -1,0 +1,18 @@
+{
+  "mcc": "235",
+  "mnc": "95",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44"
+  },
+  "operators": [
+    {
+      "brand": "Network Rail",
+      "operator": "Network Rail Infrastructure Limited",
+      "status": "Test Network",
+      "type": "National",
+      "bands": "GSM-R"
+    }
+  ]
+}

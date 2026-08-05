@@ -1,0 +1,18 @@
+{
+  "mcc": "620",
+  "mnc": "11",
+  "country": {
+    "name": "Ghana",
+    "iso": "GH",
+    "code": "233"
+  },
+  "operators": [
+    {
+      "brand": "Netafrique Dot Com Ltd",
+      "operator": "Netafrique Dot Com Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "203",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "Gujo City",
+      "operator": "Gujo City",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

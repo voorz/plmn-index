@@ -1,0 +1,19 @@
+{
+  "mcc": "641",
+  "mnc": "30",
+  "country": {
+    "name": "Uganda",
+    "iso": "UG",
+    "code": "256",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "K2 Telecom Ltd",
+      "operator": "Anupam Global Soft Uganda Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

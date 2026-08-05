@@ -1,0 +1,34 @@
+{
+  "mcc": "420",
+  "mnc": "04",
+  "country": {
+    "name": "Saudi Arabia",
+    "iso": "SA",
+    "code": "966",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Zain SA",
+      "operator": "Zain Saudi Arabia",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 / 5G 2500 / 5G 3500",
+      "icon": "zain-sa",
+      "icon_scope": "420",
+      "subs": [
+        {
+          "brand": "Zain",
+          "names": [
+            "zain"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Test Physical Voucher"
+          ]
+        }
+      ]
+    }
+  ]
+}

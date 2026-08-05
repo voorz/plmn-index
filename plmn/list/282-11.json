@@ -1,0 +1,19 @@
+{
+  "mcc": "282",
+  "mnc": "11",
+  "country": {
+    "name": "Georgia",
+    "iso": "GE",
+    "code": "995",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Mobilive",
+      "operator": "Mobilive",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

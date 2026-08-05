@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "93",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telia Finland Oyj",
+      "operator": "Telia Finland Oyj",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

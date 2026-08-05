@@ -1,0 +1,19 @@
+{
+  "mcc": "647",
+  "mnc": "01",
+  "country": {
+    "name": "French Departments and Territories in the Indian Ocean (France)",
+    "iso": "YT/RE",
+    "code": "262",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Maoré Mobile",
+      "operator": "BJT Partners",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "LTE 1800"
+    }
+  ]
+}

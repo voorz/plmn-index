@@ -1,0 +1,34 @@
+{
+  "mcc": "604",
+  "mnc": "02",
+  "country": {
+    "name": "Morocco",
+    "iso": "MA",
+    "code": "212",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "INWI",
+      "operator": "Wana Corporate",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800",
+      "icon": "inwi",
+      "icon_scope": "604",
+      "subs": [
+        {
+          "brand": "INWI",
+          "names": [
+            "inwi"
+          ],
+          "gid1": "0f",
+          "gid2": "02",
+          "profile_names": [
+            "eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

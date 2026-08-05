@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "714",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Département de l'Isère",
+      "operator": "Département de l'Isère",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

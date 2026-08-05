@@ -1,0 +1,19 @@
+{
+  "mcc": "222",
+  "mnc": "06",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "Vodafone Italia S.p.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

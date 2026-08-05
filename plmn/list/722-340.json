@@ -1,0 +1,19 @@
+{
+  "mcc": "722",
+  "mnc": "340",
+  "country": {
+    "name": "Argentina",
+    "iso": "AR",
+    "code": "54",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Personal",
+      "operator": "Telecom Personal S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

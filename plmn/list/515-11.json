@@ -1,0 +1,19 @@
+{
+  "mcc": "515",
+  "mnc": "11",
+  "country": {
+    "name": "Philippines",
+    "iso": "PH",
+    "code": "63",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "PLDT via ACeS Philippines",
+      "operator": "PLDT via ACeS Philippines",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

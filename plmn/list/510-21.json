@@ -1,0 +1,19 @@
+{
+  "mcc": "510",
+  "mnc": "21",
+  "country": {
+    "name": "Indonesia",
+    "iso": "ID",
+    "code": "62",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Indosat",
+      "operator": "PT Indosat Tbk",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

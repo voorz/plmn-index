@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "820",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Sequoia Wireless LLC",
+      "operator": "Sequoia Wireless LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

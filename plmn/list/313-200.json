@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "200",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Mercury Network Corporation",
+      "operator": "Mercury Network Corporation",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

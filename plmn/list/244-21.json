@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "21",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Elisa- Saunalahti",
+      "operator": "Elisa Oyj",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcc": "413",
+  "mnc": "02",
+  "country": {
+    "name": "Sri Lanka",
+    "iso": "LK",
+    "code": "94",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Dialog",
+      "operator": "Dialog Axiata PLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 1800 / 5G 3500",
+      "icon": "dialog",
+      "icon_scope": "413",
+      "subs": [
+        {
+          "brand": "Dialog",
+          "names": [
+            "dialog"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Dialog 1.0"
+          ]
+        }
+      ]
+    }
+  ]
+}

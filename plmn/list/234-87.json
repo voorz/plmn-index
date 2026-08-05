@@ -1,0 +1,34 @@
+{
+  "mcc": "234",
+  "mnc": "87",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Lebara",
+      "operator": "Lebara",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "lebara",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Lebara",
+          "names": [
+            "lebara"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Lebara"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "28",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Lancelot",
+      "operator": "Lancelot B.V.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "24",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Nord Connect",
+      "operator": "Nord Connect UAB",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

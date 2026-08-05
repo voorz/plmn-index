@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "71",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Siseministeerium (Ministry of Interior)",
+      "operator": "Siseministeerium (Ministry of Interior)",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

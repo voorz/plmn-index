@@ -1,0 +1,19 @@
+{
+  "mcc": "334",
+  "mnc": "090",
+  "country": {
+    "name": "Mexico",
+    "iso": "MX",
+    "code": "52",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "AT&T",
+      "operator": "AT&T Mexico",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 1700 / LTE 850 / LTE 1700"
+    }
+  ]
+}

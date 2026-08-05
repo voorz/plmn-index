@@ -1,0 +1,34 @@
+{
+  "mcc": "302",
+  "mnc": "500",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Videotron",
+      "operator": "Videotron",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 1700 / 5G 600 / 5G 1700 / 5G 2600",
+      "icon": "videotron",
+      "icon_scope": "302",
+      "subs": [
+        {
+          "brand": "Fizz",
+          "names": [
+            "fizz"
+          ],
+          "gid1": "55",
+          "gid2": "",
+          "profile_names": [
+            "Fizz"
+          ]
+        }
+      ]
+    }
+  ]
+}

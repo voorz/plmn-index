@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "60",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Nextgen Mobile Ltd",
+      "operator": "Nextgen Mobile Ltd",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

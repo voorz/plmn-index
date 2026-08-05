@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "51",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Relish",
+      "operator": "UK Broadband Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 3500 / TD-LTE 3700"
+    }
+  ]
+}

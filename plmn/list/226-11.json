@@ -1,0 +1,19 @@
+{
+  "mcc": "226",
+  "mnc": "11",
+  "country": {
+    "name": "Romania",
+    "iso": "RO",
+    "code": "40",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Enigma Systems",
+      "operator": "Enigma-System",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

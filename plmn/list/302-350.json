@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "350",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Naskapi Imuun Inc.",
+      "operator": "Naskapi Imuun Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

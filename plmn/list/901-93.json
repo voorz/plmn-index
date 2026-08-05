@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "93",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "SkyFive AG",
+      "operator": "SkyFive AG",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

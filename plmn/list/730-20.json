@@ -1,0 +1,19 @@
+{
+  "mcc": "730",
+  "mnc": "20",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Inversiones Santa Fe Limitada",
+      "operator": "Inversiones Santa Fe Limitada",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

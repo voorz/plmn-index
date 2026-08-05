@@ -1,0 +1,18 @@
+{
+  "mcc": "616",
+  "mnc": "05",
+  "country": {
+    "name": "Benin",
+    "iso": "BJ",
+    "code": "229"
+  },
+  "operators": [
+    {
+      "brand": "Glo",
+      "operator": "Glo Communication Benin",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

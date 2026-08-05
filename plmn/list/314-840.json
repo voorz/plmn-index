@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "840",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "MLGW",
+      "operator": "Memphis Light, Gas and Water",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

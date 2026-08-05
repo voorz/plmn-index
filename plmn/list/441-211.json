@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "211",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "Starcat Cable Network Co., Ltd.",
+      "operator": "Starcat Cable Network Co., Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

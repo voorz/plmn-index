@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "060",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Country Wireless",
+      "operator": "Country Wireless",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

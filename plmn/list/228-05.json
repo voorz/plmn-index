@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "05",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Comfone",
+      "operator": "Comfone AG",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

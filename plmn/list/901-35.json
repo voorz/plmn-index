@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "35",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Globecomm Network Services",
+      "operator": "Globecomm Network Services",
+      "status": "Not operational",
+      "type": "International",
+      "bands": "GSM 850"
+    }
+  ]
+}

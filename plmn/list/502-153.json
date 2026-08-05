@@ -1,0 +1,34 @@
+{
+  "mcc": "502",
+  "mnc": "153",
+  "country": {
+    "name": "Malaysia",
+    "iso": "MY",
+    "code": "60",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "unifi",
+      "operator": "TM Technology Services Sdn Bhd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "WiMAX 2300 / LTE 850 / TD-LTE 2300 / 5G 700 / 5G 3500 / 5G 28000",
+      "icon": "unifi",
+      "icon_scope": "502",
+      "subs": [
+        {
+          "brand": "unifi",
+          "names": [
+            "unifi"
+          ],
+          "gid1": "ffffffffffffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffffffffffffff",
+          "profile_names": [
+            "TEST_Telekom_Malaysia_5G_DI_v01.00.00"
+          ]
+        }
+      ]
+    }
+  ]
+}

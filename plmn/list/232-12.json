@@ -1,0 +1,44 @@
+{
+  "mcc": "232",
+  "mnc": "12",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "yesss!",
+      "operator": "A1 Telekom Austria",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "one",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "yesss!/A1",
+          "names": [
+            "yesss!/a1",
+            "yooopi!/a1",
+            "xoxo",
+            "georg",
+            "yesss!",
+            "georg/a1",
+            "xoxo/a1",
+            "a1 austria"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "yooopi!",
+            "yesss!",
+            "XOXO",
+            "educom"
+          ]
+        }
+      ]
+    }
+  ]
+}

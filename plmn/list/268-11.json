@@ -1,0 +1,19 @@
+{
+  "mcc": "268",
+  "mnc": "11",
+  "country": {
+    "name": "Portugal",
+    "iso": "PT",
+    "code": "351",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Compatel, Limited",
+      "operator": "Compatel, Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "295",
+  "mnc": "77",
+  "country": {
+    "name": "Liechtenstein",
+    "iso": "LI",
+    "code": "423",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Alpmobil",
+      "operator": "Alpcom AG",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

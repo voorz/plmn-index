@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "67",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Datatrade Managed AG",
+      "operator": "Datatrade Managed AG",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

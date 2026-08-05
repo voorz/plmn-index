@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "20",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Sierra Wireless",
+      "operator": "Sierra Wireless Sweden AB",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "660",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "MTS",
+      "operator": "Bell MTS",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / UMTS 1900 / LTE 1700"
+    }
+  ]
+}

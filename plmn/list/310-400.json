@@ -1,0 +1,26 @@
+{
+  "mcc": "310",
+  "mnc": "400",
+  "country": {
+    "name": "Guam (United States of America)",
+    "iso": "GU",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "IT&E Wireless",
+      "operator": "PTI Pacifica Inc.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 1900 / LTE 700"
+    },
+    {
+      "brand": "IT&E Wireless",
+      "operator": "IT&E Overseas, Inc",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 1900 / LTE 700"
+    }
+  ]
+}

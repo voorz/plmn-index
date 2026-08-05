@@ -1,0 +1,36 @@
+{
+  "mcc": "230",
+  "mnc": "03",
+  "country": {
+    "name": "Czech Republic",
+    "iso": "CZ",
+    "code": "420",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "Vodafone Czech Republic",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 1800 / 5G 2100 / 5G 3500",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "SAZKAmobil",
+          "names": [
+            "sazkamobil",
+            "vodafone cz"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "SAZKAmobil eSIM",
+            "Vodafone CZ eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

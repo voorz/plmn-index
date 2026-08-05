@@ -1,0 +1,19 @@
+{
+  "mcc": "426",
+  "mnc": "06",
+  "country": {
+    "name": "Bahrain",
+    "iso": "BH",
+    "code": "973",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "stc",
+      "operator": "Stc Bahrain",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

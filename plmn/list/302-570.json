@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "570",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Ligado Networks Corp.",
+      "operator": "Ligado Networks Corp.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Satellite"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "270",
+  "mnc": "71",
+  "country": {
+    "name": "Luxembourg",
+    "iso": "LU",
+    "code": "352",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "CFL",
+      "operator": "Société Nationale des Chemins de Fer Luxembourgeois",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R 900"
+    }
+  ]
+}

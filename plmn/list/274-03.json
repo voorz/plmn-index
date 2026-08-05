@@ -1,0 +1,19 @@
+{
+  "mcc": "274",
+  "mnc": "03",
+  "country": {
+    "name": "Iceland",
+    "iso": "IS",
+    "code": "354",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Sýn",
+      "operator": "Sýn",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

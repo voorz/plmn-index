@@ -1,0 +1,78 @@
+{
+  "mcc": "222",
+  "mnc": "56",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "spusu",
+      "operator": "MASS Response Service GmbH",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "spusu",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "spusu",
+          "names": [
+            "spusu"
+          ],
+          "gid1": "0040",
+          "gid2": "",
+          "profile_names": [
+            "spusu eSIM"
+          ]
+        },
+        {
+          "brand": "spusu",
+          "names": [
+            "spusu"
+          ],
+          "gid1": "c7ff",
+          "gid2": "",
+          "profile_names": [
+            "spusu eSIM"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Unknown",
+      "operator": "Mass Response GMBH",
+      "status": "",
+      "type": "",
+      "bands": "MVNO",
+      "icon": "spusu",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "spusu",
+          "names": [
+            "spusu"
+          ],
+          "gid1": "0040",
+          "gid2": "",
+          "profile_names": [
+            "spusu eSIM"
+          ]
+        },
+        {
+          "brand": "spusu",
+          "names": [
+            "spusu"
+          ],
+          "gid1": "c7ff",
+          "gid2": "",
+          "profile_names": [
+            "spusu eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

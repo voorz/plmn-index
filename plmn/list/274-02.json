@@ -1,0 +1,56 @@
+{
+  "mcc": "274",
+  "mnc": "02",
+  "country": {
+    "name": "Iceland",
+    "iso": "IS",
+    "code": "354",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Sýn",
+      "operator": "Sýn",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100",
+      "icon": "vodafone",
+      "icon_scope": "274",
+      "subs": [
+        {
+          "brand": "Nema",
+          "names": [
+            "nema"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Nema V3"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Vodafone",
+      "operator": "Og fjarskipti hf",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800",
+      "icon": "vodafone",
+      "icon_scope": "274",
+      "subs": [
+        {
+          "brand": "Nema",
+          "names": [
+            "nema"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Nema V3"
+          ]
+        }
+      ]
+    }
+  ]
+}

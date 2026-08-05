@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "06",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Progroup Holding",
+      "operator": "Progroup Holding",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 2100"
+    }
+  ]
+}

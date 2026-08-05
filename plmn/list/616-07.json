@@ -1,0 +1,18 @@
+{
+  "mcc": "616",
+  "mnc": "07",
+  "country": {
+    "name": "Benin",
+    "iso": "BJ",
+    "code": "229"
+  },
+  "operators": [
+    {
+      "brand": "Celtiis",
+      "operator": "SBIN",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "mcc": "238",
+  "mnc": "02",
+  "country": {
+    "name": "Denmark (Kingdom of Denmark)",
+    "iso": "DK",
+    "code": "45",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telenor",
+      "operator": "Telenor Denmark",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600",
+      "icon": "telenor-nordic",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Telenor DK",
+          "names": [
+            "telenor dk"
+          ],
+          "gid1": "",
+          "gid2": ""
+        },
+        {
+          "brand": "Lebara",
+          "names": [
+            "lebara"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "Lebara"
+          ]
+        }
+      ]
+    }
+  ]
+}

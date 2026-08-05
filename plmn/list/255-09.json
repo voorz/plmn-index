@@ -1,0 +1,19 @@
+{
+  "mcc": "255",
+  "mnc": "09",
+  "country": {
+    "name": "Ukraine",
+    "iso": "UA",
+    "code": "380",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "PRJSC \"Farlep-Invest\"",
+      "operator": "PRJSC \"Farlep-Invest\"",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

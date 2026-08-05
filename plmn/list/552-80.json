@@ -1,0 +1,19 @@
+{
+  "mcc": "552",
+  "mnc": "80",
+  "country": {
+    "name": "Palau",
+    "iso": "PW",
+    "code": "680",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Palau Mobile",
+      "operator": "Palau Mobile Corporation",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

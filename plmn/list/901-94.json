@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "94",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Intelsat US LLC",
+      "operator": "Intelsat US LLC",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Satellite"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "282",
+  "mnc": "15",
+  "country": {
+    "name": "Georgia",
+    "iso": "GE",
+    "code": "995",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Servicebox Ltd",
+      "operator": "Servicebox Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

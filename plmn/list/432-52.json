@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "52",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "Asiatech",
+      "operator": "Asiatech",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

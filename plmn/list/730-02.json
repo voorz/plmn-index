@@ -1,0 +1,50 @@
+{
+  "mcc": "730",
+  "mnc": "02",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Movistar",
+      "operator": "Telefónica Móvil de Chile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1900 / LTE 2600 / 5G 3500",
+      "icon": "movistar",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Movistar Chile",
+          "names": [
+            "movistar chile"
+          ],
+          "gid1": "10",
+          "gid2": ""
+        }
+      ]
+    },
+    {
+      "brand": "movistar",
+      "operator": "Telefónica Móvil de Chile",
+      "status": "",
+      "type": "",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 2600",
+      "icon": "movistar",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Movistar Chile",
+          "names": [
+            "movistar chile"
+          ],
+          "gid1": "10",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

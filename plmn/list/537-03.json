@@ -1,0 +1,18 @@
+{
+  "mcc": "537",
+  "mnc": "03",
+  "country": {
+    "name": "Papua New Guinea",
+    "iso": "PG",
+    "code": "675"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel PNG",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / LTE 700"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "744",
+  "mnc": "04",
+  "country": {
+    "name": "Paraguay",
+    "iso": "PY",
+    "code": "595",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Tigo",
+      "operator": "Telefónica Celular Del Paraguay S.A. (Telecel)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / UMTS 850 / LTE 1700"
+    }
+  ]
+}

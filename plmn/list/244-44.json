@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "44",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Turun ammattikorkeakoulu Oy",
+      "operator": "Turun ammattikorkeakoulu Oy",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

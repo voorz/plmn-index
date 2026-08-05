@@ -1,0 +1,19 @@
+{
+  "mcc": "405",
+  "mnc": "01",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "code": "91",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Reliance",
+      "operator": "Andhra Pradesh",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA 850"
+    }
+  ]
+}

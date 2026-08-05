@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "91",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Orange",
+      "operator": "Orange S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

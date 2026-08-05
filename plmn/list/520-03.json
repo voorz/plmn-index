@@ -1,0 +1,63 @@
+{
+  "mcc": "520",
+  "mnc": "03",
+  "country": {
+    "name": "Thailand",
+    "iso": "TH",
+    "code": "66",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "AIS",
+      "operator": "Advanced Wireless Network Company Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100 / LTE 700 / LTE 900 / LTE 1800 / LTE 2100 / 5G 700 / 5G 2500",
+      "icon": "ais",
+      "icon_scope": "520",
+      "subs": [
+        {
+          "brand": "AIS",
+          "names": [
+            "ais",
+            "redtea mobile",
+            "redteago",
+            "esim",
+            "carrier"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "AIS",
+            "Klook_app",
+            "RTG_Android",
+            "ESIM_ACCESS_CARRIER",
+            "RedteaGO"
+          ]
+        },
+        {
+          "brand": "BillionConnect",
+          "names": [
+            "billionconnect",
+            "trip"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "BillionConnect"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "none",
+          "gid2": "none",
+          "profile_names": [
+            "AIS"
+          ]
+        }
+      ]
+    }
+  ]
+}

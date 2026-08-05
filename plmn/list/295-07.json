@@ -1,0 +1,19 @@
+{
+  "mcc": "295",
+  "mnc": "07",
+  "country": {
+    "name": "Liechtenstein",
+    "iso": "LI",
+    "code": "423",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "First Mobile AG",
+      "operator": "First Mobile AG",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

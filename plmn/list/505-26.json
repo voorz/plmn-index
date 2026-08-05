@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "26",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Sinch",
+      "operator": "Sinch Australia",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

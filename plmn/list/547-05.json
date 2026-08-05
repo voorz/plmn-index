@@ -1,0 +1,19 @@
+{
+  "mcc": "547",
+  "mnc": "05",
+  "country": {
+    "name": "French Polynesia (France)",
+    "iso": "PF",
+    "code": "689",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Ora",
+      "operator": "VITI",
+      "status": "Operational",
+      "type": "National",
+      "bands": "WiMAX / LTE 800 / LTE 2600"
+    }
+  ]
+}

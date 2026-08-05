@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "72",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "SolNet",
+      "operator": "BSE Software GmbH",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

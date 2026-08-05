@@ -1,0 +1,19 @@
+{
+  "mcc": "641",
+  "mnc": "44",
+  "country": {
+    "name": "Uganda",
+    "iso": "UG",
+    "code": "256",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "K2",
+      "operator": "K2 Telecom Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

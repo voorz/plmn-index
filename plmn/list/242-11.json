@@ -1,0 +1,19 @@
+{
+  "mcc": "242",
+  "mnc": "11",
+  "country": {
+    "name": "Norway",
+    "iso": "NO",
+    "code": "47",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "SystemNet",
+      "operator": "SystemNet AS",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Test"
+    }
+  ]
+}

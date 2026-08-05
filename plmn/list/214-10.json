@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "10",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Zinnia",
+      "operator": "ZINNIA TELECOMUNICACIONES, S.L.U.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

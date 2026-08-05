@@ -1,0 +1,18 @@
+{
+  "mcc": "634",
+  "mnc": "05",
+  "country": {
+    "name": "Sudan",
+    "iso": "SD",
+    "code": "249"
+  },
+  "operators": [
+    {
+      "brand": "NOW",
+      "operator": "Network of the World Ltd",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA 450"
+    }
+  ]
+}

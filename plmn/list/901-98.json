@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "98",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Skylo",
+      "operator": "Skylo",
+      "status": "Operational",
+      "type": "International",
+      "bands": "Satellite 5G 1600"
+    }
+  ]
+}

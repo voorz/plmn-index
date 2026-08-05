@@ -1,0 +1,19 @@
+{
+  "mcc": "282",
+  "mnc": "13",
+  "country": {
+    "name": "Georgia",
+    "iso": "GE",
+    "code": "995",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Asanet Ltd",
+      "operator": "Asanet Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

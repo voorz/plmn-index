@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "721",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Rogers Wireless",
+      "operator": "Rogers Communications",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 1700 / LTE 1900 / LTE 2600"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "06",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telenor",
+      "operator": "Telenor Sverige AB",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 2100"
+    }
+  ]
+}

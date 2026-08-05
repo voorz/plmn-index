@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "64",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Syniverse Technologies, LLC",
+      "operator": "Syniverse Technologies, LLC",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

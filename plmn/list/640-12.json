@@ -1,0 +1,19 @@
+{
+  "mcc": "640",
+  "mnc": "12",
+  "country": {
+    "name": "Tanzania",
+    "iso": "TZ",
+    "code": "255",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "MyCell Limited",
+      "operator": "MyCell Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

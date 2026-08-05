@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "57",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "AST SpaceMobile",
+      "operator": "AST SpaceMobile",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Satellite"
+    }
+  ]
+}

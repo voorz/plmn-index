@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "66",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Inovia",
+      "operator": "Inovia Services SA",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

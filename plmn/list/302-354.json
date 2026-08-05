@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "354",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Every-Day Computers Inc.",
+      "operator": "Every-Day Computers Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

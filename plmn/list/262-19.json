@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "19",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "450connect",
+      "operator": "Alliander AG",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 450"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "713",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "SD NUM SAS",
+      "operator": "SD NUM SAS",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

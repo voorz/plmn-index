@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "72",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Tele2 Sverige Aktiebolag",
+      "operator": "Tele2 Sverige Aktiebolag",
+      "status": "Not operational",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

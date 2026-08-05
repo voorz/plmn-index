@@ -1,0 +1,34 @@
+{
+  "mcc": "246",
+  "mnc": "02",
+  "country": {
+    "name": "Lithuania",
+    "iso": "LT",
+    "code": "370",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "BITĖ",
+      "operator": "UAB Bitė Lietuva",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900  / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2300 TDD / LTE 2600 TDD / LTE 2600 FDD / 5G 2300 / 5G 2600 TDD / 5G 3500",
+      "icon": "bit",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "BITE",
+          "names": [
+            "bite"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "BITE"
+          ]
+        }
+      ]
+    }
+  ]
+}

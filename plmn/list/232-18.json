@@ -1,0 +1,19 @@
+{
+  "mcc": "232",
+  "mnc": "18",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "I-new",
+      "operator": "Compax MVNx Solutions GmbH",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

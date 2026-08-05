@@ -1,0 +1,19 @@
+{
+  "mcc": "222",
+  "mnc": "54",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Plintron",
+      "operator": "Plintron Italy S.r.l.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

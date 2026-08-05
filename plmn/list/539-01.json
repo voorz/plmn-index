@@ -1,0 +1,18 @@
+{
+  "mcc": "539",
+  "mnc": "01",
+  "country": {
+    "name": "Tonga",
+    "iso": "TO",
+    "code": "676"
+  },
+  "operators": [
+    {
+      "brand": "U-Call",
+      "operator": "Tonga Communications Corporation",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / LTE"
+    }
+  ]
+}

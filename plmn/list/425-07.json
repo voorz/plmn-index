@@ -1,0 +1,35 @@
+{
+  "mcc": "425",
+  "mnc": "07",
+  "country": {
+    "name": "Israel",
+    "iso": "IL",
+    "code": "970",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Hot Mobile",
+      "operator": "Hot Mobile Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100 / LTE 1800 / LTE 2100 / 5G 2600 / 5G 3500",
+      "icon": "hot-mobile",
+      "icon_scope": "425",
+      "subs": [
+        {
+          "brand": "HOT mobile",
+          "names": [
+            "hot mobile"
+          ],
+          "gid1": "39ffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "HOT mobile",
+            "Hot Mobile HM_3.00"
+          ]
+        }
+      ]
+    }
+  ]
+}

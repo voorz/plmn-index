@@ -1,0 +1,36 @@
+{
+  "mcc": "427",
+  "mnc": "02",
+  "country": {
+    "name": "Qatar",
+    "iso": "QA",
+    "code": "974",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "Vodafone Qatar",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vodafone Qatar",
+          "names": [
+            "vodafone qatar",
+            "vodafone"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "Vodafone Qatar e-Sim",
+            "Vodafone e-Sim"
+          ]
+        }
+      ]
+    }
+  ]
+}

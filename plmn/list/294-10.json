@@ -1,0 +1,19 @@
+{
+  "mcc": "294",
+  "mnc": "10",
+  "country": {
+    "name": "North Macedonia",
+    "iso": "MK",
+    "code": "389",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "WTI Macedonia",
+      "operator": "WTI Macedonia",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

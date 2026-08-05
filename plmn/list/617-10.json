@@ -1,0 +1,31 @@
+{
+  "mcc": "617",
+  "mnc": "10",
+  "country": {
+    "name": "Mauritius",
+    "iso": "MU",
+    "code": "230",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Emtel",
+      "operator": "Emtel Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 2500",
+      "icon": "emtel",
+      "icon_scope": "617",
+      "subs": [
+        {
+          "brand": "EMTEL",
+          "names": [
+            "emtel"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

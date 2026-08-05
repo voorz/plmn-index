@@ -1,0 +1,19 @@
+{
+  "mcc": "222",
+  "mnc": "33",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "PosteMobile",
+      "operator": "PosteMobile S.p.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

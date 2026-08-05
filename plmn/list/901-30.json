@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "30",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "OQ Technology",
+      "operator": "OQ Technology",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Satellite 5G"
+    }
+  ]
+}

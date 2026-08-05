@@ -1,0 +1,92 @@
+{
+  "mcc": "234",
+  "mnc": "20",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "3",
+      "operator": "Three UK",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 800 / LTE 1500 / LTE 1800 / LTE 2100 / 5G 700 / 5G 2100 / 5G 3500",
+      "icon": "3",
+      "icon_scope": "234",
+      "subs": [
+        {
+          "brand": "3UK",
+          "names": [
+            "3uk"
+          ],
+          "gid1": "0303",
+          "gid2": "",
+          "profile_names": [
+            "3UK",
+            "8944200204877024882"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "0303",
+          "gid2": "none",
+          "profile_names": [
+            "3UK"
+          ]
+        },
+        {
+          "brand": "iDmobile",
+          "names": [
+            "idmobile"
+          ],
+          "gid1": "0305",
+          "gid2": "",
+          "profile_names": [
+            "ID Mobil UK - ES2"
+          ]
+        },
+        {
+          "brand": "SMARTY",
+          "names": [
+            "smarty"
+          ],
+          "gid1": "0309",
+          "gid2": "",
+          "profile_names": [
+            "SMARTY"
+          ]
+        },
+        {
+          "brand": "loop",
+          "names": [
+            "loop",
+            "honest",
+            "rider"
+          ],
+          "gid1": "030bffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Download to install your loop eSIM",
+            "Download to install your honest eSIM",
+            "Download to install your simp eSIM"
+          ]
+        },
+        {
+          "brand": "3UK",
+          "names": [
+            "3uk"
+          ],
+          "gid1": "030c",
+          "gid2": "",
+          "profile_names": [
+            "3UK"
+          ]
+        }
+      ]
+    }
+  ]
+}

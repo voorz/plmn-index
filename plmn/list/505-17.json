@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "17",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Optus",
+      "operator": "Optus Mobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 2300"
+    }
+  ]
+}

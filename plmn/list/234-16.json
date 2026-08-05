@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "16",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Talk Talk",
+      "operator": "TalkTalk Communications Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

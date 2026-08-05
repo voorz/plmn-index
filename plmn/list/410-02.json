@@ -1,0 +1,19 @@
+{
+  "mcc": "410",
+  "mnc": "02",
+  "country": {
+    "name": "Pakistan",
+    "iso": "PK",
+    "code": "92",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "3G EVO / CharJi 4G",
+      "operator": "PTCL",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA2000 1900 / TD-LTE 1900"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "282",
+  "mnc": "09",
+  "country": {
+    "name": "Georgia",
+    "iso": "GE",
+    "code": "995",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Gmobile",
+      "operator": "Gmobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

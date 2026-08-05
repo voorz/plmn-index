@@ -1,0 +1,19 @@
+{
+  "mcc": "440",
+  "mnc": "04",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "SoftBank",
+      "operator": "Japan Radio Company, Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

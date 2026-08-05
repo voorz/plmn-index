@@ -1,0 +1,34 @@
+{
+  "mcc": "294",
+  "mnc": "01",
+  "country": {
+    "name": "North Macedonia",
+    "iso": "MK",
+    "code": "389",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telekom.mk",
+      "operator": "Makedonski Telekom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2100 / 5G 700 / 5G 2100 / 5G 3500",
+      "icon": "t-mobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "T-Mobile MK",
+          "names": [
+            "t-mobile mk"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "T-Mobile MK"
+          ]
+        }
+      ]
+    }
+  ]
+}

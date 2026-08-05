@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "180",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "AT&T",
+      "operator": "AT&T Mobility",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 850 / UMTS 850 / UMTS 1900"
+    }
+  ]
+}

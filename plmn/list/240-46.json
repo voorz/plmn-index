@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "46",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Viahub",
+      "operator": "SMS Provider Corp.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

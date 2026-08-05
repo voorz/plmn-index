@@ -1,0 +1,19 @@
+{
+  "mcc": "405",
+  "mnc": "755",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "code": "91",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Vi India",
+      "operator": "North East",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500"
+    }
+  ]
+}

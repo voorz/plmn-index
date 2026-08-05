@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "012",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Verizon",
+      "operator": "Verizon Wireless",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA 850 / CDMA 1900"
+    }
+  ]
+}

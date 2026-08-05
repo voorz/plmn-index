@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "707",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Centro de Sistemas y Tecnologías de la Información y las Comunicaciones",
+      "operator": "Centro de Sistemas y Tecnologías de la Información y las Comunicaciones",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

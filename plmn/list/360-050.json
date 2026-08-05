@@ -1,0 +1,18 @@
+{
+  "mcc": "360",
+  "mnc": "050",
+  "country": {
+    "name": "Saint Vincent and the Grenadines",
+    "iso": "VC",
+    "code": "1784"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel (St. Vincent and the Grenadines) Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / GSM 1900 / LTE 700"
+    }
+  ]
+}

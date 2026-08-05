@@ -1,0 +1,75 @@
+{
+  "mcc": "234",
+  "mnc": "15",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone UK",
+      "operator": "Vodafone",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600 / 5G 900 / 5G 2100 / 5G 3500",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "loop",
+          "names": [
+            "loop",
+            "esim go"
+          ],
+          "gid1": "0033",
+          "gid2": "",
+          "profile_names": [
+            "eSIM Go"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "0033",
+          "gid2": "none",
+          "profile_names": [
+            "eSIM Go"
+          ]
+        },
+        {
+          "brand": "Talkmobile",
+          "names": [
+            "talkmobile"
+          ],
+          "gid1": "c1",
+          "gid2": "",
+          "profile_names": [
+            "Talkmobile"
+          ]
+        },
+        {
+          "brand": "Vodafone UK",
+          "names": [
+            "vodafone uk"
+          ],
+          "gid1": "e1",
+          "gid2": "",
+          "profile_names": [
+            "Vodafone UK eSIM"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "e1",
+          "gid2": "none",
+          "profile_names": [
+            "Vodafone UK eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

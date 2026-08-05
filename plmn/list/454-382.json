@@ -1,0 +1,19 @@
+{
+  "mcc": "454",
+  "mnc": "382",
+  "country": {
+    "name": "Hong Kong",
+    "iso": "HK",
+    "code": "852",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "South China Telecommunications (H.K.) Limited",
+      "operator": "South China Telecommunications (H.K.) Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

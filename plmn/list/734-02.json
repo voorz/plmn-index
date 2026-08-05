@@ -1,0 +1,56 @@
+{
+  "mcc": "734",
+  "mnc": "02",
+  "country": {
+    "name": "Venezuela",
+    "iso": "VE",
+    "code": "58",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Digitel",
+      "operator": "Corporacion Digitel C.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 900 / LTE 1800",
+      "icon": "digicel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Digitel",
+          "names": [
+            "digitel"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Digitel"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Digitel GSM",
+      "operator": "Corporacion Digitel C.A.",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / LTE 1800",
+      "icon": "digicel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Digitel",
+          "names": [
+            "digitel"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Digitel"
+          ]
+        }
+      ]
+    }
+  ]
+}

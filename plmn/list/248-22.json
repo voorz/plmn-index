@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "22",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "M2MConnect OÜ",
+      "operator": "M2MConnect OÜ",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

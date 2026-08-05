@@ -1,0 +1,19 @@
+{
+  "mcc": "370",
+  "mnc": "05",
+  "country": {
+    "name": "Dominican Republic",
+    "iso": "DO",
+    "code": "1809",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Wind",
+      "operator": "WIND Telecom, S.A",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 2600"
+    }
+  ]
+}

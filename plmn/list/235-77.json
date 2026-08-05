@@ -1,0 +1,17 @@
+{
+  "mcc": "235",
+  "mnc": "77",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44"
+  },
+  "operators": [
+    {
+      "brand": "BT",
+      "operator": "BT Group",
+      "status": "Unknown",
+      "type": "National"
+    }
+  ]
+}

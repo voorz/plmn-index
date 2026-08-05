@@ -1,0 +1,19 @@
+{
+  "mcc": "414",
+  "mnc": "03",
+  "country": {
+    "name": "Myanmar",
+    "iso": "MM",
+    "code": "95",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "CDMA800",
+      "operator": "Myanmar Economic Corporation",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA 800"
+    }
+  ]
+}

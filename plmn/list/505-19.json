@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "19",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Lycamobile",
+      "operator": "Lycamobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

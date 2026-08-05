@@ -1,0 +1,19 @@
+{
+  "mcc": "226",
+  "mnc": "02",
+  "country": {
+    "name": "Romania",
+    "iso": "RO",
+    "code": "40",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Clicknet Mobile",
+      "operator": "Telekom Romania",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA 420"
+    }
+  ]
+}

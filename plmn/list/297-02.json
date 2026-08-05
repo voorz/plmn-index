@@ -1,0 +1,56 @@
+{
+  "mcc": "297",
+  "mnc": "02",
+  "country": {
+    "name": "Montenegro",
+    "iso": "ME",
+    "code": "382",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "telekom.me",
+      "operator": "Crnogorski Telekom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500",
+      "icon": "t-mobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "T-Mobile ME",
+          "names": [
+            "t-mobile me"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "T-Mobile ME"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "T-Mobile",
+      "operator": "T-Mobile Montenegro LLC",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / UMTS 2100 / LTE 1800",
+      "icon": "t-mobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "T-Mobile ME",
+          "names": [
+            "t-mobile me"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "T-Mobile ME"
+          ]
+        }
+      ]
+    }
+  ]
+}

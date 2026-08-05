@@ -1,0 +1,32 @@
+{
+  "mcc": "250",
+  "mnc": "94",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MirTelecom",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "mirtelecom",
+      "icon_scope": "250",
+      "subs": [
+        {
+          "brand": "MirTelecom",
+          "names": [
+            "mirtelecom"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "MirTelecom"
+          ]
+        }
+      ]
+    }
+  ]
+}

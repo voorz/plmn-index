@@ -1,0 +1,49 @@
+{
+  "mcc": "214",
+  "mnc": "03",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Orange",
+      "operator": "Orange Espagne S.A.U",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500",
+      "icon": "orange",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Orange",
+          "names": [
+            "orange"
+          ],
+          "gid1": "01",
+          "gid2": "",
+          "profile_names": [
+            "UNICA 5G con PIN",
+            "Tarjeta eSIM",
+            "Lemonvil"
+          ]
+        },
+        {
+          "brand": "simyo",
+          "names": [
+            "simyo"
+          ],
+          "gid1": "04",
+          "gid2": "",
+          "profile_names": [
+            "Tarjeta eSIM"
+          ],
+          "icon": "orange",
+          "icon_scope": "214"
+        }
+      ]
+    }
+  ]
+}

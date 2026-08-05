@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "560",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Boldyn Networks US",
+      "operator": "Boldyn Networks US",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 3500 / 5G 3500"
+    }
+  ]
+}

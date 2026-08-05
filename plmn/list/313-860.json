@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "860",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Nextlink",
+      "operator": "AMG Technology Investment Group",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown 3500"
+    }
+  ]
+}

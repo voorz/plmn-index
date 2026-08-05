@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "28",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "GDSP (Vodafone's Global Data Service Platform)",
+      "status": "Operational",
+      "type": "International",
+      "bands": "Roaming SIM"
+    }
+  ]
+}

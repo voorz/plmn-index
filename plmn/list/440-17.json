@@ -1,0 +1,19 @@
+{
+  "mcc": "440",
+  "mnc": "17",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "NTT DoCoMo",
+      "operator": "Osaka Gas Business Create Co., Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

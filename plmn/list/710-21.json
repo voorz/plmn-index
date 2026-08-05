@@ -1,0 +1,18 @@
+{
+  "mcc": "710",
+  "mnc": "21",
+  "country": {
+    "name": "Nicaragua",
+    "iso": "NI",
+    "code": "505"
+  },
+  "operators": [
+    {
+      "brand": "Claro",
+      "operator": "Empresa Nicaragüense de Telecomunicaciones, S.A. (ENITEL) (América Móvil)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 850 / LTE 1700"
+    }
+  ]
+}

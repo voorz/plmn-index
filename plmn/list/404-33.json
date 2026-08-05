@@ -1,0 +1,19 @@
+{
+  "mcc": "404",
+  "mnc": "33",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "code": "91",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "AIRCEL",
+      "operator": "North East",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

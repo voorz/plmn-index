@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "30",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "ASPIDER Solutions",
+      "operator": "ASpider Solutions Nederland B.V.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

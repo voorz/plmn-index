@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "09",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Proximus SA",
+      "operator": "Proximus SA",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "mcc": "234",
+  "mnc": "58",
+  "country": {
+    "name": "Isle of Man (United Kingdom)",
+    "iso": "IM",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Pronto GSM",
+      "operator": "Manx Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800",
+      "icon": "pronto-gsm",
+      "icon_scope": "234",
+      "subs": [
+        {
+          "brand": "MANX",
+          "names": [
+            "manx"
+          ],
+          "gid1": "",
+          "gid2": ""
+        },
+        {
+          "brand": "WORLD8",
+          "names": [
+            "world8"
+          ],
+          "gid1": "3443ffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "MT_1.0"
+          ]
+        },
+        {
+          "brand": "FlexiFone",
+          "names": [
+            "flexifone"
+          ],
+          "gid1": "466c657869466f6e65ffffffffffff",
+          "gid2": "466c657869466f6e65ffffffffffff",
+          "profile_names": [
+            "SR Flexifone Manx eSIM Profile"
+          ]
+        },
+        {
+          "brand": "Flexifone",
+          "names": [
+            "flexifone"
+          ],
+          "gid1": "466c657869666f6e65ffffffffffff",
+          "gid2": "466c657869666f6e65ffffffffffff"
+        },
+        {
+          "brand": "Manx Telecom",
+          "names": [
+            "manx telecom"
+          ],
+          "gid1": "4d616e782054656c65636f6dffffff",
+          "gid2": "ffffffffffffffffffffffffffffff",
+          "profile_names": [
+            "MT_SR_Matrix_1.1"
+          ]
+        },
+        {
+          "brand": "SimCorner",
+          "names": [
+            "simcorner"
+          ],
+          "gid1": "53696d436f726e6572ffffffffffff",
+          "gid2": "53696d436f726e6572ffffffffffff"
+        },
+        {
+          "brand": "Smartroam_SL",
+          "names": [
+            "smartroam_sl"
+          ],
+          "gid1": "536d617274726f616d11534c",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "P_ManxTelecom_Smartroam_1.0"
+          ]
+        },
+        {
+          "brand": "SR SIM Local Manx eSIM Profile",
+          "names": [
+            "sr sim local manx esim profile"
+          ],
+          "gid1": "536d617274726f616d5f534cffffff",
+          "gid2": "536d617274726f616d5f534cffffff",
+          "profile_names": [
+            "MT_SR_SIMLocal_1.0"
+          ]
+        },
+        {
+          "brand": "SR SIM Local Manx eSIM Profile",
+          "names": [
+            "sr sim local manx esim profile"
+          ],
+          "gid1": "536d617274726f616d5f534cffffff",
+          "gid2": "ffffffffffffffffffffffffffffff",
+          "profile_names": [
+            "MT_SR_SIMLocal_1.0"
+          ]
+        },
+        {
+          "brand": "TSIM",
+          "names": [
+            "tsim"
+          ],
+          "gid1": "5453494dffffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffffffffffffff",
+          "profile_names": [
+            "SR Twixair Manx eSIM Profile"
+          ]
+        },
+        {
+          "brand": "TravelWifi",
+          "names": [
+            "travelwifi"
+          ],
+          "gid1": "54726176656c57696669",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "MT_1.0"
+          ]
+        },
+        {
+          "brand": "WORLD8",
+          "names": [
+            "world8"
+          ],
+          "gid1": "574f524c4438ffffffffffffffffff",
+          "gid2": "ffffffffffffffffffffffffffffff"
+        },
+        {
+          "brand": "eTravelSIM",
+          "names": [
+            "etravelsim"
+          ],
+          "gid1": "6554726176656c53494d",
+          "gid2": "ffffffffffffffffffff"
+        },
+        {
+          "brand": "eTravelSIM",
+          "names": [
+            "etravelsim"
+          ],
+          "gid1": "6554726176656c53494dffffffffff",
+          "gid2": "6554726176656c53494dffffffffff",
+          "profile_names": [
+            "SR eTravelSIM Manx eSIM Profile"
+          ]
+        },
+        {
+          "brand": "eTravelSIM",
+          "names": [
+            "etravelsim"
+          ],
+          "gid1": "6554726176656c53494dffffffffff",
+          "gid2": "ffffffffffffffffffffffffffffff"
+        }
+      ]
+    }
+  ]
+}

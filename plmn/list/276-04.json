@@ -1,0 +1,19 @@
+{
+  "mcc": "276",
+  "mnc": "04",
+  "country": {
+    "name": "Albania",
+    "iso": "AL",
+    "code": "355",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Plus Communication",
+      "operator": "Plus Communication",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100"
+    }
+  ]
+}

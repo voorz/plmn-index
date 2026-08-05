@@ -1,0 +1,31 @@
+{
+  "mcc": "631",
+  "mnc": "05",
+  "country": {
+    "name": "Angola",
+    "iso": "AO",
+    "code": "244",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Africell",
+      "operator": "Africell",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800 / 5G 3500",
+      "icon": "africell",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Africell",
+          "names": [
+            "africell"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

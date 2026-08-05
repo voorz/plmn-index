@@ -1,0 +1,36 @@
+{
+  "mcc": "434",
+  "mnc": "04",
+  "country": {
+    "name": "Uzbekistan",
+    "iso": "UZ",
+    "code": "998",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Beeline",
+      "operator": "Unitel LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600",
+      "icon": "beeline",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Beeline UZ",
+          "names": [
+            "beeline uz",
+            "oq"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Beeline UZ 01",
+            "OQ 01"
+          ]
+        }
+      ]
+    }
+  ]
+}

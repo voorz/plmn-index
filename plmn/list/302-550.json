@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "550",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Star Solutions International Inc.",
+      "operator": "Star Solutions International Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "LTE?"
+    }
+  ]
+}

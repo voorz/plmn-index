@@ -1,0 +1,19 @@
+{
+  "mcc": "706",
+  "mnc": "01",
+  "country": {
+    "name": "El Salvador",
+    "iso": "SV",
+    "code": "503",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Claro",
+      "operator": "CTE Telecom Personal, S.A. de C.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 1900"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "274",
+  "mnc": "07",
+  "country": {
+    "name": "Iceland",
+    "iso": "IS",
+    "code": "354",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "IceCell",
+      "operator": "IceCell ehf",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

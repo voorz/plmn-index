@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "25",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Fortum Power and Heat Oy",
+      "operator": "Fortum Power and Heat Oy",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

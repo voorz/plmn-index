@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "05",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telenet",
+      "operator": "Telenet",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

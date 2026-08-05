@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "670",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Wi-DAS LLC",
+      "operator": "Wi-DAS LLC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

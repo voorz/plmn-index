@@ -1,0 +1,74 @@
+{
+  "mcc": "901",
+  "mnc": "37",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Transatel",
+      "operator": "Transatel",
+      "status": "Operational",
+      "type": "International",
+      "bands": "MVNO",
+      "icon": "transatel",
+      "icon_scope": "901",
+      "subs": [
+        {
+          "brand": "Ubigi",
+          "names": [
+            "ubigi"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "TSL_0303"
+          ]
+        },
+        {
+          "brand": "Wonet",
+          "names": [
+            "wonet"
+          ],
+          "gid1": "cc11",
+          "gid2": "",
+          "profile_names": [
+            "Wonet"
+          ]
+        },
+        {
+          "brand": "USIMS",
+          "names": [
+            "usims"
+          ],
+          "gid1": "cc11",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "TSL_0271"
+          ]
+        },
+        {
+          "brand": "Ubigi",
+          "names": [
+            "ubigi",
+            "esim"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "TSL_0210",
+            "TSL_0264",
+            "TSL_0213",
+            "TSL_0211",
+            "TSL_0263",
+            "TSL_0302",
+            "TSL_0328"
+          ]
+        }
+      ]
+    }
+  ]
+}

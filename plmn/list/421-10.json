@@ -1,0 +1,18 @@
+{
+  "mcc": "421",
+  "mnc": "10",
+  "country": {
+    "name": "Yemen",
+    "iso": "YE",
+    "code": "967"
+  },
+  "operators": [
+    {
+      "brand": "Yemen-4G",
+      "operator": "PTC/Yemen-Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "700/1800/2600"
+    }
+  ]
+}

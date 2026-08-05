@@ -1,0 +1,18 @@
+{
+  "mcc": "629",
+  "mnc": "01",
+  "country": {
+    "name": "Congo",
+    "iso": "CG",
+    "code": "242"
+  },
+  "operators": [
+    {
+      "brand": "Airtel",
+      "operator": "Celtel Congo",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 2600"
+    }
+  ]
+}

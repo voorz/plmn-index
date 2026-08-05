@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "21",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Jazztel",
+      "operator": "Orange Espagne S.A.U.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

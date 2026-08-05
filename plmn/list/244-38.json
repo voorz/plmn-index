@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "38",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "NSN",
+      "operator": "Nokia Solutions and Networks Oy",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

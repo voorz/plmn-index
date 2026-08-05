@@ -1,0 +1,35 @@
+{
+  "mcc": "425",
+  "mnc": "02",
+  "country": {
+    "name": "Israel",
+    "iso": "IL",
+    "code": "970",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Cellcom",
+      "operator": "Cellcom Israel Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 850 / UMTS 2100 / LTE 1800 / 5G 2600 / 5G 3500",
+      "icon": "cellcom",
+      "icon_scope": "425",
+      "subs": [
+        {
+          "brand": "GOLAN T",
+          "names": [
+            "golan t",
+            "cellcom"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Cellcom eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

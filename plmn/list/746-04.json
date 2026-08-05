@@ -1,0 +1,18 @@
+{
+  "mcc": "746",
+  "mnc": "04",
+  "country": {
+    "name": "Suriname",
+    "iso": "SR",
+    "code": "597"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel Group Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS"
+    }
+  ]
+}

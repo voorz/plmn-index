@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "70",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "iSea",
+      "operator": "iSea",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "5G 700"
+    }
+  ]
+}

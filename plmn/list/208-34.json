@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "34",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Cellhire",
+      "operator": "Cellhire France",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

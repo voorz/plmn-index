@@ -1,0 +1,19 @@
+{
+  "mcc": "640",
+  "mnc": "09",
+  "country": {
+    "name": "Tanzania",
+    "iso": "TZ",
+    "code": "255",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Halotel",
+      "operator": "Viettel Tanzania Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100"
+    }
+  ]
+}

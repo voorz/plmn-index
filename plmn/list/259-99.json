@@ -1,0 +1,19 @@
+{
+  "mcc": "259",
+  "mnc": "99",
+  "country": {
+    "name": "Moldova",
+    "iso": "MD",
+    "code": "373",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Moldtelecom",
+      "operator": "Moldtelecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100"
+    }
+  ]
+}

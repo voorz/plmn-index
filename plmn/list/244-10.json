@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "10",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "TDC Oy Finland",
+      "operator": "Traficom",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

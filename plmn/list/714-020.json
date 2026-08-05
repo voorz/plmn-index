@@ -1,0 +1,18 @@
+{
+  "mcc": "714",
+  "mnc": "020",
+  "country": {
+    "name": "Panama",
+    "iso": "PA",
+    "code": "507"
+  },
+  "operators": [
+    {
+      "brand": "Tigo",
+      "operator": "Grupo de Comunicaciones Digitales, S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700"
+    }
+  ]
+}

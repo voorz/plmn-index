@@ -1,0 +1,51 @@
+{
+  "mcc": "262",
+  "mnc": "24",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "TelcoVillage",
+      "operator": "TelcoVillage GmbH",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown",
+      "icon": "esim-me",
+      "icon_scope": "262",
+      "subs": [
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "eSIM.me"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "eSIM.me",
+      "operator": "TelcoVillage GmbH",
+      "status": "",
+      "type": "",
+      "icon": "esim-me",
+      "icon_scope": "262",
+      "subs": [
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "eSIM.me"
+          ]
+        }
+      ]
+    }
+  ]
+}

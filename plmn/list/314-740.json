@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "740",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Ringer Mobile, LLC",
+      "operator": "Ringer Mobile, LLC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

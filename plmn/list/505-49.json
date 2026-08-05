@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "49",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Field Solutions Group",
+      "operator": "Field Solutions Group",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

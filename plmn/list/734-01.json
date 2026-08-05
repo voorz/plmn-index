@@ -1,0 +1,19 @@
+{
+  "mcc": "734",
+  "mnc": "01",
+  "country": {
+    "name": "Venezuela",
+    "iso": "VE",
+    "code": "58",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Digitel",
+      "operator": "Corporacion Digitel C.A.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

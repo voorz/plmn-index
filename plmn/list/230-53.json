@@ -1,0 +1,19 @@
+{
+  "mcc": "230",
+  "mnc": "53",
+  "country": {
+    "name": "Czech Republic",
+    "iso": "CZ",
+    "code": "420",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Škoda Auto a.s.",
+      "operator": "Škoda Auto a.s.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

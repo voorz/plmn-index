@@ -1,0 +1,19 @@
+{
+  "mcc": "202",
+  "mnc": "03",
+  "country": {
+    "name": "Greece",
+    "iso": "GR",
+    "code": "30",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "OTE",
+      "operator": "OTE",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

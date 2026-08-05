@@ -1,0 +1,18 @@
+{
+  "mcc": "354",
+  "mnc": "860",
+  "country": {
+    "name": "Montserrat (United Kingdom)",
+    "iso": "MS",
+    "code": "1664"
+  },
+  "operators": [
+    {
+      "brand": "FLOW",
+      "operator": "Cable & Wireless",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / UMTS 850 / LTE"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "mcc": "282",
+  "mnc": "01",
+  "country": {
+    "name": "Georgia",
+    "iso": "GE",
+    "code": "995",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Geocell",
+      "operator": "Silknet",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G",
+      "icon": "geocell",
+      "icon_scope": "282",
+      "subs": [
+        {
+          "brand": "Geocell",
+          "names": [
+            "geocell",
+            "hallo"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Silknet_Georgia_Hallo_v01.02.00",
+            "Silknet_Georgia_v01.01.00"
+          ]
+        }
+      ]
+    }
+  ]
+}

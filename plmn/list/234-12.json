@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "12",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Railtrack",
+      "operator": "Network Rail Infrastructure Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R"
+    }
+  ]
+}

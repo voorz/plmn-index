@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "12",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Simquadrat",
+      "operator": "sipgate GmbH",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "mcc": "230",
+  "mnc": "02",
+  "country": {
+    "name": "Czech Republic",
+    "iso": "CZ",
+    "code": "420",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "O2",
+      "operator": "O2 Czech Republic",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600 / TD-LTE 2600 / 5G 1800 / 5G 2100 / 5G 3700",
+      "icon": "o2",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "O2CZ",
+          "names": [
+            "o2cz",
+            "o2 cz"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "O2 CZ eSIM PrP CZ",
+            "O2 CZ",
+            "O2 CZ 5G eSIM prod",
+            "O2 CZ eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

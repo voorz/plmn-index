@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "39",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Gamma Mobile",
+      "operator": "Gamma Telecom Holdings Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "420",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Hudson Valley Wireless",
+      "operator": "Hudson Valley Wireless",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "TD-LTE 3500"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "48",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Agile Telecom",
+      "operator": "AGILE TELECOM S.P.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

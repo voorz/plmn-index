@@ -1,0 +1,19 @@
+{
+  "mcc": "724",
+  "mnc": "39",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Nextel",
+      "operator": "NII Holdings, Inc.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 2100 / LTE 1800 / LTE 2100"
+    }
+  ]
+}

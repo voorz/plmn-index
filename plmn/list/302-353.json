@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "353",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "SpeedFI Inc.",
+      "operator": "SpeedFI Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "24",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Eroski Móvil",
+      "operator": "VODAFONE ESPAÑA, S.A.U.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "770",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "TNW Wireless",
+      "operator": "TNW Wireless Inc.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 850"
+    }
+  ]
+}

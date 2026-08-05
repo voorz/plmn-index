@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "910",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Halton Regional Police Service",
+      "operator": "Halton Regional Police Service",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700"
+    }
+  ]
+}

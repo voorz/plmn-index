@@ -1,0 +1,18 @@
+{
+  "mcc": "344",
+  "mnc": "930",
+  "country": {
+    "name": "Antigua and Barbuda",
+    "iso": "AG",
+    "code": "1268"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "AT&T Wireless",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "mcc": "633",
+  "mnc": "10",
+  "country": {
+    "name": "Seychelles",
+    "iso": "SC",
+    "code": "248",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Airtel",
+      "operator": "Telecom Seychelles Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 800",
+      "icon": "airtel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Airtel Seychelles",
+          "names": [
+            "airtel seychelles"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "PP_SC_Nokia3_VOLTE",
+            "PP_SC_Nokia2"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "none",
+          "gid2": "none",
+          "profile_names": [
+            "PP_SC_Nokia3_VOLTE"
+          ]
+        }
+      ]
+    }
+  ]
+}

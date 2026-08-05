@@ -1,0 +1,19 @@
+{
+  "mcc": "724",
+  "mnc": "18",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "datora",
+      "operator": "Datora (Vodafone)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

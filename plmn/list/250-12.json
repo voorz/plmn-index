@@ -1,0 +1,26 @@
+{
+  "mcc": "250",
+  "mnc": "12",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Baykalwestcom",
+      "operator": "Baykal Westcom / New Telephone Company / Far Eastern Cellular",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / CDMA 450"
+    },
+    {
+      "brand": "Akos",
+      "operator": "",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

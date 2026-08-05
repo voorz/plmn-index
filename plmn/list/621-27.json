@@ -1,0 +1,19 @@
+{
+  "mcc": "621",
+  "mnc": "27",
+  "country": {
+    "name": "Nigeria",
+    "iso": "NG",
+    "code": "234",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Smile",
+      "operator": "Smile Communications Nigeria",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 800"
+    }
+  ]
+}

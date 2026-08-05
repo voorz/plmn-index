@@ -1,0 +1,19 @@
+{
+  "mcc": "440",
+  "mnc": "50",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "au",
+      "operator": "KDDI Corporation",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 800 / 5G 3500 / 5G 3700 / 5G 28000"
+    }
+  ]
+}

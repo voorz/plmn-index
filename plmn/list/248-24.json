@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "24",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Novametro OÜ",
+      "operator": "Novametro OÜ",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "272",
+  "mnc": "27",
+  "country": {
+    "name": "Ireland",
+    "iso": "IE",
+    "code": "353",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "TP Ireland Operations Limited",
+      "operator": "TP Ireland Operations Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

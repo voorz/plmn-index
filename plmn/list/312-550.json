@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "550",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Great Plains Communications, Inc.",
+      "operator": "Great Plains Communications, Inc.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

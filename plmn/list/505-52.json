@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "52",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "OptiTel Australia",
+      "operator": "OptiTel Australia",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800 / LTE 2100 / 5G 1800 / 5G 2100"
+    }
+  ]
+}

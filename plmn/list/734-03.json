@@ -1,0 +1,19 @@
+{
+  "mcc": "734",
+  "mnc": "03",
+  "country": {
+    "name": "Venezuela",
+    "iso": "VE",
+    "code": "58",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "DirecTV",
+      "operator": "Galaxy Entertainment de Venezuela C.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "LTE 2600"
+    }
+  ]
+}

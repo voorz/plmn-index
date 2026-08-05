@@ -1,0 +1,18 @@
+{
+  "mcc": "608",
+  "mnc": "04",
+  "country": {
+    "name": "Senegal",
+    "iso": "SN",
+    "code": "221"
+  },
+  "operators": [
+    {
+      "brand": "HAYO",
+      "operator": "CSU-SA",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "mcc": "219",
+  "mnc": "02",
+  "country": {
+    "name": "Croatia",
+    "iso": "HR",
+    "code": "385",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telemach / Tele2",
+      "operator": "Telemach",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600 / 5G 3500",
+      "icon": "tele2",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Telemach",
+          "names": [
+            "telemach"
+          ],
+          "gid1": "4200",
+          "gid2": "ffff",
+          "profile_names": [
+            "Telemach_cro eSIM"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Tele2",
+      "operator": "Tele2",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600",
+      "icon": "tele2",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Telemach",
+          "names": [
+            "telemach"
+          ],
+          "gid1": "4200",
+          "gid2": "ffff",
+          "profile_names": [
+            "Telemach_cro eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

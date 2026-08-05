@@ -1,0 +1,19 @@
+{
+  "mcc": "250",
+  "mnc": "18",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "12.ru",
+      "operator": "Astran",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

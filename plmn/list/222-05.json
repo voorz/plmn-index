@@ -1,0 +1,19 @@
+{
+  "mcc": "222",
+  "mnc": "05",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telespazio",
+      "operator": "Telespazio S.p.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

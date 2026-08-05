@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "20",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Intermatica",
+      "operator": "Intermatica",
+      "status": "Not operational",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

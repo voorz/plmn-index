@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "86",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "BJT Partners SAS",
+      "operator": "BJT Partners SAS",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

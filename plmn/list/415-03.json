@@ -1,0 +1,34 @@
+{
+  "mcc": "415",
+  "mnc": "03",
+  "country": {
+    "name": "Lebanon",
+    "iso": "LB",
+    "code": "961",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Touch",
+      "operator": "MIC 2",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800",
+      "icon": "touch",
+      "icon_scope": "415",
+      "subs": [
+        {
+          "brand": "touch",
+          "names": [
+            "touch"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "",
+          "profile_names": [
+            "profilename"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "334",
+  "mnc": "100",
+  "country": {
+    "name": "Mexico",
+    "iso": "MX",
+    "code": "52",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Financiera para el Bienestar",
+      "operator": "Financiera para el Bienestar",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

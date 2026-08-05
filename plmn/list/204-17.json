@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "17",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Intercity Mobile Communications BV",
+      "operator": "Lebara Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "040",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Choice Wireless",
+      "operator": "Commnet Wireless",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900"
+    }
+  ]
+}

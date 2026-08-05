@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "520",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Rogers (Vidéotron MOCN)",
+      "operator": "Videotron",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

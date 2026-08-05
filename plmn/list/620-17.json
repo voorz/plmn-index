@@ -1,0 +1,18 @@
+{
+  "mcc": "620",
+  "mnc": "17",
+  "country": {
+    "name": "Ghana",
+    "iso": "GH",
+    "code": "233"
+  },
+  "operators": [
+    {
+      "brand": "iBurst Africa",
+      "operator": "iBurst Africa",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "08",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "Shatel Mobile",
+      "operator": "Shatel Group",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

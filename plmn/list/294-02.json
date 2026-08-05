@@ -1,0 +1,19 @@
+{
+  "mcc": "294",
+  "mnc": "02",
+  "country": {
+    "name": "North Macedonia",
+    "iso": "MK",
+    "code": "389",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "one",
+      "operator": "one",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800"
+    }
+  ]
+}

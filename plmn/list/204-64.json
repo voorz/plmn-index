@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "64",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Zetacom B.V.",
+      "operator": "Zetacom B.V.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

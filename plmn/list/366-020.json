@@ -1,0 +1,18 @@
+{
+  "mcc": "366",
+  "mnc": "020",
+  "country": {
+    "name": "Dominica",
+    "iso": "DM",
+    "code": "1767"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel Group Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1900 / UMTS 900 / UMTS 1900 / LTE 700"
+    }
+  ]
+}

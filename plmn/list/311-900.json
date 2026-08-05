@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "900",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "GigSky",
+      "operator": "GigSky",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

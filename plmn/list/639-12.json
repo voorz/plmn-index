@@ -1,0 +1,19 @@
+{
+  "mcc": "639",
+  "mnc": "12",
+  "country": {
+    "name": "Kenya",
+    "iso": "KE",
+    "code": "254",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Infura",
+      "operator": "Infura Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

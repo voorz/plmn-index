@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "600",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "ST Engineering iDirect",
+      "operator": "ST Engineering iDirect",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

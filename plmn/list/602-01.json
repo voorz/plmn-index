@@ -1,0 +1,34 @@
+{
+  "mcc": "602",
+  "mnc": "01",
+  "country": {
+    "name": "Egypt",
+    "iso": "EG",
+    "code": "20",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Orange",
+      "operator": "Orange Egypt",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 2500",
+      "icon": "orange",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Orange",
+          "names": [
+            "orange"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "orange"
+          ]
+        }
+      ]
+    }
+  ]
+}

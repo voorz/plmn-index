@@ -1,0 +1,56 @@
+{
+  "mcc": "208",
+  "mnc": "15",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Free",
+      "operator": "Free Mobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 1800 / LTE 2600 / 5G 700 / 5G 3500",
+      "icon": "iliad",
+      "icon_scope": "208",
+      "subs": [
+        {
+          "brand": "Free",
+          "names": [
+            "free"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Free Mobile"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Free Mobile",
+      "operator": "Iliad",
+      "status": "",
+      "type": "",
+      "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600",
+      "icon": "iliad",
+      "icon_scope": "208",
+      "subs": [
+        {
+          "brand": "Free",
+          "names": [
+            "free"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Free Mobile"
+          ]
+        }
+      ]
+    }
+  ]
+}

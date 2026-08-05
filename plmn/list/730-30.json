@@ -1,0 +1,19 @@
+{
+  "mcc": "730",
+  "mnc": "30",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Movistar",
+      "operator": "Telefónica Móviles Chile",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

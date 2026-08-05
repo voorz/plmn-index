@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "18",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "NetCologne",
+      "operator": "NetCologne",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

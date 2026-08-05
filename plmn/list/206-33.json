@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "33",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Ericsson",
+      "operator": "Ericsson NV",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

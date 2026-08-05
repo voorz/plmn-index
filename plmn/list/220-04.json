@@ -1,0 +1,19 @@
+{
+  "mcc": "220",
+  "mnc": "04",
+  "country": {
+    "name": "Serbia",
+    "iso": "RS",
+    "code": "381",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "T-Mobile CG",
+      "operator": "T-Mobile Montenegro LLC",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM"
+    }
+  ]
+}

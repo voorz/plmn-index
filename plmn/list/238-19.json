@@ -1,0 +1,19 @@
+{
+  "mcc": "238",
+  "mnc": "19",
+  "country": {
+    "name": "Denmark (Kingdom of Denmark)",
+    "iso": "DK",
+    "code": "45",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "YATECO OÜ",
+      "operator": "YATECO OÜ",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

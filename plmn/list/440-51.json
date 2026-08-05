@@ -1,0 +1,107 @@
+{
+  "mcc": "440",
+  "mnc": "51",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "au",
+      "operator": "KDDI Corporation",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 800 / 5G 3500 / 5G 3700 / 5G 28000",
+      "icon": "au",
+      "icon_scope": "440",
+      "subs": [
+        {
+          "brand": "au",
+          "names": [
+            "au"
+          ],
+          "gid1": "10",
+          "gid2": "00",
+          "profile_names": [
+            "au"
+          ]
+        },
+        {
+          "brand": "UQ mobile",
+          "names": [
+            "uq mobile"
+          ],
+          "gid1": "20",
+          "gid2": "00",
+          "profile_names": [
+            "KDDI"
+          ]
+        },
+        {
+          "brand": "UQ mobile",
+          "names": [
+            "uq mobile"
+          ],
+          "gid1": "20ff",
+          "gid2": "ffff"
+        },
+        {
+          "brand": "KDDI",
+          "names": [
+            "kddi"
+          ],
+          "gid1": "21",
+          "gid2": "00",
+          "profile_names": [
+            "KDDI"
+          ]
+        },
+        {
+          "brand": "J:COM",
+          "names": [
+            "j:com"
+          ],
+          "gid1": "22",
+          "gid2": "00",
+          "profile_names": [
+            "KDDI"
+          ]
+        },
+        {
+          "brand": "KDDI",
+          "names": [
+            "kddi"
+          ],
+          "gid1": "23",
+          "gid2": "00",
+          "profile_names": [
+            "KDDI"
+          ]
+        },
+        {
+          "brand": "BIGLOBE",
+          "names": [
+            "biglobe"
+          ],
+          "gid1": "24",
+          "gid2": "00"
+        },
+        {
+          "brand": "povo",
+          "names": [
+            "povo"
+          ],
+          "gid1": "26",
+          "gid2": "00",
+          "profile_names": [
+            "KDDI"
+          ],
+          "icon": "povo",
+          "icon_scope": "440"
+        }
+      ]
+    }
+  ]
+}

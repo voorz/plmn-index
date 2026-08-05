@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "500",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Shelcomm, Inc.",
+      "operator": "Shelcomm, Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

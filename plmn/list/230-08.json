@@ -1,0 +1,19 @@
+{
+  "mcc": "230",
+  "mnc": "08",
+  "country": {
+    "name": "Czech Republic",
+    "iso": "CZ",
+    "code": "420",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Compatel",
+      "operator": "Compatel s.r.o.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

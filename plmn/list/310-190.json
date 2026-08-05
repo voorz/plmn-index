@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "190",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "GCI",
+      "operator": "Alaska Communications",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850"
+    }
+  ]
+}

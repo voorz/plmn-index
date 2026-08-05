@@ -1,0 +1,82 @@
+{
+  "mcc": "311",
+  "mnc": "210",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Telnyx LLC",
+      "operator": "Telnyx LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "telnyx",
+      "icon_scope": "311",
+      "subs": [
+        {
+          "brand": "Monuo Link",
+          "names": [
+            "monuo link",
+            "monuo"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Monuo Link"
+          ]
+        },
+        {
+          "brand": "Telnyx",
+          "names": [
+            "telnyx"
+          ],
+          "gid1": "5aa5",
+          "gid2": "5254",
+          "profile_names": [
+            "CC_Telnyx_Phase2_v5.0.2",
+            "Telnyx"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Telnyx",
+      "operator": "Telnyx LLC",
+      "status": "",
+      "type": "",
+      "bands": "MVNO",
+      "icon": "telnyx",
+      "icon_scope": "311",
+      "subs": [
+        {
+          "brand": "Monuo Link",
+          "names": [
+            "monuo link",
+            "monuo"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Monuo Link"
+          ]
+        },
+        {
+          "brand": "Telnyx",
+          "names": [
+            "telnyx"
+          ],
+          "gid1": "5aa5",
+          "gid2": "5254",
+          "profile_names": [
+            "CC_Telnyx_Phase2_v5.0.2",
+            "Telnyx"
+          ]
+        }
+      ]
+    }
+  ]
+}

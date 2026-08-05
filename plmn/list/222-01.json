@@ -1,0 +1,109 @@
+{
+  "mcc": "222",
+  "mnc": "01",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "TIM",
+      "operator": "Telecom Italia S.p.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 800 / LTE 1500 / LTE 1800 / LTE 2600",
+      "icon": "tim",
+      "icon_scope": "222",
+      "subs": [
+        {
+          "brand": "Roamic",
+          "names": [
+            "roamic",
+            "tim",
+            "nomad",
+            "bondio",
+            "narayana",
+            "thirr.com",
+            "vocom",
+            "carrier"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "lambda_default",
+            "160_1706687154922",
+            "Roamic_APP",
+            "LotusFlare-22201-app",
+            "Thirr-22201",
+            "Emirates",
+            "TIM",
+            "Telcovillage-XAAX-222-01",
+            "loveSIM",
+            "Bytetravel-22201"
+          ]
+        },
+        {
+          "brand": "Kena Mobile",
+          "names": [
+            "kena mobile"
+          ],
+          "gid1": "4b656e6101ffffffff",
+          "gid2": "ffffffffffffffff04",
+          "profile_names": [
+            "Kena Mobile"
+          ]
+        },
+        {
+          "brand": "Airalo",
+          "names": [
+            "airalo"
+          ],
+          "gid1": "6764ffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Cloud9_Global_Airalo"
+          ]
+        },
+        {
+          "brand": "I TIM",
+          "names": [
+            "i tim"
+          ],
+          "gid1": "ffffff00ffffffffff",
+          "gid2": "ffffffffffffffff00",
+          "profile_names": [
+            "TIM"
+          ]
+        },
+        {
+          "brand": "I TIM",
+          "names": [
+            "i tim"
+          ],
+          "gid1": "ffffff00ffffffffff",
+          "gid2": "ffffffffffffffff04",
+          "profile_names": [
+            "TIM"
+          ]
+        },
+        {
+          "brand": "Bondio",
+          "names": [
+            "bondio",
+            "h3"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "H3",
+            "Cloud9_Global_Airalo",
+            "lambda_dynamic",
+            "single_imsi_dynamic"
+          ]
+        }
+      ]
+    }
+  ]
+}

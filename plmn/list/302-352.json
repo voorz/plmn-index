@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "352",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Lyttonnet",
+      "operator": "Lytton Area Wireless Society",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "294",
+  "mnc": "12",
+  "country": {
+    "name": "North Macedonia",
+    "iso": "MK",
+    "code": "389",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MTEL DOOEL Skopje",
+      "operator": "MTEL DOOEL Skopje",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

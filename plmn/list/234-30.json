@@ -1,0 +1,200 @@
+{
+  "mcc": "234",
+  "mnc": "30",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "EE",
+      "operator": "EE Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 1800 / 5G 2100 / 5G 2600 / 5G 3500",
+      "icon": "orange",
+      "icon_scope": "234",
+      "subs": [
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "LYC39060_10K_GEN_GBR_V1.0_V1.0.0_SI_20241205",
+            "LYC23866_10K_GEN_UK_V1.0_V1.0.0_SI_SMENU_SIMFILES_07062024",
+            "LYC39269_10K_GEN_GBR_V1.0_V1.0.0_SI_20250214",
+            "LYC39059_10K_GEN_GBR_V1.0_V1.0.0_SI_20241205",
+            "LYC39272_10K_GEN_GBR_V1.0_V1.0.0_SI_20250220",
+            "LYC23868_5K_GEN_UK_V1.0_V1.0.0_SI_SMENU_SIMFILES_13062024",
+            "LYC39268_10K_GEN_GBR_V1.0_V1.0.0_SI_20250210"
+          ]
+        },
+        {
+          "brand": "1p",
+          "names": [
+            "1p"
+          ],
+          "gid1": "0000",
+          "gid2": "ffff",
+          "profile_names": [
+            "1p Mobile eSIM",
+            "UW eSIM"
+          ]
+        },
+        {
+          "brand": "SLICE",
+          "names": [
+            "slice"
+          ],
+          "gid1": "534d2d5830312d475631",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "SLICE39337_10K_PROD_GBR_V1.2_V1.0.0_DI_SMENU_SIMFILES_20250429"
+          ]
+        },
+        {
+          "brand": "EE",
+          "names": [
+            "ee"
+          ],
+          "gid1": "b3ff",
+          "gid2": "ffff",
+          "profile_names": [
+            "EE Corporate eSIM Product",
+            "EE eSIM"
+          ]
+        },
+        {
+          "brand": "EE",
+          "names": [
+            "ee"
+          ],
+          "gid1": "eeff",
+          "gid2": "ffff",
+          "profile_names": [
+            "EE eSIM"
+          ]
+        },
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "",
+          "profile_names": [
+            "LycaMobile"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "none",
+          "profile_names": [
+            "LycaMobile"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "T-Mobile UK",
+      "operator": "EE",
+      "status": "",
+      "type": "",
+      "bands": "GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500",
+      "icon": "orange",
+      "icon_scope": "234",
+      "subs": [
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "LYC39060_10K_GEN_GBR_V1.0_V1.0.0_SI_20241205",
+            "LYC23866_10K_GEN_UK_V1.0_V1.0.0_SI_SMENU_SIMFILES_07062024",
+            "LYC39269_10K_GEN_GBR_V1.0_V1.0.0_SI_20250214",
+            "LYC39059_10K_GEN_GBR_V1.0_V1.0.0_SI_20241205",
+            "LYC39272_10K_GEN_GBR_V1.0_V1.0.0_SI_20250220",
+            "LYC23868_5K_GEN_UK_V1.0_V1.0.0_SI_SMENU_SIMFILES_13062024",
+            "LYC39268_10K_GEN_GBR_V1.0_V1.0.0_SI_20250210"
+          ]
+        },
+        {
+          "brand": "1p",
+          "names": [
+            "1p"
+          ],
+          "gid1": "0000",
+          "gid2": "ffff",
+          "profile_names": [
+            "1p Mobile eSIM",
+            "UW eSIM"
+          ]
+        },
+        {
+          "brand": "SLICE",
+          "names": [
+            "slice"
+          ],
+          "gid1": "534d2d5830312d475631",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "SLICE39337_10K_PROD_GBR_V1.2_V1.0.0_DI_SMENU_SIMFILES_20250429"
+          ]
+        },
+        {
+          "brand": "EE",
+          "names": [
+            "ee"
+          ],
+          "gid1": "b3ff",
+          "gid2": "ffff",
+          "profile_names": [
+            "EE Corporate eSIM Product",
+            "EE eSIM"
+          ]
+        },
+        {
+          "brand": "EE",
+          "names": [
+            "ee"
+          ],
+          "gid1": "eeff",
+          "gid2": "ffff",
+          "profile_names": [
+            "EE eSIM"
+          ]
+        },
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "",
+          "profile_names": [
+            "LycaMobile"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "none",
+          "profile_names": [
+            "LycaMobile"
+          ]
+        }
+      ]
+    }
+  ]
+}

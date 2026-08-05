@@ -1,0 +1,19 @@
+{
+  "mcc": "639",
+  "mnc": "13",
+  "country": {
+    "name": "Kenya",
+    "iso": "KE",
+    "code": "254",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Hidiga Investments Ltd",
+      "operator": "Hidiga Investments Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

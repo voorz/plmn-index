@@ -1,0 +1,36 @@
+{
+  "mcc": "268",
+  "mnc": "06",
+  "country": {
+    "name": "Portugal",
+    "iso": "PT",
+    "code": "351",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MEO",
+      "operator": "MEO - Serviços de Comunicações e Multimédia, S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 1800 / 5G 2100 / 5G 3500",
+      "icon": "meo",
+      "icon_scope": "268",
+      "subs": [
+        {
+          "brand": "MEO",
+          "names": [
+            "meo",
+            "uzo"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "MEO",
+            "UZO"
+          ]
+        }
+      ]
+    }
+  ]
+}

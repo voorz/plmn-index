@@ -1,0 +1,19 @@
+{
+  "mcc": "418",
+  "mnc": "05",
+  "country": {
+    "name": "Iraq",
+    "iso": "IQ",
+    "code": "964",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Asia Cell",
+      "operator": "Asia Cell Telecommunications Company",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100"
+    }
+  ]
+}

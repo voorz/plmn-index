@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "730",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "TerreStar Solutions",
+      "operator": "TerreStar Networks",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

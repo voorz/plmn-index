@@ -1,0 +1,19 @@
+{
+  "mcc": "744",
+  "mnc": "03",
+  "country": {
+    "name": "Paraguay",
+    "iso": "PY",
+    "code": "595",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Compa",
+      "operator": "Compañia Privada de Comunicaciones S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

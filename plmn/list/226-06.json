@@ -1,0 +1,19 @@
+{
+  "mcc": "226",
+  "mnc": "06",
+  "country": {
+    "name": "Romania",
+    "iso": "RO",
+    "code": "40",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telekom",
+      "operator": "Telekom Romania Mobile",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 900 / UMTS 2100"
+    }
+  ]
+}

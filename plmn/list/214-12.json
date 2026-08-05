@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "12",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Venus Movil",
+      "operator": "CHADEVA SUR 2001, S.L.U.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

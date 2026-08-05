@@ -1,0 +1,19 @@
+{
+  "mcc": "219",
+  "mnc": "19",
+  "country": {
+    "name": "Croatia",
+    "iso": "HR",
+    "code": "385",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "YATECO",
+      "operator": "YATECO",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

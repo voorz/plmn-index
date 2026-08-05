@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "920",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Northeast Wireless Networks LLC",
+      "operator": "Northeast Wireless Networks LLC",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

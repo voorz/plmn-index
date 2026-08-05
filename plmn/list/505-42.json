@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "42",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "GEMCO",
+      "operator": "Groote Eylandt Mining Company",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "646",
+  "mnc": "01",
+  "country": {
+    "name": "Madagascar",
+    "iso": "MG",
+    "code": "261"
+  },
+  "operators": [
+    {
+      "brand": "Airtel",
+      "operator": "Bharti Airtel",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "15",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Plus",
+      "operator": "Polkomtel Sp. z o.o.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800"
+    }
+  ]
+}

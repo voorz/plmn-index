@@ -1,0 +1,26 @@
+{
+  "mcc": "234",
+  "mnc": "28",
+  "country": {
+    "name": "Jersey (United Kingdom)",
+    "iso": "JE",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Marathon Telecom",
+      "operator": "Marathon Telecom Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 2100"
+    },
+    {
+      "brand": "Marathon Telecom",
+      "operator": "Marathon Telecom Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

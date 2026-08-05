@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "27",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Teknologian tutkimuskeskus VTT Oy",
+      "operator": "Teknologian tutkimuskeskus VTT Oy",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "LTE 450 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500 / 5G mmWave"
+    }
+  ]
+}

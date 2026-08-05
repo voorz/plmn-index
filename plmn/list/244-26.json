@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "26",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Compatel",
+      "operator": "Teollisuuden Voima Oyj",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

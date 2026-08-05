@@ -1,0 +1,18 @@
+{
+  "mcc": "350",
+  "mnc": "15",
+  "country": {
+    "name": "Bermuda",
+    "iso": "BM",
+    "code": "1441"
+  },
+  "operators": [
+    {
+      "brand": "FKB Net Ltd.",
+      "operator": "FKB Net Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

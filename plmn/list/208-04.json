@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "04",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Axialys",
+      "operator": "Nexera",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

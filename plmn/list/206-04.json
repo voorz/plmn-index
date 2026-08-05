@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "04",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MWingz",
+      "operator": "Proximus SA",
+      "status": "Planned",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

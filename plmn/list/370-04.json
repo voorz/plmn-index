@@ -1,0 +1,19 @@
+{
+  "mcc": "370",
+  "mnc": "04",
+  "country": {
+    "name": "Dominican Republic",
+    "iso": "DO",
+    "code": "1809",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Viva",
+      "operator": "Trilogy Dominicana, S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA 1900 / GSM 1900 / UMTS 1900 / LTE 1700"
+    }
+  ]
+}

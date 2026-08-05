@@ -1,0 +1,19 @@
+{
+  "mcc": "647",
+  "mnc": "00",
+  "country": {
+    "name": "French Departments and Territories in the Indian Ocean (France)",
+    "iso": "YT/RE",
+    "code": "262",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Orange",
+      "operator": "Orange La Réunion",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 3500"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "920",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "JCI",
+      "operator": "JCI",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "mcc": "363",
+  "mnc": "01",
+  "country": {
+    "name": "Aruba (Kingdom of the Netherlands)",
+    "iso": "AW",
+    "code": "297",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "SETAR",
+      "operator": "Servicio di Telecomunicacion di Aruba",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / GSM 1900 / UMTS 2100 / LTE 1800 / TDMA 800",
+      "icon": "setar",
+      "icon_scope": "363",
+      "subs": [
+        {
+          "brand": "SETAR",
+          "names": [
+            "setar"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

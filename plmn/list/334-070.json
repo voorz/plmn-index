@@ -1,0 +1,19 @@
+{
+  "mcc": "334",
+  "mnc": "070",
+  "country": {
+    "name": "Mexico",
+    "iso": "MX",
+    "code": "52",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Unefon",
+      "operator": "AT&T Mexico",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

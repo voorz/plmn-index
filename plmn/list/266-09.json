@@ -1,0 +1,19 @@
+{
+  "mcc": "266",
+  "mnc": "09",
+  "country": {
+    "name": "Gibraltar (United Kingdom)",
+    "iso": "GI",
+    "code": "350",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Shine",
+      "operator": "Eazitelecom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 2100"
+    }
+  ]
+}

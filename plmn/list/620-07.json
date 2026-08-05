@@ -1,0 +1,18 @@
+{
+  "mcc": "620",
+  "mnc": "07",
+  "country": {
+    "name": "Ghana",
+    "iso": "GH",
+    "code": "233"
+  },
+  "operators": [
+    {
+      "brand": "Globacom",
+      "operator": "Globacom Group",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100"
+    }
+  ]
+}

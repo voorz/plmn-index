@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "750",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "SDF, Inc.",
+      "operator": "SDF, Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

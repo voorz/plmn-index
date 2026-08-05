@@ -1,0 +1,18 @@
+{
+  "mcc": "235",
+  "mnc": "04",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44"
+  },
+  "operators": [
+    {
+      "brand": "University of Strathclyde",
+      "operator": "University of Strathclyde",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "5G"
+    }
+  ]
+}

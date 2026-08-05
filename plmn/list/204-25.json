@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "25",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "CapX B.V.",
+      "operator": "CapX B.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

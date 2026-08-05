@@ -1,0 +1,31 @@
+{
+  "mcc": "374",
+  "mnc": "130",
+  "country": {
+    "name": "Trinidad and Tobago",
+    "iso": "TT",
+    "code": "1868",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel (Trinidad & Tobago) Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 1900",
+      "icon": "digicel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "DIGICEL",
+          "names": [
+            "digicel"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff"
+        }
+      ]
+    }
+  ]
+}

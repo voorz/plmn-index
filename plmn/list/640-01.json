@@ -1,0 +1,19 @@
+{
+  "mcc": "640",
+  "mnc": "01",
+  "country": {
+    "name": "Tanzania",
+    "iso": "TZ",
+    "code": "255",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Tri Telecomm. Ltd.",
+      "operator": "Shared Network Tanzania Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 900"
+    }
+  ]
+}

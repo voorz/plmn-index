@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "39",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Voxbone",
+      "operator": "VOXBONE SA",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

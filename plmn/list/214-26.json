@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "26",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Lleida",
+      "operator": "Lleida Networks Serveis Telemátics, SL",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

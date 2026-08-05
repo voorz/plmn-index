@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "77",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "P4 Sp. z o.o.",
+      "operator": "P4 Sp. z o.o.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

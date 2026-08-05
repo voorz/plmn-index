@@ -1,0 +1,19 @@
+{
+  "mcc": "401",
+  "mnc": "04",
+  "country": {
+    "name": "Kazakhstan",
+    "iso": "KZ",
+    "code": "7",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Beeline",
+      "operator": "KaR-Tel LLP",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "238",
+  "mnc": "23",
+  "country": {
+    "name": "Denmark (Kingdom of Denmark)",
+    "iso": "DK",
+    "code": "45",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "GSM-R DK",
+      "operator": "Banedanmark",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R"
+    }
+  ]
+}

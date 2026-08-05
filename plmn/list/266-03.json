@@ -1,0 +1,19 @@
+{
+  "mcc": "266",
+  "mnc": "03",
+  "country": {
+    "name": "Gibraltar (United Kingdom)",
+    "iso": "GI",
+    "code": "350",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Gibfibrespeed",
+      "operator": "GibFibre Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

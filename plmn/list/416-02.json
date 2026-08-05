@@ -1,0 +1,19 @@
+{
+  "mcc": "416",
+  "mnc": "02",
+  "country": {
+    "name": "Jordan",
+    "iso": "JO",
+    "code": "962",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "XPress Telecom",
+      "operator": "XPress Telecom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "iDEN 800"
+    }
+  ]
+}

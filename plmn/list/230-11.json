@@ -1,0 +1,19 @@
+{
+  "mcc": "230",
+  "mnc": "11",
+  "country": {
+    "name": "Czech Republic",
+    "iso": "CZ",
+    "code": "420",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Incrate",
+      "operator": "incrate s.r.o.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "5G 700 / 5G 3500"
+    }
+  ]
+}

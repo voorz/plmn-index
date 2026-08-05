@@ -1,0 +1,19 @@
+{
+  "mcc": "222",
+  "mnc": "43",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "TIM",
+      "operator": "Telecom Italia S.p.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "5G 700 / 5G 2100 / 5G 3500 / 5G 26000"
+    }
+  ]
+}

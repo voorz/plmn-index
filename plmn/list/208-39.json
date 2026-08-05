@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "39",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Networth Telecom",
+      "operator": "Netwo",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

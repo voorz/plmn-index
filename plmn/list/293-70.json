@@ -1,0 +1,19 @@
+{
+  "mcc": "293",
+  "mnc": "70",
+  "country": {
+    "name": "Slovenia",
+    "iso": "SI",
+    "code": "386",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telemach",
+      "operator": "Tušmobil d.o.o.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / 5G 700 / 5G 3500"
+    }
+  ]
+}

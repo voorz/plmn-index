@@ -1,0 +1,31 @@
+{
+  "mcc": "310",
+  "mnc": "020",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Union Wireless",
+      "operator": "Union Telephone Company",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS / LTE",
+      "icon": "union-wireless",
+      "icon_scope": "310",
+      "subs": [
+        {
+          "brand": "Union Wireless",
+          "names": [
+            "union wireless"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff"
+        }
+      ]
+    }
+  ]
+}

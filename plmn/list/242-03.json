@@ -1,0 +1,19 @@
+{
+  "mcc": "242",
+  "mnc": "03",
+  "country": {
+    "name": "Norway",
+    "iso": "NO",
+    "code": "47",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Teletopia",
+      "operator": "Televerket AS",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "730",
+  "mnc": "23",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Claro",
+      "operator": "Claro Servicios Empresariales S. A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

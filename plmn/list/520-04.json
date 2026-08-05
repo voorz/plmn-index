@@ -1,0 +1,77 @@
+{
+  "mcc": "520",
+  "mnc": "04",
+  "country": {
+    "name": "Thailand",
+    "iso": "TH",
+    "code": "66",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "TrueMove H",
+      "operator": "True Move H Universal Communication Company Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100 / LTE 700 / LTE 900 / LTE 1800 / LTE 2100 / 5G 700 / 5G 2500",
+      "icon": "true",
+      "icon_scope": "520",
+      "subs": [
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim",
+            "dtac",
+            "redtea mobile",
+            "redteago",
+            "esim",
+            "travel",
+            "airsime"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "RedteaGO",
+            "eSIM",
+            "DTAC_52004",
+            "RT_F193B_TR",
+            "JOYTEL_TRUE_Common_LF",
+            "ESIM",
+            "DTAC",
+            "JOYTEL_BLANK_QRCODE_appletV4",
+            "Klook_app",
+            "DTAC_52004App",
+            "RTG_Android",
+            "ESIM_ACCESS_CARRIER"
+          ]
+        },
+        {
+          "brand": "TRUE",
+          "names": [
+            "true"
+          ],
+          "gid1": "01ff",
+          "gid2": "ffff",
+          "profile_names": [
+            "Profile 52.0",
+            "Profile 56.0"
+          ]
+        },
+        {
+          "brand": "BillionConnect",
+          "names": [
+            "billionconnect",
+            "trip",
+            "openroam"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "BillionConnect",
+            "OpenRoam"
+          ]
+        }
+      ]
+    }
+  ]
+}

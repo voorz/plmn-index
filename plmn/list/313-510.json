@@ -1,0 +1,26 @@
+{
+  "mcc": "313",
+  "mnc": "510",
+  "country": {
+    "name": "Puerto Rico",
+    "iso": "PR",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Puerto Rico Telecom Company",
+      "operator": "Puerto Rico Telecom Company",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    },
+    {
+      "brand": "Claro",
+      "operator": "Puerto Rico Telephone Company",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

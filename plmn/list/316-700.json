@@ -1,0 +1,18 @@
+{
+  "mcc": "316",
+  "mnc": "700",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1"
+  },
+  "operators": [
+    {
+      "brand": "Mile High Networks LLC",
+      "operator": "Mile High Networks LLC",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

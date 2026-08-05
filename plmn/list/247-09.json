@@ -1,0 +1,19 @@
+{
+  "mcc": "247",
+  "mnc": "09",
+  "country": {
+    "name": "Latvia",
+    "iso": "LV",
+    "code": "371",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Xomobile",
+      "operator": "Camel Mobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

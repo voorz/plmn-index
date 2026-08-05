@@ -1,0 +1,135 @@
+{
+  "mcc": "454",
+  "mnc": "12",
+  "country": {
+    "name": "Hong Kong",
+    "iso": "HK",
+    "code": "852",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "CMCC HK",
+      "operator": "China Mobile Hong Kong Company Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-SCDMA 2000 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / LTE 2600 / 5G 700 / 5G 3500 / 5G 4700",
+      "icon": "cmcc-hk",
+      "icon_scope": "454",
+      "subs": [
+        {
+          "brand": "Redtea Mobile",
+          "names": [
+            "redtea mobile",
+            "cmlink",
+            "cmhk",
+            "carrier",
+            "esim",
+            "mb",
+            "redteago",
+            "esim",
+            "test_ota_refresh_app_uicc",
+            "5g-suci",
+            "airsime",
+            "vacay",
+            "jetfi mobile",
+            "redteamobile",
+            "huiyinbi",
+            "roamic",
+            "travel",
+            "microesim",
+            "talk2all",
+            "bytesim",
+            "vocom"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Access_Jetfi",
+            "RedteaGO",
+            "RTG_Android",
+            "ESIM",
+            "Watchdata",
+            "199_1730861957646",
+            "CMI_45412",
+            "SmartTraveller",
+            "CMHK Operational Voucher profile",
+            "Klook_app",
+            "CMLINK",
+            "ESIM_ACCESS_CARRIER",
+            "MB45412_20250520",
+            "19_1726626482875",
+            "CMHK",
+            "JOYTEL_CMI_appletV4",
+            "Roamic_APP",
+            "JOYTEL_CMI_LG_appletV4",
+            "RT_F184_TR",
+            "JOYTEL_BLANK_QRCODE_appletV4",
+            "19_1725361505446",
+            "160_1707119750587",
+            "CMHK Operational profile",
+            "EagleSIM",
+            "MB_45412",
+            "RoaminRabbit",
+            "Metablox_APP",
+            "MB45412_20260120sha256",
+            "2034_1729496083759",
+            "89852342022355699439",
+            "fliggy",
+            "RT_F250_TR",
+            "MinshengTelecom"
+          ]
+        },
+        {
+          "brand": "Holafly",
+          "names": [
+            "holafly"
+          ],
+          "gid1": "0407ffffffffffffffff",
+          "gid2": "0407ffffffffffffffff",
+          "profile_names": [
+            "CMLink GDS"
+          ],
+          "icon": "holafly",
+          "icon_scope": "worldwide"
+        },
+        {
+          "brand": "BillionConnect",
+          "names": [
+            "billionconnect",
+            "cmhk",
+            "sct",
+            "ucloudlink"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "BillionConnect",
+            "CMHK",
+            "Dosirak",
+            "Hongtu_45412_001"
+          ]
+        },
+        {
+          "brand": "CMLink",
+          "names": [
+            "cmlink",
+            "global",
+            "cmi",
+            "sct",
+            "cmlink"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "CMLink GDS",
+            "CMI_GDS",
+            "Global",
+            "weitaige",
+            "HongKongSCT"
+          ]
+        }
+      ]
+    }
+  ]
+}

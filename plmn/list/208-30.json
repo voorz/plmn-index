@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "30",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Syma Mobile",
+      "operator": "Syma Mobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

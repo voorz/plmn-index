@@ -1,0 +1,34 @@
+{
+  "mcc": "722",
+  "mnc": "310",
+  "country": {
+    "name": "Argentina",
+    "iso": "AR",
+    "code": "54",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Claro",
+      "operator": "AMX Argentina S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900",
+      "icon": "claro",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Claro",
+          "names": [
+            "claro"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "B11.60"
+          ]
+        }
+      ]
+    }
+  ]
+}

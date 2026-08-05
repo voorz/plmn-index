@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "970",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "IOSAZ Intellectual Property LLC",
+      "operator": "IOSAZ Intellectual Property LLC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

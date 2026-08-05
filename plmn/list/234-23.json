@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "23",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Icron Network",
+      "operator": "Icron Network Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

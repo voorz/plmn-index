@@ -1,0 +1,19 @@
+{
+  "mcc": "607",
+  "mnc": "04",
+  "country": {
+    "name": "Gambia",
+    "iso": "GM",
+    "code": "220",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "QCell",
+      "operator": "QCell Gambia",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G"
+    }
+  ]
+}

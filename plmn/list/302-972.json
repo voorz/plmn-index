@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "972",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Hydro-Québec",
+      "operator": "Hydro-Québec",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

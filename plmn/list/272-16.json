@@ -1,0 +1,19 @@
+{
+  "mcc": "272",
+  "mnc": "16",
+  "country": {
+    "name": "Ireland",
+    "iso": "IE",
+    "code": "353",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "iD Mobile",
+      "operator": "Carphone Warehouse",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

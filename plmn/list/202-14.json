@@ -1,0 +1,19 @@
+{
+  "mcc": "202",
+  "mnc": "14",
+  "country": {
+    "name": "Greece",
+    "iso": "GR",
+    "code": "30",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "CyTa Mobile",
+      "operator": "Vodafone Greece",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

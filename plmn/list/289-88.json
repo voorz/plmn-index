@@ -1,0 +1,34 @@
+{
+  "mcc": "289",
+  "mnc": "88",
+  "country": {
+    "name": "Abkhazia",
+    "iso": "GE-AB",
+    "code": "7",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "A-Mobile",
+      "operator": "A-Mobile LLSC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800",
+      "icon": "a-mobile",
+      "icon_scope": "289",
+      "subs": [
+        {
+          "brand": "A-Mobile",
+          "names": [
+            "a-mobile"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "A-Mobile"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "415",
+  "mnc": "05",
+  "country": {
+    "name": "Lebanon",
+    "iso": "LB",
+    "code": "961",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Ogero Mobile",
+      "operator": "Ogero Telecom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

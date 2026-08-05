@@ -1,0 +1,35 @@
+{
+  "mcc": "206",
+  "mnc": "10",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Orange Belgium",
+      "operator": "Orange S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500",
+      "icon": "orange",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Orange Belgium",
+          "names": [
+            "orange belgium"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Orange BE",
+            "UNDO_04_D3.00A"
+          ]
+        }
+      ]
+    }
+  ]
+}

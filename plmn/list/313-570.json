@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "570",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Pioneer Cellular",
+      "operator": "Cellular Network Partnership",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "650",
+  "mnc": "03",
+  "country": {
+    "name": "Malawi",
+    "iso": "MW",
+    "code": "265"
+  },
+  "operators": [
+    {
+      "brand": "MTL",
+      "operator": "Malawi Telecommunications Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800"
+    }
+  ]
+}

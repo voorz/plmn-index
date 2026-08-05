@@ -1,0 +1,34 @@
+{
+  "mcc": "625",
+  "mnc": "02",
+  "country": {
+    "name": "Cape Verde",
+    "iso": "CV",
+    "code": "238",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "T+",
+      "operator": "UNITEL T+ TELECOMUNICACÕES, S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 2100",
+      "icon": "t-plus",
+      "icon_scope": "625",
+      "subs": [
+        {
+          "brand": "UNITEL T+",
+          "names": [
+            "unitel t+"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "profilename"
+          ]
+        }
+      ]
+    }
+  ]
+}

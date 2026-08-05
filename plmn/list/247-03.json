@@ -1,0 +1,19 @@
+{
+  "mcc": "247",
+  "mnc": "03",
+  "country": {
+    "name": "Latvia",
+    "iso": "LV",
+    "code": "371",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "TRIATEL",
+      "operator": "Telekom Baltija",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA 450"
+    }
+  ]
+}

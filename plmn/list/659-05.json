@@ -1,0 +1,18 @@
+{
+  "mcc": "659",
+  "mnc": "05",
+  "country": {
+    "name": "South Sudan",
+    "iso": "SS",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "DIGITEL",
+      "operator": "DIGITEL Holdings Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+    }
+  ]
+}

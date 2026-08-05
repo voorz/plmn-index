@@ -1,0 +1,19 @@
+{
+  "mcc": "259",
+  "mnc": "04",
+  "country": {
+    "name": "Moldova",
+    "iso": "MD",
+    "code": "373",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Eventis",
+      "operator": "Eventis Telecom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

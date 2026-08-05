@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "29",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "SkyTel OÜ",
+      "operator": "SkyTel OÜ",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

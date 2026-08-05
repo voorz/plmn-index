@@ -1,0 +1,35 @@
+{
+  "mcc": "515",
+  "mnc": "66",
+  "country": {
+    "name": "Philippines",
+    "iso": "PH",
+    "code": "63",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "DITO",
+      "operator": "Dito Telecommunity Corp.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 2100 / TD-LTE 2500 / 5G 3500",
+      "icon": "dito",
+      "icon_scope": "515",
+      "subs": [
+        {
+          "brand": "DITO",
+          "names": [
+            "dito"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "DITO_51566_005",
+            "DITO_51566_004"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "09",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "Vodafone D2 GmbH",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 2600"
+    }
+  ]
+}

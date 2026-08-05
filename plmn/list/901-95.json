@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "95",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "HMD Global Oy",
+      "operator": "HMD Global Oy",
+      "status": "Not operational",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

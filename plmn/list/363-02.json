@@ -1,0 +1,19 @@
+{
+  "mcc": "363",
+  "mnc": "02",
+  "country": {
+    "name": "Aruba (Kingdom of the Netherlands)",
+    "iso": "AW",
+    "code": "297",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel Aruba",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100 / LTE 1800"
+    }
+  ]
+}

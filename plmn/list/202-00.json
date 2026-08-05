@@ -1,0 +1,19 @@
+{
+  "mcc": "202",
+  "mnc": "00",
+  "country": {
+    "name": "Greece",
+    "iso": "GR",
+    "code": "30",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Inter Telecom",
+      "operator": "Inter Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

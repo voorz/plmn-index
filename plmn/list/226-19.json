@@ -1,0 +1,19 @@
+{
+  "mcc": "226",
+  "mnc": "19",
+  "country": {
+    "name": "Romania",
+    "iso": "RO",
+    "code": "40",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "CFR",
+      "operator": "Căile Ferate Române",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R 900"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "288",
+  "mnc": "10",
+  "country": {
+    "name": "Faroe Islands (Kingdom of Denmark)",
+    "iso": "FO",
+    "code": "298",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Føroya Tele",
+      "operator": "Føroya Tele",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

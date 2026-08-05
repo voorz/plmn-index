@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "260",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "T-Mobile US",
+      "operator": "WorldCell Solutions LLC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "LTE 1900"
+    }
+  ]
+}

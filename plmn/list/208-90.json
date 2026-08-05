@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "90",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Images & Réseaux",
+      "operator": "Images & Réseaux",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

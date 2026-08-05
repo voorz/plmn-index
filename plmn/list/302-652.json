@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "652",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "BC Tel Mobility",
+      "operator": "BC Tel Mobility (Telus)",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA2000"
+    }
+  ]
+}

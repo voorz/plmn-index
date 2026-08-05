@@ -1,0 +1,18 @@
+{
+  "mcc": "612",
+  "mnc": "05",
+  "country": {
+    "name": "Ivory Coast",
+    "iso": "CI",
+    "code": "225"
+  },
+  "operators": [
+    {
+      "brand": "MTN",
+      "operator": "Loteny Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 2600"
+    }
+  ]
+}

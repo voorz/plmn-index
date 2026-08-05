@@ -1,0 +1,46 @@
+{
+  "mcc": "422",
+  "mnc": "02",
+  "country": {
+    "name": "Oman",
+    "iso": "OM",
+    "code": "968",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Omantel",
+      "operator": "Oman Telecommunications Company",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / LTE 1800 / TD-LTE 2300 / 5G 3500",
+      "icon": "omantel",
+      "icon_scope": "422",
+      "subs": [
+        {
+          "brand": "Omantel",
+          "names": [
+            "omantel"
+          ],
+          "gid1": "ff",
+          "gid2": "00",
+          "profile_names": [
+            "Omantel"
+          ]
+        },
+        {
+          "brand": "Renna Mobile",
+          "names": [
+            "renna mobile",
+            "red bull mobile"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "00ffffff",
+          "profile_names": [
+            "Renna_ESIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

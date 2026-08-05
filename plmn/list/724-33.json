@@ -1,0 +1,31 @@
+{
+  "mcc": "724",
+  "mnc": "33",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Algar Telecom",
+      "operator": "Algar Telecom S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2300 / 5G 2300",
+      "icon": "algar-telecom",
+      "icon_scope": "724",
+      "subs": [
+        {
+          "brand": "Algar Telecom",
+          "names": [
+            "algar telecom"
+          ],
+          "gid1": "00000000",
+          "gid2": "00000000"
+        }
+      ]
+    }
+  ]
+}

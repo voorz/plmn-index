@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "32",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "EE",
+      "operator": "EE Limited",
+      "status": "Allocated",
+      "type": "National",
+      "bands": "GSM 1800 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 1800 / 5G 2100 / 5G 2600 / 5G 3500"
+    }
+  ]
+}

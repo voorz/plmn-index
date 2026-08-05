@@ -1,0 +1,19 @@
+{
+  "mcc": "744",
+  "mnc": "06",
+  "country": {
+    "name": "Paraguay",
+    "iso": "PY",
+    "code": "595",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Copaco",
+      "operator": "Copaco S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / LTE 1700"
+    }
+  ]
+}

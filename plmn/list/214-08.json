@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "08",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Euskaltel",
+      "operator": "Euskaltel, S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

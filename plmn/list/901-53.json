@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "53",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "European Aviation Network",
+      "operator": "Inmarsat Ltd.",
+      "status": "Operational",
+      "type": "International",
+      "bands": "LTE 2100"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "04",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "BBIX Singapore Pte. Ltd.",
+      "operator": "BBIX Singapore Pte. Ltd.",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

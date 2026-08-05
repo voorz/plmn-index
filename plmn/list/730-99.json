@@ -1,0 +1,19 @@
+{
+  "mcc": "730",
+  "mnc": "99",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Will",
+      "operator": "WILL Telefonía",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 1900"
+    }
+  ]
+}

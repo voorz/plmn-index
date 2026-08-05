@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "800",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Boost Network",
+      "operator": "Boost Network",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

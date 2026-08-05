@@ -1,0 +1,55 @@
+{
+  "mcc": "268",
+  "mnc": "02",
+  "country": {
+    "name": "Portugal",
+    "iso": "PT",
+    "code": "351",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "DIGI PT",
+      "operator": "Digi Portugal, Lda.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 900 / LTE 1800 / LTE 2600",
+      "icon": "meo",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Digi.Mobil",
+          "names": [
+            "digi.mobil"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Digi.Mobil"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "MEO",
+      "operator": "Telecomunicações Móveis Nacionais",
+      "status": "",
+      "type": "",
+      "icon": "meo",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Digi.Mobil",
+          "names": [
+            "digi.mobil"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Digi.Mobil"
+          ]
+        }
+      ]
+    }
+  ]
+}

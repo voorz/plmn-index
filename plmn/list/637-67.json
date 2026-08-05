@@ -1,0 +1,18 @@
+{
+  "mcc": "637",
+  "mnc": "67",
+  "country": {
+    "name": "Somalia",
+    "iso": "SO",
+    "code": "252"
+  },
+  "operators": [
+    {
+      "brand": "Horntel Group",
+      "operator": "HTG Group Somalia",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "410",
+  "mnc": "07",
+  "country": {
+    "name": "Pakistan",
+    "iso": "PK",
+    "code": "92",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Jazz",
+      "operator": "WaridTel",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / LTE 2100"
+    }
+  ]
+}

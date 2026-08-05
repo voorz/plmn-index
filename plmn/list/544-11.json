@@ -1,0 +1,18 @@
+{
+  "mcc": "544",
+  "mnc": "11",
+  "country": {
+    "name": "American Samoa (United States of America)",
+    "iso": "AS",
+    "code": "684"
+  },
+  "operators": [
+    {
+      "brand": "Bluesky",
+      "operator": "Bluesky",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / LTE 700 / LTE 1900"
+    }
+  ]
+}

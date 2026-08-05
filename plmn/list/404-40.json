@@ -1,0 +1,32 @@
+{
+  "mcc": "404",
+  "mnc": "40",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "code": "91",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "AirTel",
+      "operator": "Chennai",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / LTE 1800 / LTE 2100 / TD-LTE 2300",
+      "icon": "airtel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "8991402277705690907F"
+          ]
+        }
+      ]
+    }
+  ]
+}

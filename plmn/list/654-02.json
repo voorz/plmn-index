@@ -1,0 +1,34 @@
+{
+  "mcc": "654",
+  "mnc": "02",
+  "country": {
+    "name": "Comoros",
+    "iso": "KM",
+    "code": "269",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "TELCO SA",
+      "operator": "Telecom Malagasy (Telma)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / LTE 800",
+      "icon": "telco-sa",
+      "icon_scope": "654",
+      "subs": [
+        {
+          "brand": "YAS",
+          "names": [
+            "yas"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "profilename"
+          ]
+        }
+      ]
+    }
+  ]
+}

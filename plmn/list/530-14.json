@@ -1,0 +1,19 @@
+{
+  "mcc": "530",
+  "mnc": "14",
+  "country": {
+    "name": "New Zealand",
+    "iso": "NZ",
+    "code": "64",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "2degrees",
+      "operator": "2degrees Lynk",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "LTE 900"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "mcc": "362",
+  "mnc": "91",
+  "country": {
+    "name": "Former Netherlands Antilles (Kingdom of the Netherlands)",
+    "iso": "BQ/CW/SX",
+    "code": "599",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "FLOW",
+      "operator": "Liberty Latin America",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / UMTS 2100 / LTE 1800",
+      "icon": "flow",
+      "icon_scope": "362",
+      "subs": [
+        {
+          "brand": "Liberty FLOW DC",
+          "names": [
+            "liberty flow dc"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    },
+    {
+      "brand": "Chippie",
+      "operator": "United Telecommunication Service N.V. (UTS)",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 1800",
+      "icon": "flow",
+      "icon_scope": "362",
+      "subs": [
+        {
+          "brand": "Liberty FLOW DC",
+          "names": [
+            "liberty flow dc"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

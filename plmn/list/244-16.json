@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "16",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Digita Oy",
+      "operator": "Digita Oy",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

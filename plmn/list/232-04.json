@@ -1,0 +1,19 @@
+{
+  "mcc": "232",
+  "mnc": "04",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Magenta",
+      "operator": "T-Mobile Austria GmbH",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

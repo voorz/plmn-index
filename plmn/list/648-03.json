@@ -1,0 +1,19 @@
+{
+  "mcc": "648",
+  "mnc": "03",
+  "country": {
+    "name": "Zimbabwe",
+    "iso": "ZW",
+    "code": "263",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Telecel",
+      "operator": "Telecel Zimbabwe (PVT) Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 1800"
+    }
+  ]
+}

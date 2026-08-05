@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "72",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Hanhaa Mobile",
+      "operator": "Hanhaa Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

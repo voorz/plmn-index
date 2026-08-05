@@ -1,0 +1,19 @@
+{
+  "mcc": "732",
+  "mnc": "157",
+  "country": {
+    "name": "Colombia",
+    "iso": "CO",
+    "code": "57",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Móvil Éxito",
+      "operator": "Almacenes Éxito Inversiones S.A.S.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "mcc": "405",
+  "mnc": "702",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Vi",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "vi",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vi",
+          "names": [
+            "vi"
+          ],
+          "gid1": "ff",
+          "gid2": "ff"
+        }
+      ]
+    }
+  ]
+}

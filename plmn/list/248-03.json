@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "03",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Tele2",
+      "operator": "Tele2 Eesti",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2100 / 5G 700 / 5G 2300 / 5G 3500"
+    }
+  ]
+}

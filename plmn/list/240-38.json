@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "38",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Voxbone",
+      "operator": "Voxbone mobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

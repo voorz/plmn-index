@@ -1,0 +1,34 @@
+{
+  "mcc": "218",
+  "mnc": "03",
+  "country": {
+    "name": "Bosnia and Herzegovina",
+    "iso": "BA",
+    "code": "387",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "HT-ERONET",
+      "operator": "Public Enterprise Croatian Telecom Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE",
+      "icon": "ht-eronet",
+      "icon_scope": "218",
+      "subs": [
+        {
+          "brand": "haloo",
+          "names": [
+            "haloo"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Trasna_Haloo_eSIM_PrP_zamjenski_v1.2"
+          ]
+        }
+      ]
+    }
+  ]
+}

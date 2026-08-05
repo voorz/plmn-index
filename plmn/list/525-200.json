@@ -1,0 +1,19 @@
+{
+  "mcc": "525",
+  "mnc": "200",
+  "country": {
+    "name": "Singapore",
+    "iso": "SG",
+    "code": "65",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "5G Test Bed",
+      "operator": "5G Test Bed",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "5G"
+    }
+  ]
+}

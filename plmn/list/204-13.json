@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "13",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Unica Installatietechniek B.V.",
+      "operator": "Unica Installatietechniek B.V.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

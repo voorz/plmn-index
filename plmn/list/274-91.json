@@ -1,0 +1,19 @@
+{
+  "mcc": "274",
+  "mnc": "91",
+  "country": {
+    "name": "Iceland",
+    "iso": "IS",
+    "code": "354",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Neyðarlínan",
+      "operator": "Neyðarlínan",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Tetra"
+    }
+  ]
+}

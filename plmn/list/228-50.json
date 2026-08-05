@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "50",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "3G Mobile AG",
+      "operator": "3G Mobile AG",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 2100"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "21",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "spusu",
+      "operator": "spusu Deutschland GmbH",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

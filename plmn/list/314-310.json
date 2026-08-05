@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "310",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Terranet",
+      "operator": "Terranet",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

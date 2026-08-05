@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "900",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Mid-Rivers Wireless",
+      "operator": "Cable & Communications Corporation",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA 850 / CDMA 1900"
+    }
+  ]
+}

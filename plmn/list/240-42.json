@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "42",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telenor IoT",
+      "operator": "Telenor Connexion AB",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

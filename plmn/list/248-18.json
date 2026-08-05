@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "18",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Cloud Communications OÜ",
+      "operator": "Cloud Communications OÜ",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

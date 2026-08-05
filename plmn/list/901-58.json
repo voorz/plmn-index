@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "58",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "BICS",
+      "operator": "Belgacom ICS SA",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

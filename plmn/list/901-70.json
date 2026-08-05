@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "70",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Bureau 1440 LLC",
+      "operator": "Bureau 1440 LLC",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Satellite"
+    }
+  ]
+}

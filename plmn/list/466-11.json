@@ -1,0 +1,19 @@
+{
+  "mcc": "466",
+  "mnc": "11",
+  "country": {
+    "name": "Taiwan",
+    "iso": "TW",
+    "code": "886",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Chunghwa LDM",
+      "operator": "LDTA/Chunghwa Telecom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

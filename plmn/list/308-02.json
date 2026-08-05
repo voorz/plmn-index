@@ -1,0 +1,18 @@
+{
+  "mcc": "308",
+  "mnc": "02",
+  "country": {
+    "name": "Saint Pierre and Miquelon (France)",
+    "iso": "PM",
+    "code": "508"
+  },
+  "operators": [
+    {
+      "brand": "GLOBALTEL",
+      "operator": "GLOBALTEL",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 800"
+    }
+  ]
+}

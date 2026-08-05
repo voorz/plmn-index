@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "77",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "O2",
+      "operator": "Telefónica Germany GmbH & Co. oHG",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

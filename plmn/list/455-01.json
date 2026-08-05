@@ -1,0 +1,70 @@
+{
+  "mcc": "455",
+  "mnc": "01",
+  "country": {
+    "name": "Macau (Special administrative region of the People's Republic of China)",
+    "iso": "MO",
+    "code": "853",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "CTM",
+      "operator": "Companhia de Telecomunicações de Macau, S.A.R.L.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 900 / LTE 1800 / LTE 2100 / 5G 700 / 5G 2100 / 5G 3500 / 5G 4900",
+      "icon": "ctm",
+      "icon_scope": "455",
+      "subs": [
+        {
+          "brand": "CTM",
+          "names": [
+            "ctm",
+            "vacay",
+            "esim",
+            "airsime",
+            "esim"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "CTM",
+            "JOYTEL_CMI_appletV4",
+            "urocom_test_applet_qdc",
+            "HQ_CN_HK_appletV4",
+            "CITIC_PROFILE_SAIMING_45501",
+            "ESIM"
+          ]
+        },
+        {
+          "brand": "CTM",
+          "names": [
+            "ctm",
+            "billionconnect",
+            "trip",
+            "airsime"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "CTM_1.0.5",
+            "BillionConnect",
+            "AIRSIMe"
+          ]
+        },
+        {
+          "brand": "CITIC Telecom",
+          "names": [
+            "citic telecom"
+          ],
+          "gid1": "ffffffffffffffffff",
+          "gid2": "ffffffffffffffffff",
+          "profile_names": [
+            "CITIC Telecom"
+          ]
+        }
+      ]
+    }
+  ]
+}

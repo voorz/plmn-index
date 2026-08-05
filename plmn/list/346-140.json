@@ -1,0 +1,18 @@
+{
+  "mcc": "346",
+  "mnc": "140",
+  "country": {
+    "name": "Cayman Islands (United Kingdom)",
+    "iso": "KY",
+    "code": "1345"
+  },
+  "operators": [
+    {
+      "brand": "FLOW",
+      "operator": "Cable & Wireless (Cayman Islands) Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / LTE 700 / LTE 1900 / 5G 3500"
+    }
+  ]
+}

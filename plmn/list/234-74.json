@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "74",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Pareteum",
+      "operator": "Circles MVNE International B.V.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

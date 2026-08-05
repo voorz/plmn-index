@@ -1,0 +1,37 @@
+{
+  "mcc": "268",
+  "mnc": "01",
+  "country": {
+    "name": "Portugal",
+    "iso": "PT",
+    "code": "351",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "Vodafone Portugal",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vodafone Portugal",
+          "names": [
+            "vodafone portugal"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "VFPT eSIM TUAK",
+            "VFPT Voucher TUAK",
+            "VFPT eSIM TUAK 5GSA",
+            "Vodafone Portugal"
+          ]
+        }
+      ]
+    }
+  ]
+}

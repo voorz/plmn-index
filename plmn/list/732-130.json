@@ -1,0 +1,19 @@
+{
+  "mcc": "732",
+  "mnc": "130",
+  "country": {
+    "name": "Colombia",
+    "iso": "CO",
+    "code": "57",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "AVANTEL",
+      "operator": "Avantel S.A.S",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 1700 / LTE 1700"
+    }
+  ]
+}

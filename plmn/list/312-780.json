@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "780",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Redzone Wireless",
+      "operator": "Redzone Wireless",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 2500"
+    }
+  ]
+}

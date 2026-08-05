@@ -1,0 +1,19 @@
+{
+  "mcc": "528",
+  "mnc": "11",
+  "country": {
+    "name": "Brunei",
+    "iso": "BN",
+    "code": "673",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "DST",
+      "operator": "Data Stream Technology Sdn Bhd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100 / LTE 1800"
+    }
+  ]
+}

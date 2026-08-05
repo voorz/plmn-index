@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "207",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "Mitsui Knowledge Industry Co., Ltd.",
+      "operator": "Mitsui Knowledge Industry Co., Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

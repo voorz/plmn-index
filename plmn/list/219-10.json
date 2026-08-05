@@ -1,0 +1,56 @@
+{
+  "mcc": "219",
+  "mnc": "10",
+  "country": {
+    "name": "Croatia",
+    "iso": "HR",
+    "code": "385",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "A1 HR",
+      "operator": "A1 Hrvatska",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 700 / 5G 3500",
+      "icon": "one",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "A1 Croatia",
+          "names": [
+            "a1 croatia"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Prepaid eSIM"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "A1",
+      "operator": "A1 Hrvatska",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800",
+      "icon": "one",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "A1 Croatia",
+          "names": [
+            "a1 croatia"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Prepaid eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

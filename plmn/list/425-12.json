@@ -1,0 +1,60 @@
+{
+  "mcc": "425",
+  "mnc": "12",
+  "country": {
+    "name": "Israel",
+    "iso": "IL",
+    "code": "970",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Pelephone",
+      "operator": "Free Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "free-telecom",
+      "icon_scope": "425",
+      "subs": [
+        {
+          "brand": "Widely-Mobile",
+          "names": [
+            "widely-mobile"
+          ],
+          "gid1": "2fffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Widely_Mobile_SI_eSIM-Free_Telecom_2025-06-15_OAS00009_Qty1000",
+            "WidelyMobile_eUICC_v01.00_Order02.4_Tripletel_5000",
+            "WidelyMobile_SI_eSIM_Tripletel_2025-07-09_OAS00010_Qty_5K"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "x2one",
+      "operator": "Free Telecom",
+      "status": "",
+      "type": "",
+      "bands": "MVNO",
+      "icon": "free-telecom",
+      "icon_scope": "425",
+      "subs": [
+        {
+          "brand": "Widely-Mobile",
+          "names": [
+            "widely-mobile"
+          ],
+          "gid1": "2fffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Widely_Mobile_SI_eSIM-Free_Telecom_2025-06-15_OAS00009_Qty1000",
+            "WidelyMobile_eUICC_v01.00_Order02.4_Tripletel_5000",
+            "WidelyMobile_SI_eSIM_Tripletel_2025-07-09_OAS00010_Qty_5K"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "35",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "JSC Ingenicum",
+      "operator": "JSC Ingenium (UK) Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "740",
+  "mnc": "01",
+  "country": {
+    "name": "Ecuador",
+    "iso": "EC",
+    "code": "593",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Claro",
+      "operator": "CONECEL S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / UMTS 850 / UMTS 1900 / LTE 1700"
+    }
+  ]
+}

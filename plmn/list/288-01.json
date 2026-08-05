@@ -1,0 +1,56 @@
+{
+  "mcc": "288",
+  "mnc": "01",
+  "country": {
+    "name": "Faroe Islands (Kingdom of Denmark)",
+    "iso": "FO",
+    "code": "298",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Føroya Tele",
+      "operator": "Føroya Tele",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / 5G",
+      "icon": "faroese-telecom",
+      "icon_scope": "288",
+      "subs": [
+        {
+          "brand": "Foroya Tele",
+          "names": [
+            "foroya tele"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "FROFT_02_T01"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Faroese Telecom",
+      "operator": "Faroese Telecom",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800",
+      "icon": "faroese-telecom",
+      "icon_scope": "288",
+      "subs": [
+        {
+          "brand": "Foroya Tele",
+          "names": [
+            "foroya tele"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "FROFT_02_T01"
+          ]
+        }
+      ]
+    }
+  ]
+}

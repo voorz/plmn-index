@@ -1,0 +1,19 @@
+{
+  "mcc": "246",
+  "mnc": "01",
+  "country": {
+    "name": "Lithuania",
+    "iso": "LT",
+    "code": "370",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telia",
+      "operator": "Telia Lietuva",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 700 /  LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 2100 / 5G 3500"
+    }
+  ]
+}

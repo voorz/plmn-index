@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "700",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Tampa Electric Company",
+      "operator": "Tampa Electric Company",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

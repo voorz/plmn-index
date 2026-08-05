@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "890",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Central Council of the Tlingit & Haida Indian Tribes of Alaska",
+      "operator": "Central Council of the Tlingit & Haida Indian Tribes of Alaska",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

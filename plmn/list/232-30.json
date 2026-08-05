@@ -1,0 +1,19 @@
+{
+  "mcc": "232",
+  "mnc": "30",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Holding Graz Kommunale Dienstleistungen GmbH",
+      "operator": "Holding Graz Kommunale Dienstleistungen GmbH",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

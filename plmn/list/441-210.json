@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "210",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "NTT East Corp.",
+      "operator": "NTT East Corp.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "528",
+  "mnc": "03",
+  "country": {
+    "name": "Brunei",
+    "iso": "BN",
+    "code": "673",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "UNN",
+      "operator": "Unified National Networks Sdn Bhd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800 / 5G 700 / 5G 1800 / 5G 3500"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "219",
+  "mnc": "04",
+  "country": {
+    "name": "Croatia",
+    "iso": "HR",
+    "code": "385",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "NTH Mobile d.o.o.",
+      "operator": "NTH Mobile d.o.o.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

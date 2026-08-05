@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "27",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "L-mobi",
+      "operator": "L-Mobi Mobile B.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

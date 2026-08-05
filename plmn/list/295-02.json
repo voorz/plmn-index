@@ -1,0 +1,19 @@
+{
+  "mcc": "295",
+  "mnc": "02",
+  "country": {
+    "name": "Liechtenstein",
+    "iso": "LI",
+    "code": "423",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "7acht",
+      "operator": "Salt Liechtenstein AG",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

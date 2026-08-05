@@ -1,0 +1,18 @@
+{
+  "mcc": "342",
+  "mnc": "800",
+  "country": {
+    "name": "Barbados",
+    "iso": "BB",
+    "code": "1246"
+  },
+  "operators": [
+    {
+      "brand": "Ozone",
+      "operator": "Ozone Wireless Inc.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "LTE 700"
+    }
+  ]
+}

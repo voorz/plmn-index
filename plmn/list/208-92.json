@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "92",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Com4Innov",
+      "operator": "Association Plate-forme Télécom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "TD-LTE 2300 / LTE 2600"
+    }
+  ]
+}

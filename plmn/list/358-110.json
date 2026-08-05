@@ -1,0 +1,18 @@
+{
+  "mcc": "358",
+  "mnc": "110",
+  "country": {
+    "name": "Saint Lucia",
+    "iso": "LC",
+    "code": "1758"
+  },
+  "operators": [
+    {
+      "brand": "FLOW",
+      "operator": "Cable &  Wireless",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / LTE 700"
+    }
+  ]
+}

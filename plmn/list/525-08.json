@@ -1,0 +1,19 @@
+{
+  "mcc": "525",
+  "mnc": "08",
+  "country": {
+    "name": "Singapore",
+    "iso": "SG",
+    "code": "65",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "StarHub",
+      "operator": "StarHub Mobile",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

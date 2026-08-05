@@ -1,0 +1,43 @@
+{
+  "mcc": "214",
+  "mnc": "04",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Yoigo",
+      "operator": "Grupo MÁSMÓVIL",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "yoigo",
+      "icon_scope": "214",
+      "subs": [
+        {
+          "brand": "Lycamobile",
+          "names": [
+            "lycamobile",
+            "pepephone",
+            "lebara",
+            "tu operador",
+            "masmovil"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Lebara",
+            "Pepephone",
+            "MASMOVIL",
+            "Lycamobile",
+            "Tu Operador",
+            "LLAMAYA"
+          ]
+        }
+      ]
+    }
+  ]
+}

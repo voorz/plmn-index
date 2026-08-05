@@ -1,0 +1,18 @@
+{
+  "mcc": "372",
+  "mnc": "02",
+  "country": {
+    "name": "Haiti",
+    "iso": "HT",
+    "code": "509"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Unigestion Holding S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100"
+    }
+  ]
+}

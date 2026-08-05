@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "06",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Elisa",
+      "operator": "Elisa Oyj",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

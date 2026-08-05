@@ -1,0 +1,26 @@
+{
+  "mcc": "311",
+  "mnc": "250",
+  "country": {
+    "name": "Guam (United States of America)",
+    "iso": "GU",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "IT&E Wireless",
+      "operator": "PTI Pacifica Inc.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    },
+    {
+      "brand": "IT&E Wireless",
+      "operator": "IT&E Overseas, Inc",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

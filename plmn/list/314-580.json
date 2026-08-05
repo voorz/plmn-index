@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "580",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Lower Colorado River Authority",
+      "operator": "Lower Colorado River Authority",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "621",
+  "mnc": "24",
+  "country": {
+    "name": "Nigeria",
+    "iso": "NG",
+    "code": "234",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Spectranet",
+      "operator": "Spectranet",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 2300"
+    }
+  ]
+}

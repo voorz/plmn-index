@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "034",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Airpeak",
+      "operator": "Airpeak",
+      "status": "Operational",
+      "type": "National",
+      "bands": "iDEN"
+    }
+  ]
+}

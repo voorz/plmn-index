@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "24",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Sweden 2G",
+      "operator": "Net4Mobility HB",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 800 / LTE 900 / LTE 1800 / LTE 2600 / 5G 700 / 5G 3500"
+    }
+  ]
+}

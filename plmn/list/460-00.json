@@ -1,0 +1,52 @@
+{
+  "mcc": "460",
+  "mnc": "00",
+  "country": {
+    "name": "China",
+    "iso": "CN",
+    "code": "86",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "China Mobile",
+      "operator": "China Mobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 /LTE 900 / LTE 1800 /TD-LTE 1900 / TD-LTE 2000 / TD-LTE 2300 / TD-LTE 2500 /5G 700 / 5G 2500",
+      "icon": "china-mobile",
+      "icon_scope": "460",
+      "subs": [
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim",
+            "中国移动"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "89000000000000000001",
+            "20260318_recycle_1"
+          ]
+        },
+        {
+          "brand": "Valid",
+          "names": [
+            "valid"
+          ],
+          "gid1": "ff",
+          "gid2": "ff"
+        },
+        {
+          "brand": "Valid",
+          "names": [
+            "valid"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "372",
+  "mnc": "01",
+  "country": {
+    "name": "Haiti",
+    "iso": "HT",
+    "code": "509"
+  },
+  "operators": [
+    {
+      "brand": "Voila",
+      "operator": "Communication Cellulaire d'Haiti S.A.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 850"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "405",
+  "mnc": "809",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "code": "91",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "AIRCEL",
+      "operator": "Kerala",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

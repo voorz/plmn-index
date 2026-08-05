@@ -1,0 +1,18 @@
+{
+  "mcc": "421",
+  "mnc": "02",
+  "country": {
+    "name": "Yemen",
+    "iso": "YE",
+    "code": "967"
+  },
+  "operators": [
+    {
+      "brand": "YOU",
+      "operator": "Yemen Oman United Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE"
+    }
+  ]
+}

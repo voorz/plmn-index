@@ -1,0 +1,42 @@
+{
+  "mcc": "732",
+  "mnc": "111",
+  "country": {
+    "name": "Colombia",
+    "iso": "CO",
+    "code": "57",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Tigo",
+      "operator": "Colombia Móvil S.A. ESP",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100 / LTE 700 / LTE 1700 / LTE 2600 / 5G 3500",
+      "icon": "tigo",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Tigo",
+          "names": [
+            "tigo",
+            "movil exito",
+            "swift",
+            "airalo",
+            "liwa"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "cambio_sim_digital_co",
+            "01.00",
+            "PLCO_Swift_SI_10K_29012026",
+            "Tigo",
+            "02.08"
+          ]
+        }
+      ]
+    }
+  ]
+}

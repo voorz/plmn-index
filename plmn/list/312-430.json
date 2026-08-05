@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "430",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Silver Star Communications",
+      "operator": "Silver Star Communications",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700"
+    }
+  ]
+}

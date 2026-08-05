@@ -1,0 +1,29 @@
+{
+  "mcc": "250",
+  "mnc": "57",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Matrix",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "matrix",
+      "icon_scope": "250",
+      "subs": [
+        {
+          "brand": "Matrix",
+          "names": [
+            "matrix"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

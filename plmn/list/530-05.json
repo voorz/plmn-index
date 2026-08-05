@@ -1,0 +1,36 @@
+{
+  "mcc": "530",
+  "mnc": "05",
+  "country": {
+    "name": "New Zealand",
+    "iso": "NZ",
+    "code": "64",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Spark",
+      "operator": "Spark New Zealand",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / 5G 850 / LTE 1800 / LTE 2100 / TD-LTE/5G 2300 / LTE 2600 / 5G 3500",
+      "icon": "spark",
+      "icon_scope": "530",
+      "subs": [
+        {
+          "brand": "Skinny",
+          "names": [
+            "skinny",
+            "spark"
+          ],
+          "gid1": "42ffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Skinny",
+            "Spark eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "268",
+  "mnc": "80",
+  "country": {
+    "name": "Portugal",
+    "iso": "PT",
+    "code": "351",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MEO",
+      "operator": "E-Redes - Distribuição de Eletricidade, S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

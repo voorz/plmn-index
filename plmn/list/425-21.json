@@ -1,0 +1,55 @@
+{
+  "mcc": "425",
+  "mnc": "21",
+  "country": {
+    "name": "Israel",
+    "iso": "IL",
+    "code": "970",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Xphone 018 Ltd.",
+      "operator": "Xphone 018 Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown",
+      "icon": "bezeq-international",
+      "icon_scope": "425",
+      "subs": [
+        {
+          "brand": "xphone",
+          "names": [
+            "xphone"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Activate eSIM eSIM from xphone is ready for this iPhone"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Bezeq International",
+      "operator": "B.I.P. Communications Ltd.",
+      "status": "",
+      "type": "",
+      "icon": "bezeq-international",
+      "icon_scope": "425",
+      "subs": [
+        {
+          "brand": "xphone",
+          "names": [
+            "xphone"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Activate eSIM eSIM from xphone is ready for this iPhone"
+          ]
+        }
+      ]
+    }
+  ]
+}

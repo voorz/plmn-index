@@ -1,0 +1,19 @@
+{
+  "mcc": "266",
+  "mnc": "06",
+  "country": {
+    "name": "Gibraltar (United Kingdom)",
+    "iso": "GI",
+    "code": "350",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "CTS Mobile",
+      "operator": "CTS Gibraltar",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 2100"
+    }
+  ]
+}

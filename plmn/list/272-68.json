@@ -1,0 +1,19 @@
+{
+  "mcc": "272",
+  "mnc": "68",
+  "country": {
+    "name": "Ireland",
+    "iso": "IE",
+    "code": "353",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Office of the Government Chief Information Officer",
+      "operator": "Office of the Government Chief Information Officer",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

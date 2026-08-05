@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "16",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telefonica / O2",
+      "operator": "Telogic Germany GmbH",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "260",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Expeto Wireless Inc.",
+      "operator": "Expeto Wireless Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

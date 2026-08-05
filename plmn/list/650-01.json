@@ -1,0 +1,18 @@
+{
+  "mcc": "650",
+  "mnc": "01",
+  "country": {
+    "name": "Malawi",
+    "iso": "MW",
+    "code": "265"
+  },
+  "operators": [
+    {
+      "brand": "TNM",
+      "operator": "Telecom Network Malawi",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / TD-LTE 2500 / 5G 3500 / 5G 3700"
+    }
+  ]
+}

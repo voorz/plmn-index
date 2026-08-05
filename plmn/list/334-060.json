@@ -1,0 +1,19 @@
+{
+  "mcc": "334",
+  "mnc": "060",
+  "country": {
+    "name": "Mexico",
+    "iso": "MX",
+    "code": "52",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "SAI PCS",
+      "operator": "Servicios de Acceso Inalambrico, S.A. de C.V.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

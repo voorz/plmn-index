@@ -1,0 +1,19 @@
+{
+  "mcc": "242",
+  "mnc": "90",
+  "country": {
+    "name": "Norway",
+    "iso": "NO",
+    "code": "47",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Nokia Solutions and Networks Norge AS",
+      "operator": "Nokia Solutions and Networks Norge AS",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "970",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Canadian Pacific Kansas City Railway",
+      "operator": "Canadian Pacific Kansas City Railway",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

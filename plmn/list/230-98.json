@@ -1,0 +1,19 @@
+{
+  "mcc": "230",
+  "mnc": "98",
+  "country": {
+    "name": "Czech Republic",
+    "iso": "CZ",
+    "code": "420",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "SZDC",
+      "operator": "Správa železniční dopravní cesty, s.o.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R 900"
+    }
+  ]
+}

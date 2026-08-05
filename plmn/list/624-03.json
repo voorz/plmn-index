@@ -1,0 +1,18 @@
+{
+  "mcc": "624",
+  "mnc": "03",
+  "country": {
+    "name": "Cameroon",
+    "iso": "CM",
+    "code": "237"
+  },
+  "operators": [
+    {
+      "brand": "Camtel",
+      "operator": "Camtel",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA / LTE 1800"
+    }
+  ]
+}

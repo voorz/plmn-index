@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "11",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Orange",
+      "operator": "TELECOM CASTILLA-LA MANCHA, S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

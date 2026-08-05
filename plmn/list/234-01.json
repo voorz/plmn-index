@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "01",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vectone Mobile",
+      "operator": "Mundio Mobile Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

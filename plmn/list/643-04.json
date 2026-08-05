@@ -1,0 +1,18 @@
+{
+  "mcc": "643",
+  "mnc": "04",
+  "country": {
+    "name": "Mozambique",
+    "iso": "MZ",
+    "code": "258"
+  },
+  "operators": [
+    {
+      "brand": "Vodacom",
+      "operator": "Vodacom Mozambique, S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G"
+    }
+  ]
+}

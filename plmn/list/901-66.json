@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "66",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Limitless Mobile LLC",
+      "operator": "Limitless Mobile LLC",
+      "status": "Operational",
+      "type": "International",
+      "bands": "LTE"
+    }
+  ]
+}

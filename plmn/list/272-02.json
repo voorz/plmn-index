@@ -1,0 +1,34 @@
+{
+  "mcc": "272",
+  "mnc": "02",
+  "country": {
+    "name": "Ireland",
+    "iso": "IE",
+    "code": "353",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "3",
+      "operator": "Three Ireland Services (Hutchison) Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100",
+      "icon": "3",
+      "icon_scope": "272",
+      "subs": [
+        {
+          "brand": "Three Ireland",
+          "names": [
+            "three ireland"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Three Ireland"
+          ]
+        }
+      ]
+    }
+  ]
+}

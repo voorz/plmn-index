@@ -1,0 +1,18 @@
+{
+  "mcc": "615",
+  "mnc": "03",
+  "country": {
+    "name": "Togo",
+    "iso": "TG",
+    "code": "228"
+  },
+  "operators": [
+    {
+      "brand": "Moov",
+      "operator": "Moov Togo",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE"
+    }
+  ]
+}

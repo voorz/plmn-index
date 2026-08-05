@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "360",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Dish",
+      "operator": "Dish Wireless",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

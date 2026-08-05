@@ -1,0 +1,19 @@
+{
+  "mcc": "417",
+  "mnc": "09",
+  "country": {
+    "name": "Syria",
+    "iso": "SY",
+    "code": "963",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Syriatel Holdings",
+      "operator": "Syrian Telecom",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

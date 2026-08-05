@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "490",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "UETN",
+      "operator": "Utah Education and Telehealth Network",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 3500"
+    }
+  ]
+}

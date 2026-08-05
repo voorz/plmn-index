@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "78",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Airwave",
+      "operator": "Airwave Solutions Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TETRA"
+    }
+  ]
+}

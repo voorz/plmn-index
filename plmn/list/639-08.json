@@ -1,0 +1,19 @@
+{
+  "mcc": "639",
+  "mnc": "08",
+  "country": {
+    "name": "Kenya",
+    "iso": "KE",
+    "code": "254",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Wetribe Ltd",
+      "operator": "Wetribe Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

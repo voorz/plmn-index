@@ -1,0 +1,19 @@
+{
+  "mcc": "641",
+  "mnc": "10",
+  "country": {
+    "name": "Uganda",
+    "iso": "UG",
+    "code": "256",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "MTN",
+      "operator": "MTN Uganda",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 2600 / 5G"
+    }
+  ]
+}

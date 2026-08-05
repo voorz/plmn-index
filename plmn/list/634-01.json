@@ -1,0 +1,18 @@
+{
+  "mcc": "634",
+  "mnc": "01",
+  "country": {
+    "name": "Sudan",
+    "iso": "SD",
+    "code": "249"
+  },
+  "operators": [
+    {
+      "brand": "Zain SD",
+      "operator": "Zain Group - Sudan",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

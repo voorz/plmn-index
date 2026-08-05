@@ -1,0 +1,18 @@
+{
+  "mcc": "653",
+  "mnc": "02",
+  "country": {
+    "name": "Eswatini",
+    "iso": "SZ",
+    "code": "268"
+  },
+  "operators": [
+    {
+      "brand": "Eswatini Mobile",
+      "operator": "Eswatini Mobile Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800"
+    }
+  ]
+}

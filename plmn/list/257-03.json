@@ -1,0 +1,19 @@
+{
+  "mcc": "257",
+  "mnc": "03",
+  "country": {
+    "name": "Belarus",
+    "iso": "BY",
+    "code": "375",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "DIALLOG",
+      "operator": "BelCel",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA 450"
+    }
+  ]
+}

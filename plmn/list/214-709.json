@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "709",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "CTTI",
+      "operator": "Centre de Telecomunicacions i Tecnologies de la Informació de la Generalitat de Catalunya",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

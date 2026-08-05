@@ -1,0 +1,80 @@
+{
+  "mcc": "222",
+  "mnc": "88",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Wind Tre",
+      "operator": "Wind Tre S.p.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 1800 / 5G 2600 / 5G 3500",
+      "icon": "wind",
+      "icon_scope": "222",
+      "subs": [
+        {
+          "brand": "Very",
+          "names": [
+            "very"
+          ],
+          "gid1": "0000000099",
+          "gid2": "0000000000",
+          "profile_names": [
+            "VERY mobile"
+          ]
+        },
+        {
+          "brand": "Windtre",
+          "names": [
+            "windtre"
+          ],
+          "gid1": "ffffffffff",
+          "gid2": "0000000000",
+          "profile_names": [
+            "W3 GA",
+            "W3 SOST"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Wind",
+      "operator": "Wind Tre",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600",
+      "icon": "wind",
+      "icon_scope": "222",
+      "subs": [
+        {
+          "brand": "Very",
+          "names": [
+            "very"
+          ],
+          "gid1": "0000000099",
+          "gid2": "0000000000",
+          "profile_names": [
+            "VERY mobile"
+          ]
+        },
+        {
+          "brand": "Windtre",
+          "names": [
+            "windtre"
+          ],
+          "gid1": "ffffffffff",
+          "gid2": "0000000000",
+          "profile_names": [
+            "W3 GA",
+            "W3 SOST"
+          ]
+        }
+      ]
+    }
+  ]
+}

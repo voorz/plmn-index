@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "25",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Monty Mobile",
+      "operator": "Monty UK Global Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

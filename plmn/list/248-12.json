@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "12",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Ntel Solutions OÜ",
+      "operator": "Ntel Solutions OÜ",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

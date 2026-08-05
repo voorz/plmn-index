@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "30",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Compatel",
+      "operator": "Compatel",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

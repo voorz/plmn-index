@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "848",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Vocom International Telecommunications, Inc",
+      "operator": "Vocom International Telecommunications, Inc",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

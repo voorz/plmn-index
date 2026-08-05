@@ -1,0 +1,19 @@
+{
+  "mcc": "740",
+  "mnc": "03",
+  "country": {
+    "name": "Ecuador",
+    "iso": "EC",
+    "code": "593",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Tuenti",
+      "operator": "Otecel S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

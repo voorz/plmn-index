@@ -1,0 +1,18 @@
+{
+  "mcc": "537",
+  "mnc": "01",
+  "country": {
+    "name": "Papua New Guinea",
+    "iso": "PG",
+    "code": "675"
+  },
+  "operators": [
+    {
+      "brand": "bmobile",
+      "operator": "Bemobile Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900"
+    }
+  ]
+}

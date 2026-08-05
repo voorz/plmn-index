@@ -1,0 +1,34 @@
+{
+  "mcc": "218",
+  "mnc": "90",
+  "country": {
+    "name": "Bosnia and Herzegovina",
+    "iso": "BA",
+    "code": "387",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "BH Mobile",
+      "operator": "BH Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE",
+      "icon": "bh-mobile",
+      "icon_scope": "218",
+      "subs": [
+        {
+          "brand": "BH Mobile",
+          "names": [
+            "bh mobile"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "BH Telecom eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

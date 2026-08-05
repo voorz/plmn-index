@@ -1,0 +1,18 @@
+{
+  "mcc": "603",
+  "mnc": "09",
+  "country": {
+    "name": "Algeria",
+    "iso": "DZ",
+    "code": "213"
+  },
+  "operators": [
+    {
+      "brand": "AT",
+      "operator": "Algérie Télécom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "612",
+  "mnc": "18",
+  "country": {
+    "name": "Ivory Coast",
+    "iso": "CI",
+    "code": "225"
+  },
+  "operators": [
+    {
+      "brand": "YooMee",
+      "operator": "YooMee",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 2300"
+    }
+  ]
+}

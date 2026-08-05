@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "47",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Woodside Energy",
+      "operator": "Woodside Energy",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

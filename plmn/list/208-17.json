@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "17",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "LEGOS",
+      "operator": "Local Exchange Global Operation Services",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

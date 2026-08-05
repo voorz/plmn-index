@@ -1,0 +1,35 @@
+{
+  "mcc": "257",
+  "mnc": "04",
+  "country": {
+    "name": "Belarus",
+    "iso": "BY",
+    "code": "375",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "life:)",
+      "operator": "Belarusian Telecommunications Network",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100",
+      "icon": "life",
+      "icon_scope": "257",
+      "subs": [
+        {
+          "brand": "Life",
+          "names": [
+            "life"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Life BLR LTE COMM 01",
+            "Life BLR LTE COMM 02"
+          ]
+        }
+      ]
+    }
+  ]
+}

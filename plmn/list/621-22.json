@@ -1,0 +1,19 @@
+{
+  "mcc": "621",
+  "mnc": "22",
+  "country": {
+    "name": "Nigeria",
+    "iso": "NG",
+    "code": "234",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "InterC",
+      "operator": "InterC Network Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 800"
+    }
+  ]
+}

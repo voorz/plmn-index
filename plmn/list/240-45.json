@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "45",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Spirius",
+      "operator": "Spirius AB",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

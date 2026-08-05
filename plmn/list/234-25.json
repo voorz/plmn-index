@@ -1,0 +1,35 @@
+{
+  "mcc": "234",
+  "mnc": "25",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Truphone",
+      "operator": "Truphone",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "truphone",
+      "icon_scope": "234",
+      "subs": [
+        {
+          "brand": "SimWallet",
+          "names": [
+            "simwallet"
+          ],
+          "gid1": "547275554b3030656e",
+          "gid2": "547275554b3030656e",
+          "profile_names": [
+            "SimWallet",
+            "8944476500009187340"
+          ]
+        }
+      ]
+    }
+  ]
+}

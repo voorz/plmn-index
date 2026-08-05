@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "85",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Telefónica Germany GmbH & Co. OHG",
+      "operator": "Telefónica Germany GmbH & Co. OHG",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "618",
+  "mnc": "01",
+  "country": {
+    "name": "Liberia",
+    "iso": "LR",
+    "code": "231"
+  },
+  "operators": [
+    {
+      "brand": "Lonestar Cell MTN",
+      "operator": "Lonestar Communications Corporation",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE"
+    }
+  ]
+}

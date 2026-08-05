@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "36",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Free",
+      "operator": "Free Mobile",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / LTE 2600"
+    }
+  ]
+}

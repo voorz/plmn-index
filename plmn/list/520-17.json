@@ -1,0 +1,19 @@
+{
+  "mcc": "520",
+  "mnc": "17",
+  "country": {
+    "name": "Thailand",
+    "iso": "TH",
+    "code": "66",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "NT Mobile",
+      "operator": "National Telecom Public Company Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "TD-LTE 2300"
+    }
+  ]
+}

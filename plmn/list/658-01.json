@@ -1,0 +1,18 @@
+{
+  "mcc": "658",
+  "mnc": "01",
+  "country": {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "iso": "SH",
+    "code": "290"
+  },
+  "operators": [
+    {
+      "brand": "Sure",
+      "operator": "Sure South Atlantic Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 1800"
+    }
+  ]
+}

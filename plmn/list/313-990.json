@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "990",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Ericsson US",
+      "operator": "Ericsson US",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

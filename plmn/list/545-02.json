@@ -1,0 +1,18 @@
+{
+  "mcc": "545",
+  "mnc": "02",
+  "country": {
+    "name": "Kiribati",
+    "iso": "KI",
+    "code": "686"
+  },
+  "operators": [
+    {
+      "brand": "OceanLink",
+      "operator": "OceanLink",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

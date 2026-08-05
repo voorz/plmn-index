@@ -1,0 +1,19 @@
+{
+  "mcc": "530",
+  "mnc": "02",
+  "country": {
+    "name": "New Zealand",
+    "iso": "NZ",
+    "code": "64",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Spark",
+      "operator": "Spark New Zealand SpaceX",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 2600"
+    }
+  ]
+}

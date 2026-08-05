@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "89",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "DIDWW Ireland Limited",
+      "operator": "DIDWW Ireland Limited",
+      "status": "Operational",
+      "type": "International",
+      "bands": "MVNO"
+    }
+  ]
+}

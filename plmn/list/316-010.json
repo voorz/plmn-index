@@ -1,0 +1,18 @@
+{
+  "mcc": "316",
+  "mnc": "010",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1"
+  },
+  "operators": [
+    {
+      "brand": "Nextel",
+      "operator": "Nextel Communications",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "iDEN 800"
+    }
+  ]
+}

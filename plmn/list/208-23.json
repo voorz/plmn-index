@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "23",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Hub One",
+      "operator": "Syndicat mixte ouvert Charente Numérique",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE"
+    }
+  ]
+}

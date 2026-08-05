@@ -1,0 +1,34 @@
+{
+  "mcc": "639",
+  "mnc": "10",
+  "country": {
+    "name": "Kenya",
+    "iso": "KE",
+    "code": "254",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Faiba 4G",
+      "operator": "Jamii Telecommunications Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700",
+      "icon": "faiba-4g",
+      "icon_scope": "639",
+      "subs": [
+        {
+          "brand": "Jamii",
+          "names": [
+            "jamii"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Jamii eSIM Profile"
+          ]
+        }
+      ]
+    }
+  ]
+}

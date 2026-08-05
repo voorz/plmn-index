@@ -1,0 +1,18 @@
+{
+  "mcc": "340",
+  "mnc": "01",
+  "country": {
+    "name": "French Antilles (France)",
+    "iso": "BL/GF/GP/MF/MQ",
+    "code": "596"
+  },
+  "operators": [
+    {
+      "brand": "Orange",
+      "operator": "Orange Caraïbe Mobiles",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500"
+    }
+  ]
+}

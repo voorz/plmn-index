@@ -1,0 +1,19 @@
+{
+  "mcc": "250",
+  "mnc": "03",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "NCC",
+      "operator": "Nizhegorodskaya Cellular Communications",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

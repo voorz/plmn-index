@@ -1,0 +1,19 @@
+{
+  "mcc": "647",
+  "mnc": "02",
+  "country": {
+    "name": "French Departments and Territories in the Indian Ocean (France)",
+    "iso": "YT/RE",
+    "code": "262",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Only",
+      "operator": "Telco OI",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
+    }
+  ]
+}

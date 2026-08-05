@@ -1,0 +1,19 @@
+{
+  "mcc": "732",
+  "mnc": "001",
+  "country": {
+    "name": "Colombia",
+    "iso": "CO",
+    "code": "57",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Movistar",
+      "operator": "Colombia Telecomunicaciones S.A. ESP",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

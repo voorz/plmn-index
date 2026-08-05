@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "860",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "STRATA",
+      "operator": "Uintah Basin Electronic Telecommunications",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700"
+    }
+  ]
+}

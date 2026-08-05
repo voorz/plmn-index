@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "880",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Bell / Telus / SaskTel",
+      "operator": "Shared Telus, Bell, and SaskTel",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / UMTS 1900"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "238",
+  "mnc": "03",
+  "country": {
+    "name": "Denmark (Kingdom of Denmark)",
+    "iso": "DK",
+    "code": "45",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Syniverse Technologies",
+      "operator": "Syniverse Technologies",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

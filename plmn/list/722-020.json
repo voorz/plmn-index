@@ -1,0 +1,19 @@
+{
+  "mcc": "722",
+  "mnc": "020",
+  "country": {
+    "name": "Argentina",
+    "iso": "AR",
+    "code": "54",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Nextel",
+      "operator": "NII Holdings",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "iDEN 800"
+    }
+  ]
+}

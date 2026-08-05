@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "27",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Globetouch",
+      "operator": "GlobeTouch AB",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

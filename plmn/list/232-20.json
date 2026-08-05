@@ -1,0 +1,34 @@
+{
+  "mcc": "232",
+  "mnc": "20",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "m:tel",
+      "operator": "MTEL Austria GmbH",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "m-tel",
+      "icon_scope": "232",
+      "subs": [
+        {
+          "brand": "TRASNA_IRELAND",
+          "names": [
+            "trasna_ireland"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "MTEL_Austria_eSIM_Postpaid_IMSI2_v2.0"
+          ]
+        }
+      ]
+    }
+  ]
+}

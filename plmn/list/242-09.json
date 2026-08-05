@@ -1,0 +1,19 @@
+{
+  "mcc": "242",
+  "mnc": "09",
+  "country": {
+    "name": "Norway",
+    "iso": "NO",
+    "code": "47",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Com4",
+      "operator": "Com4 AS",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

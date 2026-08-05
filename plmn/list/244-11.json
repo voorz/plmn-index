@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "11",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Viahub",
+      "operator": "Traficom",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

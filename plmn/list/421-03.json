@@ -1,0 +1,18 @@
+{
+  "mcc": "421",
+  "mnc": "03",
+  "country": {
+    "name": "Yemen",
+    "iso": "YE",
+    "code": "967"
+  },
+  "operators": [
+    {
+      "brand": "Yemen Mobile",
+      "operator": "Yemen Mobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA 850"
+    }
+  ]
+}

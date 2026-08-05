@@ -1,0 +1,19 @@
+{
+  "mcc": "222",
+  "mnc": "77",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "IPSE 2000",
+      "operator": "",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 2100"
+    }
+  ]
+}

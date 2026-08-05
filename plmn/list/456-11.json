@@ -1,0 +1,19 @@
+{
+  "mcc": "456",
+  "mnc": "11",
+  "country": {
+    "name": "Cambodia",
+    "iso": "KH",
+    "code": "855",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "SEATEL",
+      "operator": "SEATEL Cambodia",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 850 / LTE 2600"
+    }
+  ]
+}

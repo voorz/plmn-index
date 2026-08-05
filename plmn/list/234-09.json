@@ -1,0 +1,18 @@
+{
+  "mcc": "234",
+  "mnc": "09",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Tismi",
+      "operator": "Tismi BV",
+      "status": "Unknown",
+      "type": "National"
+    }
+  ]
+}

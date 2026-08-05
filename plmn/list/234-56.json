@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "56",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "NCSC",
+      "operator": "National Cyber Security Centre",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

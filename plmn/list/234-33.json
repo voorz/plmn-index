@@ -1,0 +1,64 @@
+{
+  "mcc": "234",
+  "mnc": "33",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "EE",
+      "operator": "EE Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 1800 / 5G 2100 / 5G 2600 / 5G 3500",
+      "icon": "orange",
+      "icon_scope": "234",
+      "subs": [
+        {
+          "brand": "CTExcel",
+          "names": [
+            "ctexcel",
+            "cmlink",
+            "esim"
+          ],
+          "gid1": "0000",
+          "gid2": "ffff",
+          "profile_names": [
+            "CTExcel eSIM",
+            "CMI eSIM",
+            "eSIM"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Orange",
+      "operator": "EE",
+      "status": "",
+      "type": "",
+      "bands": "GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600",
+      "icon": "orange",
+      "icon_scope": "234",
+      "subs": [
+        {
+          "brand": "CTExcel",
+          "names": [
+            "ctexcel",
+            "cmlink",
+            "esim"
+          ],
+          "gid1": "0000",
+          "gid2": "ffff",
+          "profile_names": [
+            "CTExcel eSIM",
+            "CMI eSIM",
+            "eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

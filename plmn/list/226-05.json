@@ -1,0 +1,56 @@
+{
+  "mcc": "226",
+  "mnc": "05",
+  "country": {
+    "name": "Romania",
+    "iso": "RO",
+    "code": "40",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Digi.Mobil/DIGI",
+      "operator": "RCS&RDS",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 800 / LTE 900 / LTE 2100 / LTE 2600 / TD-LTE 2600 / 5G 2600 / 5G 3500",
+      "icon": "meo",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Digi.Mobil RO",
+          "names": [
+            "digi.mobil ro"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Digi.Mobil RO"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Digi.Mobil",
+      "operator": "RCS&RDS",
+      "status": "",
+      "type": "",
+      "bands": "UMTS 900 / UMTS 2100 / LTE 900 / LTE 2100 / TD-LTE 2600 / 5G 3500",
+      "icon": "meo",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Digi.Mobil RO",
+          "names": [
+            "digi.mobil ro"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Digi.Mobil RO"
+          ]
+        }
+      ]
+    }
+  ]
+}

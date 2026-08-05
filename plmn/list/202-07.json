@@ -1,0 +1,19 @@
+{
+  "mcc": "202",
+  "mnc": "07",
+  "country": {
+    "name": "Greece",
+    "iso": "GR",
+    "code": "30",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "AMD Telecom",
+      "operator": "AMD Telecom",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

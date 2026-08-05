@@ -1,0 +1,18 @@
+{
+  "mcc": "541",
+  "mnc": "00",
+  "country": {
+    "name": "Vanuatu",
+    "iso": "VU",
+    "code": "678"
+  },
+  "operators": [
+    {
+      "brand": "AIL",
+      "operator": "ACeS International (AIL)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "mcc": "310",
+  "mnc": "260",
+  "country": {
+    "name": "Puerto Rico",
+    "iso": "PR",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "T-Mobile",
+      "operator": "T-Mobile US",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / LTE 600 / LTE 1900 / LTE 1700 / 5G 600 / 5G 850 / 5G 2500",
+      "icon": "t-mobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "T-Mobile",
+          "names": [
+            "t-mobile"
+          ],
+          "gid1": "544d",
+          "gid2": "",
+          "profile_names": [
+            "CONVSIM5G_Adaptive",
+            "CONVSIM5G",
+            "T-Mobile",
+            "8901260444723803504"
+          ]
+        },
+        {
+          "brand": "Metro by T-Mobile",
+          "names": [
+            "metro by t-mobile"
+          ],
+          "gid1": "6d38",
+          "gid2": "",
+          "profile_names": [
+            "METROVSIM5G_Adaptive"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "T-Mobile",
+      "operator": "T-Mobile US",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 600 / LTE 700 / LTE 1900 / LTE 1700 / LTE 2500 / 5G 600 / 5G 1900 / 5G 1700 / 5G 2500 / 5G 26000 / 5G 28000 / 5G 39000",
+      "icon": "t-mobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "T-Mobile",
+          "names": [
+            "t-mobile"
+          ],
+          "gid1": "544d",
+          "gid2": "",
+          "profile_names": [
+            "CONVSIM5G_Adaptive",
+            "CONVSIM5G",
+            "T-Mobile",
+            "8901260444723803504"
+          ]
+        },
+        {
+          "brand": "Metro by T-Mobile",
+          "names": [
+            "metro by t-mobile"
+          ],
+          "gid1": "6d38",
+          "gid2": "",
+          "profile_names": [
+            "METROVSIM5G_Adaptive"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "T-Mobile",
+      "operator": "T-Mobile US",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 1900 / UMTS 1700 / LTE 850 / LTE 700 / LTE 1900 / LTE 1700 / 5G 600",
+      "icon": "t-mobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "T-Mobile",
+          "names": [
+            "t-mobile"
+          ],
+          "gid1": "544d",
+          "gid2": "",
+          "profile_names": [
+            "CONVSIM5G_Adaptive",
+            "CONVSIM5G",
+            "T-Mobile",
+            "8901260444723803504"
+          ]
+        },
+        {
+          "brand": "Metro by T-Mobile",
+          "names": [
+            "metro by t-mobile"
+          ],
+          "gid1": "6d38",
+          "gid2": "",
+          "profile_names": [
+            "METROVSIM5G_Adaptive"
+          ]
+        }
+      ]
+    }
+  ]
+}

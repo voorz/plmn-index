@@ -1,0 +1,18 @@
+{
+  "mcc": "610",
+  "mnc": "02",
+  "country": {
+    "name": "Mali",
+    "iso": "ML",
+    "code": "223"
+  },
+  "operators": [
+    {
+      "brand": "Orange",
+      "operator": "Orange Mali SA",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE"
+    }
+  ]
+}

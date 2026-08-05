@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "24",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "IT Partners Telco Sp. z o.o.",
+      "operator": "IT Partners Telco Sp. z o.o.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

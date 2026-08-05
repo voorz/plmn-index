@@ -1,0 +1,18 @@
+{
+  "mcc": "616",
+  "mnc": "04",
+  "country": {
+    "name": "Benin",
+    "iso": "BJ",
+    "code": "229"
+  },
+  "operators": [
+    {
+      "brand": "BBCOM",
+      "operator": "Bell Benin Communications",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

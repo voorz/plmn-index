@@ -1,0 +1,45 @@
+{
+  "mcc": "262",
+  "mnc": "43",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Lycamobile",
+      "operator": "Lycamobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "lycamobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "LYC40313_10K_GEN_DEU_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250918"
+          ]
+        },
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "LycaMobile Germany"
+          ]
+        }
+      ]
+    }
+  ]
+}

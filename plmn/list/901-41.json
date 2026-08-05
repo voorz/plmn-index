@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "41",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "One Network B.V.",
+      "operator": "One Network B.V.",
+      "status": "Operational",
+      "type": "International",
+      "bands": "MVNO"
+    }
+  ]
+}

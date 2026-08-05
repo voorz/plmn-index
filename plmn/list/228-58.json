@@ -1,0 +1,31 @@
+{
+  "mcc": "228",
+  "mnc": "58",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "beeone",
+      "operator": "Beeone Communications SA",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "beeone",
+      "icon_scope": "228",
+      "subs": [
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim"
+          ],
+          "gid1": "4d5543484f",
+          "gid2": "4d5543484f32303235"
+        }
+      ]
+    }
+  ]
+}

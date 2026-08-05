@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "26",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Simsalasim Germany GmbH",
+      "operator": "Simsalasim Germany GmbH",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

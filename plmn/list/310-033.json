@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "033",
+  "country": {
+    "name": "Guam (United States of America)",
+    "iso": "GU",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Guam Teleph. Auth",
+      "operator": "Guam Telephone Authority",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

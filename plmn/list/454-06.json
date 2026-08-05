@@ -1,0 +1,59 @@
+{
+  "mcc": "454",
+  "mnc": "06",
+  "country": {
+    "name": "Hong Kong",
+    "iso": "HK",
+    "code": "852",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "SmarTone",
+      "operator": "SmarTone Mobile Communications Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 850 / 5G 3500 / 5G 4700 / 5G 28000",
+      "icon": "smartone",
+      "icon_scope": "454",
+      "subs": [
+        {
+          "brand": "Birdie",
+          "names": [
+            "birdie",
+            "smartone hk",
+            "smc",
+            "esim",
+            "mb",
+            "carrier",
+            "esim",
+            "vacay"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "SmarTone",
+            "ESIM_ACCESS_CARRIER",
+            "ESIM",
+            "MB45406_20250520",
+            "Roamic_APP",
+            "19_1725524949878",
+            "2034_1729496083759",
+            "SMC"
+          ]
+        },
+        {
+          "brand": "SCT",
+          "names": [
+            "sct"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "HongKongSCT"
+          ]
+        }
+      ]
+    }
+  ]
+}

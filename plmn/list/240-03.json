@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "03",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Net 1",
+      "operator": "Teracom AB",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 450"
+    }
+  ]
+}

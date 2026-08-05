@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "09",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Bravo Telecom",
+      "operator": "Bravo Telecom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

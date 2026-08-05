@@ -1,0 +1,19 @@
+{
+  "mcc": "525",
+  "mnc": "02",
+  "country": {
+    "name": "Singapore",
+    "iso": "SG",
+    "code": "65",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "SingTel-G18",
+      "operator": "Singapore Telecom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

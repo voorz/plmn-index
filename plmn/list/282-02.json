@@ -1,0 +1,34 @@
+{
+  "mcc": "282",
+  "mnc": "02",
+  "country": {
+    "name": "Georgia",
+    "iso": "GE",
+    "code": "995",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Magti",
+      "operator": "MagtiCom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800",
+      "icon": "magti",
+      "icon_scope": "282",
+      "subs": [
+        {
+          "brand": "Magticom",
+          "names": [
+            "magticom"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Magticom GEO USIM 5G COMM 01"
+          ]
+        }
+      ]
+    }
+  ]
+}

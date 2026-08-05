@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "14",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Avatel Movil",
+      "operator": "AVATEL MÓVIL, S.L.U.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "WiMAX"
+    }
+  ]
+}

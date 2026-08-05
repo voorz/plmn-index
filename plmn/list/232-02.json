@@ -1,0 +1,18 @@
+{
+  "mcc": "232",
+  "mnc": "02",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "A1 Telekom",
+      "operator": "A1 Telekom Austria",
+      "status": "Reserved",
+      "type": "National"
+    }
+  ]
+}

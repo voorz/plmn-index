@@ -1,0 +1,36 @@
+{
+  "mcc": "262",
+  "mnc": "07",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "O2",
+      "operator": "Telefónica Germany GmbH & Co. oHG",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600",
+      "icon": "o2",
+      "icon_scope": "262",
+      "subs": [
+        {
+          "brand": "Willkommen",
+          "names": [
+            "willkommen"
+          ],
+          "gid1": "ffffffffffffffffffffffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffffffffffffffffffffffff",
+          "profile_names": [
+            "post blue",
+            "post blue Klarmobil",
+            "pre blue"
+          ]
+        }
+      ]
+    }
+  ]
+}

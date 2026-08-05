@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "05",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Orange",
+      "operator": "Orange Polska S.A.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 2100"
+    }
+  ]
+}

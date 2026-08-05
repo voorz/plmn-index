@@ -1,0 +1,19 @@
+{
+  "mcc": "293",
+  "mnc": "21",
+  "country": {
+    "name": "Slovenia",
+    "iso": "SI",
+    "code": "386",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "NOVATEL d.o.o.",
+      "operator": "NOVATEL d.o.o.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "620",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "ICE Wireless",
+      "operator": "ICE Wireless",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / GSM 1900 / LTE 850 / LTE 1900"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "352",
+  "mnc": "110",
+  "country": {
+    "name": "Grenada",
+    "iso": "GD",
+    "code": "1473"
+  },
+  "operators": [
+    {
+      "brand": "FLOW",
+      "operator": "Cable & Wireless Grenada Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / UMTS 850 / LTE 700"
+    }
+  ]
+}

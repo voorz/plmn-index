@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "240",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "XF Wireless Investments, LLC",
+      "operator": "XF Wireless Investments, LLC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown 3500"
+    }
+  ]
+}

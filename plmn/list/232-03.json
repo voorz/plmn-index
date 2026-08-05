@@ -1,0 +1,31 @@
+{
+  "mcc": "232",
+  "mnc": "03",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Magenta",
+      "operator": "T-Mobile Austria GmbH",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 2100 / 5G 3500",
+      "icon": "t-mobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Magenta",
+          "names": [
+            "magenta"
+          ],
+          "gid1": "01",
+          "gid2": "ff"
+        }
+      ]
+    }
+  ]
+}

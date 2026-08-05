@@ -1,0 +1,19 @@
+{
+  "mcc": "242",
+  "mnc": "13",
+  "country": {
+    "name": "Norway",
+    "iso": "NO",
+    "code": "47",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "IXT AS",
+      "operator": "IXT AS",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

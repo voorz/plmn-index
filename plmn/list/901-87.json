@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "87",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Cisco Systems, Inc.",
+      "operator": "Cisco Systems, Inc.",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

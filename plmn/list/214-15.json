@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "15",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "BT Espana  SAU",
+      "operator": "PROCONO, S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

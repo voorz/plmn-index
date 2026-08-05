@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "540",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "RGTN",
+      "operator": "RGTN USA Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

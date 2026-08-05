@@ -1,0 +1,88 @@
+{
+  "mcc": "454",
+  "mnc": "35",
+  "country": {
+    "name": "Hong Kong",
+    "iso": "HK",
+    "code": "852",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Webbing Hong Kong Ltd",
+      "operator": "Webbing Hong Kong Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "webbing",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Redtea Mobile",
+          "names": [
+            "redtea mobile",
+            "redteago",
+            "carrier",
+            "travel"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "RTG_Android",
+            "RedteaGO",
+            "Klook_app",
+            "ESIM_ACCESS_CARRIER",
+            "Roamic_APP"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "none",
+          "gid2": "none",
+          "profile_names": [
+            "ESIM_ACCESS_CARRIER"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Webbing",
+      "operator": "Webbing Hong Kong Ltd",
+      "status": "",
+      "type": "",
+      "bands": "MVNO",
+      "icon": "webbing",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Redtea Mobile",
+          "names": [
+            "redtea mobile",
+            "redteago",
+            "carrier",
+            "travel"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "RTG_Android",
+            "RedteaGO",
+            "Klook_app",
+            "ESIM_ACCESS_CARRIER",
+            "Roamic_APP"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "none",
+          "gid2": "none",
+          "profile_names": [
+            "ESIM_ACCESS_CARRIER"
+          ]
+        }
+      ]
+    }
+  ]
+}

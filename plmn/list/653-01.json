@@ -1,0 +1,18 @@
+{
+  "mcc": "653",
+  "mnc": "01",
+  "country": {
+    "name": "Eswatini",
+    "iso": "SZ",
+    "code": "268"
+  },
+  "operators": [
+    {
+      "brand": "EswatiniTelecom",
+      "operator": "SPTC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

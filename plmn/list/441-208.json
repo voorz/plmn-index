@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "208",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "Chudenko Corp.",
+      "operator": "Chudenko Corp.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

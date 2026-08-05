@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "82",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Eseye Limited",
+      "operator": "Eseye Limited",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "636",
+  "mnc": "02",
+  "country": {
+    "name": "Ethiopia",
+    "iso": "ET",
+    "code": "251"
+  },
+  "operators": [
+    {
+      "brand": "Safari",
+      "operator": "Safaricom Telecommunications Ethiopia",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM900 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

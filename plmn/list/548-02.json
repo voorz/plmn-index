@@ -1,0 +1,18 @@
+{
+  "mcc": "548",
+  "mnc": "02",
+  "country": {
+    "name": "Cook Islands (Pacific Ocean)",
+    "iso": "CK",
+    "code": "682"
+  },
+  "operators": [
+    {
+      "brand": "VakaNET Ltd.",
+      "operator": "VakaNET Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

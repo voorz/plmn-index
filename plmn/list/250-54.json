@@ -1,0 +1,56 @@
+{
+  "mcc": "250",
+  "mnc": "54",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Miranda-Media",
+      "operator": "Miranda-Media",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE",
+      "icon": "ttk",
+      "icon_scope": "250",
+      "subs": [
+        {
+          "brand": "MIRANDA",
+          "names": [
+            "miranda"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "MIRANDA"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "TTK",
+      "operator": "Tattelecom",
+      "status": "",
+      "type": "",
+      "bands": "LTE 1800",
+      "icon": "ttk",
+      "icon_scope": "250",
+      "subs": [
+        {
+          "brand": "MIRANDA",
+          "names": [
+            "miranda"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "MIRANDA"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "13",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Cwave",
+      "operator": "Citymesh Connect",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800"
+    }
+  ]
+}

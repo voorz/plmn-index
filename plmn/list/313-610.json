@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "610",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Point Broadband Fiber Holding, LLC",
+      "operator": "Point Broadband Fiber Holding, LLC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

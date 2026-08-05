@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "48",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Network Research Belgium",
+      "operator": "Network Research Belgium",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "5G 3500"
+    }
+  ]
+}

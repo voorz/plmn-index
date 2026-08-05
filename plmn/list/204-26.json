@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "26",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "SpeakUp",
+      "operator": "SpeakUp B.V.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

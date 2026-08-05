@@ -1,0 +1,18 @@
+{
+  "mcc": "611",
+  "mnc": "02",
+  "country": {
+    "name": "Guinea",
+    "iso": "GN",
+    "code": "224"
+  },
+  "operators": [
+    {
+      "brand": "Guinée Télécom",
+      "operator": "Guinée Télécom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

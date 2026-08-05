@@ -1,0 +1,19 @@
+{
+  "mcc": "736",
+  "mnc": "01",
+  "country": {
+    "name": "Bolivia",
+    "iso": "BO",
+    "code": "591",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Viva",
+      "operator": "Nuevatel PCS De Bolivia SA",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 1900 / LTE 1700"
+    }
+  ]
+}

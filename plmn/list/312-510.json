@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "510",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "WUE Inc.",
+      "operator": "WUE Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

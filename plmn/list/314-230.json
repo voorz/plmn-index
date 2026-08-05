@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "230",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Trace-Tek LLC",
+      "operator": "Trace-Tek LLC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

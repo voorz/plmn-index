@@ -1,0 +1,19 @@
+{
+  "mcc": "247",
+  "mnc": "04",
+  "country": {
+    "name": "Latvia",
+    "iso": "LV",
+    "code": "371",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Tet",
+      "operator": "Beta Telecom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

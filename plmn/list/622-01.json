@@ -1,0 +1,18 @@
+{
+  "mcc": "622",
+  "mnc": "01",
+  "country": {
+    "name": "Chad",
+    "iso": "TD",
+    "code": "235"
+  },
+  "operators": [
+    {
+      "brand": "Airtel",
+      "operator": "Bharti Airtel SA",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

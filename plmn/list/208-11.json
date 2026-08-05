@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "11",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "SFR",
+      "operator": "Altice",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100"
+    }
+  ]
+}

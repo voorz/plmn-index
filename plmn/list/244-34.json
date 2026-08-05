@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "34",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Bittium Wireless",
+      "operator": "Bittium Wireless Oy",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

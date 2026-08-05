@@ -1,0 +1,19 @@
+{
+  "mcc": "422",
+  "mnc": "04",
+  "country": {
+    "name": "Oman",
+    "iso": "OM",
+    "code": "968",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Omantel",
+      "operator": "Oman Telecommunications Company",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

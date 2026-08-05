@@ -1,0 +1,18 @@
+{
+  "mcc": "340",
+  "mnc": "10",
+  "country": {
+    "name": "French Antilles (France)",
+    "iso": "BL/GF/GP/MF/MQ",
+    "code": "596"
+  },
+  "operators": [
+    {
+      "brand": "SRIR",
+      "operator": "SOCIETE DE REALISATION D'INFRASTRUCTURES DE RESEAUX",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

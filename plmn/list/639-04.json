@@ -1,0 +1,19 @@
+{
+  "mcc": "639",
+  "mnc": "04",
+  "country": {
+    "name": "Kenya",
+    "iso": "KE",
+    "code": "254",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Mobile Pay",
+      "operator": "Mobile Pay Kenya Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

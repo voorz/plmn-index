@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "980",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Next Generation Application LLC",
+      "operator": "Next Generation Application LLC",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

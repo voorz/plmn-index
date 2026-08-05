@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "39",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "MTX Connect Ltd",
+      "operator": "MTX Connect Ltd",
+      "status": "Operational",
+      "type": "International",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "64",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Roam Aussie Pty Ltd",
+      "operator": "Roam Aussie Pty Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

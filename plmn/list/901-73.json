@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "73",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Cubic Telecom Limited",
+      "operator": "Cubic Telecom Limited",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

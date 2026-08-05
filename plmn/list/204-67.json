@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "67",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Koning en Hartman B.V.",
+      "operator": "Koning en Hartman B.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800, LTE, 5G"
+    }
+  ]
+}

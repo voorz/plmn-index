@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "35",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "PKP",
+      "operator": "PKP Polskie Linie Kolejowe S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R"
+    }
+  ]
+}

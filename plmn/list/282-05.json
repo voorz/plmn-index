@@ -1,0 +1,19 @@
+{
+  "mcc": "282",
+  "mnc": "05",
+  "country": {
+    "name": "Georgia",
+    "iso": "GE",
+    "code": "995",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "S1",
+      "operator": "Silknet",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA 800"
+    }
+  ]
+}

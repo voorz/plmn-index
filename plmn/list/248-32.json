@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "32",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Narayana OÜ",
+      "operator": "Narayana OÜ",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

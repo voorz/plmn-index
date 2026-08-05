@@ -1,0 +1,56 @@
+{
+  "mcc": "284",
+  "mnc": "01",
+  "country": {
+    "name": "Bulgaria",
+    "iso": "BG",
+    "code": "359",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "A1 BG",
+      "operator": "A1 Bulgaria",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / 5G 3500",
+      "icon": "one",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "A1 Bulgaria",
+          "names": [
+            "a1 bulgaria"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "A1BG eSIM"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "A1",
+      "operator": "A1 Bulgaria",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100",
+      "icon": "one",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "A1 Bulgaria",
+          "names": [
+            "a1 bulgaria"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "A1BG eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "440",
+  "mnc": "23",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "NTT DoCoMo",
+      "operator": "Fujitsu Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "272",
+  "mnc": "17",
+  "country": {
+    "name": "Ireland",
+    "iso": "IE",
+    "code": "353",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "3",
+      "operator": "Three Ireland (Hutchison) Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

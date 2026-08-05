@@ -1,0 +1,19 @@
+{
+  "mcc": "374",
+  "mnc": "140",
+  "country": {
+    "name": "Trinidad and Tobago",
+    "iso": "TT",
+    "code": "1868",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Laqtel",
+      "operator": "LaqTel Ltd.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA"
+    }
+  ]
+}

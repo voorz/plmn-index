@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "22",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Febo.mobi",
+      "operator": "FEBO Telecom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

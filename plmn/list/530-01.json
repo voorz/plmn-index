@@ -1,0 +1,106 @@
+{
+  "mcc": "530",
+  "mnc": "01",
+  "country": {
+    "name": "New Zealand",
+    "iso": "NZ",
+    "code": "64",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "One NZ",
+      "operator": "One NZ",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500",
+      "icon": "vodafone",
+      "icon_scope": "530",
+      "subs": [
+        {
+          "brand": "Rocket",
+          "names": [
+            "rocket",
+            "contact",
+            "mighty mobile",
+            "telsim nz"
+          ],
+          "gid1": "4d",
+          "gid2": "",
+          "profile_names": [
+            "Rocket",
+            "Telsim NZ",
+            "Contact"
+          ]
+        },
+        {
+          "brand": "One NZ",
+          "names": [
+            "one nz"
+          ],
+          "gid1": "ff",
+          "gid2": "",
+          "profile_names": [
+            "One NZ"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "ff",
+          "gid2": "none",
+          "profile_names": [
+            "One NZ"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Vodafone",
+      "operator": "Vodafone New Zealand",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600 / 5G 3500",
+      "icon": "vodafone",
+      "icon_scope": "530",
+      "subs": [
+        {
+          "brand": "Rocket",
+          "names": [
+            "rocket",
+            "contact",
+            "mighty mobile",
+            "telsim nz"
+          ],
+          "gid1": "4d",
+          "gid2": "",
+          "profile_names": [
+            "Rocket",
+            "Telsim NZ",
+            "Contact"
+          ]
+        },
+        {
+          "brand": "One NZ",
+          "names": [
+            "one nz"
+          ],
+          "gid1": "ff",
+          "gid2": "",
+          "profile_names": [
+            "One NZ"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "ff",
+          "gid2": "none",
+          "profile_names": [
+            "One NZ"
+          ]
+        }
+      ]
+    }
+  ]
+}

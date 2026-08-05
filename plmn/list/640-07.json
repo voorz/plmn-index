@@ -1,0 +1,19 @@
+{
+  "mcc": "640",
+  "mnc": "07",
+  "country": {
+    "name": "Tanzania",
+    "iso": "TZ",
+    "code": "255",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "TTCL Mobile",
+      "operator": "Tanzania Telecommunication Company LTD (TTCL)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA 800 / UMTS 2100 / LTE 1800 / TD-LTE 2300"
+    }
+  ]
+}

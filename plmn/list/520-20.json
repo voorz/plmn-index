@@ -1,0 +1,19 @@
+{
+  "mcc": "520",
+  "mnc": "20",
+  "country": {
+    "name": "Thailand",
+    "iso": "TH",
+    "code": "66",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "ACeS",
+      "operator": "ACeS",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Satellite"
+    }
+  ]
+}

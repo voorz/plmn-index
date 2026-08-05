@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "38",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Truphone",
+      "operator": "TP Operations Australia",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

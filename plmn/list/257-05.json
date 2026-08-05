@@ -1,0 +1,19 @@
+{
+  "mcc": "257",
+  "mnc": "05",
+  "country": {
+    "name": "Belarus",
+    "iso": "BY",
+    "code": "375",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "byfly",
+      "operator": "Beltelecom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "WiMAX 3500"
+    }
+  ]
+}

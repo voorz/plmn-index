@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "45",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "VIRVE",
+      "operator": "Suomen Turvallisuusverkko Oy",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

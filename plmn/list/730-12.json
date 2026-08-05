@@ -1,0 +1,19 @@
+{
+  "mcc": "730",
+  "mnc": "12",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Colo-Colo MóvilWanderers Móvil",
+      "operator": "Telestar Móvil S.A.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "mcc": "552",
+  "mnc": "99",
+  "country": {
+    "name": "Palau",
+    "iso": "PW",
+    "code": "680",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "PMCI",
+      "operator": "Palau Mobile Communications Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE",
+      "icon": "pmci",
+      "icon_scope": "552",
+      "subs": [
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "2034_1729496083759",
+            "MultiIMSI"
+          ]
+        },
+        {
+          "brand": "SCT",
+          "names": [
+            "sct"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "HongKongSCT"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "425",
+  "mnc": "14",
+  "country": {
+    "name": "Israel",
+    "iso": "IL",
+    "code": "970",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Pelephone",
+      "operator": "Pelephone Communications Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "344",
+  "mnc": "920",
+  "country": {
+    "name": "Antigua and Barbuda",
+    "iso": "AG",
+    "code": "1268"
+  },
+  "operators": [
+    {
+      "brand": "FLOW",
+      "operator": "Cable & Wireless Caribbean Cellular (Antigua) Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / LTE 1700"
+    }
+  ]
+}

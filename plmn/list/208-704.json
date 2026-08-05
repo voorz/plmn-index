@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "704",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Axione Limousin",
+      "operator": "Axione Limousin",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

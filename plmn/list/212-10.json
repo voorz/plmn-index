@@ -1,0 +1,18 @@
+{
+  "mcc": "212",
+  "mnc": "10",
+  "country": {
+    "name": "Monaco",
+    "iso": "MC",
+    "code": "377"
+  },
+  "operators": [
+    {
+      "brand": "Monaco Telecom",
+      "operator": "Monaco Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500"
+    }
+  ]
+}

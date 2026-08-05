@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "450",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Viaero",
+      "operator": "Viaero Wireless",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / UMTS 1900"
+    }
+  ]
+}

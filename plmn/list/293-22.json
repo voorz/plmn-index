@@ -1,0 +1,19 @@
+{
+  "mcc": "293",
+  "mnc": "22",
+  "country": {
+    "name": "Slovenia",
+    "iso": "SI",
+    "code": "386",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Mobile One Ltd.",
+      "operator": "Mobile One Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

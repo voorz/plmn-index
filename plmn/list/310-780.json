@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "780",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Dispatch Direct",
+      "operator": "D. D. Inc.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "iDEN"
+    }
+  ]
+}

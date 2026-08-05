@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "01",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "Kish Cell Pars",
+      "operator": "Kish Cell Pars",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

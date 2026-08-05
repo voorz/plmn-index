@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "23",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Yoigo",
+      "operator": "Xfera Moviles S.A.U.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

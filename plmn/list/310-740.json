@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "740",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Viaero",
+      "operator": "Viaero Wireless",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 1700 / LTE 1900"
+    }
+  ]
+}

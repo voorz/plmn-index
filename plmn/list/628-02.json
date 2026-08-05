@@ -1,0 +1,18 @@
+{
+  "mcc": "628",
+  "mnc": "02",
+  "country": {
+    "name": "Gabon",
+    "iso": "GA",
+    "code": "241"
+  },
+  "operators": [
+    {
+      "brand": "Moov",
+      "operator": "Gabon Telecom S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+    }
+  ]
+}

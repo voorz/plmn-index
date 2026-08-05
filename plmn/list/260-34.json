@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "34",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "NetWorkS!",
+      "operator": "T-Mobile Polska S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 800 / LTE 2600"
+    }
+  ]
+}

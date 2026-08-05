@@ -1,0 +1,56 @@
+{
+  "mcc": "405",
+  "mnc": "863",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "code": "91",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Jio Madhya Pradesh",
+      "operator": "Reliance Jio Infocomm Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 850 / LTE 1800 / TD-LTE 2300",
+      "icon": "jio",
+      "icon_scope": "405",
+      "subs": [
+        {
+          "brand": "Jio",
+          "names": [
+            "jio"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "89918630401069550932"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Jio",
+      "operator": "Madhya Pradesh",
+      "status": "",
+      "type": "",
+      "bands": "LTE 850 / LTE 1800 / TD-LTE 2300",
+      "icon": "jio",
+      "icon_scope": "405",
+      "subs": [
+        {
+          "brand": "Jio",
+          "names": [
+            "jio"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "89918630401069550932"
+          ]
+        }
+      ]
+    }
+  ]
+}

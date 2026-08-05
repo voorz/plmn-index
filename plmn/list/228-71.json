@@ -1,0 +1,34 @@
+{
+  "mcc": "228",
+  "mnc": "71",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "spusu",
+      "operator": "MASS Response Service GmbH",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "spusu-international",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "spusu",
+          "names": [
+            "spusu"
+          ],
+          "gid1": "0052",
+          "gid2": "",
+          "profile_names": [
+            "spusu eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

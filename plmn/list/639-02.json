@@ -1,0 +1,34 @@
+{
+  "mcc": "639",
+  "mnc": "02",
+  "country": {
+    "name": "Kenya",
+    "iso": "KE",
+    "code": "254",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Safaricom",
+      "operator": "Safaricom Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 2500",
+      "icon": "safaricom",
+      "icon_scope": "639",
+      "subs": [
+        {
+          "brand": "Safaricom",
+          "names": [
+            "safaricom"
+          ],
+          "gid1": "5a69674d",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Safaricom eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

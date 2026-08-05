@@ -1,0 +1,34 @@
+{
+  "mcc": "232",
+  "mnc": "05",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "3",
+      "operator": "Hutchison Drei Austria",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600",
+      "icon": "3",
+      "icon_scope": "232",
+      "subs": [
+        {
+          "brand": "3 AT",
+          "names": [
+            "3 at"
+          ],
+          "gid1": "0303",
+          "gid2": "0303",
+          "profile_names": [
+            "3 AT"
+          ]
+        }
+      ]
+    }
+  ]
+}

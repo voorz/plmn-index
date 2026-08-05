@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "03",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Enreach",
+      "operator": "Enreach Netherlands B.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNE"
+    }
+  ]
+}

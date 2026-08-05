@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "92",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Sonera",
+      "operator": "TeliaSonera Finland Oyj",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

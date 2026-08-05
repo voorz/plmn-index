@@ -1,0 +1,18 @@
+{
+  "mcc": "514",
+  "mnc": "02",
+  "country": {
+    "name": "East Timor",
+    "iso": "TL",
+    "code": "670"
+  },
+  "operators": [
+    {
+      "brand": "TT",
+      "operator": "Timor Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS / LTE 1800"
+    }
+  ]
+}

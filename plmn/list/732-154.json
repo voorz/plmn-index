@@ -1,0 +1,34 @@
+{
+  "mcc": "732",
+  "mnc": "154",
+  "country": {
+    "name": "Colombia",
+    "iso": "CO",
+    "code": "57",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Virgin Mobile",
+      "operator": "Virgin Mobile Colombia S.A.S.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "virgin-mobile",
+      "icon_scope": "732",
+      "subs": [
+        {
+          "brand": "Virgin Mobile",
+          "names": [
+            "virgin mobile"
+          ],
+          "gid1": "05",
+          "gid2": "",
+          "profile_names": [
+            "01.E0"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "mcc": "272",
+  "mnc": "13",
+  "country": {
+    "name": "Ireland",
+    "iso": "IE",
+    "code": "353",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Lycamobile",
+      "operator": "Lycamobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "lycamobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "LYC40087_5K_GEN_IRL_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250814",
+            "LYC39922_5K_GEN_IRL_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250702",
+            "LYC39301_5K_GEN_IRL_V1.0_V1.8.0_DI_SMENU_SIMFILES_20250311",
+            "LYC40324_5K_GEN_IRL_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250819",
+            "LYC39499_5K_GEN_IRL_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250429",
+            "LYC38279_5K_GEN_IRL_V1.0_V1.8.0_DI_SMENU_SIMFILES_20240503",
+            "LYC38721_2K_GEN_IRL_V1.0_V1.8.0_DI_SMENU_SIMFILES_20240912"
+          ]
+        },
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "",
+          "profile_names": [
+            "LycaMobile"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcc": "231",
+  "mnc": "02",
+  "country": {
+    "name": "Slovakia",
+    "iso": "SK",
+    "code": "421",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telekom",
+      "operator": "Slovak Telekom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 3700 / 5G 2100",
+      "icon": "t-mobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Telekom SK",
+          "names": [
+            "telekom sk"
+          ],
+          "gid1": "ffffffffffffffffff",
+          "gid2": "",
+          "profile_names": [
+            "T-Mobile SK"
+          ]
+        }
+      ]
+    }
+  ]
+}

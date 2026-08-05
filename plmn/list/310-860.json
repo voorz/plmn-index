@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "860",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Five Star Wireless",
+      "operator": "TX RSA 15B2, LP",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA"
+    }
+  ]
+}

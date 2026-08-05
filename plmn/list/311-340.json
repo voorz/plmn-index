@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "340",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Illinois Valley Cellular RSA 2 Partnership",
+      "operator": "Illinois Valley Cellular",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA2000 / LTE 850"
+    }
+  ]
+}

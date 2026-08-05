@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "630",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Aliant Mobility",
+      "operator": "Bell Aliant",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

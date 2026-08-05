@@ -1,0 +1,19 @@
+{
+  "mcc": "641",
+  "mnc": "05",
+  "country": {
+    "name": "Uganda",
+    "iso": "UG",
+    "code": "256",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Roke Telkom (Uganda) Limited",
+      "operator": "Roke Telkom (Uganda) Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

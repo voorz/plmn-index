@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "700",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Weaccess group",
+      "operator": "Weaccess group",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

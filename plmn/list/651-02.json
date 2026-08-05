@@ -1,0 +1,18 @@
+{
+  "mcc": "651",
+  "mnc": "02",
+  "country": {
+    "name": "Lesotho",
+    "iso": "LS",
+    "code": "266"
+  },
+  "operators": [
+    {
+      "brand": "Econet Telecom",
+      "operator": "Econet Ezi-cel",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE"
+    }
+  ]
+}

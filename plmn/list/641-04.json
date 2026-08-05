@@ -1,0 +1,19 @@
+{
+  "mcc": "641",
+  "mnc": "04",
+  "country": {
+    "name": "Uganda",
+    "iso": "UG",
+    "code": "256",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Lycamobile",
+      "operator": "Tangerine Uganda Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

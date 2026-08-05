@@ -1,0 +1,18 @@
+{
+  "mcc": "623",
+  "mnc": "02",
+  "country": {
+    "name": "Central African Republic",
+    "iso": "CF",
+    "code": "236"
+  },
+  "operators": [
+    {
+      "brand": "TC",
+      "operator": "Telecel Centrafrique",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100"
+    }
+  ]
+}

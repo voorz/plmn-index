@@ -1,0 +1,18 @@
+{
+  "mcc": "234",
+  "mnc": "06",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Internet Computer Bureau Limited",
+      "operator": "Internet Computer Bureau Limited",
+      "status": "Not operational",
+      "type": "National"
+    }
+  ]
+}

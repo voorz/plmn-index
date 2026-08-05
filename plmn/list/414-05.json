@@ -1,0 +1,35 @@
+{
+  "mcc": "414",
+  "mnc": "05",
+  "country": {
+    "name": "Myanmar",
+    "iso": "MM",
+    "code": "95",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Ooredoo",
+      "operator": "Ooredoo Myanmar",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100",
+      "icon": "ooredoo",
+      "icon_scope": "414",
+      "subs": [
+        {
+          "brand": "U9",
+          "names": [
+            "u9",
+            "ooredoo"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "profilename"
+          ]
+        }
+      ]
+    }
+  ]
+}

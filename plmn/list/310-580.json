@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "580",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "PCS ONE",
+      "operator": "Inland Cellular Telephone Company",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA"
+    }
+  ]
+}

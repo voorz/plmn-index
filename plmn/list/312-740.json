@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "740",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Locus Telecommunications",
+      "operator": "KDDI America, Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

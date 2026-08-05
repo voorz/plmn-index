@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "840",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "South Georgia Regional Information Technology Authority",
+      "operator": "South Georgia Regional Information Technology Authority",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

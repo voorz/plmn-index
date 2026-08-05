@@ -1,0 +1,103 @@
+{
+  "mcc": "204",
+  "mnc": "04",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "Vodafone Libertel B.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 1800",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vodafone Travel",
+          "names": [
+            "vodafone travel",
+            "trvl",
+            "vrs"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "VRS",
+            "Vodafone Travel",
+            "None_GID"
+          ]
+        },
+        {
+          "brand": "vodafone NL",
+          "names": [
+            "vodafone nl"
+          ],
+          "gid1": "02",
+          "gid2": "",
+          "profile_names": [
+            "Vodafone NL– PrePaid"
+          ]
+        },
+        {
+          "brand": "Vodafone NL",
+          "names": [
+            "vodafone nl"
+          ],
+          "gid1": "04",
+          "gid2": "",
+          "profile_names": [
+            "Vodafone NL– PostPaid",
+            "Vodafone NL-PostPaid"
+          ]
+        },
+        {
+          "brand": "depinsim.com",
+          "names": [
+            "depinsim.com"
+          ],
+          "gid1": "2effffffffffffffffff",
+          "gid2": "",
+          "profile_names": [
+            "4G_Profile_ARA_4.0.13"
+          ]
+        },
+        {
+          "brand": "Smartroam_SL",
+          "names": [
+            "smartroam_sl"
+          ],
+          "gid1": "536d617274726f616d5f534cffffff",
+          "gid2": "536d617274726f616d5f534cffffff",
+          "profile_names": [
+            "SR SIMLocal VFNL eSIM Profile"
+          ]
+        },
+        {
+          "brand": "TravelWifi",
+          "names": [
+            "travelwifi"
+          ],
+          "gid1": "54726176656c57696669",
+          "gid2": "ffffffffffffffffffff"
+        },
+        {
+          "brand": "Airalo",
+          "names": [
+            "airalo",
+            "carrier"
+          ],
+          "gid1": "6764ffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Cloud9_GlobalPlus_T01"
+          ]
+        }
+      ]
+    }
+  ]
+}

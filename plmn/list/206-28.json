@@ -1,0 +1,82 @@
+{
+  "mcc": "206",
+  "mnc": "28",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "BICS",
+      "operator": "BICS",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown",
+      "icon": "bics",
+      "icon_scope": "206",
+      "subs": [
+        {
+          "brand": "Carrier",
+          "names": [
+            "carrier",
+            "redtea mobile",
+            "redteago",
+            "slick",
+            "travel"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "RTG_Android",
+            "Access_Jetfi",
+            "ESIM_ACCESS_CARRIER",
+            "Roamic_APP",
+            "BICS"
+          ]
+        },
+        {
+          "brand": "BICS",
+          "names": [
+            "bics"
+          ],
+          "gid1": "0409",
+          "gid2": "0409",
+          "profile_names": [
+            "P_BICS_1.0"
+          ]
+        },
+        {
+          "brand": "eSIM Go",
+          "names": [
+            "esim go",
+            "paypoint",
+            "esimcard.com",
+            "travelesim",
+            "esimatic",
+            "data2go.mobi",
+            "paypoint esim"
+          ],
+          "gid1": "0409",
+          "gid2": "ffff",
+          "profile_names": [
+            "eSIM Go"
+          ]
+        },
+        {
+          "brand": "BICS",
+          "names": [
+            "bics"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "BICS",
+            "Firsty"
+          ]
+        }
+      ]
+    }
+  ]
+}

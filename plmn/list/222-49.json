@@ -1,0 +1,34 @@
+{
+  "mcc": "222",
+  "mnc": "49",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vianova",
+      "operator": "Welcome Italia S.p.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "vianova",
+      "icon_scope": "222",
+      "subs": [
+        {
+          "brand": "Vianova",
+          "names": [
+            "vianova"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Vianova_eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

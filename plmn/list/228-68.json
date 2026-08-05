@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "68",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Intellico AG",
+      "operator": "Intellico AG",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

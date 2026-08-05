@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "10",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "DB Netz",
+      "operator": "DB Netz AG",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R"
+    }
+  ]
+}

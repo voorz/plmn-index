@@ -1,0 +1,19 @@
+{
+  "mcc": "295",
+  "mnc": "09",
+  "country": {
+    "name": "Liechtenstein",
+    "iso": "LI",
+    "code": "423",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "EMnify",
+      "operator": "EMnify GmbH",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

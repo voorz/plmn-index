@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "47",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "SFR",
+      "operator": "Société française du radiotéléphone",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

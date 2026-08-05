@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "690",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Tecore Global Services, LLC",
+      "operator": "Tecore Global Services, LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

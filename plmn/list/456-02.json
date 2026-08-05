@@ -1,0 +1,19 @@
+{
+  "mcc": "456",
+  "mnc": "02",
+  "country": {
+    "name": "Cambodia",
+    "iso": "KH",
+    "code": "855",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Smart",
+      "operator": "Smart Axiata Co. Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100"
+    }
+  ]
+}

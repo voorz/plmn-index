@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "630",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "LICT  Corporation",
+      "operator": "LICT  Corporation",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

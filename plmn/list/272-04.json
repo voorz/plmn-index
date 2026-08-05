@@ -1,0 +1,19 @@
+{
+  "mcc": "272",
+  "mnc": "04",
+  "country": {
+    "name": "Ireland",
+    "iso": "IE",
+    "code": "353",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Access Telecom Ltd.",
+      "operator": "Access Telecom",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

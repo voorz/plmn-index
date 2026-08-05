@@ -1,0 +1,18 @@
+{
+  "mcc": "330",
+  "mnc": "110",
+  "country": {
+    "name": "Puerto Rico",
+    "iso": "PR",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Claro Puerto Rico",
+      "operator": "América Móvil",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / LTE 700 / LTE 850 / LTE 1700 / LTE 2500 / 5G 1700 / 5G 2500 / 5G 28000"
+    }
+  ]
+}

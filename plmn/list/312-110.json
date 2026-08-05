@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "110",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Texas Energy Network LLC",
+      "operator": "Texas Energy Network LLC",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "05",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "Smart Comm",
+      "operator": "Hamrah Hooshmand Ayandeh",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

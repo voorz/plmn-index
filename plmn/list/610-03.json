@@ -1,0 +1,18 @@
+{
+  "mcc": "610",
+  "mnc": "03",
+  "country": {
+    "name": "Mali",
+    "iso": "ML",
+    "code": "223"
+  },
+  "operators": [
+    {
+      "brand": "Telecel",
+      "operator": "Alpha Telecommunication Mali S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100"
+    }
+  ]
+}

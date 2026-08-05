@@ -1,0 +1,19 @@
+{
+  "mcc": "454",
+  "mnc": "24",
+  "country": {
+    "name": "Hong Kong",
+    "iso": "HK",
+    "code": "852",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Multibyte Info Technology Ltd",
+      "operator": "Multibyte Info Technology Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

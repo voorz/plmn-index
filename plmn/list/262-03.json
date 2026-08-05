@@ -1,0 +1,48 @@
+{
+  "mcc": "262",
+  "mnc": "03",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "O2",
+      "operator": "Telefónica Germany GmbH & Co. oHG",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500",
+      "icon": "o2",
+      "icon_scope": "262",
+      "subs": [
+        {
+          "brand": "sipgate",
+          "names": [
+            "sipgate"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "sipgate"
+          ]
+        },
+        {
+          "brand": "Willkommen",
+          "names": [
+            "willkommen"
+          ],
+          "gid1": "ffffffffffffffffffffffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffffffffffffffffffffffff",
+          "profile_names": [
+            "pre green",
+            "post green",
+            "eSIM TEF POSTPAID_GREEN V5",
+            "OneSIM green TUAK FB"
+          ]
+        }
+      ]
+    }
+  ]
+}

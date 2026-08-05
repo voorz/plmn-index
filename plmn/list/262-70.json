@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "70",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "BDBOS",
+      "operator": "BDBOS",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Tetra"
+    }
+  ]
+}

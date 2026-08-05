@@ -1,0 +1,19 @@
+{
+  "mcc": "230",
+  "mnc": "10",
+  "country": {
+    "name": "Czech Republic",
+    "iso": "CZ",
+    "code": "420",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "DataCell s.r.o.",
+      "operator": "DataCell s.r.o.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

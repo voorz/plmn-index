@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "700",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Wireless Partners, LLC",
+      "operator": "Wireless Partners, LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700"
+    }
+  ]
+}

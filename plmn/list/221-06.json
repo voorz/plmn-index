@@ -1,0 +1,18 @@
+{
+  "mcc": "221",
+  "mnc": "06",
+  "country": {
+    "name": "Kosovo",
+    "iso": "XK",
+    "code": "383"
+  },
+  "operators": [
+    {
+      "brand": "Z Mobile",
+      "operator": "Dardaphone.Net LLC",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

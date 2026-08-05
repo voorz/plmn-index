@@ -1,0 +1,19 @@
+{
+  "mcc": "219",
+  "mnc": "12",
+  "country": {
+    "name": "Croatia",
+    "iso": "HR",
+    "code": "385",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "TELE FOCUS",
+      "operator": "TELE FOCUS d.o.o.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

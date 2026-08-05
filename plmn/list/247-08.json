@@ -1,0 +1,19 @@
+{
+  "mcc": "247",
+  "mnc": "08",
+  "country": {
+    "name": "Latvia",
+    "iso": "LV",
+    "code": "371",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "VMT",
+      "operator": "SIA \"VENTAmobile\"",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

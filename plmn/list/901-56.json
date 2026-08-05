@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "56",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "ETSI",
+      "operator": "European Telecommunications Standards Institute",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

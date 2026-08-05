@@ -1,0 +1,18 @@
+{
+  "mcc": "624",
+  "mnc": "04",
+  "country": {
+    "name": "Cameroon",
+    "iso": "CM",
+    "code": "237"
+  },
+  "operators": [
+    {
+      "brand": "Nexttel",
+      "operator": "Viettel Cameroun",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100"
+    }
+  ]
+}

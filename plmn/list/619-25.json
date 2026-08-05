@@ -1,0 +1,18 @@
+{
+  "mcc": "619",
+  "mnc": "25",
+  "country": {
+    "name": "Sierra Leone",
+    "iso": "SL",
+    "code": "232"
+  },
+  "operators": [
+    {
+      "brand": "Mobitel",
+      "operator": "Mobitel",
+      "status": "Reserved",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

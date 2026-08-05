@@ -1,0 +1,19 @@
+{
+  "mcc": "530",
+  "mnc": "11",
+  "country": {
+    "name": "New Zealand",
+    "iso": "NZ",
+    "code": "64",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Tū Ātea",
+      "operator": "Tū Ātea",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 2300 / 5G 3500"
+    }
+  ]
+}

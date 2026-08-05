@@ -1,0 +1,19 @@
+{
+  "mcc": "604",
+  "mnc": "06",
+  "country": {
+    "name": "Morocco",
+    "iso": "MA",
+    "code": "212",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "IAM",
+      "operator": "Ittissalat Al-Maghrib (Maroc Telecom)",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "mcc": "454",
+  "mnc": "00",
+  "country": {
+    "name": "Hong Kong",
+    "iso": "HK",
+    "code": "852",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "1O1O / One2Free / New World Mobility / SUNMobile",
+      "operator": "CSL Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600",
+      "icon": "csl",
+      "icon_scope": "454",
+      "subs": [
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim",
+            "redtea mobile",
+            "redteago",
+            "bondio",
+            "jetfi mobile",
+            "lucky2",
+            "carrier",
+            "esim",
+            "airsime",
+            "lucky hk",
+            "travel",
+            "csl",
+            "eiotclub",
+            "slick",
+            "vacay"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Lucky2",
+            "Access_Jetfi",
+            "RTG_Android",
+            "Klook_app",
+            "RedteaGO",
+            "JOYTEL_CSL_Common_LF_Dualsign",
+            "xi_default",
+            "Lucky HK",
+            "JOYTEL_CSL_Common_LF",
+            "ESIM",
+            "SmartTraveller",
+            "ESIM_ACCESS_CARRIER",
+            "JOYTEL_BLANK_QRCODE_appletV4",
+            "RT_F19_TR",
+            "45400_QC_PLMN_List",
+            "NEWARE_CSL_V003",
+            "CE_CSL_45400",
+            "89852000261093998819",
+            "8985200008911455090",
+            "CTG_GG_ESIM"
+          ]
+        },
+        {
+          "brand": "1010",
+          "names": [
+            "1010",
+            "5g profile"
+          ],
+          "gid1": "01010000ffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "5G profile",
+            "1010"
+          ]
+        },
+        {
+          "brand": "csl",
+          "names": [
+            "csl",
+            "csl 5g"
+          ],
+          "gid1": "01020000ffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "csl 5G",
+            "csl"
+          ]
+        },
+        {
+          "brand": "SUN Mobile",
+          "names": [
+            "sun mobile"
+          ],
+          "gid1": "01030000ffffffff",
+          "gid2": "ffffffffffffffff"
+        },
+        {
+          "brand": "Club",
+          "names": [
+            "club",
+            "club sim"
+          ],
+          "gid1": "01050000ffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Club"
+          ]
+        },
+        {
+          "brand": "csl.",
+          "names": [
+            "csl."
+          ],
+          "gid1": "02020001ffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "csl."
+          ]
+        },
+        {
+          "brand": "MORE Mobile",
+          "names": [
+            "more mobile"
+          ],
+          "gid1": "02040003ffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "MORE Mobile"
+          ]
+        },
+        {
+          "brand": "UPeSIM",
+          "names": [
+            "upesim"
+          ],
+          "gid1": "4454413532303035",
+          "gid2": "",
+          "profile_names": [
+            "UPeSIM_1698307894247"
+          ]
+        },
+        {
+          "brand": "Connect",
+          "names": [
+            "connect"
+          ],
+          "gid1": "636f6e6e65637431ffffffffffffff",
+          "gid2": "636f6e6e65637432ffffffffffffff",
+          "profile_names": [
+            "Telna_MI26_connect_SPN_GID_GP1_v02.12.01",
+            "Telna_MI26_Connect_SPN_GID_v02.12.07"
+          ]
+        },
+        {
+          "brand": "tgt",
+          "names": [
+            "tgt"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "infra",
+            "TUGE"
+          ]
+        },
+        {
+          "brand": "eSIM Internet",
+          "names": [
+            "esim internet"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "Top_Connect_eSIM"
+          ]
+        },
+        {
+          "brand": "Bondio",
+          "names": [
+            "bondio",
+            "billionconnect",
+            "celitech",
+            "lpae-bootrap",
+            "sct",
+            "esimo"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "single_imsi_dynamic",
+            "BillionConnect",
+            "SeedLink",
+            "Celitech",
+            "HK Mobile",
+            "GlobalData"
+          ]
+        },
+        {
+          "brand": "SCT",
+          "names": [
+            "sct"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff"
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "none",
+          "gid2": "none",
+          "profile_names": [
+            "RTG_Android",
+            "Lucky2"
+          ]
+        }
+      ]
+    }
+  ]
+}

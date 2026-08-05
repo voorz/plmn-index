@@ -1,0 +1,151 @@
+{
+  "mcc": "505",
+  "mnc": "03",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "TPG Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 850 / LTE 1800 / LTE 2100 / 5G 700 / 5G 1800 / 5G 2100 / 5G 3500 / 5G 28000",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile",
+            "vodafone au"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "LY40312_5K_GEN_AUS_V1.0_V1.0.0_SI_SMENU_SIMFILES_20250915",
+            "LY24003_5K_GEN_AUS_V1.0_V1.0.0_SI_SMENU_SIMFILES_20250625",
+            "LY24004_5K_GEN_AUS_V1.0_V1.0.0_SI_SMENU_SIMFILES_20250813",
+            "Vodafone AU eSIM",
+            "LY40354_10K_GEN_AUS_V1.0_V1.0.0_SI_SMENU_SIMFILES_20250929",
+            "LY24001_5K_GEN_AUS_V1.0_V1.0.0_SI_SMENU_SIMFILES_20250424",
+            "Vodafone AU"
+          ]
+        },
+        {
+          "brand": "Lebara",
+          "names": [
+            "lebara"
+          ],
+          "gid1": "01",
+          "gid2": "",
+          "profile_names": [
+            "Lebara"
+          ]
+        },
+        {
+          "brand": "Kogan 5G",
+          "names": [
+            "kogan 5g"
+          ],
+          "gid1": "19",
+          "gid2": "",
+          "profile_names": [
+            "Kogan 5G"
+          ]
+        },
+        {
+          "brand": "TPG",
+          "names": [
+            "tpg"
+          ],
+          "gid1": "1a",
+          "gid2": "",
+          "profile_names": [
+            "TPG"
+          ]
+        },
+        {
+          "brand": "iiNet",
+          "names": [
+            "iinet"
+          ],
+          "gid1": "1c",
+          "gid2": "",
+          "profile_names": [
+            "iiNet"
+          ]
+        },
+        {
+          "brand": "Felix 5G",
+          "names": [
+            "felix 5g"
+          ],
+          "gid1": "1e",
+          "gid2": "",
+          "profile_names": [
+            "Felix 5G"
+          ]
+        },
+        {
+          "brand": "EzySim",
+          "names": [
+            "ezysim"
+          ],
+          "gid1": "24",
+          "gid2": "",
+          "profile_names": [
+            "EzySim"
+          ]
+        },
+        {
+          "brand": "G SIM",
+          "names": [
+            "g sim"
+          ],
+          "gid1": "26",
+          "gid2": "",
+          "profile_names": [
+            "G SIM"
+          ]
+        },
+        {
+          "brand": ".",
+          "names": [
+            "."
+          ],
+          "gid1": "27",
+          "gid2": "",
+          "profile_names": [
+            "."
+          ]
+        },
+        {
+          "brand": "ZenSim",
+          "names": [
+            "zensim"
+          ],
+          "gid1": "2a",
+          "gid2": "",
+          "profile_names": [
+            "ZenSim"
+          ]
+        },
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "",
+          "profile_names": [
+            "LycaMobile"
+          ]
+        }
+      ]
+    }
+  ]
+}

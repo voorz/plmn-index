@@ -1,0 +1,19 @@
+{
+  "mcc": "621",
+  "mnc": "28",
+  "country": {
+    "name": "Nigeria",
+    "iso": "NG",
+    "code": "234",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "MCom (Mafab)",
+      "operator": "Mafab Communications Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "5G 3500"
+    }
+  ]
+}

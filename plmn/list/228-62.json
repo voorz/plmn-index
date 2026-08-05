@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "62",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telecom26",
+      "operator": "Telecom26 AG",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

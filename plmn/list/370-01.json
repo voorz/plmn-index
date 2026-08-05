@@ -1,0 +1,19 @@
+{
+  "mcc": "370",
+  "mnc": "01",
+  "country": {
+    "name": "Dominican Republic",
+    "iso": "DO",
+    "code": "1809",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Altice",
+      "operator": "Altice Group",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / GSM 1900 / UMTS 900 / LTE 850 / LTE 900 / LTE 1700 / LTE 1900 / 5G 3500"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "mcc": "238",
+  "mnc": "12",
+  "country": {
+    "name": "Denmark (Kingdom of Denmark)",
+    "iso": "DK",
+    "code": "45",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Lycamobile",
+      "operator": "Lycamobile Denmark Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "lycamobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "LYC40006_5K_GEN_DNK_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250729",
+            "LYC39299_8K_GEN_DNK_V1.0_V1.8.0_DI_SMENU_SIMFILES_20250224",
+            "LYC37874_1K_GEN_DNK_V1.0_V1.8.0_DI_SMENU_SIMFILES_20240222",
+            "LYC38713_3K_GEN_DNK_V1.0_V1.8.0_DI_SMENU_SIMFILES_20240919",
+            "LYC40242_8K_GEN_DNK_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250909",
+            "LYC39054_5K_GEN_DNK_V1.0_V1.8.0_DI_SMENU_SIMFILES_20241209",
+            "LYC38684_3K_GEN_DNK_V1.0_V1.8.0_DI_SMENU_SIMFILES_20240823"
+          ]
+        },
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "",
+          "profile_names": [
+            "LycaMobile"
+          ]
+        }
+      ]
+    }
+  ]
+}

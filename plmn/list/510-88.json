@@ -1,0 +1,19 @@
+{
+  "mcc": "510",
+  "mnc": "88",
+  "country": {
+    "name": "Indonesia",
+    "iso": "ID",
+    "code": "62",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Bolt!",
+      "operator": "PT Internux",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "TD-LTE 2300"
+    }
+  ]
+}

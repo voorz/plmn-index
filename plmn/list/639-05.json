@@ -1,0 +1,19 @@
+{
+  "mcc": "639",
+  "mnc": "05",
+  "country": {
+    "name": "Kenya",
+    "iso": "KE",
+    "code": "254",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Airtel",
+      "operator": "Bharti Airtel",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

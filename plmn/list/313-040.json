@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "040",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "NNTC Wireless",
+      "operator": "Nucla-Naturita Telephone Company",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA"
+    }
+  ]
+}

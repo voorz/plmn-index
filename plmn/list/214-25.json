@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "25",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Xfera Moviles S.A.U.",
+      "operator": "Xfera Moviles S.A.U.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

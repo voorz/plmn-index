@@ -1,0 +1,50 @@
+{
+  "mcc": "310",
+  "mnc": "140",
+  "country": {
+    "name": "Guam (United States of America)",
+    "iso": "GU",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "GTA Wireless",
+      "operator": "Teleguam Holdings, LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / LTE 1700 / 5G 2500 / 5G 3500 / 5G 26000",
+      "icon": "gta-wireless",
+      "icon_scope": "310",
+      "subs": [
+        {
+          "brand": "GTA",
+          "names": [
+            "gta"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff"
+        }
+      ]
+    },
+    {
+      "brand": "GTA Wireless",
+      "operator": "Teleguam Holdings, LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / LTE 1700",
+      "icon": "gta-wireless",
+      "icon_scope": "310",
+      "subs": [
+        {
+          "brand": "GTA",
+          "names": [
+            "gta"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "810",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "ORCID",
+      "operator": "Open RAN Center for Integration and Deployment",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

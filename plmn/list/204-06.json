@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "06",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vectone Mobile",
+      "operator": "Private Mobility Nederland B.V.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

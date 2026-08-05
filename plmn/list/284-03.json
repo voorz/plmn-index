@@ -1,0 +1,34 @@
+{
+  "mcc": "284",
+  "mnc": "03",
+  "country": {
+    "name": "Bulgaria",
+    "iso": "BG",
+    "code": "359",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vivacom",
+      "operator": "BTC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / 5G 1800 / 5G 3500",
+      "icon": "vivacom",
+      "icon_scope": "284",
+      "subs": [
+        {
+          "brand": "VIVACOM eSIM",
+          "names": [
+            "vivacom esim"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "VIVACOM eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

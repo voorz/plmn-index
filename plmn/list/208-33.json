@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "33",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Fibre64",
+      "operator": "Département des Pyrénées-Atlantiques",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "WiMAX"
+    }
+  ]
+}

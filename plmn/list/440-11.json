@@ -1,0 +1,60 @@
+{
+  "mcc": "440",
+  "mnc": "11",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Rakuten Mobile",
+      "operator": "Rakuten Mobile Network, Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 1800 / 5G 3700",
+      "icon": "rakuten",
+      "icon_scope": "440",
+      "subs": [
+        {
+          "brand": "Rakuten",
+          "names": [
+            "rakuten"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "RakutenPhase3Profile",
+            "Rakuten_MVNE_Profile",
+            "Test Profile"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Rakuten",
+      "operator": "Rakuten Mobile Network, Inc.",
+      "status": "",
+      "type": "",
+      "bands": "1700",
+      "icon": "rakuten",
+      "icon_scope": "440",
+      "subs": [
+        {
+          "brand": "Rakuten",
+          "names": [
+            "rakuten"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "RakutenPhase3Profile",
+            "Rakuten_MVNE_Profile",
+            "Test Profile"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "454",
+  "mnc": "02",
+  "country": {
+    "name": "Hong Kong",
+    "iso": "HK",
+    "code": "852",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "CSL Ltd.",
+      "operator": "CSL Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

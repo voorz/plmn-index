@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "04",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "SWEDEN",
+      "operator": "3G Infrastructure Services AB",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 2100"
+    }
+  ]
+}

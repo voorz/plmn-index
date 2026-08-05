@@ -1,0 +1,18 @@
+{
+  "mcc": "619",
+  "mnc": "02",
+  "country": {
+    "name": "Sierra Leone",
+    "iso": "SL",
+    "code": "232"
+  },
+  "operators": [
+    {
+      "brand": "Africell",
+      "operator": "Lintel Sierra Leone Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

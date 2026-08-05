@@ -1,0 +1,33 @@
+{
+  "mcc": "724",
+  "mnc": "77",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Brisanet",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "brisanet",
+      "icon_scope": "724",
+      "subs": [
+        {
+          "brand": "Brisanet",
+          "names": [
+            "brisanet"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "89557788000007405872",
+            "89557788000018447129"
+          ]
+        }
+      ]
+    }
+  ]
+}

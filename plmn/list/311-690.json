@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "690",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "TeleBEEPER of New Mexico",
+      "operator": "TeleBEEPER of New Mexico",
+      "status": "Operational",
+      "type": "National",
+      "bands": "paging"
+    }
+  ]
+}

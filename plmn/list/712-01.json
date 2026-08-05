@@ -1,0 +1,34 @@
+{
+  "mcc": "712",
+  "mnc": "01",
+  "country": {
+    "name": "Costa Rica",
+    "iso": "CR",
+    "code": "506",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Kölbi ICE",
+      "operator": "Instituto Costarricense de Electricidad",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 850 / LTE 1800 / LTE 2600",
+      "icon": "k-lbi-ice",
+      "icon_scope": "712",
+      "subs": [
+        {
+          "brand": "Kolbi ICE",
+          "names": [
+            "kolbi ice"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Perfil eSIM masivo para celulares"
+          ]
+        }
+      ]
+    }
+  ]
+}

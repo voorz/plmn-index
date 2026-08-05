@@ -1,0 +1,19 @@
+{
+  "mcc": "338",
+  "mnc": "070",
+  "country": {
+    "name": "Jamaica",
+    "iso": "JM",
+    "code": "1876",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Claro",
+      "operator": "Oceanic Digital Jamaica Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM / UMTS / CDMA"
+    }
+  ]
+}

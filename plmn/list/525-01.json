@@ -1,0 +1,164 @@
+{
+  "mcc": "525",
+  "mnc": "01",
+  "country": {
+    "name": "Singapore",
+    "iso": "SG",
+    "code": "65",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "SingTel",
+      "operator": "Singapore Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 900 / LTE 1800 / LTE 2600 / 5G 700 / 5G 2100 / 5G 3500 / 5G 28000",
+      "icon": "singtel",
+      "icon_scope": "525",
+      "subs": [
+        {
+          "brand": "Singtel",
+          "names": [
+            "singtel",
+            "vacay",
+            "bytesim",
+            "djb",
+            "yoho"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Singtel",
+            "RTG_Android",
+            "RedteaGO",
+            "Klook_app",
+            "ESIM_ACCESS_CARRIER",
+            "Roamic_APP",
+            "89320420000203704778",
+            "2034_1729496083759"
+          ]
+        },
+        {
+          "brand": "Eskimo",
+          "names": [
+            "eskimo"
+          ],
+          "gid1": "45736b696d6f",
+          "gid2": "ffffffffffff",
+          "profile_names": [
+            "Eskimo"
+          ]
+        },
+        {
+          "brand": "Nomad",
+          "names": [
+            "nomad"
+          ],
+          "gid1": "4745544e4f4d4144",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "4F7065726174696F6E616C2050726F66696C65204E616D652031",
+            "Nomad",
+            "Nomad_001"
+          ]
+        },
+        {
+          "brand": "Connect",
+          "names": [
+            "connect"
+          ],
+          "gid1": "636f6e6e65637431ffffffffffffff",
+          "gid2": "636f6e6e65637432ffffffffffffff",
+          "profile_names": [
+            "Telna_MI27_connect_SPN_GID_GP1_v02.17.01.01"
+          ]
+        },
+        {
+          "brand": "dtcpay",
+          "names": [
+            "dtcpay"
+          ],
+          "gid1": "647463706179ffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "4F7065726174696F6E616C2050726F66696C65204E616D652031",
+            "Dtcpay_001"
+          ]
+        },
+        {
+          "brand": "-",
+          "names": [
+            "-",
+            "eskimo",
+            "singtel",
+            "cmlink",
+            "zero1",
+            "vivifi",
+            "airalo",
+            "connect"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Eskimo",
+            "Singtel",
+            "Zero1",
+            "CMLink",
+            "Airalo",
+            "-",
+            "VIVIFI",
+            "5G GOMO",
+            "Heya 5G",
+            "Connect"
+          ]
+        },
+        {
+          "brand": "Singtel",
+          "names": [
+            "singtel",
+            "zero1",
+            "vivifi",
+            "-",
+            "travelgoogoo"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Firsty",
+            "4F7065726174696F6E616C2050726F66696C65204E616D652031",
+            "Singtel",
+            "Zero1",
+            "BillionConnect",
+            "VIVIFI",
+            "GOMO",
+            "Roamify",
+            "TGGDualIMSI_001",
+            "MRGeneric_001",
+            "eSIMNEXT"
+          ]
+        },
+        {
+          "brand": "SCT",
+          "names": [
+            "sct"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "HongKongSCT"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "none",
+          "gid2": "none",
+          "profile_names": [
+            "Singtel"
+          ]
+        }
+      ]
+    }
+  ]
+}

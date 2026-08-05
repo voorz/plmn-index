@@ -1,0 +1,31 @@
+{
+  "mcc": "276",
+  "mnc": "02",
+  "country": {
+    "name": "Albania",
+    "iso": "AL",
+    "code": "355",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "Vodafone Albania",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "VODAFONE AL",
+          "names": [
+            "vodafone al"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

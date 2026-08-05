@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "11",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Greenet Netwerk B.V",
+      "operator": "Greenet Netwerk B.V",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

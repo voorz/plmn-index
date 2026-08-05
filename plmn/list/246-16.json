@@ -1,0 +1,19 @@
+{
+  "mcc": "246",
+  "mnc": "16",
+  "country": {
+    "name": "Lithuania",
+    "iso": "LT",
+    "code": "370",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Annecto Telecom Limited",
+      "operator": "Annecto Telecom Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

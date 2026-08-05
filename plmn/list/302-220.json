@@ -1,0 +1,62 @@
+{
+  "mcc": "302",
+  "mnc": "220",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Telus Mobility, Koodo Mobile, Public Mobile",
+      "operator": "Telus Mobility",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / UMTS 1900 / LTE 1700 / LTE 1900 / LTE 2600 / 5G 1700 / 5G 3500",
+      "icon": "telus-mobility",
+      "icon_scope": "302",
+      "subs": [
+        {
+          "brand": "Koodo",
+          "names": [
+            "koodo"
+          ],
+          "gid1": "4b4f",
+          "gid2": "ffff",
+          "profile_names": [
+            "Koodo eSIM"
+          ]
+        },
+        {
+          "brand": "Public Mobile",
+          "names": [
+            "public mobile"
+          ],
+          "gid1": "4d4f",
+          "gid2": "ffff",
+          "profile_names": [
+            "Public Mobile eSIM"
+          ]
+        },
+        {
+          "brand": "TELUS",
+          "names": [
+            "telus",
+            "telus",
+            "ctexcel",
+            "kini"
+          ],
+          "gid1": "5455",
+          "gid2": "ffff",
+          "profile_names": [
+            "Telus 5G eSIM",
+            "CT Excel",
+            "Telus eSIM",
+            "kini"
+          ]
+        }
+      ]
+    }
+  ]
+}

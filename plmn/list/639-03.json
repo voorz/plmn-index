@@ -1,0 +1,34 @@
+{
+  "mcc": "639",
+  "mnc": "03",
+  "country": {
+    "name": "Kenya",
+    "iso": "KE",
+    "code": "254",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Airtel",
+      "operator": "Bharti Airtel",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / 5G 2500",
+      "icon": "airtel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Airtel KE",
+          "names": [
+            "airtel ke"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Airtel_KE_Default"
+          ]
+        }
+      ]
+    }
+  ]
+}

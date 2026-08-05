@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "31",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Red Digital De Telecomunicaciones de las Islas Baleares, S.L.",
+      "operator": "Red Digital De Telecomunicaciones de las Islas Baleares, S.L.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

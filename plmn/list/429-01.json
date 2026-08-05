@@ -1,0 +1,34 @@
+{
+  "mcc": "429",
+  "mnc": "01",
+  "country": {
+    "name": "Nepal",
+    "iso": "NP",
+    "code": "977",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Namaste / NT Mobile / Sky Phone",
+      "operator": "Nepal Telecom (NDCL)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800",
+      "icon": "nepal-telecom-ndcl",
+      "icon_scope": "429",
+      "subs": [
+        {
+          "brand": "NT",
+          "names": [
+            "nt"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Profile Name"
+          ]
+        }
+      ]
+    }
+  ]
+}

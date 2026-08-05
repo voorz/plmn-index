@@ -1,0 +1,34 @@
+{
+  "mcc": "214",
+  "mnc": "22",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "DIGI mobil",
+      "operator": "Best Spain Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "meo",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Digi.Mobil",
+          "names": [
+            "digi.mobil"
+          ],
+          "gid1": "44474553",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Digi.Mobil"
+          ]
+        }
+      ]
+    }
+  ]
+}

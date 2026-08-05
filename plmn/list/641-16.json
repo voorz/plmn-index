@@ -1,0 +1,19 @@
+{
+  "mcc": "641",
+  "mnc": "16",
+  "country": {
+    "name": "Uganda",
+    "iso": "UG",
+    "code": "256",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "SimbaNET Uganda Limited",
+      "operator": "SimbaNET Uganda Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

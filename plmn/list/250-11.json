@@ -1,0 +1,53 @@
+{
+  "mcc": "250",
+  "mnc": "11",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Yota",
+      "operator": "Scartel",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "yota",
+      "icon_scope": "250",
+      "subs": [
+        {
+          "brand": "YOTA",
+          "names": [
+            "yota"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "26260",
+            "26341",
+            "26175",
+            "26350",
+            "26345",
+            "26204",
+            "26207",
+            "26184",
+            "26336",
+            "26199",
+            "26187",
+            "26212",
+            "26376",
+            "26214",
+            "26328",
+            "259995",
+            "26386",
+            "26189",
+            "264050",
+            "26400"
+          ]
+        }
+      ]
+    }
+  ]
+}

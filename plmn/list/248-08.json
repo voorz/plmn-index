@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "08",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "VIVEX",
+      "operator": "VIVEX OU",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

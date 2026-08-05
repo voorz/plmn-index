@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "06",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "SBB-CFF-FFS",
+      "operator": "SBB AG",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R 900"
+    }
+  ]
+}

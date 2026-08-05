@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "900",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Inland Cellular Telephone Company",
+      "operator": "Inland Cellular Telephone Company",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

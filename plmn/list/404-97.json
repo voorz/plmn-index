@@ -1,0 +1,57 @@
+{
+  "mcc": "404",
+  "mnc": "97",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "code": "91",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "AirTel (UP-West)",
+      "operator": "Bharti Airtel Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / LTE 1800 / LTE 2100 / TD-LTE 2300",
+      "icon": "airtel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "8991972177701698930F",
+            "8991972277702110412F",
+            "8991972177701851521F",
+            "8991972177701520258F"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "AirTel",
+      "operator": "Uttar Pradesh (West)",
+      "status": "",
+      "type": "",
+      "icon": "airtel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "8991972177701698930F",
+            "8991972277702110412F",
+            "8991972177701851521F",
+            "8991972177701520258F"
+          ]
+        }
+      ]
+    }
+  ]
+}

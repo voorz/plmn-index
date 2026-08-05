@@ -1,0 +1,19 @@
+{
+  "mcc": "222",
+  "mnc": "99",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Wind Tre",
+      "operator": "Wind Tre S.p.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 900 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
+    }
+  ]
+}

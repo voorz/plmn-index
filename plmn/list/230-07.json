@@ -1,0 +1,19 @@
+{
+  "mcc": "230",
+  "mnc": "07",
+  "country": {
+    "name": "Czech Republic",
+    "iso": "CZ",
+    "code": "420",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "T-Mobile",
+      "operator": "T-Mobile Czech Republic",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 800"
+    }
+  ]
+}

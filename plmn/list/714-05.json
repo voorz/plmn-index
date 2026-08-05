@@ -1,0 +1,18 @@
+{
+  "mcc": "714",
+  "mnc": "05",
+  "country": {
+    "name": "Panama",
+    "iso": "PA",
+    "code": "507"
+  },
+  "operators": [
+    {
+      "brand": "Cable & Wireless",
+      "operator": "Cable & Wireless Panama S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

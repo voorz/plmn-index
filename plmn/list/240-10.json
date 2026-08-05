@@ -1,0 +1,18 @@
+{
+  "mcc": "240",
+  "mnc": "10",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Spring Mobil",
+      "operator": "Tele2 Sverige AB",
+      "status": "Operational",
+      "type": "National"
+    }
+  ]
+}

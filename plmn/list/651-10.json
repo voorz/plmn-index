@@ -1,0 +1,18 @@
+{
+  "mcc": "651",
+  "mnc": "10",
+  "country": {
+    "name": "Lesotho",
+    "iso": "LS",
+    "code": "266"
+  },
+  "operators": [
+    {
+      "brand": "Vodacom",
+      "operator": "Vodacom Lesotho (Pty) Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

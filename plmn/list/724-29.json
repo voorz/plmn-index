@@ -1,0 +1,34 @@
+{
+  "mcc": "724",
+  "mnc": "29",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Unifique",
+      "operator": "Unifique Telecomunicações S/A",
+      "status": "Operational",
+      "type": "National",
+      "bands": "5G 700 / 5G 3500",
+      "icon": "unifique",
+      "icon_scope": "724",
+      "subs": [
+        {
+          "brand": "Unifique",
+          "names": [
+            "unifique"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Unifique_default"
+          ]
+        }
+      ]
+    }
+  ]
+}

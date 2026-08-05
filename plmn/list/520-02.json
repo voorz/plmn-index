@@ -1,0 +1,19 @@
+{
+  "mcc": "520",
+  "mnc": "02",
+  "country": {
+    "name": "Thailand",
+    "iso": "TH",
+    "code": "66",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "my by NT",
+      "operator": "National Telecom Public Company Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "950",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "ETC",
+      "operator": "Enhanced Telecommunications Corp.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA / LTE 700"
+    }
+  ]
+}

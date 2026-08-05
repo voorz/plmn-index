@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "51",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "ADIF",
+      "operator": "Administrador de Infraestructuras Ferroviarias",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "520",
+  "mnc": "15",
+  "country": {
+    "name": "Thailand",
+    "iso": "TH",
+    "code": "66",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "AIS-T / NT Mobile",
+      "operator": "National Telecom Public Company Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 2100 / LTE 2100"
+    }
+  ]
+}

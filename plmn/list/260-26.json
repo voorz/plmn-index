@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "26",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "T-Mobile",
+      "operator": "T-Mobile Polska S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

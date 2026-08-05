@@ -1,0 +1,34 @@
+{
+  "mcc": "640",
+  "mnc": "02",
+  "country": {
+    "name": "Tanzania",
+    "iso": "TZ",
+    "code": "255",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "tiGO",
+      "operator": "MIC Tanzania Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 2500",
+      "icon": "tigo",
+      "icon_scope": "640",
+      "subs": [
+        {
+          "brand": "Yas",
+          "names": [
+            "yas"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "profilename"
+          ]
+        }
+      ]
+    }
+  ]
+}

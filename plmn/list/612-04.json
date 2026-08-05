@@ -1,0 +1,18 @@
+{
+  "mcc": "612",
+  "mnc": "04",
+  "country": {
+    "name": "Ivory Coast",
+    "iso": "CI",
+    "code": "225"
+  },
+  "operators": [
+    {
+      "brand": "KoZ",
+      "operator": "Comium Ivory Coast Inc",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

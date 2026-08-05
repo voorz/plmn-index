@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "74",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Etisalat",
+      "operator": "Etisalat",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "630",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Cape",
+      "operator": "Private Tech, Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

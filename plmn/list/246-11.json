@@ -1,0 +1,19 @@
+{
+  "mcc": "246",
+  "mnc": "11",
+  "country": {
+    "name": "Lithuania",
+    "iso": "LT",
+    "code": "370",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "DATASIM OU",
+      "operator": "DATASIM OU",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

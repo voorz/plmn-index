@@ -1,0 +1,18 @@
+{
+  "mcc": "402",
+  "mnc": "11",
+  "country": {
+    "name": "Bhutan",
+    "iso": "BT",
+    "code": "975"
+  },
+  "operators": [
+    {
+      "brand": "B-Mobile",
+      "operator": "Bhutan Telecom Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 850 / UMTS 2100 / LTE 1800 / 5G"
+    }
+  ]
+}

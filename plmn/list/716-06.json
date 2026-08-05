@@ -1,0 +1,19 @@
+{
+  "mcc": "716",
+  "mnc": "06",
+  "country": {
+    "name": "Peru",
+    "iso": "PE",
+    "code": "51",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Movistar",
+      "operator": "Telefónica del Perú S.A.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA2000 850 / GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / 5G 3500"
+    }
+  ]
+}

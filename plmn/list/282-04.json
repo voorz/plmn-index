@@ -1,0 +1,78 @@
+{
+  "mcc": "282",
+  "mnc": "04",
+  "country": {
+    "name": "Georgia",
+    "iso": "GE",
+    "code": "995",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Cellfie",
+      "operator": "Cellfie Mobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / 5G 700 / 5G 3500",
+      "icon": "beeline",
+      "icon_scope": "282",
+      "subs": [
+        {
+          "brand": "Cellfie",
+          "names": [
+            "cellfie"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Cellfie GE 2",
+            "Cellfie GE",
+            "Cellfie GE Airalo"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "none",
+          "gid2": "none",
+          "profile_names": [
+            "Cellfie GE 2"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Beeline",
+      "operator": "Mobitel",
+      "status": "",
+      "type": "",
+      "bands": "GSM 1800 / UMTS 2100 / LTE 800",
+      "icon": "beeline",
+      "icon_scope": "282",
+      "subs": [
+        {
+          "brand": "Cellfie",
+          "names": [
+            "cellfie"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Cellfie GE 2",
+            "Cellfie GE",
+            "Cellfie GE Airalo"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "none",
+          "gid2": "none",
+          "profile_names": [
+            "Cellfie GE 2"
+          ]
+        }
+      ]
+    }
+  ]
+}

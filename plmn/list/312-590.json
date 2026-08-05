@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "590",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "NMU",
+      "operator": "Northern Michigan University",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 2500"
+    }
+  ]
+}

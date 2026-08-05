@@ -1,0 +1,18 @@
+{
+  "mcc": "505",
+  "mnc": "09",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Airnet",
+      "operator": "",
+      "status": "Not operational",
+      "type": "National"
+    }
+  ]
+}

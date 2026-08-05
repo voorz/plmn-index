@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "12",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "Avacell (HiWEB)",
+      "operator": "Dadeh Dostar asr Novin PJSC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 800 / TD-LTE 2600"
+    }
+  ]
+}

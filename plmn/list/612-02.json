@@ -1,0 +1,18 @@
+{
+  "mcc": "612",
+  "mnc": "02",
+  "country": {
+    "name": "Ivory Coast",
+    "iso": "CI",
+    "code": "225"
+  },
+  "operators": [
+    {
+      "brand": "Moov",
+      "operator": "Atlantique Cellulaire",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600"
+    }
+  ]
+}

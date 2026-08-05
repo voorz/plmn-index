@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "13",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Move",
+      "operator": "Move Telecom S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

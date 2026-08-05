@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "120",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "T-Mobile",
+      "operator": "T-Mobile US",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "LTE 850 / LTE 1900"
+    }
+  ]
+}

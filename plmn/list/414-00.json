@@ -1,0 +1,19 @@
+{
+  "mcc": "414",
+  "mnc": "00",
+  "country": {
+    "name": "Myanmar",
+    "iso": "MM",
+    "code": "95",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "MPT",
+      "operator": "Myanmar Posts and Telecommunications",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

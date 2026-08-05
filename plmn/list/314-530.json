@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "530",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Agile Networks",
+      "operator": "Agile Networks",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "505",
+  "mnc": "05",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Ozitel",
+      "operator": "",
+      "status": "Not operational",
+      "type": "National"
+    }
+  ]
+}

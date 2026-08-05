@@ -1,0 +1,18 @@
+{
+  "mcc": "550",
+  "mnc": "01",
+  "country": {
+    "name": "Federated States of Micronesia",
+    "iso": "FM",
+    "code": "691"
+  },
+  "operators": [
+    {
+      "brand": "FSM Telecommunications Corp.",
+      "operator": "FSMTC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 1800"
+    }
+  ]
+}

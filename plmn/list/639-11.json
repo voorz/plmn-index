@@ -1,0 +1,19 @@
+{
+  "mcc": "639",
+  "mnc": "11",
+  "country": {
+    "name": "Kenya",
+    "iso": "KE",
+    "code": "254",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Jambo Telcoms",
+      "operator": "Jambo Telcoms Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

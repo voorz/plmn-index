@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "02",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "O2 (UK)",
+      "operator": "Telefónica Europe",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800"
+    }
+  ]
+}

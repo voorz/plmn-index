@@ -1,0 +1,19 @@
+{
+  "mcc": "220",
+  "mnc": "21",
+  "country": {
+    "name": "Serbia",
+    "iso": "RS",
+    "code": "381",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Infrastruktura železnice Srbije a.d.",
+      "operator": "Infrastruktura železnice Srbije a.d.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "GSM-R"
+    }
+  ]
+}

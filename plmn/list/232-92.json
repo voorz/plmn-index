@@ -1,0 +1,19 @@
+{
+  "mcc": "232",
+  "mnc": "92",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "ArgoNET",
+      "operator": "ArgoNET GmbH",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA450 / LTE450"
+    }
+  ]
+}

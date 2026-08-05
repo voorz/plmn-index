@@ -1,0 +1,19 @@
+{
+  "mcc": "510",
+  "mnc": "28",
+  "country": {
+    "name": "Indonesia",
+    "iso": "ID",
+    "code": "62",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Fren/Hepi",
+      "operator": "PT Mobile-8 Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 850 / TD-LTE 2300"
+    }
+  ]
+}

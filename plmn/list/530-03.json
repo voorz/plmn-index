@@ -1,0 +1,19 @@
+{
+  "mcc": "530",
+  "mnc": "03",
+  "country": {
+    "name": "New Zealand",
+    "iso": "NZ",
+    "code": "64",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Woosh",
+      "operator": "Woosh Wireless",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS-TDD 2000"
+    }
+  ]
+}

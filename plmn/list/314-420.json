@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "420",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Cox Communications",
+      "operator": "Cox Communications",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

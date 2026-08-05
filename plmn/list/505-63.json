@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "63",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "MarchNet",
+      "operator": "March IT",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

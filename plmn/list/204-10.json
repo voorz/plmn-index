@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "10",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "KPN",
+      "operator": "KPN B.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 800 / LTE 1800 / LTE 2600"
+    }
+  ]
+}

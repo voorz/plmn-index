@@ -1,0 +1,19 @@
+{
+  "mcc": "230",
+  "mnc": "06",
+  "country": {
+    "name": "Czech Republic",
+    "iso": "CZ",
+    "code": "420",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Litomyšl RE",
+      "operator": "Nordic Telecom 5G a.s.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "TD-LTE 3700 / 5G 3500"
+    }
+  ]
+}

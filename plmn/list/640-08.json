@@ -1,0 +1,19 @@
+{
+  "mcc": "640",
+  "mnc": "08",
+  "country": {
+    "name": "Tanzania",
+    "iso": "TZ",
+    "code": "255",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "extel",
+      "operator": "Telxer Enterprise Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "GSM"
+    }
+  ]
+}

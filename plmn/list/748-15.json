@@ -1,0 +1,19 @@
+{
+  "mcc": "748",
+  "mnc": "15",
+  "country": {
+    "name": "Uruguay",
+    "iso": "UY",
+    "code": "598",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "ENALUR S.A.",
+      "operator": "ENALUR S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

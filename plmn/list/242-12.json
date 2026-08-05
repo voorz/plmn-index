@@ -1,0 +1,19 @@
+{
+  "mcc": "242",
+  "mnc": "12",
+  "country": {
+    "name": "Norway",
+    "iso": "NO",
+    "code": "47",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telenor",
+      "operator": "Telenor Norge AS",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

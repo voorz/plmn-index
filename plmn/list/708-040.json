@@ -1,0 +1,18 @@
+{
+  "mcc": "708",
+  "mnc": "040",
+  "country": {
+    "name": "Honduras",
+    "iso": "HN",
+    "code": "504"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel de Honduras",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1900"
+    }
+  ]
+}

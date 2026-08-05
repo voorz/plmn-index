@@ -1,0 +1,55 @@
+{
+  "mcc": "206",
+  "mnc": "12",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "DIGI Belgium",
+      "operator": "DIGI Communications Belgium NV",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800",
+      "icon": "meo",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Digi BE",
+          "names": [
+            "digi be"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Digi BE"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Digi BE",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "meo",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Digi BE",
+          "names": [
+            "digi be"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Digi BE"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "634",
+  "mnc": "07",
+  "country": {
+    "name": "Sudan",
+    "iso": "SD",
+    "code": "249"
+  },
+  "operators": [
+    {
+      "brand": "Sudani One",
+      "operator": "Sudatel Group",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / CDMA 800"
+    }
+  ]
+}

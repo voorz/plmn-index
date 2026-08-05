@@ -1,0 +1,18 @@
+{
+  "mcc": "316",
+  "mnc": "011",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1"
+  },
+  "operators": [
+    {
+      "brand": "Southern LINC",
+      "operator": "Southern Communications Services",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "iDEN 800"
+    }
+  ]
+}

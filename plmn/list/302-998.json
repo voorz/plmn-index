@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "998",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Institut de Recherche d’Hydro-Québec",
+      "operator": "Institut de Recherche d’Hydro-Québec",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

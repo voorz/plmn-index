@@ -1,0 +1,19 @@
+{
+  "mcc": "286",
+  "mnc": "04",
+  "country": {
+    "name": "Turkey",
+    "iso": "TR",
+    "code": "90",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Aycell",
+      "operator": "Aycell",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

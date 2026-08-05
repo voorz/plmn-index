@@ -1,0 +1,18 @@
+{
+  "mcc": "632",
+  "mnc": "02",
+  "country": {
+    "name": "Guinea-Bissau",
+    "iso": "GW",
+    "code": "245"
+  },
+  "operators": [
+    {
+      "brand": "MTN Areeba",
+      "operator": "Spacetel Guiné-Bissau S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100"
+    }
+  ]
+}

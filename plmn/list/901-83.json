@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "83",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "iBasis Netherlands BV",
+      "operator": "iBasis Netherlands BV",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "22",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "iiNet",
+      "operator": "iiNet",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

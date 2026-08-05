@@ -1,0 +1,34 @@
+{
+  "mcc": "547",
+  "mnc": "20",
+  "country": {
+    "name": "French Polynesia (France)",
+    "iso": "PF",
+    "code": "689",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Vini",
+      "operator": "Onati S.A.S.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 2600",
+      "icon": "vini",
+      "icon_scope": "547",
+      "subs": [
+        {
+          "brand": "Vini",
+          "names": [
+            "vini"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Vini eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

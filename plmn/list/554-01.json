@@ -1,0 +1,18 @@
+{
+  "mcc": "554",
+  "mnc": "01",
+  "country": {
+    "name": "Tokelau",
+    "iso": "TK",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Teletok",
+      "operator": "Teletok",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700"
+    }
+  ]
+}

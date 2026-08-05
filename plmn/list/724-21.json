@@ -1,0 +1,19 @@
+{
+  "mcc": "724",
+  "mnc": "21",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "LIGUE",
+      "operator": "Ligue Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 2600"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "250",
+  "mnc": "13",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "KUGSM",
+      "operator": "Kuban GSM",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

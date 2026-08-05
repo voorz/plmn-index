@@ -1,0 +1,29 @@
+{
+  "mcc": "311",
+  "mnc": "23",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "C Spire",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "c-spire",
+      "icon_scope": "311",
+      "subs": [
+        {
+          "brand": "carrier",
+          "names": [
+            "carrier"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

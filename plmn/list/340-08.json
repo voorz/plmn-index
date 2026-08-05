@@ -1,0 +1,18 @@
+{
+  "mcc": "340",
+  "mnc": "08",
+  "country": {
+    "name": "French Antilles (France)",
+    "iso": "BL/GF/GP/MF/MQ",
+    "code": "596"
+  },
+  "operators": [
+    {
+      "brand": "Dauphin",
+      "operator": "Dauphin Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS / LTE"
+    }
+  ]
+}

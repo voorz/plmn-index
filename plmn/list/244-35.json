@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "35",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Ukko Mobile",
+      "operator": "Edzcom Oy",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 450 / TD-LTE 2600"
+    }
+  ]
+}

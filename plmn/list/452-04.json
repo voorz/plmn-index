@@ -1,0 +1,47 @@
+{
+  "mcc": "452",
+  "mnc": "04",
+  "country": {
+    "name": "Vietnam",
+    "iso": "VN",
+    "code": "84",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Viettel Mobile",
+      "operator": "Viettel Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / 5G 2500",
+      "icon": "viettel-mobile",
+      "icon_scope": "452",
+      "subs": [
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "JOYTEL_BLANK_QRCODE_appletV4"
+          ]
+        },
+        {
+          "brand": "Viettel",
+          "names": [
+            "viettel"
+          ],
+          "gid1": "00000000",
+          "gid2": "00000000",
+          "profile_names": [
+            "VTT 26.0",
+            "Viettel_EC",
+            "Viettel"
+          ]
+        }
+      ]
+    }
+  ]
+}

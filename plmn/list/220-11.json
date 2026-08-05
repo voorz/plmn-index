@@ -1,0 +1,19 @@
+{
+  "mcc": "220",
+  "mnc": "11",
+  "country": {
+    "name": "Serbia",
+    "iso": "RS",
+    "code": "381",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Globaltel",
+      "operator": "Telekom Srbija",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

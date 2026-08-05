@@ -1,0 +1,19 @@
+{
+  "mcc": "625",
+  "mnc": "01",
+  "country": {
+    "name": "Cape Verde",
+    "iso": "CV",
+    "code": "238",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "CVMOVEL",
+      "operator": "CVMóvel, S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 800"
+    }
+  ]
+}

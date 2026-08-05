@@ -1,0 +1,31 @@
+{
+  "mcc": "434",
+  "mnc": "10",
+  "country": {
+    "name": "Uzbekistan",
+    "iso": "UZ",
+    "code": "998",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "HUMANS",
+      "operator": "OOO «HUMANS»",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "humans",
+      "icon_scope": "434",
+      "subs": [
+        {
+          "brand": "HUMANS",
+          "names": [
+            "humans"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff"
+        }
+      ]
+    }
+  ]
+}

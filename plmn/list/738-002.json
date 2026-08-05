@@ -1,0 +1,31 @@
+{
+  "mcc": "738",
+  "mnc": "002",
+  "country": {
+    "name": "Guyana",
+    "iso": "GY",
+    "code": "592",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "GT&T Cellink Plus",
+      "operator": "Guyana Telephone & Telegraph Co.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 850 / LTE 700",
+      "icon": "gt-and-t-cellink-plus",
+      "icon_scope": "738",
+      "subs": [
+        {
+          "brand": "ONE",
+          "names": [
+            "one"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

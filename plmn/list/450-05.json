@@ -1,0 +1,36 @@
+{
+  "mcc": "450",
+  "mnc": "05",
+  "country": {
+    "name": "South Korea",
+    "iso": "KR",
+    "code": "82",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "SKTelecom",
+      "operator": "SK Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100 / LTE 850 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500",
+      "icon": "sktelecom",
+      "icon_scope": "450",
+      "subs": [
+        {
+          "brand": "SKTelecom",
+          "names": [
+            "sktelecom"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "ESIMR-T05",
+            "ESIMM-T05",
+            "ESIM5GM-T06"
+          ]
+        }
+      ]
+    }
+  ]
+}

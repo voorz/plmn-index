@@ -1,0 +1,34 @@
+{
+  "mcc": "604",
+  "mnc": "01",
+  "country": {
+    "name": "Morocco",
+    "iso": "MA",
+    "code": "212",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "IAM",
+      "operator": "Ittissalat Al-Maghrib (Maroc Telecom)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 2600 / 5G 700 / 5G 3500",
+      "icon": "iam",
+      "icon_scope": "604",
+      "subs": [
+        {
+          "brand": "Maroc Telecom",
+          "names": [
+            "maroc telecom"
+          ],
+          "gid1": "02",
+          "gid2": "ff",
+          "profile_names": [
+            "Maroc Telecom"
+          ]
+        }
+      ]
+    }
+  ]
+}

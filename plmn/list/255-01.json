@@ -1,0 +1,45 @@
+{
+  "mcc": "255",
+  "mnc": "01",
+  "country": {
+    "name": "Ukraine",
+    "iso": "UA",
+    "code": "380",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "PRJSC \"VF Ukraine\"",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600 / TD-LTE 2600 / 5G 3500",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vodafone UA",
+          "names": [
+            "vodafone ua"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Vodafone UA"
+          ]
+        },
+        {
+          "brand": "Vodafone UA",
+          "names": [
+            "vodafone ua"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "Vodafone UA"
+          ]
+        }
+      ]
+    }
+  ]
+}

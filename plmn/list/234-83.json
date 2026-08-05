@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "83",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "UKTL",
+      "operator": "UK Telecoms Lab",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

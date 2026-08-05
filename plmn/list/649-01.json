@@ -1,0 +1,18 @@
+{
+  "mcc": "649",
+  "mnc": "01",
+  "country": {
+    "name": "Namibia",
+    "iso": "NA",
+    "code": "264"
+  },
+  "operators": [
+    {
+      "brand": "MTC",
+      "operator": "MTC Namibia",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

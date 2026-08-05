@@ -1,0 +1,34 @@
+{
+  "mcc": "274",
+  "mnc": "11",
+  "country": {
+    "name": "Iceland",
+    "iso": "IS",
+    "code": "354",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Nova",
+      "operator": "Nova ehf",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / 5G 3500",
+      "icon": "nova",
+      "icon_scope": "274",
+      "subs": [
+        {
+          "brand": "NOVA",
+          "names": [
+            "nova"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "NOVA"
+          ]
+        }
+      ]
+    }
+  ]
+}

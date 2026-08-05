@@ -1,0 +1,19 @@
+{
+  "mcc": "734",
+  "mnc": "08",
+  "country": {
+    "name": "Venezuela",
+    "iso": "VE",
+    "code": "58",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "PATRIACELL C.A.",
+      "operator": "PATRIACELL C.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

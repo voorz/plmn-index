@@ -1,0 +1,34 @@
+{
+  "mcc": "428",
+  "mnc": "33",
+  "country": {
+    "name": "Mongolia",
+    "iso": "MN",
+    "code": "976",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "ONDO",
+      "operator": "IN Mobile Network LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE",
+      "icon": "ondo",
+      "icon_scope": "428",
+      "subs": [
+        {
+          "brand": "ONDO",
+          "names": [
+            "ondo"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "ONDO_Main"
+          ]
+        }
+      ]
+    }
+  ]
+}

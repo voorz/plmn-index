@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "215",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "KYOCERA Mirai Envision Co., Ltd.",
+      "operator": "KYOCERA Mirai Envision Co., Ltd.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

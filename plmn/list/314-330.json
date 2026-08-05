@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "330",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Nova Labs Inc",
+      "operator": "Nova Labs Inc",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "mcc": "206",
+  "mnc": "20",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Base",
+      "operator": "Telenet",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500",
+      "icon": "base",
+      "icon_scope": "206",
+      "subs": [
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "",
+          "gid2": ""
+        },
+        {
+          "brand": "BASE",
+          "names": [
+            "base",
+            "telenet",
+            "airalo"
+          ],
+          "gid1": "0000000000000000",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "BASE eSIM",
+            "TLN BE Fleet eSIM",
+            "Airalo"
+          ]
+        },
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "",
+          "profile_names": [
+            "LycaMobile"
+          ]
+        }
+      ]
+    }
+  ]
+}

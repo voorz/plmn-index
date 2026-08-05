@@ -1,0 +1,19 @@
+{
+  "mcc": "295",
+  "mnc": "11",
+  "country": {
+    "name": "Liechtenstein",
+    "iso": "LI",
+    "code": "423",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "iBASIS Communications AG",
+      "operator": "iBASIS Communications AG",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

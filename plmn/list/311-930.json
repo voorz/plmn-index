@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "930",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Cox Communications",
+      "operator": "Cox Communications",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown 3500"
+    }
+  ]
+}

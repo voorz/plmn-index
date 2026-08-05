@@ -1,0 +1,78 @@
+{
+  "mcc": "427",
+  "mnc": "01",
+  "country": {
+    "name": "Qatar",
+    "iso": "QA",
+    "code": "974",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Ooredoo",
+      "operator": "Ooredoo",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500",
+      "icon": "ooredoo",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Ooredoo",
+          "names": [
+            "ooredoo"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "OREDO_RT_ED_01"
+          ]
+        },
+        {
+          "brand": "Ooredoo",
+          "names": [
+            "ooredoo"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "OoredooeSIM"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "ooredoo",
+      "operator": "ooredoo",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600",
+      "icon": "ooredoo",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Ooredoo",
+          "names": [
+            "ooredoo"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "OREDO_RT_ED_01"
+          ]
+        },
+        {
+          "brand": "Ooredoo",
+          "names": [
+            "ooredoo"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "OoredooeSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

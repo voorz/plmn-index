@@ -1,0 +1,18 @@
+{
+  "mcc": "714",
+  "mnc": "01",
+  "country": {
+    "name": "Panama",
+    "iso": "PA",
+    "code": "507"
+  },
+  "operators": [
+    {
+      "brand": "+Móvil",
+      "operator": "Cable & Wireless Panama S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / UMTS 850 / LTE 700 / LTE 1900"
+    }
+  ]
+}

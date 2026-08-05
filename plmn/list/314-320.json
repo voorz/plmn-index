@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "320",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Agri-Valley Communications, Inc",
+      "operator": "Agri-Valley Communications, Inc",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "mcc": "334",
+  "mnc": "140",
+  "country": {
+    "name": "Mexico",
+    "iso": "MX",
+    "code": "52",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Red Compartida",
+      "operator": "Altán Redes S.A.P.I. de C.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700",
+      "icon": "altan-redes",
+      "icon_scope": "334",
+      "subs": [
+        {
+          "brand": "NeWWW",
+          "names": [
+            "newww"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "010a",
+          "profile_names": [
+            "03608.04",
+            "03608.06_NeWWW_NeWWW",
+            "temp_profile_type"
+          ]
+        },
+        {
+          "brand": "MEXFON",
+          "names": [
+            "mexfon"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "010d",
+          "profile_names": [
+            "01708.06"
+          ]
+        },
+        {
+          "brand": "PILLO",
+          "names": [
+            "pillo",
+            "diri",
+            "axios",
+            "turbo"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "0113",
+          "profile_names": [
+            "TURBO_04708.04",
+            "04708.06",
+            "04708.04_DIRI"
+          ]
+        },
+        {
+          "brand": "CFE TEIT",
+          "names": [
+            "cfe teit"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "0116",
+          "profile_names": [
+            "02208.04_CFE_TEIT",
+            "02208.04"
+          ]
+        },
+        {
+          "brand": "BAIT",
+          "names": [
+            "bait"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "0208",
+          "profile_names": [
+            "03508.06_BAIT_BAIT",
+            "BAIT"
+          ]
+        },
+        {
+          "brand": "ABIB",
+          "names": [
+            "abib"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "0521"
+        },
+        {
+          "brand": "AXIOS",
+          "names": [
+            "axios"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "052b"
+        },
+        {
+          "brand": "BROMOVIL",
+          "names": [
+            "bromovil"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "052e"
+        },
+        {
+          "brand": "BLAK",
+          "names": [
+            "blak"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "0534"
+        },
+        {
+          "brand": "DALEFON",
+          "names": [
+            "dalefon"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "054a",
+          "profile_names": [
+            "05408.06_DALEFON_DALEFON"
+          ]
+        },
+        {
+          "brand": "GANE",
+          "names": [
+            "gane"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "0551",
+          "profile_names": [
+            "12908.04"
+          ]
+        },
+        {
+          "brand": "Bienestar",
+          "names": [
+            "bienestar"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "0566"
+        },
+        {
+          "brand": "Inphonity",
+          "names": [
+            "inphonity"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "0567",
+          "profile_names": [
+            "11208.04_Inphonity"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Altan Redes",
+      "operator": "Altán Redes S.A.P.I. de C.V.",
+      "status": "",
+      "type": "",
+      "bands": "LTE 700",
+      "icon": "altan-redes",
+      "icon_scope": "334",
+      "subs": [
+        {
+          "brand": "NeWWW",
+          "names": [
+            "newww"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "010a",
+          "profile_names": [
+            "03608.04",
+            "03608.06_NeWWW_NeWWW",
+            "temp_profile_type"
+          ]
+        },
+        {
+          "brand": "MEXFON",
+          "names": [
+            "mexfon"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "010d",
+          "profile_names": [
+            "01708.06"
+          ]
+        },
+        {
+          "brand": "PILLO",
+          "names": [
+            "pillo",
+            "diri",
+            "axios",
+            "turbo"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "0113",
+          "profile_names": [
+            "TURBO_04708.04",
+            "04708.06",
+            "04708.04_DIRI"
+          ]
+        },
+        {
+          "brand": "CFE TEIT",
+          "names": [
+            "cfe teit"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "0116",
+          "profile_names": [
+            "02208.04_CFE_TEIT",
+            "02208.04"
+          ]
+        },
+        {
+          "brand": "BAIT",
+          "names": [
+            "bait"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "0208",
+          "profile_names": [
+            "03508.06_BAIT_BAIT",
+            "BAIT"
+          ]
+        },
+        {
+          "brand": "ABIB",
+          "names": [
+            "abib"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "0521"
+        },
+        {
+          "brand": "AXIOS",
+          "names": [
+            "axios"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "052b"
+        },
+        {
+          "brand": "BROMOVIL",
+          "names": [
+            "bromovil"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "052e"
+        },
+        {
+          "brand": "BLAK",
+          "names": [
+            "blak"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "0534"
+        },
+        {
+          "brand": "DALEFON",
+          "names": [
+            "dalefon"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "054a",
+          "profile_names": [
+            "05408.06_DALEFON_DALEFON"
+          ]
+        },
+        {
+          "brand": "GANE",
+          "names": [
+            "gane"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "0551",
+          "profile_names": [
+            "12908.04"
+          ]
+        },
+        {
+          "brand": "Bienestar",
+          "names": [
+            "bienestar"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "0566"
+        },
+        {
+          "brand": "Inphonity",
+          "names": [
+            "inphonity"
+          ],
+          "gid1": "414c54414e",
+          "gid2": "0567",
+          "profile_names": [
+            "11208.04_Inphonity"
+          ]
+        }
+      ]
+    }
+  ]
+}

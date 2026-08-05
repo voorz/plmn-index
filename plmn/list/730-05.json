@@ -1,0 +1,19 @@
+{
+  "mcc": "730",
+  "mnc": "05",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Nextel SA",
+      "operator": "Multikom S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

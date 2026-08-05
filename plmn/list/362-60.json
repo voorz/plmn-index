@@ -1,0 +1,19 @@
+{
+  "mcc": "362",
+  "mnc": "60",
+  "country": {
+    "name": "Former Netherlands Antilles (Kingdom of the Netherlands)",
+    "iso": "BQ/CW/SX",
+    "code": "599",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "FLOW",
+      "operator": "Liberty Latin America",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100 / LTE 1800"
+    }
+  ]
+}

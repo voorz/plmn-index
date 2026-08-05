@@ -1,0 +1,18 @@
+{
+  "mcc": "412",
+  "mnc": "50",
+  "country": {
+    "name": "Afghanistan",
+    "iso": "AF",
+    "code": "93"
+  },
+  "operators": [
+    {
+      "brand": "Etisalat",
+      "operator": "Etisalat Afghanistan",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "mcc": "311",
+  "mnc": "580",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "UScellular",
+      "operator": "T-Mobile US",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 850 / 5G 600 / 5G 3700 / 5G 28000 / 5G 39000",
+      "icon": "u-s-cellular",
+      "icon_scope": "311",
+      "subs": [
+        {
+          "brand": "UScellular",
+          "names": [
+            "uscellular"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff"
+        }
+      ]
+    },
+    {
+      "brand": "U.S. Cellular",
+      "operator": "U.S. Cellular",
+      "status": "",
+      "type": "",
+      "bands": "LTE 700 / LTE 850",
+      "icon": "u-s-cellular",
+      "icon_scope": "311",
+      "subs": [
+        {
+          "brand": "UScellular",
+          "names": [
+            "uscellular"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff"
+        }
+      ]
+    }
+  ]
+}

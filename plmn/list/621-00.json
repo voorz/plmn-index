@@ -1,0 +1,19 @@
+{
+  "mcc": "621",
+  "mnc": "00",
+  "country": {
+    "name": "Nigeria",
+    "iso": "NG",
+    "code": "234",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Capcom",
+      "operator": "Capcom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "LTE 1900"
+    }
+  ]
+}

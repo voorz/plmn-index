@@ -1,0 +1,56 @@
+{
+  "mcc": "270",
+  "mnc": "99",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "352",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Orange",
+      "operator": "Orange Communications Luxembourg S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown",
+      "icon": "orange",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Orange Luxembourg",
+          "names": [
+            "orange luxembourg"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "47.00A"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Orange",
+      "operator": "Orange S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 1800 / 5G 700 / 5G 3500",
+      "icon": "orange",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Orange Luxembourg",
+          "names": [
+            "orange luxembourg"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "47.00A"
+          ]
+        }
+      ]
+    }
+  ]
+}

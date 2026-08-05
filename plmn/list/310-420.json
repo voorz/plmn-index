@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "420",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "World Mobile",
+      "operator": "World Mobile Networks, LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 600 / TD-LTE 3500 CBRS"
+    }
+  ]
+}

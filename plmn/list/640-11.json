@@ -1,0 +1,19 @@
+{
+  "mcc": "640",
+  "mnc": "11",
+  "country": {
+    "name": "Tanzania",
+    "iso": "TZ",
+    "code": "255",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Smile",
+      "operator": "Smile Telecoms Holdings Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 800"
+    }
+  ]
+}

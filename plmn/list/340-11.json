@@ -1,0 +1,18 @@
+{
+  "mcc": "340",
+  "mnc": "11",
+  "country": {
+    "name": "French Antilles (France)",
+    "iso": "BL/GF/GP/MF/MQ",
+    "code": "596"
+  },
+  "operators": [
+    {
+      "brand": "TelCell GSM",
+      "operator": "Guyane Téléphone Mobile",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

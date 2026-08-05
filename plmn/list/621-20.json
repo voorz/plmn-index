@@ -1,0 +1,37 @@
+{
+  "mcc": "621",
+  "mnc": "20",
+  "country": {
+    "name": "Nigeria",
+    "iso": "NG",
+    "code": "234",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Airtel",
+      "operator": "Bharti Airtel Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 3500",
+      "icon": "airtel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Airtel Nigeria",
+          "names": [
+            "airtel nigeria",
+            "airtel nigeria"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Nigeria_VoLTE_v3",
+            "Nokia6",
+            "Airtel_Nigeria_Consumer"
+          ]
+        }
+      ]
+    }
+  ]
+}

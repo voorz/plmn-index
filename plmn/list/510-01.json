@@ -1,0 +1,60 @@
+{
+  "mcc": "510",
+  "mnc": "01",
+  "country": {
+    "name": "Indonesia",
+    "iso": "ID",
+    "code": "62",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Indosat",
+      "operator": "PT Indosat Tbk",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / 5G 1800",
+      "icon": "3",
+      "icon_scope": "510",
+      "subs": [
+        {
+          "brand": "INDOSAT",
+          "names": [
+            "indosat",
+            "ioh"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Indosat_eSIM",
+            "CITIC_PROFILE_51001"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Indosat Ooredoo",
+      "operator": "PT Indonesian Satellite Corporation Tbk (INDOSAT)",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800",
+      "icon": "3",
+      "icon_scope": "510",
+      "subs": [
+        {
+          "brand": "INDOSAT",
+          "names": [
+            "indosat",
+            "ioh"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Indosat_eSIM",
+            "CITIC_PROFILE_51001"
+          ]
+        }
+      ]
+    }
+  ]
+}

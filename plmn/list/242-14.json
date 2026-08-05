@@ -1,0 +1,34 @@
+{
+  "mcc": "242",
+  "mnc": "14",
+  "country": {
+    "name": "Norway",
+    "iso": "NO",
+    "code": "47",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "ice",
+      "operator": "Lyse Tele AS",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 800 / LTE 1800 / LTE 2100 / 5G 700 / 5G 2100",
+      "icon": "ice",
+      "icon_scope": "242",
+      "subs": [
+        {
+          "brand": "ice",
+          "names": [
+            "ice"
+          ],
+          "gid1": "0100",
+          "gid2": "ffff",
+          "profile_names": [
+            "ice Smartphone"
+          ]
+        }
+      ]
+    }
+  ]
+}

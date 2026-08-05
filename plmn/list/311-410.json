@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "410",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Chat Mobility",
+      "operator": "Iowa RSA No. 2 LP",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA"
+    }
+  ]
+}

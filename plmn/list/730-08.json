@@ -1,0 +1,19 @@
+{
+  "mcc": "730",
+  "mnc": "08",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "VTR Móvil",
+      "operator": "VTR S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

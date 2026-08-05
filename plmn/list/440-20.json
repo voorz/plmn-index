@@ -1,0 +1,101 @@
+{
+  "mcc": "440",
+  "mnc": "20",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "SoftBank",
+      "operator": "SoftBank Corp.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3700 / 5G 28000",
+      "icon": "softbank",
+      "icon_scope": "440",
+      "subs": [
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim",
+            "esim",
+            "redtea mobile"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "JOYTEL_BLANK_QRCODE_appletV4",
+            "JOYTEL_SB_appletV4",
+            "ESIM",
+            "klook_blank_applet",
+            "8981200724318426620"
+          ]
+        },
+        {
+          "brand": "SoftBank",
+          "names": [
+            "softbank"
+          ],
+          "gid1": "00ffff",
+          "gid2": "ffffff",
+          "profile_names": [
+            "SoftBank"
+          ]
+        },
+        {
+          "brand": "Y!mobile",
+          "names": [
+            "y!mobile"
+          ],
+          "gid1": "16ffff",
+          "gid2": "ffffff",
+          "profile_names": [
+            "Y!mobile"
+          ]
+        },
+        {
+          "brand": "BillionConnect",
+          "names": [
+            "billionconnect"
+          ],
+          "gid1": "3597bfd533ffffff",
+          "gid2": "ffffffffffffffff"
+        },
+        {
+          "brand": "LINEMO",
+          "names": [
+            "linemo"
+          ],
+          "gid1": "48ffff",
+          "gid2": "ffffff",
+          "profile_names": [
+            "LINEMO"
+          ]
+        },
+        {
+          "brand": "BillionConnect",
+          "names": [
+            "billionconnect",
+            "trip",
+            "softbank",
+            "waysim",
+            "dosirak"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "BillionConnect",
+            "SoftBank",
+            "Waysim",
+            "Dosirak",
+            "USIMSA",
+            "AsiaCentralTelecom"
+          ]
+        }
+      ]
+    }
+  ]
+}

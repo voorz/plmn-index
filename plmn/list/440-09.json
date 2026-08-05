@@ -1,0 +1,62 @@
+{
+  "mcc": "440",
+  "mnc": "09",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "NTT DoCoMo",
+      "operator": "Misora Connect Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "marubeni",
+      "icon_scope": "440",
+      "subs": [
+        {
+          "brand": "M",
+          "names": [
+            "m",
+            "esim",
+            "urocomm"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "urocom_test_applet_qdc",
+            "M_eSIM#1"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Marubeni",
+      "operator": "Marubeni Wireless Communications Inc.",
+      "status": "",
+      "type": "",
+      "bands": "MVNO",
+      "icon": "marubeni",
+      "icon_scope": "440",
+      "subs": [
+        {
+          "brand": "M",
+          "names": [
+            "m",
+            "esim",
+            "urocomm"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "urocom_test_applet_qdc",
+            "M_eSIM#1"
+          ]
+        }
+      ]
+    }
+  ]
+}

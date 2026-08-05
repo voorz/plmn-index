@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "34",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Trafikverket centralfunktion IT",
+      "operator": "Trafikverket centralfunktion IT",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

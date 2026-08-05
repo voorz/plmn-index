@@ -1,0 +1,18 @@
+{
+  "mcc": "545",
+  "mnc": "09",
+  "country": {
+    "name": "Kiribati",
+    "iso": "KI",
+    "code": "686"
+  },
+  "operators": [
+    {
+      "brand": "Kiribati - Frigate Net",
+      "operator": "Amalgamated Telecom Holdings Kiribati Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "649",
+  "mnc": "05",
+  "country": {
+    "name": "Namibia",
+    "iso": "NA",
+    "code": "264"
+  },
+  "operators": [
+    {
+      "brand": "Click Cloud Hosting Services CC",
+      "operator": "Click Cloud Hosting Services CC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

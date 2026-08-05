@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "940",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Webformix",
+      "operator": "Webformix",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "mcc": "310",
+  "mnc": "840",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "telna Mobile",
+      "operator": "Telecom North America Mobile, Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "telna-mobile",
+      "icon_scope": "310",
+      "subs": [
+        {
+          "brand": "airalo",
+          "names": [
+            "airalo",
+            "airalo"
+          ],
+          "gid1": "616972616c6f31ffffffffffffffff",
+          "gid2": "616972616c6f32ffffffffffffffff",
+          "profile_names": [
+            "Telna_MI2_airalo_SPN_GID_CP_v02.06.06",
+            "Telna_MI2_Airalo_Multi_2_7_25_29_v03.06.36"
+          ]
+        },
+        {
+          "brand": "aloSIM",
+          "names": [
+            "alosim"
+          ],
+          "gid1": "616c6f73696d31ffffffffffffffff",
+          "gid2": "616c6f73696d32ffffffffffffffff",
+          "profile_names": [
+            "Telna_MI2_aloSIM_SPN_CP_GID_GP1_v02.06.04"
+          ]
+        },
+        {
+          "brand": "BNE SIM",
+          "names": [
+            "bne sim",
+            "bnesim"
+          ],
+          "gid1": "626e6573696d31ffffffffffffffff",
+          "gid2": "626e6573696d32ffffffffffffffff",
+          "profile_names": [
+            "Telna_MI2_BNESIM_SPN_GID_GP1_v02.06.01.01",
+            "Telna_MI2_Connect_SPN_GID_CP_v02.06.07"
+          ]
+        },
+        {
+          "brand": "Carrier",
+          "names": [
+            "carrier",
+            "roamic",
+            "slick"
+          ],
+          "gid1": "636f6e6e65637431",
+          "gid2": "636f6e6e65637432",
+          "profile_names": [
+            "ESIM_ACCESS_CARRIER",
+            "Roamic_APP",
+            "Klook_app",
+            "Centup"
+          ]
+        },
+        {
+          "brand": "Connect",
+          "names": [
+            "connect",
+            "jetpac",
+            "nomad",
+            "globalyo",
+            "hubby esim",
+            "esimcard.com",
+            "maya mobile",
+            "bne sim",
+            "truely",
+            "esim wholesale",
+            "us mobile"
+          ],
+          "gid1": "636f6e6e65637431ffffffffffffff",
+          "gid2": "636f6e6e65637432ffffffffffffff",
+          "profile_names": [
+            "Telna_Multi_Circles_SPN_GID_CP_v03.06.13",
+            "Telna_WZ-BNE-MI-2-7-22-25-26_v03_06_37",
+            "Telna_WZ-Mi-Gid-BNE_2_7_22_25_26-ES-v22-0_v03.06.41",
+            "Telna_MI2_Connect_SPN_GID_CP_v02.06.07",
+            "Telna_MobiMatter_Redownload_Different_Devices_v04.06.04",
+            "Telna_Connect_PPO_eSIMPLIFIED_Multi_v03.06.34",
+            "Telna_MI2_Connect_Regular_PPO_Multi_v03.06.29",
+            "Telna_MI2_Connect_SPN_GID_CP_v03.06.11",
+            "Telna_WZ-Mi-YO_2_10_25_26-ES-v22-0_v03.06.40",
+            "Telna_Bcengi_Custom_Multi IMSI_v04.06.70",
+            "Telna_Connect_YOMobile_Multi_IMSI_v03.06.30",
+            "Telna_Connect_eSIMPLIFIED_IMSI2_v03.06.32",
+            "Telna_MI2_WZ-Si-YO_2-ES-v22-0_v03.06.35",
+            "Telna_MI_SurfRoam_Connect_SPN_GID_GP1_v02.22.01",
+            "Telna_MI2_Numero_SPN_GID_CP_GP1_v02.06.03",
+            "Telna_MI2_Connect_SPN_GID_CP_v03.06.27",
+            "Telna_WZ-Mi-MAYA_2_21_22_25-SPN-ES-v22-0_v4",
+            "Telna_Connect_Multi_2_7_25_29_v03.06.43",
+            "TEST_Telna_EU_IMAGE_2_7_29_v07.02.01",
+            "Telna_Jetpac_V22026_v07.06.02",
+            "Telna_MI2_connect_SPN_GID_GP1_v02.06.02.01",
+            "Telna_WZ-Mi-MAYA_2_21_22_25-ES-v22-0_v04.06.03"
+          ]
+        }
+      ]
+    }
+  ]
+}

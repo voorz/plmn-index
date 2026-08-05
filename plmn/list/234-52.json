@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "52",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Shyam Telecom UK Ltd",
+      "operator": "Shyam Telecom UK Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

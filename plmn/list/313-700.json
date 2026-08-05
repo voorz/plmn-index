@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "700",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Ameren Services Company",
+      "operator": "Ameren Services Company",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "800"
+    }
+  ]
+}

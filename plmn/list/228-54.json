@@ -1,0 +1,46 @@
+{
+  "mcc": "228",
+  "mnc": "54",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Lycamobile",
+      "operator": "Lycamobile AG",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "lycamobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "LYC39300_5K_GEN_CHE_V1.0_V1.8.0_DI_SMENU_SIMFILES_20250225",
+            "LYC39823_3K_GEN_CHE_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250617"
+          ]
+        },
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "",
+          "profile_names": [
+            "LycaMobile"
+          ]
+        }
+      ]
+    }
+  ]
+}

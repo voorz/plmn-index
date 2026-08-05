@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "43",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Smart Idea International Sp. z o.o.",
+      "operator": "Smart Idea International Sp. z o.o.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

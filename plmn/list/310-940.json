@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "940",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Poka Lambro Telco Ltd.",
+      "operator": "Tyntec Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

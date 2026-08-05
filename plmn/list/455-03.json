@@ -1,0 +1,19 @@
+{
+  "mcc": "455",
+  "mnc": "03",
+  "country": {
+    "name": "Macau (Special administrative region of the People's Republic of China)",
+    "iso": "MO",
+    "code": "853",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "HT Macau / 3 Macau",
+      "operator": "Hutchison Telephone (Macau), Limitada",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "UMTS 2100"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "mcc": "297",
+  "mnc": "01",
+  "country": {
+    "name": "Montenegro",
+    "iso": "ME",
+    "code": "382",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "One",
+      "operator": "One Montenegro",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 2100",
+      "icon": "telenor",
+      "icon_scope": "297",
+      "subs": [
+        {
+          "brand": "One",
+          "names": [
+            "one"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "One"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Telenor",
+      "operator": "Telenor Montenegro",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800",
+      "icon": "telenor",
+      "icon_scope": "297",
+      "subs": [
+        {
+          "brand": "One",
+          "names": [
+            "one"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "One"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "mcc": "740",
+  "mnc": "00",
+  "country": {
+    "name": "Ecuador",
+    "iso": "EC",
+    "code": "593",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Movistar",
+      "operator": "Otecel S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / LTE 1900",
+      "icon": "movistar",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Movistar Ecuador",
+          "names": [
+            "movistar ecuador"
+          ],
+          "gid1": "01",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

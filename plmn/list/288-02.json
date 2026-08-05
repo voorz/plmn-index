@@ -1,0 +1,19 @@
+{
+  "mcc": "288",
+  "mnc": "02",
+  "country": {
+    "name": "Faroe Islands (Kingdom of Denmark)",
+    "iso": "FO",
+    "code": "298",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Nema",
+      "operator": "Nema",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

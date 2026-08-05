@@ -1,0 +1,19 @@
+{
+  "mcc": "280",
+  "mnc": "22",
+  "country": {
+    "name": "Cyprus",
+    "iso": "CY",
+    "code": "357",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "lemontel",
+      "operator": "Lemontel Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

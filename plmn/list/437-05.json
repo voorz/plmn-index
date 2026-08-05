@@ -1,0 +1,34 @@
+{
+  "mcc": "437",
+  "mnc": "05",
+  "country": {
+    "name": "Kyrgyzstan",
+    "iso": "KG",
+    "code": "996",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "MegaCom",
+      "operator": "Alfa Telecom CJSC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100",
+      "icon": "megacom",
+      "icon_scope": "437",
+      "subs": [
+        {
+          "brand": "MEGA",
+          "names": [
+            "mega"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "MEGA"
+          ]
+        }
+      ]
+    }
+  ]
+}

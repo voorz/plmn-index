@@ -1,0 +1,26 @@
+{
+  "mcc": "270",
+  "mnc": "07",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "352",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Bouygues",
+      "operator": "Bouygues Telecom",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    },
+    {
+      "brand": "Bouygues Telecom S.A.",
+      "operator": "Bouygues Telecom S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

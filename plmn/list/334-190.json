@@ -1,0 +1,19 @@
+{
+  "mcc": "334",
+  "mnc": "190",
+  "country": {
+    "name": "Mexico",
+    "iso": "MX",
+    "code": "52",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Viasat",
+      "operator": "VIASAT TECNOLOGÍA, S.A. de C.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Satellite"
+    }
+  ]
+}

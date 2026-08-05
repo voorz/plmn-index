@@ -1,0 +1,78 @@
+{
+  "mcc": "220",
+  "mnc": "03",
+  "country": {
+    "name": "Serbia",
+    "iso": "RS",
+    "code": "381",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "mt:s",
+      "operator": "Telekom Srbija",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / TETRA",
+      "icon": "mts",
+      "icon_scope": "220",
+      "subs": [
+        {
+          "brand": "mts",
+          "names": [
+            "mts"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "mts"
+          ]
+        },
+        {
+          "brand": "Globaltel",
+          "names": [
+            "globaltel"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Globaltel"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "mts",
+      "operator": "Telekom Srbija",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / TETRA",
+      "icon": "mts",
+      "icon_scope": "220",
+      "subs": [
+        {
+          "brand": "mts",
+          "names": [
+            "mts"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "mts"
+          ]
+        },
+        {
+          "brand": "Globaltel",
+          "names": [
+            "globaltel"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Globaltel"
+          ]
+        }
+      ]
+    }
+  ]
+}

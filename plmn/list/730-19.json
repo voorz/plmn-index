@@ -1,0 +1,19 @@
+{
+  "mcc": "730",
+  "mnc": "19",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "móvil Falabella",
+      "operator": "Sociedad Falabella Móvil SPA",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

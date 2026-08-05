@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "14",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "SNCF Réseau",
+      "operator": "SNCF Réseau",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R"
+    }
+  ]
+}

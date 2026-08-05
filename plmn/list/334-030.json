@@ -1,0 +1,43 @@
+{
+  "mcc": "334",
+  "mnc": "030",
+  "country": {
+    "name": "Mexico",
+    "iso": "MX",
+    "code": "52",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Movistar",
+      "operator": "Telefónica",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "movistar",
+      "icon_scope": "334",
+      "subs": [
+        {
+          "brand": "Airalo",
+          "names": [
+            "airalo",
+            "movistar mexico",
+            "dua",
+            "weex",
+            "connect",
+            "virgin mobile"
+          ],
+          "gid1": "10",
+          "gid2": "11",
+          "profile_names": [
+            "Generic Voucher",
+            "Hercules Profile",
+            "128.UV3",
+            "128.EA1",
+            "128.EW1"
+          ]
+        }
+      ]
+    }
+  ]
+}

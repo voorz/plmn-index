@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "610",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "ShawnTech Communications",
+      "operator": "ShawnTech Communications",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

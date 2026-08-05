@@ -1,0 +1,19 @@
+{
+  "mcc": "232",
+  "mnc": "19",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Hutchinson Drei",
+      "operator": "Hutchison Drei Austria",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

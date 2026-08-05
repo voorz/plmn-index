@@ -1,0 +1,38 @@
+{
+  "mcc": "437",
+  "mnc": "01",
+  "country": {
+    "name": "Kyrgyzstan",
+    "iso": "KG",
+    "code": "996",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Beeline",
+      "operator": "Sky Mobile Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800",
+      "icon": "beeline",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Beeline KG",
+          "names": [
+            "beeline kg"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "SkyMobile_BeelineKG_VGKG00037",
+            "SkyMobile_BeelineKG_1.0_oasis00018_10k",
+            "SkyMobile_IZI_PROD_oasisizi0001_SHA",
+            "SkyMobile_BeelineKG_1.0_oasis00004_5k",
+            "SkyMobile_BeelineKG_VGKG00031"
+          ]
+        }
+      ]
+    }
+  ]
+}

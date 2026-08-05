@@ -1,0 +1,31 @@
+{
+  "mcc": "744",
+  "mnc": "05",
+  "country": {
+    "name": "Paraguay",
+    "iso": "PY",
+    "code": "595",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Personal",
+      "operator": "Núcleo S.A. (TIM)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 1900",
+      "icon": "personal",
+      "icon_scope": "744",
+      "subs": [
+        {
+          "brand": "Personal Paraguay",
+          "names": [
+            "personal paraguay"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff"
+        }
+      ]
+    }
+  ]
+}

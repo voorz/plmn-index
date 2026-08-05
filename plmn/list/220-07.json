@@ -1,0 +1,19 @@
+{
+  "mcc": "220",
+  "mnc": "07",
+  "country": {
+    "name": "Serbia",
+    "iso": "RS",
+    "code": "381",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Orion",
+      "operator": "Orion Telekom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA 450"
+    }
+  ]
+}

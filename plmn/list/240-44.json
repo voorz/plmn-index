@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "44",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telenabler",
+      "operator": "Telenabler AB",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

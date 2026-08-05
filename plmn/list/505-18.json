@@ -1,0 +1,18 @@
+{
+  "mcc": "505",
+  "mnc": "18",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Pactel",
+      "operator": "Pactel International",
+      "status": "Not operational",
+      "type": "National"
+    }
+  ]
+}

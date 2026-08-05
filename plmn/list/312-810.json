@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "810",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "BBCP",
+      "operator": "Bristol Bay Telephone Cooperative",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA / LTE"
+    }
+  ]
+}

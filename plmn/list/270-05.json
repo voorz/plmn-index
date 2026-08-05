@@ -1,0 +1,19 @@
+{
+  "mcc": "270",
+  "mnc": "05",
+  "country": {
+    "name": "Luxembourg",
+    "iso": "LU",
+    "code": "352",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Luxembourg Online",
+      "operator": "Luxembourg Online S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

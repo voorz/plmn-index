@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "11",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "IR-TCI (Hamrah-e-Avval)",
+      "operator": "Mobile Communications Company of Iran (MCI)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2300 / 5G 3500"
+    }
+  ]
+}

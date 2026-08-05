@@ -1,0 +1,138 @@
+{
+  "mcc": "525",
+  "mnc": "05",
+  "country": {
+    "name": "Singapore",
+    "iso": "SG",
+    "code": "65",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "StarHub",
+      "operator": "StarHub Mobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2500 / 5G 2100 / 5G 3500",
+      "icon": "starhub",
+      "icon_scope": "525",
+      "subs": [
+        {
+          "brand": "giga",
+          "names": [
+            "giga"
+          ],
+          "gid1": "4442",
+          "gid2": "ffff",
+          "profile_names": [
+            "giga"
+          ]
+        },
+        {
+          "brand": "airalo",
+          "names": [
+            "airalo"
+          ],
+          "gid1": "616972616c6f31",
+          "gid2": "616972616c6f32",
+          "profile_names": [
+            "SI10_52505_airalo_SPN_GID_CP_ND_v01.04.03"
+          ]
+        },
+        {
+          "brand": "airalo",
+          "names": [
+            "airalo"
+          ],
+          "gid1": "616972616c6f31ffffffffffffffff",
+          "gid2": "616972616c6f32ffffffffffffffff",
+          "profile_names": [
+            "MI10_airalo_SPN_GID_CP_GP1_v02.18.03"
+          ]
+        },
+        {
+          "brand": "aloSIM",
+          "names": [
+            "alosim"
+          ],
+          "gid1": "616c6f73696d31ffffffffffffffff",
+          "gid2": "616c6f73696d32ffffffffffffffff",
+          "profile_names": [
+            "Telna_MI10_aloSIM_SPN_GID_CP_v02.18.04"
+          ]
+        },
+        {
+          "brand": "BNE SIM",
+          "names": [
+            "bne sim"
+          ],
+          "gid1": "626e6573696d31ffffffffffffffff",
+          "gid2": "626e6573696d32ffffffffffffffff",
+          "profile_names": [
+            "Telna_MI10_BNE_SIM_SPN_GID_GP1_v02.18.01"
+          ]
+        },
+        {
+          "brand": "connect",
+          "names": [
+            "connect"
+          ],
+          "gid1": "636f6e6e65637431",
+          "gid2": "636f6e6e65637432",
+          "profile_names": [
+            "Telna_SI10_52505_connect_SPN_GID_ND_v01.04.04"
+          ]
+        },
+        {
+          "brand": "Connect",
+          "names": [
+            "connect",
+            "globalyo",
+            "jetpac"
+          ],
+          "gid1": "636f6e6e65637431ffffffffffffff",
+          "gid2": "636f6e6e65637432ffffffffffffff",
+          "profile_names": [
+            "Telna_MI10_Connect_SPN_GID_v02.18.05"
+          ]
+        },
+        {
+          "brand": "eight",
+          "names": [
+            "eight",
+            "starhub",
+            "giga"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "eight",
+            "Starhub Profile"
+          ]
+        },
+        {
+          "brand": "MyRepublic",
+          "names": [
+            "myrepublic"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "MyRepublic"
+          ]
+        },
+        {
+          "brand": "UNICOM SG",
+          "names": [
+            "unicom sg"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "UNICOM SG"
+          ]
+        }
+      ]
+    }
+  ]
+}

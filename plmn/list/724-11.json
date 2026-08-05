@@ -1,0 +1,43 @@
+{
+  "mcc": "724",
+  "mnc": "11",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Vivo",
+      "operator": "Telefônica Brasil S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600 / 5G 700 / 5G 1800 / 5G 2300 / 5G 2600 / 5G 3500",
+      "icon": "vivo",
+      "icon_scope": "724",
+      "subs": [
+        {
+          "brand": "Operadora",
+          "names": [
+            "operadora",
+            "vivo"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "BASE Region - Unified Profile R8",
+            "RJ State - Profile 5G SA - RI 4 digits",
+            "ES State - Unified Profile R8",
+            "NE Region - Profile 5G SA - RI 4 digits",
+            "BASE Region - Profile 5G SA - RI 4",
+            "NE Region - MVNO R8",
+            "NE Region - Unified Profile R8",
+            "PAMA Region - Unified Profile R8",
+            "RJ State - Unified Profile R8"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "mcc": "242",
+  "mnc": "02",
+  "country": {
+    "name": "Norway",
+    "iso": "NO",
+    "code": "47",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telia",
+      "operator": "Telia Norge AS",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 800 / LTE 1800 / LTE 2600 / 5G 700 / 5G 3500",
+      "icon": "telia",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Chilimobil",
+          "names": [
+            "chilimobil"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff"
+        }
+      ]
+    }
+  ]
+}

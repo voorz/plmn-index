@@ -1,0 +1,19 @@
+{
+  "mcc": "520",
+  "mnc": "01",
+  "country": {
+    "name": "Thailand",
+    "iso": "TH",
+    "code": "66",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "AIS",
+      "operator": "Advanced Info Service",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

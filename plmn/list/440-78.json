@@ -1,0 +1,19 @@
+{
+  "mcc": "440",
+  "mnc": "78",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "au",
+      "operator": "Okinawa Cellular Telephone",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA 850 / CDMA 2000"
+    }
+  ]
+}

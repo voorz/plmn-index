@@ -1,0 +1,19 @@
+{
+  "mcc": "645",
+  "mnc": "07",
+  "country": {
+    "name": "Zambia",
+    "iso": "ZM",
+    "code": "260",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Liquid Telecom Zambia Limited",
+      "operator": "Liquid Telecom Zambia Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

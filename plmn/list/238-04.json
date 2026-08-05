@@ -1,0 +1,19 @@
+{
+  "mcc": "238",
+  "mnc": "04",
+  "country": {
+    "name": "Denmark (Kingdom of Denmark)",
+    "iso": "DK",
+    "code": "45",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Nexcon.io",
+      "operator": "Nexcon.io ApS",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

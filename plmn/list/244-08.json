@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "08",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Nokia",
+      "operator": "Nokia Solutions and Networks Oy",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 2100"
+    }
+  ]
+}

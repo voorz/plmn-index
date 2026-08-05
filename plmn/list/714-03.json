@@ -1,0 +1,18 @@
+{
+  "mcc": "714",
+  "mnc": "03",
+  "country": {
+    "name": "Panama",
+    "iso": "PA",
+    "code": "507"
+  },
+  "operators": [
+    {
+      "brand": "Claro",
+      "operator": "América Móvil",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 1900 / LTE 700 / LTE 1900"
+    }
+  ]
+}

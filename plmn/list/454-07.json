@@ -1,0 +1,113 @@
+{
+  "mcc": "454",
+  "mnc": "07",
+  "country": {
+    "name": "Hong Kong",
+    "iso": "HK",
+    "code": "852",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "China Unicom",
+      "operator": "China Unicom (Hong Kong) Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "china-unicom",
+      "icon_scope": "454",
+      "subs": [
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim",
+            "chinaunicom",
+            "esim",
+            "airsime",
+            "unicom hk",
+            "talk2all",
+            "gsma",
+            "bytesim",
+            "cuniq",
+            "arisime"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "19_1730273584977",
+            "SPN_M8_45407_QC_PLMN_List",
+            "NEWARE_45407_QC_V001",
+            "ESIM",
+            "ChinaUnicom",
+            "45407_QC_PLMN_List",
+            "CUniq",
+            "eSIM",
+            "JOYTEL_CSL_Common_LF",
+            "19_1724232695757",
+            "CUHK_45407New",
+            "RT_F18_TR",
+            "19_1730259151398",
+            "JOYTEL_CMI_appletV4",
+            "2034_1729496083759",
+            "Unicom HK",
+            "NEWARE_45407_PS_V002",
+            "GSMA"
+          ]
+        },
+        {
+          "brand": "Unicom_Global",
+          "names": [
+            "unicom_global",
+            "cuniq jp"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "Uniq_go",
+            "CUniq JP"
+          ]
+        },
+        {
+          "brand": "rspmanager_tester2",
+          "names": [
+            "rspmanager_tester2"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "5ber-Upgrade_2024-00A9-2_2",
+            "5ber-Upgrade_2024-00A9-2_3"
+          ]
+        },
+        {
+          "brand": "BillionConnect",
+          "names": [
+            "billionconnect",
+            "ifree",
+            "sct",
+            "cuhk"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "BillionConnect",
+            "LF.Z02_45407_116",
+            "iFREE",
+            "GlobalData"
+          ]
+        },
+        {
+          "brand": "SCT",
+          "names": [
+            "sct"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "HongKongSCT"
+          ]
+        }
+      ]
+    }
+  ]
+}

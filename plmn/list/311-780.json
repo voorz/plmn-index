@@ -1,0 +1,26 @@
+{
+  "mcc": "311",
+  "mnc": "780",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "ASTCA",
+      "operator": "American Samoa Telecommunications Authority",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700"
+    },
+    {
+      "brand": "ASTCA",
+      "operator": "American Samoa Telecommunications",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "730",
+  "mnc": "28",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Airtime Chile S.p.A.",
+      "operator": "Airtime Chile S.p.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

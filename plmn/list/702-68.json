@@ -1,0 +1,19 @@
+{
+  "mcc": "702",
+  "mnc": "68",
+  "country": {
+    "name": "Belize",
+    "iso": "BZ",
+    "code": "501",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "INTELCO",
+      "operator": "International Telecommunications Ltd.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

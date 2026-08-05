@@ -1,0 +1,121 @@
+{
+  "mcc": "338",
+  "mnc": "05",
+  "country": {
+    "name": "Cayman Islands (United Kingdom)",
+    "iso": "KY",
+    "code": "1876",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel Cayman Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100 / LTE 700 / LTE 1800 / 5G 3500",
+      "icon": "digicel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "DIGICEL",
+          "names": [
+            "digicel"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "02.05"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Digicel",
+      "operator": "Digicel (Jamaica) Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / LTE 700 / LTE 850 / LTE 1700 / LTE 1900",
+      "icon": "digicel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "DIGICEL",
+          "names": [
+            "digicel"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "02.05"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Digicel",
+      "operator": "Digicel",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / UMTS 850 / LTE",
+      "icon": "digicel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "DIGICEL",
+          "names": [
+            "digicel"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "02.05"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Digicel",
+      "operator": "Digicel",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / GSM 1900 / LTE 700",
+      "icon": "digicel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "DIGICEL",
+          "names": [
+            "digicel"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "02.05"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "DIGICEL",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "digicel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "DIGICEL",
+          "names": [
+            "digicel"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "02.05"
+          ]
+        }
+      ]
+    }
+  ]
+}

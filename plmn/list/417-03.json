@@ -1,0 +1,19 @@
+{
+  "mcc": "417",
+  "mnc": "03",
+  "country": {
+    "name": "Syria",
+    "iso": "SY",
+    "code": "963",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Wafa Telecom",
+      "operator": "Wafa Telecom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

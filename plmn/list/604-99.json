@@ -1,0 +1,19 @@
+{
+  "mcc": "604",
+  "mnc": "99",
+  "country": {
+    "name": "Morocco",
+    "iso": "MA",
+    "code": "212",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Al Houria Telecom",
+      "operator": "Al Houria Telecom",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

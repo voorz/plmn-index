@@ -1,0 +1,19 @@
+{
+  "mcc": "525",
+  "mnc": "09",
+  "country": {
+    "name": "Singapore",
+    "iso": "SG",
+    "code": "65",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Circles.Life",
+      "operator": "Liberty Wireless Pte Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

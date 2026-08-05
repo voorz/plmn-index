@@ -1,0 +1,19 @@
+{
+  "mcc": "404",
+  "mnc": "37",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "code": "91",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Aircel",
+      "operator": "Jammu & Kashmir",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100"
+    }
+  ]
+}

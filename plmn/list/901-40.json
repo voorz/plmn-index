@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "40",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "1NCE",
+      "operator": "Deutsche Telekom AG",
+      "status": "Operational",
+      "type": "International",
+      "bands": "MVNO"
+    }
+  ]
+}

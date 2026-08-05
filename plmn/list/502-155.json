@@ -1,0 +1,19 @@
+{
+  "mcc": "502",
+  "mnc": "155",
+  "country": {
+    "name": "Malaysia",
+    "iso": "MY",
+    "code": "60",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Clixster",
+      "operator": "Clixster Mobile Sdn Bhd",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

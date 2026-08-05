@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "860",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Telus",
+      "operator": "Telus Mobility",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

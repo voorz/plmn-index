@@ -1,0 +1,43 @@
+{
+  "mcc": "460",
+  "mnc": "02",
+  "country": {
+    "name": "China",
+    "iso": "CN",
+    "code": "86",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "China Mobile",
+      "operator": "China Mobile",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "TD-SCDMA 1900 / TD-SCDMA 2000",
+      "icon": "china-mobile",
+      "icon_scope": "460",
+      "subs": [
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim",
+            "中国移动"
+          ],
+          "gid1": "",
+          "gid2": ""
+        },
+        {
+          "brand": "CMCC",
+          "names": [
+            "cmcc"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "PROFILE_LOW_END"
+          ]
+        }
+      ]
+    }
+  ]
+}

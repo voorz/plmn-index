@@ -1,0 +1,35 @@
+{
+  "mcc": "510",
+  "mnc": "10",
+  "country": {
+    "name": "Indonesia",
+    "iso": "ID",
+    "code": "62",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Telkomsel",
+      "operator": "PT Telekomunikasi Selular",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / TD-LTE 2300 / 5G 2100 / 5G 2300",
+      "icon": "telkomsel",
+      "icon_scope": "510",
+      "subs": [
+        {
+          "brand": "TELKOMSEL",
+          "names": [
+            "telkomsel"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "profilename",
+            "Telkomsel_default"
+          ]
+        }
+      ]
+    }
+  ]
+}

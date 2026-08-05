@@ -1,0 +1,19 @@
+{
+  "mcc": "400",
+  "mnc": "05",
+  "country": {
+    "name": "Azerbaijan",
+    "iso": "AZ",
+    "code": "994",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Special State Protection Service of the Republic of Azerbaijan",
+      "operator": "Special State Protection Service of the Republic of Azerbaijan",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "TETRA?"
+    }
+  ]
+}

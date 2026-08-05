@@ -1,0 +1,17 @@
+{
+  "mcc": "235",
+  "mnc": "94",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44"
+  },
+  "operators": [
+    {
+      "brand": "Three UK",
+      "operator": "Hutchison 3G UK Ltd",
+      "status": "Unknown",
+      "type": "National"
+    }
+  ]
+}

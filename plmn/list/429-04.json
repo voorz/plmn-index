@@ -1,0 +1,19 @@
+{
+  "mcc": "429",
+  "mnc": "04",
+  "country": {
+    "name": "Nepal",
+    "iso": "NP",
+    "code": "977",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "SmartCell",
+      "operator": "Smart Telecom Pvt. Ltd. (STPL)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

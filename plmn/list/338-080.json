@@ -1,0 +1,19 @@
+{
+  "mcc": "338",
+  "mnc": "080",
+  "country": {
+    "name": "Jamaica",
+    "iso": "JM",
+    "code": "1876",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Rock Mobile Limited",
+      "operator": "Rock Mobile Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "LTE 700"
+    }
+  ]
+}

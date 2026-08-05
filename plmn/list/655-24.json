@@ -1,0 +1,19 @@
+{
+  "mcc": "655",
+  "mnc": "24",
+  "country": {
+    "name": "South Africa",
+    "iso": "ZA",
+    "code": "27",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "SMSPortal (Pty) Ltd.",
+      "operator": "SMSPortal (Pty) Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

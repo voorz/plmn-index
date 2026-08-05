@@ -1,0 +1,49 @@
+{
+  "mcc": "530",
+  "mnc": "24",
+  "country": {
+    "name": "New Zealand",
+    "iso": "NZ",
+    "code": "64",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "2degrees",
+      "operator": "2degrees",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 900 / LTE 1800 / LTE 2100 / 5G 3500",
+      "icon": "2degrees",
+      "icon_scope": "530",
+      "subs": [
+        {
+          "brand": "Kiwi Mobile",
+          "names": [
+            "kiwi mobile",
+            "2degrees",
+            "zeronet"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "2degrees eSIM",
+            "Traveller eSIM",
+            "eSIM 2D $55 MONTHLY PREPAY PLAN",
+            "Kiwi Mobile eSIM"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "none",
+          "gid2": "none",
+          "profile_names": [
+            "Traveller eSIM",
+            "2degrees eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

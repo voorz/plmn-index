@@ -1,0 +1,18 @@
+{
+  "mcc": "659",
+  "mnc": "03",
+  "country": {
+    "name": "South Sudan",
+    "iso": "SS",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Gemtel",
+      "operator": "Gemtel",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "724",
+  "mnc": "37",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "aeiou",
+      "operator": "Unicel",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

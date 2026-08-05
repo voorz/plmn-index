@@ -1,0 +1,18 @@
+{
+  "mcc": "652",
+  "mnc": "06",
+  "country": {
+    "name": "Botswana",
+    "iso": "BW",
+    "code": "267"
+  },
+  "operators": [
+    {
+      "brand": "Paratus Telecommunications (Pty) Ltd",
+      "operator": "Paratus Telecommunications (Pty) Ltd",
+      "status": "unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

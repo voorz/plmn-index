@@ -1,0 +1,56 @@
+{
+  "mcc": "706",
+  "mnc": "04",
+  "country": {
+    "name": "El Salvador",
+    "iso": "SV",
+    "code": "503",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Movistar",
+      "operator": "Telefónica Móviles El Salvador",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 1900",
+      "icon": "movistar",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Movistar",
+          "names": [
+            "movistar"
+          ],
+          "gid1": "00",
+          "gid2": "",
+          "profile_names": [
+            "128LTE.U5"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "movistar",
+      "operator": "Telefónica Móviles El Salvador",
+      "status": "",
+      "type": "",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 1900",
+      "icon": "movistar",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Movistar",
+          "names": [
+            "movistar"
+          ],
+          "gid1": "00",
+          "gid2": "",
+          "profile_names": [
+            "128LTE.U5"
+          ]
+        }
+      ]
+    }
+  ]
+}

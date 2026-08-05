@@ -1,0 +1,34 @@
+{
+  "mcc": "283",
+  "mnc": "10",
+  "country": {
+    "name": "Armenia",
+    "iso": "AM",
+    "code": "374",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Ucom",
+      "operator": "Ucom LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600",
+      "icon": "ucom",
+      "icon_scope": "283",
+      "subs": [
+        {
+          "brand": "Ucom",
+          "names": [
+            "ucom"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "eSIM SAIP_v5_PRP2a"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "41",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telenor Sverige AB",
+      "operator": "Telenor Sverige AB",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

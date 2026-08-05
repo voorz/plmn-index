@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "50",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "eRate Sverige AB",
+      "operator": "eRate Sverige AB",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

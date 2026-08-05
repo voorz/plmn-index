@@ -1,0 +1,45 @@
+{
+  "mcc": "238",
+  "mnc": "06",
+  "country": {
+    "name": "Denmark (Kingdom of Denmark)",
+    "iso": "DK",
+    "code": "45",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "3",
+      "operator": "Hi3G Denmark ApS",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600 / 5G 700 / 5G 2100 / 5G 3500",
+      "icon": "3",
+      "icon_scope": "238",
+      "subs": [
+        {
+          "brand": "3 Danmark",
+          "names": [
+            "3 danmark"
+          ],
+          "gid1": "1000",
+          "gid2": "",
+          "profile_names": [
+            "ESIM_DK.42.28_QR_DIGITAL"
+          ]
+        },
+        {
+          "brand": "OiSTER",
+          "names": [
+            "oister"
+          ],
+          "gid1": "1001ffff",
+          "gid2": "",
+          "profile_names": [
+            "ESIM_DK.42.27_QR_DIGITAL"
+          ]
+        }
+      ]
+    }
+  ]
+}

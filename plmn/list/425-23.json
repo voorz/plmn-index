@@ -1,0 +1,19 @@
+{
+  "mcc": "425",
+  "mnc": "23",
+  "country": {
+    "name": "Israel",
+    "iso": "IL",
+    "code": "970",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Beezz",
+      "operator": "Beezz Communication Solutions Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

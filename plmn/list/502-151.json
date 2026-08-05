@@ -1,0 +1,19 @@
+{
+  "mcc": "502",
+  "mnc": "151",
+  "country": {
+    "name": "Malaysia",
+    "iso": "MY",
+    "code": "60",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "SalamFone",
+      "operator": "Baraka Telecom Sdn Bhd",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

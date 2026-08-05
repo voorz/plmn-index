@@ -1,0 +1,18 @@
+{
+  "mcc": "637",
+  "mnc": "20",
+  "country": {
+    "name": "Somalia",
+    "iso": "SO",
+    "code": "252"
+  },
+  "operators": [
+    {
+      "brand": "SOMNET",
+      "operator": "SOMNET",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800"
+    }
+  ]
+}

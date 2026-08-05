@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "720",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "MainePCS LLC",
+      "operator": "MainePCS LLC",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1900"
+    }
+  ]
+}

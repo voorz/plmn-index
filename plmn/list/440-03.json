@@ -1,0 +1,117 @@
+{
+  "mcc": "440",
+  "mnc": "03",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "IIJmio",
+      "operator": "Internet Initiative Japan Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "iijmio",
+      "icon_scope": "440",
+      "subs": [
+        {
+          "brand": "Redtea Mobile",
+          "names": [
+            "redtea mobile",
+            "carrier",
+            "travel",
+            "esim",
+            "vacay",
+            "tgt",
+            "iij",
+            "redteago",
+            "jetfi mobile",
+            "tsimtech",
+            "roamic",
+            "airsime",
+            "redteamobile"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Access_Jetfi",
+            "Klook_app",
+            "IIJ",
+            "TUGE",
+            "RedteaGO",
+            "JOYTEL_IIJ_appletV4",
+            "ESIM",
+            "ESIM_ACCESS_CARRIER",
+            "tsimtech_1696385959666",
+            "RTG_Android",
+            "LibeSIM",
+            "NEWARE_IIJ_V001"
+          ]
+        },
+        {
+          "brand": "IIJ",
+          "names": [
+            "iij"
+          ],
+          "gid1": "f3000010",
+          "gid2": "ffffff",
+          "profile_names": [
+            "IIJ"
+          ]
+        },
+        {
+          "brand": "IIJ",
+          "names": [
+            "iij"
+          ],
+          "gid1": "f3000013",
+          "gid2": "ffffff",
+          "profile_names": [
+            "IIJ"
+          ]
+        },
+        {
+          "brand": "infra",
+          "names": [
+            "infra",
+            "tgt"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "infra",
+            "TUGE"
+          ]
+        },
+        {
+          "brand": "BillionConnect",
+          "names": [
+            "billionconnect",
+            "iijmio",
+            "trip"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "BillionConnect",
+            "IIJmio",
+            "AsiaCentralTelecom",
+            "StageFive_44003_001"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "none",
+          "gid2": "none",
+          "profile_names": [
+            "Access_Jetfi"
+          ]
+        }
+      ]
+    }
+  ]
+}

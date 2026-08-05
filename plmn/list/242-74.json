@@ -1,0 +1,19 @@
+{
+  "mcc": "242",
+  "mnc": "74",
+  "country": {
+    "name": "Norway",
+    "iso": "NO",
+    "code": "47",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "private networks",
+      "operator": "private networks",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

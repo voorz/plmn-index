@@ -1,0 +1,19 @@
+{
+  "mcc": "238",
+  "mnc": "42",
+  "country": {
+    "name": "Denmark (Kingdom of Denmark)",
+    "iso": "DK",
+    "code": "45",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Wavely",
+      "operator": "Greenwave Mobile IoT ApS",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "238",
+  "mnc": "15",
+  "country": {
+    "name": "Denmark (Kingdom of Denmark)",
+    "iso": "DK",
+    "code": "45",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Net 1",
+      "operator": "Cibicom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 450"
+    }
+  ]
+}

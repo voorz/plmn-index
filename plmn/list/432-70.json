@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "70",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "MTCE",
+      "operator": "Telecommunication Company of Iran (TCI)",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

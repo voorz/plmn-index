@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "300",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Big Sky Mobile",
+      "operator": "iSmart Mobile, LLC",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1900"
+    }
+  ]
+}

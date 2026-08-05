@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "04",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Department of Defense",
+      "operator": "Department of Defence",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "mcc": "214",
+  "mnc": "05",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Movistar",
+      "operator": "Telefónica Móviles España",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "movistar",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "eSimFLAG",
+          "names": [
+            "esimflag"
+          ],
+          "gid1": "636f6e6e65637431ffffffffffffff",
+          "gid2": "636f6e6e65637432ffffffffffffff",
+          "profile_names": [
+            "Telna_Movistar_Spain_Phase1_Telna_GID_v04.24.00"
+          ]
+        },
+        {
+          "brand": "eSimFLAG",
+          "names": [
+            "esimflag"
+          ],
+          "gid1": "80ffffffffffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffffffffffffff",
+          "profile_names": [
+            "Telna_MovistarSpain_V1.7_v04.25.01"
+          ]
+        }
+      ]
+    }
+  ]
+}

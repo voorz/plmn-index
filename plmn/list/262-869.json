@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "869",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "TKÜV-Netzanbindungen",
+      "operator": "TKÜV-Netzanbindungen",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "98",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Air France",
+      "operator": "Société Air France",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

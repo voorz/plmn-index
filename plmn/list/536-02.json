@@ -1,0 +1,18 @@
+{
+  "mcc": "536",
+  "mnc": "02",
+  "country": {
+    "name": "Nauru",
+    "iso": "NR",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel (Nauru) Corporation",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

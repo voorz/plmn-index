@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "65",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Plintron Global Technology Solutions Pty Ltd",
+      "operator": "Plintron Global Technology Solutions Pty Ltd",
+      "status": "Not operational",
+      "type": "International",
+      "bands": "MVNO"
+    }
+  ]
+}

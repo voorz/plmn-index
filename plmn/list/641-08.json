@@ -1,0 +1,19 @@
+{
+  "mcc": "641",
+  "mnc": "08",
+  "country": {
+    "name": "Uganda",
+    "iso": "UG",
+    "code": "256",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Talkio Mobile Limited",
+      "operator": "Talkio Mobile Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

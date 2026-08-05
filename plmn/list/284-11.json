@@ -1,0 +1,19 @@
+{
+  "mcc": "284",
+  "mnc": "11",
+  "country": {
+    "name": "Bulgaria",
+    "iso": "BG",
+    "code": "359",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Bulsatcom",
+      "operator": "Bulsatcom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "LTE 1800"
+    }
+  ]
+}

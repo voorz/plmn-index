@@ -1,0 +1,34 @@
+{
+  "mcc": "602",
+  "mnc": "04",
+  "country": {
+    "name": "Egypt",
+    "iso": "EG",
+    "code": "20",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "WE",
+      "operator": "Telecom Egypt",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800 / 5G 2500",
+      "icon": "we",
+      "icon_scope": "602",
+      "subs": [
+        {
+          "brand": "we",
+          "names": [
+            "we"
+          ],
+          "gid1": "e1ffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "we"
+          ]
+        }
+      ]
+    }
+  ]
+}

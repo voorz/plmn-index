@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "78",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Telecom Italia Sparkle S.p.A.",
+      "operator": "Telecom Italia Sparkle S.p.A.",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

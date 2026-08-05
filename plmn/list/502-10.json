@@ -1,0 +1,19 @@
+{
+  "mcc": "502",
+  "mnc": "10",
+  "country": {
+    "name": "Malaysia",
+    "iso": "MY",
+    "code": "60",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "DiGi",
+      "operator": "Celcom, DiGi, Maxis, Tune Talk, U Mobile, Unifi, XOX, Yes",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 1800 / LTE 2600"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "mcc": "621",
+  "mnc": "74",
+  "country": {
+    "name": "Nigeria",
+    "iso": "NG",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Vitel",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "vitel",
+      "icon_scope": "621",
+      "subs": [
+        {
+          "brand": "Vitel",
+          "names": [
+            "vitel"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Vitel 01"
+          ]
+        }
+      ]
+    }
+  ]
+}

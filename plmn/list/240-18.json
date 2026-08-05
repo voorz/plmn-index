@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "18",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Messit / Minicall",
+      "operator": "Generic Mobile Systems Sweden AB",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "11",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Telstra",
+      "operator": "Telstra",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 2600"
+    }
+  ]
+}

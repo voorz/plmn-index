@@ -1,0 +1,19 @@
+{
+  "mcc": "242",
+  "mnc": "01",
+  "country": {
+    "name": "Norway",
+    "iso": "NO",
+    "code": "47",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telenor",
+      "operator": "Telenor Norge AS",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500"
+    }
+  ]
+}

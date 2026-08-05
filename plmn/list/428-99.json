@@ -1,0 +1,45 @@
+{
+  "mcc": "428",
+  "mnc": "99",
+  "country": {
+    "name": "Mongolia",
+    "iso": "MN",
+    "code": "976",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Mobicom",
+      "operator": "Mobicom Corporation",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 700 / LTE 1800",
+      "icon": "mobicom",
+      "icon_scope": "428",
+      "subs": [
+        {
+          "brand": "mobicom",
+          "names": [
+            "mobicom"
+          ],
+          "gid1": "beffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "mobicom"
+          ]
+        },
+        {
+          "brand": "Airalo",
+          "names": [
+            "airalo"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "1.00"
+          ]
+        }
+      ]
+    }
+  ]
+}

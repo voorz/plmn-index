@@ -1,0 +1,19 @@
+{
+  "mcc": "466",
+  "mnc": "09",
+  "country": {
+    "name": "Taiwan",
+    "iso": "TW",
+    "code": "886",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "VMAX",
+      "operator": "Vmax Telecom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "WiMAX 2600"
+    }
+  ]
+}

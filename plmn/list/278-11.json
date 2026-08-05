@@ -1,0 +1,19 @@
+{
+  "mcc": "278",
+  "mnc": "11",
+  "country": {
+    "name": "Malta",
+    "iso": "MT",
+    "code": "356",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "YOM Ltd.",
+      "operator": "YOM Ltd.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

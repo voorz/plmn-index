@@ -1,0 +1,18 @@
+{
+  "mcc": "348",
+  "mnc": "370",
+  "country": {
+    "name": "British Virgin Islands (United Kingdom)",
+    "iso": "VG",
+    "code": "284"
+  },
+  "operators": [
+    {
+      "brand": "BVI Cable TV Ltd",
+      "operator": "BVI Cable TV Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

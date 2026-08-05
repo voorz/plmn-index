@@ -1,0 +1,50 @@
+{
+  "mcc": "422",
+  "mnc": "03",
+  "country": {
+    "name": "Oman",
+    "iso": "OM",
+    "code": "968",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Ooredoo",
+      "operator": "Omani Qatari Telecommunications Company SAOC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / LTE 800 / LTE 1800 / TD-LTE 2300 / 5G 3500",
+      "icon": "ooredoo",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Ooredoo",
+          "names": [
+            "ooredoo"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ff"
+        }
+      ]
+    },
+    {
+      "brand": "ooredoo",
+      "operator": "Omani Qatari Telecommunications Company SAOC",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / LTE 800 / LTE 1800 / TD-LTE 2300",
+      "icon": "ooredoo",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Ooredoo",
+          "names": [
+            "ooredoo"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ff"
+        }
+      ]
+    }
+  ]
+}

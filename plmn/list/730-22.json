@@ -1,0 +1,19 @@
+{
+  "mcc": "730",
+  "mnc": "22",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Cellplus SpA",
+      "operator": "Cellplus SpA",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

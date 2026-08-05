@@ -1,0 +1,18 @@
+{
+  "mcc": "620",
+  "mnc": "10",
+  "country": {
+    "name": "Ghana",
+    "iso": "GH",
+    "code": "233"
+  },
+  "operators": [
+    {
+      "brand": "Blu",
+      "operator": "Blu Telecommunications",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 2500"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "110",
+  "country": {
+    "name": "Northern Mariana Islands (United States of America)",
+    "iso": "MP",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "IT&E Wireless",
+      "operator": "PTI Pacifica Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA / GSM 850 / UMTS 1900 / LTE 700"
+    }
+  ]
+}

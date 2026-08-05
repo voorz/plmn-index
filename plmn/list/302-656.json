@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "656",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "TBay",
+      "operator": "Thunder Bay Telephone Mobility",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA"
+    }
+  ]
+}

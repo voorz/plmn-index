@@ -1,0 +1,34 @@
+{
+  "mcc": "502",
+  "mnc": "16",
+  "country": {
+    "name": "Malaysia",
+    "iso": "MY",
+    "code": "60",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "DiGi",
+      "operator": "DiGi Telecommunications",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600",
+      "icon": "digi",
+      "icon_scope": "502",
+      "subs": [
+        {
+          "brand": "Digi",
+          "names": [
+            "digi"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "eSIM_MASS_USIM_1.0"
+          ]
+        }
+      ]
+    }
+  ]
+}

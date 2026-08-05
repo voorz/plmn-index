@@ -1,0 +1,19 @@
+{
+  "mcc": "617",
+  "mnc": "02",
+  "country": {
+    "name": "Mauritius",
+    "iso": "MU",
+    "code": "230",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "MOKOZE / AZU",
+      "operator": "Mahanagar Telephone Mauritius Limited (MTML)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA2000"
+    }
+  ]
+}

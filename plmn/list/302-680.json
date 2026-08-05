@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "680",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "SaskTel",
+      "operator": "SaskTel Mobility",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 2600"
+    }
+  ]
+}

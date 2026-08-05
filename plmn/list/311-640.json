@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "640",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Rock Wireless",
+      "operator": "Standing Rock Telecommunications",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700"
+    }
+  ]
+}

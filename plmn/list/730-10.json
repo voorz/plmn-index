@@ -1,0 +1,19 @@
+{
+  "mcc": "730",
+  "mnc": "10",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Entel",
+      "operator": "Entel Telefonía Móvil S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 3500"
+    }
+  ]
+}

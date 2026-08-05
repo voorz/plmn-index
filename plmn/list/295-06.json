@@ -1,0 +1,19 @@
+{
+  "mcc": "295",
+  "mnc": "06",
+  "country": {
+    "name": "Liechtenstein",
+    "iso": "LI",
+    "code": "423",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Cubic Telecom",
+      "operator": "Cubic Telecom AG",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

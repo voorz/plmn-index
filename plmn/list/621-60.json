@@ -1,0 +1,19 @@
+{
+  "mcc": "621",
+  "mnc": "60",
+  "country": {
+    "name": "Nigeria",
+    "iso": "NG",
+    "code": "234",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "9mobile",
+      "operator": "Emerging Markets Telecommunication Services Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

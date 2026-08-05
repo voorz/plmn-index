@@ -1,0 +1,34 @@
+{
+  "mcc": "655",
+  "mnc": "02",
+  "country": {
+    "name": "South Africa",
+    "iso": "ZA",
+    "code": "27",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Telkom",
+      "operator": "Telkom SA SOC Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / TD-LTE 2300 / 5G 3500",
+      "icon": "telkom",
+      "icon_scope": "655",
+      "subs": [
+        {
+          "brand": "Telkom South Africa",
+          "names": [
+            "telkom south africa"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "TelkomSA eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

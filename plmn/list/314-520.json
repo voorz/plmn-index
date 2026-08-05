@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "520",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "OG+E",
+      "operator": "Oklahoma Gas & Electric Company",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

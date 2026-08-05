@@ -1,0 +1,18 @@
+{
+  "mcc": "620",
+  "mnc": "02",
+  "country": {
+    "name": "Ghana",
+    "iso": "GH",
+    "code": "233"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "Vodafone Group",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+    }
+  ]
+}

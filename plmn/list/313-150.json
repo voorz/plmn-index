@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "150",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "FirstNet",
+      "operator": "700 MHz Public Safety Broadband",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

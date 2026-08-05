@@ -1,0 +1,18 @@
+{
+  "mcc": "659",
+  "mnc": "07",
+  "country": {
+    "name": "South Sudan",
+    "iso": "SS",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Sudani",
+      "operator": "Sudani",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA"
+    }
+  ]
+}

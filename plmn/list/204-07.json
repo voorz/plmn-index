@@ -1,0 +1,79 @@
+{
+  "mcc": "204",
+  "mnc": "07",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Teleena",
+      "operator": "Tata Communications MOVE B.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "teleena",
+      "icon_scope": "204",
+      "subs": [
+        {
+          "brand": "Firsty",
+          "names": [
+            "firsty",
+            "fairplay",
+            "e-lux",
+            "reddogfish",
+            "next",
+            "xtreme"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Tata_Firsty_EP-3311v2_TEA03468_10k_20250311",
+            "Tata_EP3043_TEA03253_Firsty_3K",
+            "Tata_Firsty_EP-3043_TEA03317_10K_20250114",
+            "Tata_EP3043_TEA03208_Firsty_10K",
+            "Tata_EP3043_TEA03252_Firsty_10K",
+            "Tata_EP3043_TEA03250_Firsty_10K",
+            "Tata_Fairplay_EP-3043_TEA03095_10K_240905",
+            "Tata_Firsty_EP-3311v2_TEA03484_25k_20250314",
+            "Tata_EP3043_TEA03166_Firsty_10K",
+            "Tata_EP3043_TEA03202_Firsty_5K",
+            "Tata_EP3043_TEA03254_Firsty_5K",
+            "Tata_EP3311V2_TEA03535_Firsty_10k",
+            "Tata_EP3043_TEA03255_Firsty_2K",
+            "Tata_EP3043_TEA03259_Firsty_2705",
+            "Tata_EP3043_TEA03251_Firsty_10K",
+            "Tata_EP3043_TEA02975_Firsty_10K_20240729",
+            "Tata_EP3043_TEA03212_Firsty_10K",
+            "TEA02780_10K_EP3303v3_MI_ARA-M_Firsty",
+            "TATA_EP3043V2_TEA02891_eLUX_10K_28062024",
+            "Tata_EP3043_TEA03100_Xtreme_3K",
+            "Tata_EP3043_TEA03207_Firsty_10K",
+            "Tata_Firsty_EP-3043_TEA03323_5K_20250114",
+            "Tata_Firsty_EP-3043_TEA03322_4K_20250114",
+            "Tata_Firsty_EP-3043_TEA03321_10K_20250114",
+            "Tata_EP3043_TEA03170_Firsty_10K",
+            "Tata_EP3043_TEA03079_Firsty_10K",
+            "Tata_EP3043_TEA03257_Firsty_1.4K",
+            "Tata_EP3043_TEA03211_Firsty_10K",
+            "Tata_EP3043_TEA02977_Firsty_2K_20240729",
+            "Tata_EP3043_TEA02909_Firsty_10K",
+            "Tata_EP3043_TEA03081_10K_Firsty",
+            "TEA02779_10K_EP3303v3_MI_ARA-M_Firsty",
+            "Tata_Firsty_EP-3043_TEA03325_3K_20250127",
+            "Tata_EP3043_TEA02916_Firsty_5K",
+            "Tata_EP3043_TEA03514_RedDogFish_5k",
+            "Tata_EP3043_TEA03080_Firsty_10K",
+            "Tata_EP3043_TEA02976_Firsty_8K",
+            "Tata_EP3043_TEA03256_Firsty_4995",
+            "Tata_EP3043_TEA03167_Firsty_10K",
+            "Tata_EP3326_TEA03921_Cathay_Pacific_MOVE_6k",
+            "Tata_EP3043_TEA03169_Firsty_10K"
+          ]
+        }
+      ]
+    }
+  ]
+}

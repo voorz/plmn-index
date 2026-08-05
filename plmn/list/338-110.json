@@ -1,0 +1,19 @@
+{
+  "mcc": "338",
+  "mnc": "110",
+  "country": {
+    "name": "Jamaica",
+    "iso": "JM",
+    "code": "1876",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "FLOW",
+      "operator": "Cable & Wireless Communications",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

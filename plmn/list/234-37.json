@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "37",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Synectiv",
+      "operator": "Synectiv Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

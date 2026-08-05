@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "703",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "New Tel Mobility",
+      "operator": "New Tel Mobility (Aliant)",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA2000"
+    }
+  ]
+}

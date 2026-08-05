@@ -1,0 +1,318 @@
+{
+  "mcc": "260",
+  "mnc": "01",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Plus",
+      "operator": "Polkomtel Sp. z o.o.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / TD-5G 2500",
+      "icon": "plus",
+      "icon_scope": "260",
+      "subs": [
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim",
+            "plus",
+            "esim",
+            "global",
+            "carrier",
+            "roamic",
+            "redtea mobile",
+            "roaminrabbit",
+            "tgt",
+            "bondio",
+            "bytesim",
+            "esimo",
+            "microesim",
+            "redteago",
+            "airsime",
+            "jetfi mobile",
+            "22sim",
+            "onoff",
+            "slick"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Plus",
+            "RedteaGO",
+            "Roamic_APP",
+            "Global1SIM_Single_SP05",
+            "ESIM",
+            "JOYTEL_BLANK_QRCODE_appletV4",
+            "TUGE",
+            "ESIM_ACCESS_CARRIER",
+            "JOYTEL_plus_appletV4",
+            "133_1727089491247",
+            "22SIM",
+            "133_1727281223186",
+            "19_1718161410235",
+            "tau_default",
+            "tau_esimo",
+            "RTG_Android",
+            "Centup"
+          ]
+        },
+        {
+          "brand": "DENT",
+          "names": [
+            "dent",
+            "bootstrap"
+          ],
+          "gid1": "3597bfd533ffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Bootstrap",
+            "DENT"
+          ]
+        },
+        {
+          "brand": "DENT",
+          "names": [
+            "dent"
+          ],
+          "gid1": "3597bfd533ffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "DENT"
+          ]
+        },
+        {
+          "brand": "Gigs",
+          "names": [
+            "gigs"
+          ],
+          "gid1": "47696773ffffffffffff",
+          "gid2": "47696773ffffffffffff",
+          "profile_names": [
+            "eSIM",
+            "Gigs"
+          ]
+        },
+        {
+          "brand": "Instabridge",
+          "names": [
+            "instabridge"
+          ],
+          "gid1": "496e7374616272696467",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Instabridge"
+          ]
+        },
+        {
+          "brand": "Kolet",
+          "names": [
+            "kolet",
+            "ody"
+          ],
+          "gid1": "4f6479ffffffffffffff",
+          "gid2": "4f6479ffffffffffffff",
+          "profile_names": [
+            "Kolet",
+            "Ody"
+          ]
+        },
+        {
+          "brand": "YESIM",
+          "names": [
+            "yesim"
+          ],
+          "gid1": "596553494d313054ffff",
+          "gid2": "596553494d313054ffff",
+          "profile_names": [
+            "YESIM"
+          ]
+        },
+        {
+          "brand": "airalo",
+          "names": [
+            "airalo"
+          ],
+          "gid1": "616972616c6f31ffffffffffffffff",
+          "gid2": "616972616c6f32ffffffffffffffff",
+          "profile_names": [
+            "Telna_MI25_airalo_SPN_GID_CP_v02.10.05",
+            "Telna_Airalo_NewMI_25_7_2_29_v03.10.27",
+            "Telna_MI25_airalo_SPN_GID_CP_v02.10.08"
+          ]
+        },
+        {
+          "brand": "aloSIM",
+          "names": [
+            "alosim"
+          ],
+          "gid1": "616c6f73696d31ffffffffffffffff",
+          "gid2": "616c6f73696d32ffffffffffffffff",
+          "profile_names": [
+            "Telna_MI25_aloSIM_SPN_GID_CP_v02.10.06"
+          ]
+        },
+        {
+          "brand": "Connect",
+          "names": [
+            "connect",
+            "maya mobile",
+            "nomad",
+            "globalyo",
+            "holiday.com",
+            "simly",
+            "bnesim",
+            "qrispy",
+            "bne sim",
+            "esim wholesale",
+            "hubby esim",
+            "umi"
+          ],
+          "gid1": "636f6e6e65637431ffffffffffffff",
+          "gid2": "636f6e6e65637432ffffffffffffff",
+          "profile_names": [
+            "Telna-WZ-Si-MAYA_2_7_10_25-ES-v22-0_v04.10.01",
+            "Telna_MI25_Connect_SPN_GID_CP_v03.10.16",
+            "Telna_MI25_Connect_SPN_GID_v02.10.07",
+            "Telna_WZ-Si-MAYA_25_7_10_2_SPN-ES-v22_0_v04.10.02",
+            "Telna_WZ-MI-25_7_10_2_26_29-ES-v22-0-0_Qrispy_v03.10.31",
+            "Telna_Simbase_HighBWOpp_2_7_25_v04.10.07",
+            "Telna_WZ-Mi-POTENTIAL_25_7_10_2_26_29-ES-v22-0_v03.10.36",
+            "Telna_WZ-MI-25_2_7_10_29-ES-v22-0-1_v04.10.19",
+            "Telna_WZ-Mi-YO_25_7_2_29-ES-v22-0_v03.10.29",
+            "Telna_MI25_connect_SPN_GID_GP1_v02.10.01",
+            "Telna_WZ-Si-YO Mobile_25-ES_v03.10.25"
+          ]
+        },
+        {
+          "brand": "infra",
+          "names": [
+            "infra",
+            "tgt"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "infra",
+            "TUGE"
+          ]
+        },
+        {
+          "brand": "PLUS",
+          "names": [
+            "plus",
+            "next mobile",
+            "fonia",
+            "crossmobile",
+            "otvarta"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "Polkomtel ESIM profiles",
+            "Polkomtel ESIM Profiles"
+          ]
+        },
+        {
+          "brand": "Kolet",
+          "names": [
+            "kolet",
+            "billionconnect",
+            "roamify",
+            "openroam",
+            "ucloudlink",
+            "bondio",
+            "celitech",
+            "plus",
+            "esim"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "single_imsi_dynamic",
+            "eSIM",
+            "OpenRoam",
+            "Roamify",
+            "BillionConnect",
+            "Plus",
+            "uCloudlink",
+            "Kolet",
+            "eSIMNEXT"
+          ]
+        },
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "",
+          "profile_names": [
+            "LycaMobile"
+          ]
+        },
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim",
+            "esim io",
+            "sparks",
+            "just esim",
+            "esim.sm",
+            "imsim",
+            "frewie",
+            "keepgo",
+            "global",
+            "plus",
+            "every",
+            "openroam",
+            "thirr.com",
+            "99esim",
+            "roamify",
+            "drimsim",
+            "via esim",
+            "gosim",
+            "simtlv",
+            "jmp.chat",
+            "m8",
+            "ohayu"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "eSIM",
+            "Just eSIM",
+            "esim.sm",
+            "eSIM io",
+            "KeepGo",
+            "IMSIM",
+            "Sparks",
+            "Drimsim",
+            "Roamify",
+            "OpenRoam",
+            "thirr.com",
+            "Frewie",
+            "Every",
+            "Global",
+            "99esim",
+            "SIMTLV",
+            "TSimTech",
+            "VIA eSIM",
+            "Kudo eSIM",
+            "GoSIM",
+            "Zadarma",
+            "UNISIM",
+            "HolaSim",
+            "M8",
+            "OHAYU"
+          ]
+        }
+      ]
+    }
+  ]
+}

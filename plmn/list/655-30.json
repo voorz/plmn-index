@@ -1,0 +1,19 @@
+{
+  "mcc": "655",
+  "mnc": "30",
+  "country": {
+    "name": "South Africa",
+    "iso": "ZA",
+    "code": "27",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Bokamoso Consortium",
+      "operator": "Bokamoso Consortium",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

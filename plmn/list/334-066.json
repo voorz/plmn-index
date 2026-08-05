@@ -1,0 +1,19 @@
+{
+  "mcc": "334",
+  "mnc": "066",
+  "country": {
+    "name": "Mexico",
+    "iso": "MX",
+    "code": "52",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Telefonos de México, S.A.B. de C.V.",
+      "operator": "Telefonos de México, S.A.B. de C.V.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

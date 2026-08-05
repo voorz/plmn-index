@@ -1,0 +1,38 @@
+{
+  "mcc": "234",
+  "mnc": "26",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Lycamobile",
+      "operator": "Lycamobile UK Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "lycamobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "LYC37481C_2k_GBR_V8.0_V8.12.0_DI_SMENU_SIMFILES_20230307",
+            "LYC37655_10K_GEN_GBR_V1.0_V1.6.0_DI_SMENU_SIMFILES_20240109",
+            "LYC37649_10K_GEN_GBR_V1.0_V1.4.0_DI_SMENU_SIMFILES_20230701",
+            "LYC37656_10K_GEN_GBR_V1.0_V1.6.0_DI_SMENU_SIMFILES_20240110",
+            "LYC37636_10K_GEN_GBR_V1.0_V1.2.0_DI_SMENU_SIMFILES_20230516"
+          ]
+        }
+      ]
+    }
+  ]
+}

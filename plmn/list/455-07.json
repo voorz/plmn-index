@@ -1,0 +1,34 @@
+{
+  "mcc": "455",
+  "mnc": "07",
+  "country": {
+    "name": "Macau (Special administrative region of the People's Republic of China)",
+    "iso": "MO",
+    "code": "853",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "China Telecom",
+      "operator": "China Telecom (Macau) Limitada",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 850 / LTE 1800 / LTE 2100 / 5G 700 / 5G 2100 / 5G 3500",
+      "icon": "china-telecom",
+      "icon_scope": "455",
+      "subs": [
+        {
+          "brand": "ChinaTelecom_Macau",
+          "names": [
+            "chinatelecom_macau"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "ChinaTelecom_Macau"
+          ]
+        }
+      ]
+    }
+  ]
+}

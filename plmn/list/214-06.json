@@ -1,0 +1,45 @@
+{
+  "mcc": "214",
+  "mnc": "06",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "Vodafone Spain",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Mi Movil",
+          "names": [
+            "mi movil"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Mi Movil"
+          ]
+        },
+        {
+          "brand": "Lowi",
+          "names": [
+            "lowi"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "Lowi eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

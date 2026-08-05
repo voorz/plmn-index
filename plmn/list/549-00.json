@@ -1,0 +1,35 @@
+{
+  "mcc": "549",
+  "mnc": "00",
+  "country": {
+    "name": "Samoa",
+    "iso": "WS",
+    "code": "685",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel Pacific Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 1800 / LTE 2100",
+      "icon": "digicel",
+      "icon_scope": "549",
+      "subs": [
+        {
+          "brand": "DIGICEL",
+          "names": [
+            "digicel"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "DIGICEL",
+            "Digicel Samoa SM-DP+ Services Q4-2022"
+          ]
+        }
+      ]
+    }
+  ]
+}

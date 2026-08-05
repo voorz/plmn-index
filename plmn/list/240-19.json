@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "19",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vectone Mobile",
+      "operator": "Mundio Mobile (Sweden) Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

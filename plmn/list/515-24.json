@@ -1,0 +1,19 @@
+{
+  "mcc": "515",
+  "mnc": "24",
+  "country": {
+    "name": "Philippines",
+    "iso": "PH",
+    "code": "63",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "ABS-CBN Mobile",
+      "operator": "ABS-CBN Convergence with Globe Telecom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

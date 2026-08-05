@@ -1,0 +1,92 @@
+{
+  "mcc": "310",
+  "mnc": "280",
+  "country": {
+    "name": "Puerto Rico",
+    "iso": "PR",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "AT&T",
+      "operator": "AT&T Mobility",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1900",
+      "icon": "at-and-t",
+      "icon_scope": "310",
+      "subs": [
+        {
+          "brand": "YO",
+          "names": [
+            "yo",
+            "us mobile",
+            "wireless provider",
+            "lycamobile",
+            "at&t",
+            "mobile"
+          ],
+          "gid1": "20ff",
+          "gid2": "ffff",
+          "profile_names": [
+            "YO eSIM",
+            "USM Virtual Profile",
+            "AIRVqrcode",
+            "LycaMobile",
+            "me eSIM",
+            "R020qrcode",
+            "R020Klarna",
+            "r021apple",
+            "Gigs ATT_p11_1",
+            "ztarqrcode"
+          ]
+        },
+        {
+          "brand": "My Network",
+          "names": [
+            "my network"
+          ],
+          "gid1": "4102",
+          "gid2": "ffff"
+        },
+        {
+          "brand": "RedPocket",
+          "names": [
+            "redpocket",
+            "freedompop",
+            "red pocket",
+            "mywireless"
+          ],
+          "gid1": "4201",
+          "gid2": "ffff",
+          "profile_names": [
+            "I320_RedPocket",
+            "I320_FreedomPop"
+          ],
+          "icon": "redpocket",
+          "icon_scope": "310"
+        },
+        {
+          "brand": "AirVoice",
+          "names": [
+            "airvoice"
+          ],
+          "gid1": "44ff",
+          "gid2": "ffff"
+        },
+        {
+          "brand": "AT&T",
+          "names": [
+            "at&t"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "AT&T"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "34",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "tyntec GmbH",
+      "operator": "tyntec GmbH",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "MVNO"
+    }
+  ]
+}

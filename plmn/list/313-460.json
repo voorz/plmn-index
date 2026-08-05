@@ -1,0 +1,58 @@
+{
+  "mcc": "313",
+  "mnc": "460",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "mobi",
+      "operator": "mobi, Inc.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "5G 3500",
+      "icon": "mobi",
+      "icon_scope": "313",
+      "subs": [
+        {
+          "brand": "mobi",
+          "names": [
+            "mobi"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "mobi PROD RiPSIM v1.1",
+            "mobi PROD RiPSIM v1.1_unique_QR"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Mobi",
+      "operator": "Mobi, Inc.",
+      "status": "",
+      "type": "",
+      "bands": "MVNO",
+      "icon": "mobi",
+      "icon_scope": "313",
+      "subs": [
+        {
+          "brand": "mobi",
+          "names": [
+            "mobi"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "mobi PROD RiPSIM v1.1",
+            "mobi PROD RiPSIM v1.1_unique_QR"
+          ]
+        }
+      ]
+    }
+  ]
+}

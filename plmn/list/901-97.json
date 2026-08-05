@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "97",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Satelio IoT Services S.L.",
+      "operator": "Satelio IoT Services S.L.",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Satellite"
+    }
+  ]
+}

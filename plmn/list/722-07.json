@@ -1,0 +1,55 @@
+{
+  "mcc": "722",
+  "mnc": "07",
+  "country": {
+    "name": "Argentina",
+    "iso": "AR",
+    "code": "54",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Movistar",
+      "operator": "Telefónica Móviles Argentina S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown",
+      "icon": "movistar",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Movistar Argentina",
+          "names": [
+            "movistar argentina"
+          ],
+          "gid1": "01",
+          "gid2": "",
+          "profile_names": [
+            "Hercules"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Movistar Argentina",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "movistar",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Movistar Argentina",
+          "names": [
+            "movistar argentina"
+          ],
+          "gid1": "01",
+          "gid2": "",
+          "profile_names": [
+            "Hercules"
+          ]
+        }
+      ]
+    }
+  ]
+}

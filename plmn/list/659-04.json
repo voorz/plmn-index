@@ -1,0 +1,18 @@
+{
+  "mcc": "659",
+  "mnc": "04",
+  "country": {
+    "name": "South Sudan",
+    "iso": "SS",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Vivacell",
+      "operator": "Network of the World (NOW)",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

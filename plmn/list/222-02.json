@@ -1,0 +1,19 @@
+{
+  "mcc": "222",
+  "mnc": "02",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Elsacom",
+      "operator": "",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Satellite (Globalstar)"
+    }
+  ]
+}

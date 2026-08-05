@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "706",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Tours Métropole Numérique",
+      "operator": "Tours Métropole Numérique",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

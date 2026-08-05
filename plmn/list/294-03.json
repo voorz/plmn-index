@@ -1,0 +1,50 @@
+{
+  "mcc": "294",
+  "mnc": "03",
+  "country": {
+    "name": "North Macedonia",
+    "iso": "MK",
+    "code": "389",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "A1 MK",
+      "operator": "A1 Macedonia DOOEL",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2100",
+      "icon": "one",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "A1 Macedonia",
+          "names": [
+            "a1 macedonia"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    },
+    {
+      "brand": "vip",
+      "operator": "ONE.VIP DOO",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800",
+      "icon": "one",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "A1 Macedonia",
+          "names": [
+            "a1 macedonia"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

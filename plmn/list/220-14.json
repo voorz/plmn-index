@@ -1,0 +1,19 @@
+{
+  "mcc": "220",
+  "mnc": "14",
+  "country": {
+    "name": "Serbia",
+    "iso": "RS",
+    "code": "381",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Ringtel Mobile d.o.o.",
+      "operator": "Ringtel Mobile d.o.o.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

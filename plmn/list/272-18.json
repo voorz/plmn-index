@@ -1,0 +1,19 @@
+{
+  "mcc": "272",
+  "mnc": "18",
+  "country": {
+    "name": "Ireland",
+    "iso": "IE",
+    "code": "353",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Cubic Telecom Limited",
+      "operator": "Cubic Telecom Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

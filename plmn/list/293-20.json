@@ -1,0 +1,19 @@
+{
+  "mcc": "293",
+  "mnc": "20",
+  "country": {
+    "name": "Slovenia",
+    "iso": "SI",
+    "code": "386",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Compatel",
+      "operator": "COMPATEL Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

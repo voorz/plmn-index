@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "13",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "SBB-CFF-FFS",
+      "operator": "SBB AG",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "FRMCS 900 / 1900"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "614",
+  "mnc": "04",
+  "country": {
+    "name": "Niger",
+    "iso": "NE",
+    "code": "227"
+  },
+  "operators": [
+    {
+      "brand": "Orange",
+      "operator": "Orange Niger",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

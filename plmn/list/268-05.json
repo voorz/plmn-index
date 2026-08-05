@@ -1,0 +1,19 @@
+{
+  "mcc": "268",
+  "mnc": "05",
+  "country": {
+    "name": "Portugal",
+    "iso": "PT",
+    "code": "351",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Oniway - Inforcomunicaçôes, S.A.",
+      "operator": "Oniway - Inforcomunicaçôes, S.A.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 2100"
+    }
+  ]
+}

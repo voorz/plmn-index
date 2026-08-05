@@ -1,0 +1,19 @@
+{
+  "mcc": "232",
+  "mnc": "15",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vectone Mobile",
+      "operator": "Mundio Mobile Austria",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

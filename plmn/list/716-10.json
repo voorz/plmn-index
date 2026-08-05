@@ -1,0 +1,19 @@
+{
+  "mcc": "716",
+  "mnc": "10",
+  "country": {
+    "name": "Peru",
+    "iso": "PE",
+    "code": "51",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Claro",
+      "operator": "América Móvil Perú",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 850 / LTE 700 / LTE 1900 / TD-LTE 3500 / 5G 3500 / 5G 39000"
+    }
+  ]
+}

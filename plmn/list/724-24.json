@@ -1,0 +1,19 @@
+{
+  "mcc": "724",
+  "mnc": "24",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Amazonia Celular S/A",
+      "operator": "Amazonia Celular",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

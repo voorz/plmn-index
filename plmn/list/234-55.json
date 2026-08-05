@@ -1,0 +1,102 @@
+{
+  "mcc": "234",
+  "mnc": "55",
+  "country": {
+    "name": "Guernsey (United Kingdom)",
+    "iso": "GG",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Sure Mobile",
+      "operator": "Sure (Guernsey) Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600",
+      "icon": "airtel",
+      "icon_scope": "234",
+      "subs": [
+        {
+          "brand": "Sure",
+          "names": [
+            "sure"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Sure"
+          ]
+        },
+        {
+          "brand": "s-imsy",
+          "names": [
+            "s-imsy"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff"
+        }
+      ]
+    },
+    {
+      "brand": "Sure Mobile",
+      "operator": "Sure (Jersey) Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800",
+      "icon": "airtel",
+      "icon_scope": "234",
+      "subs": [
+        {
+          "brand": "Sure",
+          "names": [
+            "sure"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Sure"
+          ]
+        },
+        {
+          "brand": "s-imsy",
+          "names": [
+            "s-imsy"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff"
+        }
+      ]
+    },
+    {
+      "brand": "Sure Mobile",
+      "operator": "Sure (Guernsey) Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600",
+      "icon": "airtel",
+      "icon_scope": "234",
+      "subs": [
+        {
+          "brand": "Sure",
+          "names": [
+            "sure"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Sure"
+          ]
+        },
+        {
+          "brand": "s-imsy",
+          "names": [
+            "s-imsy"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff"
+        }
+      ]
+    }
+  ]
+}

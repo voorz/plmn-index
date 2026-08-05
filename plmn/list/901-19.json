@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "19",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Epic Maritime",
+      "operator": "Monaco Telecom",
+      "status": "Operational",
+      "type": "International",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "26",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "IT-Decision Telecom OÜ",
+      "operator": "IT-Decision Telecom OÜ",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "mcc": "340",
+  "mnc": "02",
+  "country": {
+    "name": "French Antilles (France)",
+    "iso": "BL/GF/GP/MF/MQ",
+    "code": "596"
+  },
+  "operators": [
+    {
+      "brand": "SFR Caraïbe",
+      "operator": "Outremer Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+    },
+    {
+      "brand": "SFR Caraïbe",
+      "operator": "Outremer Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500"
+    }
+  ]
+}

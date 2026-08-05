@@ -1,0 +1,19 @@
+{
+  "mcc": "276",
+  "mnc": "01",
+  "country": {
+    "name": "Albania",
+    "iso": "AL",
+    "code": "355",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "ONE",
+      "operator": "One Albania",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600"
+    }
+  ]
+}

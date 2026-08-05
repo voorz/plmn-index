@@ -1,0 +1,19 @@
+{
+  "mcc": "270",
+  "mnc": "79",
+  "country": {
+    "name": "Luxembourg",
+    "iso": "LU",
+    "code": "352",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Mitto AG",
+      "operator": "Mitto AG",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "mcc": "310",
+  "mnc": "240",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "T-Mobile",
+      "operator": "T-Mobile",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1900",
+      "icon": "t-mobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Ultra Mobile",
+          "names": [
+            "ultra mobile"
+          ],
+          "gid1": "354d",
+          "gid2": "",
+          "profile_names": [
+            "Ultra Mobile"
+          ]
+        },
+        {
+          "brand": "Google Fi",
+          "names": [
+            "google fi"
+          ],
+          "gid1": "4276",
+          "gid2": "",
+          "profile_names": [
+            "Google"
+          ]
+        },
+        {
+          "brand": "PLUM",
+          "names": [
+            "plum"
+          ],
+          "gid1": "6132",
+          "gid2": "",
+          "profile_names": [
+            "PLUM"
+          ]
+        },
+        {
+          "brand": "PWG",
+          "names": [
+            "pwg",
+            "infimobile"
+          ],
+          "gid1": "6901",
+          "gid2": "",
+          "profile_names": [
+            "PWG",
+            "Infimobile"
+          ]
+        },
+        {
+          "brand": "T-Mobile",
+          "names": [
+            "t-mobile",
+            "plintron esim"
+          ],
+          "gid1": "6902",
+          "gid2": "",
+          "profile_names": [
+            "PLINTVSIM5GQR"
+          ]
+        },
+        {
+          "brand": "Wireless",
+          "names": [
+            "wireless",
+            "flash mobile"
+          ],
+          "gid1": "6903",
+          "gid2": "",
+          "profile_names": [
+            "Wireless"
+          ]
+        },
+        {
+          "brand": "Helium",
+          "names": [
+            "helium"
+          ],
+          "gid1": "6907",
+          "gid2": "",
+          "profile_names": [
+            "Helium"
+          ],
+          "icon": "t-mobile",
+          "icon_scope": "310"
+        },
+        {
+          "brand": "Wireless",
+          "names": [
+            "wireless"
+          ],
+          "gid1": "6910",
+          "gid2": "",
+          "profile_names": [
+            "Wireless"
+          ]
+        },
+        {
+          "brand": "Astound",
+          "names": [
+            "astound"
+          ],
+          "gid1": "6911",
+          "gid2": ""
+        },
+        {
+          "brand": "REALLY",
+          "names": [
+            "really"
+          ],
+          "gid1": "6913",
+          "gid2": "",
+          "profile_names": [
+            "REALLY"
+          ]
+        },
+        {
+          "brand": "fliggs mobile",
+          "names": [
+            "fliggs mobile"
+          ],
+          "gid1": "6916",
+          "gid2": ""
+        },
+        {
+          "brand": "Tello",
+          "names": [
+            "tello"
+          ],
+          "gid1": "6941",
+          "gid2": "",
+          "profile_names": [
+            "Tello"
+          ]
+        },
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "6c79ffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "LycaMobile"
+          ]
+        },
+        {
+          "brand": "Mint Mobile",
+          "names": [
+            "mint mobile"
+          ],
+          "gid1": "756d",
+          "gid2": "",
+          "profile_names": [
+            "Mint Mobile"
+          ]
+        }
+      ]
+    }
+  ]
+}

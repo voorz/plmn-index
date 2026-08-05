@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "600",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Limitless Mobile",
+      "operator": "Limitless Mobile, LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1900"
+    }
+  ]
+}

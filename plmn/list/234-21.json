@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "21",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "LogicStar Ltd",
+      "operator": "LogicStar Ltd",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

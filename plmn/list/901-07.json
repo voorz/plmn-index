@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "07",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "NTT Ltd.",
+      "operator": "NTT Ltd.",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

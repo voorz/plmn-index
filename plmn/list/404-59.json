@@ -1,0 +1,19 @@
+{
+  "mcc": "404",
+  "mnc": "59",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "code": "91",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "BSNL Mobile",
+      "operator": "Rajasthan",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA 850 / GSM 900 / UMTS 2100"
+    }
+  ]
+}

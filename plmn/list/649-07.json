@@ -1,0 +1,18 @@
+{
+  "mcc": "649",
+  "mnc": "07",
+  "country": {
+    "name": "Namibia",
+    "iso": "NA",
+    "code": "264"
+  },
+  "operators": [
+    {
+      "brand": "Loc Eight Mobile (Pty) Ltd",
+      "operator": "Loc Eight Mobile (Pty) Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

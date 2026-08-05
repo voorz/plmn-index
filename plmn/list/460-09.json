@@ -1,0 +1,43 @@
+{
+  "mcc": "460",
+  "mnc": "09",
+  "country": {
+    "name": "China",
+    "iso": "CN",
+    "code": "86",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "China Unicom",
+      "operator": "China Unicom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown",
+      "icon": "china-unicom",
+      "icon_scope": "460",
+      "subs": [
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim"
+          ],
+          "gid1": "",
+          "gid2": ""
+        },
+        {
+          "brand": "CHINAUNICOM",
+          "names": [
+            "chinaunicom"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "89860921031880090677.der",
+            "89860125874000466390"
+          ]
+        }
+      ]
+    }
+  ]
+}

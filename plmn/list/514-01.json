@@ -1,0 +1,18 @@
+{
+  "mcc": "514",
+  "mnc": "01",
+  "country": {
+    "name": "East Timor",
+    "iso": "TL",
+    "code": "670"
+  },
+  "operators": [
+    {
+      "brand": "Telkomcel",
+      "operator": "PT Telekomunikasi Indonesia International",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 850 / LTE"
+    }
+  ]
+}

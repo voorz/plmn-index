@@ -1,0 +1,19 @@
+{
+  "mcc": "290",
+  "mnc": "03",
+  "country": {
+    "name": "Greenland (Kingdom of Denmark)",
+    "iso": "GL",
+    "code": "299",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Tuullik mobile data",
+      "operator": "GTV Greenland",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700"
+    }
+  ]
+}

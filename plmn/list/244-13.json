@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "13",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "DNA",
+      "operator": "DNA Oy",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

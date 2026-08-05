@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "28",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Murcia4G",
+      "operator": "Consorcio de Telecomunicaciones Avanzadas, S.A.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "TD-LTE 2600"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "640",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Geoverse LLC",
+      "operator": "Geoverse LLC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "LTE 3500"
+    }
+  ]
+}

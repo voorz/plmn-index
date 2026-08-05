@@ -1,0 +1,19 @@
+{
+  "mcc": "712",
+  "mnc": "08",
+  "country": {
+    "name": "Costa Rica",
+    "iso": "CR",
+    "code": "506",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Coopelesca",
+      "operator": "Cooperativa de Electrificación Rural de San Carlos R.L.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

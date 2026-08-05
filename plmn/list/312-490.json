@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "490",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "TrustComm, Inc.",
+      "operator": "TrustComm, Inc.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Satellite"
+    }
+  ]
+}

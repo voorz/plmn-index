@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "05",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "O2",
+      "operator": "Telefónica Germany GmbH & Co. oHG",
+      "status": "Reserved",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100"
+    }
+  ]
+}

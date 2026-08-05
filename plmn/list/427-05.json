@@ -1,0 +1,19 @@
+{
+  "mcc": "427",
+  "mnc": "05",
+  "country": {
+    "name": "Qatar",
+    "iso": "QA",
+    "code": "974",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Ministry of Interior",
+      "operator": "Ministry of Interior",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TETRA 380"
+    }
+  ]
+}

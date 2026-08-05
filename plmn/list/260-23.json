@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "23",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "PGE Systemy S.A.",
+      "operator": "PGE Systemy S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

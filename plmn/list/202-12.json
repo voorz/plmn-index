@@ -1,0 +1,19 @@
+{
+  "mcc": "202",
+  "mnc": "12",
+  "country": {
+    "name": "Greece",
+    "iso": "GR",
+    "code": "30",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Yuboto",
+      "operator": "Yuboto",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

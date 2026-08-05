@@ -1,0 +1,19 @@
+{
+  "mcc": "219",
+  "mnc": "13",
+  "country": {
+    "name": "Croatia",
+    "iso": "HR",
+    "code": "385",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "FENICE TELEKOM GRUPA d.o.o.",
+      "operator": "FENICE TELEKOM GRUPA d.o.o.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

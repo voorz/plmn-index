@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "22",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "EUtel",
+      "operator": "Mediafon Carrier Services UAB",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

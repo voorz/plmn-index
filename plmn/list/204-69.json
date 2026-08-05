@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "69",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "KPN",
+      "operator": "KPN Mobile The Netherlands B.V.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

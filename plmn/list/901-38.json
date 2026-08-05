@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "38",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Multiregional TransitTelecom (MTT)",
+      "operator": "Multiregional TransitTelecom (MTT)",
+      "status": "Not operational",
+      "type": "International",
+      "bands": "MVNO"
+    }
+  ]
+}

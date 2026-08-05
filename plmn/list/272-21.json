@@ -1,0 +1,19 @@
+{
+  "mcc": "272",
+  "mnc": "21",
+  "country": {
+    "name": "Ireland",
+    "iso": "IE",
+    "code": "353",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Net Feasa Limited",
+      "operator": "Net Feasa Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

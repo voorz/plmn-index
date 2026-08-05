@@ -1,0 +1,19 @@
+{
+  "mcc": "730",
+  "mnc": "17",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "COMPATEL Chile Limitada",
+      "operator": "COMPATEL Chile Limitada",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

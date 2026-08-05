@@ -1,0 +1,19 @@
+{
+  "mcc": "270",
+  "mnc": "01",
+  "country": {
+    "name": "Luxembourg",
+    "iso": "LU",
+    "code": "352",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "POST",
+      "operator": "POST Luxembourg",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 1800 / 5G 700 / 5G 3500"
+    }
+  ]
+}

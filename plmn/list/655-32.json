@@ -1,0 +1,19 @@
+{
+  "mcc": "655",
+  "mnc": "32",
+  "country": {
+    "name": "South Africa",
+    "iso": "ZA",
+    "code": "27",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Ilizwi Telecommunications",
+      "operator": "Ilizwi Telecommunications",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

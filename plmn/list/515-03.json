@@ -1,0 +1,39 @@
+{
+  "mcc": "515",
+  "mnc": "03",
+  "country": {
+    "name": "Philippines",
+    "iso": "PH",
+    "code": "63",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "SMART",
+      "operator": "PLDT via Smart Communications",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 700 / LTE 850 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500 / 5G 3500",
+      "icon": "smart",
+      "icon_scope": "515",
+      "subs": [
+        {
+          "brand": "SMART",
+          "names": [
+            "smart",
+            "tnt",
+            "kiq"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Operational",
+            "SMART",
+            "89630324227000237665",
+            "TNT"
+          ]
+        }
+      ]
+    }
+  ]
+}

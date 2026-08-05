@@ -1,0 +1,18 @@
+{
+  "mcc": "618",
+  "mnc": "20",
+  "country": {
+    "name": "Liberia",
+    "iso": "LR",
+    "code": "231"
+  },
+  "operators": [
+    {
+      "brand": "LIBTELCO",
+      "operator": "Liberia Telecommunications Corporation",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA2000"
+    }
+  ]
+}

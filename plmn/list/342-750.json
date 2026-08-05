@@ -1,0 +1,18 @@
+{
+  "mcc": "342",
+  "mnc": "750",
+  "country": {
+    "name": "Barbados",
+    "iso": "BB",
+    "code": "1246"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel (Barbados) Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100 / LTE 700 / LTE 1900 / 5G"
+    }
+  ]
+}

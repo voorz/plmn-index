@@ -1,0 +1,34 @@
+{
+  "mcc": "244",
+  "mnc": "05",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Elisa",
+      "operator": "Elisa Oyj",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600 / 5G 3500",
+      "icon": "elisa",
+      "icon_scope": "244",
+      "subs": [
+        {
+          "brand": "Elisa",
+          "names": [
+            "elisa"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "YA"
+          ]
+        }
+      ]
+    }
+  ]
+}

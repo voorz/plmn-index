@@ -1,0 +1,19 @@
+{
+  "mcc": "454",
+  "mnc": "01",
+  "country": {
+    "name": "Hong Kong",
+    "iso": "HK",
+    "code": "852",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Citic Telecom Ltd.",
+      "operator": "CITIC Telecom 1616",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "mcc": "712",
+  "mnc": "04",
+  "country": {
+    "name": "Costa Rica",
+    "iso": "CR",
+    "code": "506",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Liberty",
+      "operator": "Liberty Latin America",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 850 / UMTS 2100 / LTE 1800",
+      "icon": "movistar",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Liberty CR",
+          "names": [
+            "liberty cr"
+          ],
+          "gid1": "00",
+          "gid2": "",
+          "profile_names": [
+            "8950604508412850026F",
+            "8950604508502480213F",
+            "8950604508502496441F"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "movistar",
+      "operator": "Telefónica Móviles Costa Rica",
+      "status": "",
+      "type": "",
+      "bands": "GSM 1800 / UMTS 850 / UMTS 2100 / LTE 1800",
+      "icon": "movistar",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Liberty CR",
+          "names": [
+            "liberty cr"
+          ],
+          "gid1": "00",
+          "gid2": "",
+          "profile_names": [
+            "8950604508412850026F",
+            "8950604508502480213F",
+            "8950604508502496441F"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "mcc": "260",
+  "mnc": "09",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Lycamobile",
+      "operator": "Lycamobile Sp. z o.o.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "lycamobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "LYC40027_5K_GEN_POL_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250724",
+            "LYC39297_2K_GEN_IRL_V1.0_V1.8.0_DI_SMENU_SIMFILES_20250306"
+          ]
+        }
+      ]
+    }
+  ]
+}

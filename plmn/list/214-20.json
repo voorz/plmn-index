@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "20",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Fonyou",
+      "operator": "Fonyou Telecom S.L.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

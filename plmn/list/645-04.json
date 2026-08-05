@@ -1,0 +1,19 @@
+{
+  "mcc": "645",
+  "mnc": "04",
+  "country": {
+    "name": "Zambia",
+    "iso": "ZM",
+    "code": "260",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Zedmobile",
+      "operator": "Beeline Telecoms Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

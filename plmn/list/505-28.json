@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "28",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "RCOM International",
+      "operator": "RCOM International",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

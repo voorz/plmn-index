@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "21",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MobiSir",
+      "operator": "Trafikverket ICT",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R 900"
+    }
+  ]
+}

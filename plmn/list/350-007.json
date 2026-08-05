@@ -1,0 +1,18 @@
+{
+  "mcc": "350",
+  "mnc": "007",
+  "country": {
+    "name": "Bermuda",
+    "iso": "BM",
+    "code": "1441"
+  },
+  "operators": [
+    {
+      "brand": "Paradise Mobile",
+      "operator": "Paradise Mobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 1700 / 5G 3500"
+    }
+  ]
+}

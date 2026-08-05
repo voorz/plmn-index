@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "03",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Citymesh Connect",
+      "operator": "Citymesh NV",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 2600 / LTE 3500"
+    }
+  ]
+}

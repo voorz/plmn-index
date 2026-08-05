@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "23",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Bloxtel Inc.",
+      "operator": "Bloxtel Inc.",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "5G"
+    }
+  ]
+}

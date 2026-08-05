@@ -1,0 +1,56 @@
+{
+  "mcc": "635",
+  "mnc": "10",
+  "country": {
+    "name": "Rwanda",
+    "iso": "RW",
+    "code": "250",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "MTN Rwanda",
+      "operator": "MTN Rwandacell SARL",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE / 5G 3500",
+      "icon": "mtn",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "MTN Rwandacell PLC",
+          "names": [
+            "mtn rwandacell plc"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "MTN Rwandacell PLC"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "MTN",
+      "operator": "MTN Rwandacell SARL",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100",
+      "icon": "mtn",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "MTN Rwandacell PLC",
+          "names": [
+            "mtn rwandacell plc"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "MTN Rwandacell PLC"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "990",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Premier Broadband",
+      "operator": "Premier Holdings LLC",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

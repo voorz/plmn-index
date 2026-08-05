@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "206",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "Mitsubishi Electric Corp.",
+      "operator": "Mitsubishi Electric Corp.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

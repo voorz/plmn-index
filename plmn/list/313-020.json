@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "020",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "CTC Wireless",
+      "operator": "Cambridge Telephone Company Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA"
+    }
+  ]
+}

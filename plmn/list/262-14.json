@@ -1,0 +1,34 @@
+{
+  "mcc": "262",
+  "mnc": "14",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Lebara",
+      "operator": "Lebara Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "lebara",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Lebara",
+          "names": [
+            "lebara"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Lebara"
+          ]
+        }
+      ]
+    }
+  ]
+}

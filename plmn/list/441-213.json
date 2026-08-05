@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "213",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "Hokkaido Telecommunication Network Co., Inc.",
+      "operator": "Hokkaido Telecommunication Network Co., Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

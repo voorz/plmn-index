@@ -1,0 +1,19 @@
+{
+  "mcc": "722",
+  "mnc": "040",
+  "country": {
+    "name": "Argentina",
+    "iso": "AR",
+    "code": "54",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Globalstar",
+      "operator": "TE.SA.M Argentina S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

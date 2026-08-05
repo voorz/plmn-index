@@ -1,0 +1,18 @@
+{
+  "mcc": "350",
+  "mnc": "02",
+  "country": {
+    "name": "Bermuda",
+    "iso": "BM",
+    "code": "1441"
+  },
+  "operators": [
+    {
+      "brand": "Mobility",
+      "operator": "M3 Wireless",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS"
+    }
+  ]
+}

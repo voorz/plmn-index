@@ -1,0 +1,80 @@
+{
+  "mcc": "502",
+  "mnc": "19",
+  "country": {
+    "name": "Malaysia",
+    "iso": "MY",
+    "code": "60",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Celcom",
+      "operator": "Celcom Axiata Berhad",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 1800 / LTE 2100 / LTE 2600",
+      "icon": "celcom",
+      "icon_scope": "502",
+      "subs": [
+        {
+          "brand": "Tune Talk",
+          "names": [
+            "tune talk"
+          ],
+          "gid1": "0001",
+          "gid2": "0002",
+          "profile_names": [
+            "TuneTalk_T01"
+          ]
+        },
+        {
+          "brand": "Celcom",
+          "names": [
+            "celcom"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffffff",
+          "profile_names": [
+            "CELCOM"
+          ]
+        },
+        {
+          "brand": "Spark",
+          "names": [
+            "spark",
+            "malaysiayoodo",
+            "my_onexox",
+            "celcomdigi"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "CelcomDigi",
+            "yoodo",
+            "MY_ONEXOX",
+            "Spark"
+          ]
+        },
+        {
+          "brand": "TuneTalk",
+          "names": [
+            "tunetalk",
+            "xox",
+            "globaldata",
+            "tunetalk"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "TuneTalk_T01",
+            "XOX_T01",
+            "TuneTalk",
+            "Tunetalk",
+            "GlobalData"
+          ]
+        }
+      ]
+    }
+  ]
+}

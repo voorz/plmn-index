@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "25",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Eurofed OÜ",
+      "operator": "Eurofed OÜ",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

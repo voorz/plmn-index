@@ -1,0 +1,19 @@
+{
+  "mcc": "440",
+  "mnc": "06",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "SoftBank",
+      "operator": "SAKURA Internet Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

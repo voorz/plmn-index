@@ -1,0 +1,34 @@
+{
+  "mcc": "286",
+  "mnc": "03",
+  "country": {
+    "name": "Turkey",
+    "iso": "TR",
+    "code": "90",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Türk Telekom",
+      "operator": "Türk Telekom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600 / TD-LTE 2600 / 5G 700 / 5G 3500",
+      "icon": "t-rk-telekom",
+      "icon_scope": "286",
+      "subs": [
+        {
+          "brand": "TurkTelekom",
+          "names": [
+            "turktelekom"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "TurkTelekom"
+          ]
+        }
+      ]
+    }
+  ]
+}

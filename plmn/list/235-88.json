@@ -1,0 +1,18 @@
+{
+  "mcc": "235",
+  "mnc": "88",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44"
+  },
+  "operators": [
+    {
+      "brand": "telet",
+      "operator": "Telet Research (N.I.) Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE / 5G"
+    }
+  ]
+}

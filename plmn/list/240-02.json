@@ -1,0 +1,34 @@
+{
+  "mcc": "240",
+  "mnc": "02",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "3",
+      "operator": "HI3G Access AB",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 800 / LTE 2600 / TD-LTE 2600 / TD-5G 2600",
+      "icon": "3",
+      "icon_scope": "240",
+      "subs": [
+        {
+          "brand": "Hallon",
+          "names": [
+            "hallon"
+          ],
+          "gid1": "00000002",
+          "gid2": "",
+          "profile_names": [
+            "ESIM_SE.41.24_QR_DIGITAL"
+          ]
+        }
+      ]
+    }
+  ]
+}

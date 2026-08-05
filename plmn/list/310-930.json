@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "930",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Copper Valley Wireless",
+      "operator": "Copper Valley Wireless",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA"
+    }
+  ]
+}

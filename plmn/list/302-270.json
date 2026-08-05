@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "270",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "EastLink",
+      "operator": "Bragg Communications",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 1700 / LTE 700 / LTE 1700 / 5G 600"
+    }
+  ]
+}

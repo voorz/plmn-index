@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "14",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "AeroMobile",
+      "operator": "AeroMobile AS",
+      "status": "Operational",
+      "type": "International",
+      "bands": "GSM 1800"
+    }
+  ]
+}

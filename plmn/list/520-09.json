@@ -1,0 +1,19 @@
+{
+  "mcc": "520",
+  "mnc": "09",
+  "country": {
+    "name": "Thailand",
+    "iso": "TH",
+    "code": "66",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Royal Thai Police",
+      "operator": "Royal Thai Police",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 850"
+    }
+  ]
+}

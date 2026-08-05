@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "390",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "FTC Wireless",
+      "operator": "FTC Communications LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS / LTE"
+    }
+  ]
+}

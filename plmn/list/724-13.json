@@ -1,0 +1,19 @@
+{
+  "mcc": "724",
+  "mnc": "13",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "NLT",
+      "operator": "NLT Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

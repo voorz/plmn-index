@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "50",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Pivotel",
+      "operator": "Pivotel Group",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Satellite"
+    }
+  ]
+}

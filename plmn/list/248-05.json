@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "05",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "CSC Telecom",
+      "operator": "CSC Telecom Estonia OÜ",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

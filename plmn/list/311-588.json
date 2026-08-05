@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "588",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "UScellular",
+      "operator": "T-Mobile US",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

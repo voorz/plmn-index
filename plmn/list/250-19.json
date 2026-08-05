@@ -1,0 +1,68 @@
+{
+  "mcc": "250",
+  "mnc": "19",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Alfa-Mobile",
+      "operator": "Alfa-Bank",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO on Beeline base",
+      "icon": "indigo",
+      "icon_scope": "250",
+      "subs": [
+        {
+          "brand": "Alfa",
+          "names": [
+            "alfa"
+          ],
+          "gid1": "fa1307ff",
+          "gid2": "ffff",
+          "profile_names": [
+            "0049",
+            "0003",
+            "0043",
+            "0002",
+            "0021",
+            "0009",
+            "0119"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "INDIGO",
+      "operator": "INDIGO",
+      "status": "",
+      "type": "",
+      "bands": "GSM 1800",
+      "icon": "indigo",
+      "icon_scope": "250",
+      "subs": [
+        {
+          "brand": "Alfa",
+          "names": [
+            "alfa"
+          ],
+          "gid1": "fa1307ff",
+          "gid2": "ffff",
+          "profile_names": [
+            "0049",
+            "0003",
+            "0043",
+            "0002",
+            "0021",
+            "0009",
+            "0119"
+          ]
+        }
+      ]
+    }
+  ]
+}

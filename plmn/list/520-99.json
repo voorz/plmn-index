@@ -1,0 +1,19 @@
+{
+  "mcc": "520",
+  "mnc": "99",
+  "country": {
+    "name": "Thailand",
+    "iso": "TH",
+    "code": "66",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "TrueMove",
+      "operator": "True Corporation",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

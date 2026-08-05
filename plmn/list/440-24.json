@@ -1,0 +1,19 @@
+{
+  "mcc": "440",
+  "mnc": "24",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "NTT DoCoMo",
+      "operator": "Japan Communications Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

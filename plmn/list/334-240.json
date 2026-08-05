@@ -1,0 +1,19 @@
+{
+  "mcc": "334",
+  "mnc": "240",
+  "country": {
+    "name": "Mexico",
+    "iso": "MX",
+    "code": "52",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "PEGASO PCS, S.A. DE C.V. (Movistar)",
+      "operator": "PEGASO PCS, S.A. DE C.V. (Movistar)",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

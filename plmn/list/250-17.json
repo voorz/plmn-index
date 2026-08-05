@@ -1,0 +1,19 @@
+{
+  "mcc": "250",
+  "mnc": "17",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Utel",
+      "operator": "JSC Uralsvyazinform",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

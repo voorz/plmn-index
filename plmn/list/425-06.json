@@ -1,0 +1,78 @@
+{
+  "mcc": "425",
+  "mnc": "06",
+  "country": {
+    "name": "Israel",
+    "iso": "IL",
+    "code": "970",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Wataniya Mobile",
+      "operator": "Wataniya Palestine Ltd. (Ooredoo)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100",
+      "icon": "ooredoo",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Ooredoo",
+          "names": [
+            "ooredoo"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Palestine_UPP"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Ooredoo",
+      "operator": "Ooredoo Palestine",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100",
+      "icon": "ooredoo",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Ooredoo",
+          "names": [
+            "ooredoo"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Palestine_UPP"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Wataniya",
+      "operator": "Wataniya Palestine Mobile Telecommunications Company",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800",
+      "icon": "ooredoo",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Ooredoo",
+          "names": [
+            "ooredoo"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Palestine_UPP"
+          ]
+        }
+      ]
+    }
+  ]
+}

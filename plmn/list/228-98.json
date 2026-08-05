@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "98",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Etablissement Cantonal d'Assurance",
+      "operator": "Etablissement Cantonal d'Assurance",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

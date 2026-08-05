@@ -1,0 +1,42 @@
+{
+  "mcc": "424",
+  "mnc": "03",
+  "country": {
+    "name": "United Arab Emirates",
+    "iso": "AE",
+    "code": "971",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "du",
+      "operator": "Emirates Integrated Telecommunications Company",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100 / LTE 800 / LTE 1800 / 5G 2500 / 5G 3500 / 5G 26000",
+      "icon": "du",
+      "icon_scope": "424",
+      "subs": [
+        {
+          "brand": "du",
+          "names": [
+            "du"
+          ],
+          "gid1": "ff",
+          "gid2": "00",
+          "profile_names": [
+            "du"
+          ]
+        },
+        {
+          "brand": "Virgin Mobile",
+          "names": [
+            "virgin mobile"
+          ],
+          "gid1": "ff",
+          "gid2": "ff"
+        }
+      ]
+    }
+  ]
+}

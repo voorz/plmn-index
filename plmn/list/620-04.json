@@ -1,0 +1,18 @@
+{
+  "mcc": "620",
+  "mnc": "04",
+  "country": {
+    "name": "Ghana",
+    "iso": "GH",
+    "code": "233"
+  },
+  "operators": [
+    {
+      "brand": "Expresso",
+      "operator": "Kasapa / Hutchison Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA2000 850"
+    }
+  ]
+}

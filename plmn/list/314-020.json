@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "020",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Spectrum Wireless Holdings, LLC",
+      "operator": "Spectrum Wireless Holdings, LLC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

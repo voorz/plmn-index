@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "50",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "IP Nexia",
+      "operator": "IP Nexia",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

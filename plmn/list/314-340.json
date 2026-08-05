@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "340",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "e/marconi",
+      "operator": "E-Marconi LLC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

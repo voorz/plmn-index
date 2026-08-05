@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "65",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "AGMS Netherlands B.V.",
+      "operator": "AGMS Netherlands B.V.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

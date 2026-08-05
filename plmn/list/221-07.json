@@ -1,0 +1,18 @@
+{
+  "mcc": "221",
+  "mnc": "07",
+  "country": {
+    "name": "Kosovo",
+    "iso": "XK",
+    "code": "383"
+  },
+  "operators": [
+    {
+      "brand": "D3 Mobile",
+      "operator": "Dukagjini Telecommunications LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

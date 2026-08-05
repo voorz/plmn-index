@@ -1,0 +1,19 @@
+{
+  "mcc": "655",
+  "mnc": "76",
+  "country": {
+    "name": "South Africa",
+    "iso": "ZA",
+    "code": "27",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Comsol Networks (Pty) Ltd",
+      "operator": "Comsol Networks (Pty) Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "WiMAX / 28000"
+    }
+  ]
+}

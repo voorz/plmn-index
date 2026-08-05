@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "490",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Puloli, Inc.",
+      "operator": "Puloli, Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

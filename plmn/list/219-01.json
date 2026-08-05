@@ -1,0 +1,78 @@
+{
+  "mcc": "219",
+  "mnc": "01",
+  "country": {
+    "name": "Croatia",
+    "iso": "HR",
+    "code": "385",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "HT HR",
+      "operator": "T-Hrvatski Telekom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / 5G 2100 / 5G 3500 / 5G 26000",
+      "icon": "t-mobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "HT HR",
+          "names": [
+            "ht hr"
+          ],
+          "gid1": "01",
+          "gid2": "ff",
+          "profile_names": [
+            "Postpaid esim profil"
+          ]
+        },
+        {
+          "brand": "HT HR",
+          "names": [
+            "ht hr"
+          ],
+          "gid1": "12",
+          "gid2": "ff",
+          "profile_names": [
+            "Postpaid esim profil"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "T-Mobile",
+      "operator": "T-Hrvatski Telekom",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800",
+      "icon": "t-mobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "HT HR",
+          "names": [
+            "ht hr"
+          ],
+          "gid1": "01",
+          "gid2": "ff",
+          "profile_names": [
+            "Postpaid esim profil"
+          ]
+        },
+        {
+          "brand": "HT HR",
+          "names": [
+            "ht hr"
+          ],
+          "gid1": "12",
+          "gid2": "ff",
+          "profile_names": [
+            "Postpaid esim profil"
+          ]
+        }
+      ]
+    }
+  ]
+}

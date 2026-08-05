@@ -1,0 +1,34 @@
+{
+  "mcc": "222",
+  "mnc": "08",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Fastweb",
+      "operator": "Fastweb S.p.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "fastweb",
+      "icon_scope": "222",
+      "subs": [
+        {
+          "brand": "Fastweb",
+          "names": [
+            "fastweb"
+          ],
+          "gid1": "d8ffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Fastweb"
+          ]
+        }
+      ]
+    }
+  ]
+}

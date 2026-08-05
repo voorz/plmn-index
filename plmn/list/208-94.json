@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "94",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Halys",
+      "operator": "Halys",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "619",
+  "mnc": "06",
+  "country": {
+    "name": "Sierra Leone",
+    "iso": "SL",
+    "code": "232"
+  },
+  "operators": [
+    {
+      "brand": "SierraTel",
+      "operator": "Sierra Leone Telephony",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA 800 / LTE"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "11",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "UAB Raystorm Eesti filiaal",
+      "operator": "UAB Raystorm Eesti filiaal",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

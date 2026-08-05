@@ -1,0 +1,34 @@
+{
+  "mcc": "416",
+  "mnc": "03",
+  "country": {
+    "name": "Jordan",
+    "iso": "JO",
+    "code": "962",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Umniah",
+      "operator": "Umniah Mobile Company",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100 / LTE 1800 / LTE 3500",
+      "icon": "umniah",
+      "icon_scope": "416",
+      "subs": [
+        {
+          "brand": "UMNIAH",
+          "names": [
+            "umniah"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "UMNIAH testing profile"
+          ]
+        }
+      ]
+    }
+  ]
+}

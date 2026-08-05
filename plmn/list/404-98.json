@@ -1,0 +1,19 @@
+{
+  "mcc": "404",
+  "mnc": "98",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "code": "91",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "AirTel (Gujarat)",
+      "operator": "Bharti Airtel Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / LTE 1800 / LTE 2100 / TD-LTE 2300"
+    }
+  ]
+}

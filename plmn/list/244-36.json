@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "36",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telia / DNA",
+      "operator": "Telia Finland Oyj / Suomen Yhteisverkko Oy",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G"
+    }
+  ]
+}

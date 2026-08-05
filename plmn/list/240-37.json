@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "37",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Sinch",
+      "operator": "Sinch Sweden AB",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

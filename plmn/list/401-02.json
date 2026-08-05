@@ -1,0 +1,46 @@
+{
+  "mcc": "401",
+  "mnc": "02",
+  "country": {
+    "name": "Kazakhstan",
+    "iso": "KZ",
+    "code": "7",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Kcell",
+      "operator": "Kcell JSC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 3500",
+      "icon": "kcell",
+      "icon_scope": "401",
+      "subs": [
+        {
+          "brand": "activ",
+          "names": [
+            "activ"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "50173",
+            "50220",
+            "50172",
+            "50157",
+            "50221",
+            "50158",
+            "50204",
+            "50082",
+            "50126",
+            "50222",
+            "50219",
+            "50223",
+            "50255"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "52",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Aalto-korkeakoulusäätiö sr",
+      "operator": "Aalto-korkeakoulusäätiö sr",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "5G 3500"
+    }
+  ]
+}

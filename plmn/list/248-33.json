@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "33",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "JAZZ MOBILE",
+      "operator": "J-MOBILE OÜ",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

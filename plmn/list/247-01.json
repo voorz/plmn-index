@@ -1,0 +1,34 @@
+{
+  "mcc": "247",
+  "mnc": "01",
+  "country": {
+    "name": "Latvia",
+    "iso": "LV",
+    "code": "371",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "LMT",
+      "operator": "Latvian Mobile Telephone",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 1800 / LTE 2600 / 5G 3500",
+      "icon": "lmt",
+      "icon_scope": "247",
+      "subs": [
+        {
+          "brand": "LMT",
+          "names": [
+            "lmt"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "LMT"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "mcc": "466",
+  "mnc": "05",
+  "country": {
+    "name": "Taiwan",
+    "iso": "TW",
+    "code": "886",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Gt",
+      "operator": "Asia Pacific Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 900 / TD-LTE 2600 / 5G 3500 / 5G 28000",
+      "icon": "aptg",
+      "icon_scope": "466",
+      "subs": [
+        {
+          "brand": "APT Taiwan",
+          "names": [
+            "apt taiwan"
+          ],
+          "gid1": "0affffffffffffff",
+          "gid2": "ff",
+          "profile_names": [
+            "APT"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "APTG",
+      "operator": "Asia Pacific Telecom",
+      "status": "",
+      "type": "",
+      "bands": "LTE 700 / LTE 900 / TD-LTE 2600",
+      "icon": "aptg",
+      "icon_scope": "466",
+      "subs": [
+        {
+          "brand": "APT Taiwan",
+          "names": [
+            "apt taiwan"
+          ],
+          "gid1": "0affffffffffffff",
+          "gid2": "ff",
+          "profile_names": [
+            "APT"
+          ]
+        }
+      ]
+    }
+  ]
+}

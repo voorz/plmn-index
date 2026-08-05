@@ -1,0 +1,19 @@
+{
+  "mcc": "724",
+  "mnc": "16",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Brasil Telecom GSM",
+      "operator": "Brasil Telecom GSM",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 2100"
+    }
+  ]
+}

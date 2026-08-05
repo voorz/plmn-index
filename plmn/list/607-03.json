@@ -1,0 +1,34 @@
+{
+  "mcc": "607",
+  "mnc": "03",
+  "country": {
+    "name": "Gambia",
+    "iso": "GM",
+    "code": "220",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Comium",
+      "operator": "Comium",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800",
+      "icon": "comium",
+      "icon_scope": "607",
+      "subs": [
+        {
+          "brand": "comium",
+          "names": [
+            "comium"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "profilename"
+          ]
+        }
+      ]
+    }
+  ]
+}

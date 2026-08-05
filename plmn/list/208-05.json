@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "05",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "GlobalStar",
+      "operator": "Globalstar Europe",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Satellite"
+    }
+  ]
+}

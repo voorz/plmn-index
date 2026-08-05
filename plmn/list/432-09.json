@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "09",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "HiWEB",
+      "operator": "Dadeh Dostar asr Novin PJSC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

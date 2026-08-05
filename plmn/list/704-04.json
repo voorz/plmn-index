@@ -1,0 +1,18 @@
+{
+  "mcc": "704",
+  "mnc": "04",
+  "country": {
+    "name": "Guatemala",
+    "iso": "GT",
+    "code": "502"
+  },
+  "operators": [
+    {
+      "brand": "digicel",
+      "operator": "Digicel Group",
+      "status": "Reserved",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

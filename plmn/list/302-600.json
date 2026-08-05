@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "600",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Iristel",
+      "operator": "Iristel",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "mcc": "346",
+  "mnc": "050",
+  "country": {
+    "name": "Cayman Islands (United Kingdom)",
+    "iso": "KY",
+    "code": "1345"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel Cayman Ltd.",
+      "status": "Reserved",
+      "type": "National"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "520",
+  "mnc": "18",
+  "country": {
+    "name": "Thailand",
+    "iso": "TH",
+    "code": "66",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "dtac",
+      "operator": "Total Access Communications Public Company Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

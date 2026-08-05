@@ -1,0 +1,50 @@
+{
+  "mcc": "278",
+  "mnc": "01",
+  "country": {
+    "name": "Malta",
+    "iso": "MT",
+    "code": "356",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Epic",
+      "operator": "Epic",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 1800 / 5G",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Epic Communications Limited",
+          "names": [
+            "epic communications limited"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    },
+    {
+      "brand": "Vodafone",
+      "operator": "Vodafone Malta",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / UMTS 2100 / LTE 1800",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Epic Communications Limited",
+          "names": [
+            "epic communications limited"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

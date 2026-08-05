@@ -1,0 +1,19 @@
+{
+  "mcc": "282",
+  "mnc": "12",
+  "country": {
+    "name": "Georgia",
+    "iso": "GE",
+    "code": "995",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telecom 1",
+      "operator": "Telecom1 Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

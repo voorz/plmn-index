@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "570",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Mediacom",
+      "operator": "Mediacom",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

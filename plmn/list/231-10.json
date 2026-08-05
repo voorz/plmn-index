@@ -1,0 +1,19 @@
+{
+  "mcc": "231",
+  "mnc": "10",
+  "country": {
+    "name": "Slovakia",
+    "iso": "SK",
+    "code": "421",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "HMZ RÁDIOKOMUNIKÁCIE, spol. s r.o.",
+      "operator": "HMZ RÁDIOKOMUNIKÁCIE, spol. s r.o.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

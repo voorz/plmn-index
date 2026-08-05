@@ -1,0 +1,19 @@
+{
+  "mcc": "724",
+  "mnc": "23",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Vivo",
+      "operator": "Telefônica Brasil S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 1800 / LTE 2600"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "434",
+  "mnc": "07",
+  "country": {
+    "name": "Uzbekistan",
+    "iso": "UZ",
+    "code": "998",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Mobiuz",
+      "operator": "Universal Mobile Systems (UMS)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / 5G"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "510",
+  "mnc": "20",
+  "country": {
+    "name": "Indonesia",
+    "iso": "ID",
+    "code": "62",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "TelkomMobile",
+      "operator": "PT Telkom Indonesia Tbk",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

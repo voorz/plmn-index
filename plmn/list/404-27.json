@@ -1,0 +1,50 @@
+{
+  "mcc": "404",
+  "mnc": "27",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "code": "91",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Vi India",
+      "operator": "Maharashtra & Goa",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vi",
+          "names": [
+            "vi"
+          ],
+          "gid1": "ff",
+          "gid2": "ff"
+        }
+      ]
+    },
+    {
+      "brand": "Vodafone India",
+      "operator": "Maharashtra & Goa",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vi",
+          "names": [
+            "vi"
+          ],
+          "gid1": "ff",
+          "gid2": "ff"
+        }
+      ]
+    }
+  ]
+}

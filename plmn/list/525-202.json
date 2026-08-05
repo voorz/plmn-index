@@ -1,0 +1,19 @@
+{
+  "mcc": "525",
+  "mnc": "202",
+  "country": {
+    "name": "Singapore",
+    "iso": "SG",
+    "code": "65",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "5G EP Twin Networks",
+      "operator": "5G EP Twin Networks",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "5G"
+    }
+  ]
+}

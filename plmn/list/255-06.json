@@ -1,0 +1,45 @@
+{
+  "mcc": "255",
+  "mnc": "06",
+  "country": {
+    "name": "Ukraine",
+    "iso": "UA",
+    "code": "380",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "lifecell",
+      "operator": "lifecell LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500",
+      "icon": "lifecell",
+      "icon_scope": "255",
+      "subs": [
+        {
+          "brand": "lifecell",
+          "names": [
+            "lifecell"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Lifecell_Default"
+          ]
+        },
+        {
+          "brand": "lifecell",
+          "names": [
+            "lifecell"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "AST_56.00"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "000",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Tennessee Wireless",
+      "operator": "Tennessee Wireless",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

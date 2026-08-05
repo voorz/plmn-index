@@ -1,0 +1,53 @@
+{
+  "mcc": "310",
+  "mnc": "84",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "telna Mobile",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "telna-mobile",
+      "icon_scope": "310",
+      "subs": [
+        {
+          "brand": "Redtea Mobile",
+          "names": [
+            "redtea mobile",
+            "redteago"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "RTG_Android",
+            "RedteaGO"
+          ]
+        },
+        {
+          "brand": "Carrier",
+          "names": [
+            "carrier",
+            "redtea mobile",
+            "redteago",
+            "roamic",
+            "22sim"
+          ],
+          "gid1": "636f6e6e65637431",
+          "gid2": "636f6e6e65637432",
+          "profile_names": [
+            "RedteaGO",
+            "Roamic_APP",
+            "ESIM_ACCESS_CARRIER",
+            "SmartTraveller",
+            "RTG_Android"
+          ]
+        }
+      ]
+    }
+  ]
+}

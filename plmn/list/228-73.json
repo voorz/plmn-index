@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "73",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "iWay",
+      "operator": "iWay AG",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

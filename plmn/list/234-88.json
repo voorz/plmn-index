@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "88",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "telet",
+      "operator": "Telet Research (N.I.) Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800/LTE 1800/ LTE 2600/ 5G 2600/ 5G 3800"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "231",
+  "mnc": "50",
+  "country": {
+    "name": "Slovakia",
+    "iso": "SK",
+    "code": "421",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telekom",
+      "operator": "Slovak Telekom",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

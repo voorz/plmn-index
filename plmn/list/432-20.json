@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "20",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "RighTel",
+      "operator": "Social Security Investment Co.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100"
+    }
+  ]
+}

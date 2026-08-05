@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "570",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Newmont Corporation",
+      "operator": "Newmont Corporation",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "621",
+  "mnc": "40",
+  "country": {
+    "name": "Nigeria",
+    "iso": "NG",
+    "code": "234",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Ntel",
+      "operator": "Nigerian Mobile Telecommunications Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 900 / LTE 1800"
+    }
+  ]
+}

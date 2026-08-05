@@ -1,0 +1,18 @@
+{
+  "mcc": "649",
+  "mnc": "06",
+  "country": {
+    "name": "Namibia",
+    "iso": "NA",
+    "code": "264"
+  },
+  "operators": [
+    {
+      "brand": "MTN Namibia",
+      "operator": "MTN Namibia",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

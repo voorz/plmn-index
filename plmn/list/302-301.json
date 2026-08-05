@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "301",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "ECOTEL",
+      "operator": "Ecotel inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 850 / LTE 2600"
+    }
+  ]
+}

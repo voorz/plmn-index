@@ -1,0 +1,60 @@
+{
+  "mcc": "293",
+  "mnc": "40",
+  "country": {
+    "name": "Slovenia",
+    "iso": "SI",
+    "code": "386",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "A1 SI",
+      "operator": "A1 Slovenija",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500",
+      "icon": "one",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "HoT",
+          "names": [
+            "hot",
+            "a1 slovenia"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "HoT",
+            "A1SI eSIM"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "A1",
+      "operator": "A1 Slovenija",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600",
+      "icon": "one",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "HoT",
+          "names": [
+            "hot",
+            "a1 slovenia"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "HoT",
+            "A1SI eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcc": "208",
+  "mnc": "38",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Lebara",
+      "operator": "Lebara France Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "lebara",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Lebara",
+          "names": [
+            "lebara"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Lebara"
+          ]
+        }
+      ]
+    }
+  ]
+}

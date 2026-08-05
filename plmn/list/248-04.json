@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "04",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Top Connect",
+      "operator": "OY Top Connect",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

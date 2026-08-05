@@ -1,0 +1,34 @@
+{
+  "mcc": "257",
+  "mnc": "01",
+  "country": {
+    "name": "Belarus",
+    "iso": "BY",
+    "code": "375",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "A1",
+      "operator": "A1 Belarus",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100",
+      "icon": "one",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "A1BY",
+          "names": [
+            "a1by"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "A1 Belarus"
+          ]
+        }
+      ]
+    }
+  ]
+}

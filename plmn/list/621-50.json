@@ -1,0 +1,34 @@
+{
+  "mcc": "621",
+  "mnc": "50",
+  "country": {
+    "name": "Nigeria",
+    "iso": "NG",
+    "code": "234",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Glo",
+      "operator": "Globacom Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 2600",
+      "icon": "glo",
+      "icon_scope": "621",
+      "subs": [
+        {
+          "brand": "Glo Nigeria",
+          "names": [
+            "glo nigeria"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "GLON0013.01_eSIM_20240626_USIM4GProduct_without_CX"
+          ]
+        }
+      ]
+    }
+  ]
+}

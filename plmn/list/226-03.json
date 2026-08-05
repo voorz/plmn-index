@@ -1,0 +1,19 @@
+{
+  "mcc": "226",
+  "mnc": "03",
+  "country": {
+    "name": "Romania",
+    "iso": "RO",
+    "code": "40",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telekom",
+      "operator": "Telekom Romania Mobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / 5G 2100"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "mcc": "505",
+  "mnc": "02",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Optus",
+      "operator": "Singtel Optus",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / LTE 2600 / 5G 900 / 5G 1800 / 5G 2100 / TD-5G 2300 / 5G 3500 / 5G 28000",
+      "icon": "singtel",
+      "icon_scope": "505",
+      "subs": [
+        {
+          "brand": "YES OPTUS",
+          "names": [
+            "yes optus"
+          ],
+          "gid1": "02ff",
+          "gid2": "01ff",
+          "profile_names": [
+            "Optus",
+            "5G Dynamic QRV"
+          ]
+        },
+        {
+          "brand": "optus",
+          "names": [
+            "optus"
+          ],
+          "gid1": "04ff",
+          "gid2": "02ff",
+          "profile_names": [
+            "optus"
+          ]
+        },
+        {
+          "brand": "Amaysim",
+          "names": [
+            "amaysim"
+          ],
+          "gid1": "25ff",
+          "gid2": "03ff",
+          "profile_names": [
+            "Amaysim"
+          ]
+        },
+        {
+          "brand": "Circles",
+          "names": [
+            "circles"
+          ],
+          "gid1": "41ff",
+          "gid2": "02ff",
+          "profile_names": [
+            "Circles"
+          ]
+        },
+        {
+          "brand": "Yomojo",
+          "names": [
+            "yomojo"
+          ],
+          "gid1": "6eff",
+          "gid2": "03ff",
+          "profile_names": [
+            "Yomojo"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "35",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "42 Telecom",
+      "operator": "42 Telecom LTD",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

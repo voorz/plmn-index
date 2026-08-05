@@ -1,0 +1,19 @@
+{
+  "mcc": "630",
+  "mnc": "05",
+  "country": {
+    "name": "Democratic Republic of the Congo",
+    "iso": "CD",
+    "code": "243",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Supercell",
+      "operator": "Supercell SPRL",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

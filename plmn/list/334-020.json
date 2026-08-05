@@ -1,0 +1,49 @@
+{
+  "mcc": "334",
+  "mnc": "020",
+  "country": {
+    "name": "Mexico",
+    "iso": "MX",
+    "code": "52",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Telcel",
+      "operator": "América Móvil",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 850 / UMTS 1900 / LTE 850 / LTE 1700 / LTE 2600 / 5G 3500",
+      "icon": "telcel",
+      "icon_scope": "334",
+      "subs": [
+        {
+          "brand": "TELCEL",
+          "names": [
+            "telcel"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "11.98Q",
+            "eSIM Discovery Server",
+            "11.90Q",
+            "11.97Q",
+            "11.95Q"
+          ]
+        },
+        {
+          "brand": "OXXO CEL",
+          "names": [
+            "oxxo cel"
+          ],
+          "gid1": "504f50ffffffffffffff",
+          "gid2": "504f50ffffffffffffff",
+          "profile_names": [
+            "OXXO CEL"
+          ]
+        }
+      ]
+    }
+  ]
+}

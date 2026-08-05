@@ -1,0 +1,19 @@
+{
+  "mcc": "631",
+  "mnc": "02",
+  "country": {
+    "name": "Angola",
+    "iso": "AO",
+    "code": "244",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "UNITEL",
+      "operator": "UNITEL S.a.r.l.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 3500"
+    }
+  ]
+}

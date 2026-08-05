@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "910",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "San Diego Gas & Electric",
+      "operator": "San Diego Gas & Electric",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

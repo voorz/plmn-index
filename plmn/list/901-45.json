@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "45",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Advanced Wireless Network Company Limited",
+      "operator": "Advanced Wireless Network Company Limited",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

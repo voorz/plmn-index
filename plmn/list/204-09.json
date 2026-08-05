@@ -1,0 +1,36 @@
+{
+  "mcc": "204",
+  "mnc": "09",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Lycamobile",
+      "operator": "Lycamobile Netherlands Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "lycamobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "LYC39298_8K_GEN_NLD_V1.0_V1.8.0_DI_SMENU_SIMFILES_20250219",
+            "LYC38853_5K_GEN_NLD_V1.0_V1.8.0_DI_SMENU_SIMFILES_20241018",
+            "LYC37686_10K_GEN_NLD_V1.0_V1.4.0_DI_SMENU_SIMFILES_20230727"
+          ]
+        }
+      ]
+    }
+  ]
+}

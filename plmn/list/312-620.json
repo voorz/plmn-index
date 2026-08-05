@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "620",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Airlinq Inc.",
+      "operator": "Airlinq Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

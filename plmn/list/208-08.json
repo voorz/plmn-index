@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "08",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "SFR",
+      "operator": "Altice",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "mcc": "901",
+  "mnc": "01",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Webbing",
+      "operator": "Webbing",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "MVNO",
+      "icon": "webbing",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Redtea Mobile",
+          "names": [
+            "redtea mobile",
+            "redteago",
+            "carrier",
+            "travel",
+            "redteamobile"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Klook_app",
+            "Roamic_APP",
+            "ESIM_ACCESS_CARRIER",
+            "RTG_Android",
+            "RedteaGO",
+            "SmartTraveller"
+          ]
+        }
+      ]
+    }
+  ]
+}

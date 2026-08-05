@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "17",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Móbil R",
+      "operator": "R Cable y Telecomunicaciones Galicia S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO / 5G"
+    }
+  ]
+}

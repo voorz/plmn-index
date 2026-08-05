@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "709",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Quimper communauté télécom",
+      "operator": "Quimper communauté télécom",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

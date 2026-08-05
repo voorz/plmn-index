@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "209",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "Cable Television Toyama Inc.",
+      "operator": "Cable Television Toyama Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

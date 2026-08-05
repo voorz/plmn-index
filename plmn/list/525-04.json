@@ -1,0 +1,19 @@
+{
+  "mcc": "525",
+  "mnc": "04",
+  "country": {
+    "name": "Singapore",
+    "iso": "SG",
+    "code": "65",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Grid",
+      "operator": "Grid Communications Pte Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 800"
+    }
+  ]
+}

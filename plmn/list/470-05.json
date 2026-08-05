@@ -1,0 +1,19 @@
+{
+  "mcc": "470",
+  "mnc": "05",
+  "country": {
+    "name": "Bangladesh",
+    "iso": "BD",
+    "code": "880",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Citycell",
+      "operator": "Pacific Bangladesh Telecom Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA 800"
+    }
+  ]
+}

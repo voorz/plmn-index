@@ -1,0 +1,18 @@
+{
+  "mcc": "546",
+  "mnc": "01",
+  "country": {
+    "name": "New Caledonia (France)",
+    "iso": "NC",
+    "code": "687"
+  },
+  "operators": [
+    {
+      "brand": "Mobilis",
+      "operator": "OPT New Caledonia",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2600"
+    }
+  ]
+}

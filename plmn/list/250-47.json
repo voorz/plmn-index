@@ -1,0 +1,32 @@
+{
+  "mcc": "250",
+  "mnc": "47",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Next Mobile",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "next-mobile",
+      "icon_scope": "250",
+      "subs": [
+        {
+          "brand": "Next Mobile",
+          "names": [
+            "next mobile"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "0017"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "080",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "SyncSouth",
+      "operator": "South Georgia Regional Information Technology Authority",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS-TDD 700"
+    }
+  ]
+}

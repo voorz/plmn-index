@@ -1,0 +1,19 @@
+{
+  "mcc": "282",
+  "mnc": "03",
+  "country": {
+    "name": "Georgia",
+    "iso": "GE",
+    "code": "995",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MagtiFix",
+      "operator": "MagtiCom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA 450"
+    }
+  ]
+}

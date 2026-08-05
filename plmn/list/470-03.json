@@ -1,0 +1,36 @@
+{
+  "mcc": "470",
+  "mnc": "03",
+  "country": {
+    "name": "Bangladesh",
+    "iso": "BD",
+    "code": "880",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Banglalink",
+      "operator": "Banglalink Digital Communications Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2300",
+      "icon": "banglalink",
+      "icon_scope": "470",
+      "subs": [
+        {
+          "brand": "Banglalink",
+          "names": [
+            "banglalink"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Profile_Banglalink_47003_002",
+            "Profile_Banglalink_47003_001",
+            "Banglalink"
+          ]
+        }
+      ]
+    }
+  ]
+}

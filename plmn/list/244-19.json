@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "19",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Nettia Oy",
+      "operator": "Nettia Oy",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

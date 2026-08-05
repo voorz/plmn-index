@@ -1,0 +1,18 @@
+{
+  "mcc": "708",
+  "mnc": "030",
+  "country": {
+    "name": "Honduras",
+    "iso": "HN",
+    "code": "504"
+  },
+  "operators": [
+    {
+      "brand": "Hondutel",
+      "operator": "Empresa Hondureña de Telecomunicaciones",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 1900"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "mcc": "297",
+  "mnc": "03",
+  "country": {
+    "name": "Montenegro",
+    "iso": "ME",
+    "code": "382",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "m:tel",
+      "operator": "m:tel Crna Gora",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE",
+      "icon": "mtel-cg",
+      "icon_scope": "297",
+      "subs": [
+        {
+          "brand": "m:tel",
+          "names": [
+            "m:tel"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "m:tel eSIM"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "m:tel CG",
+      "operator": "MTEL CG",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100",
+      "icon": "mtel-cg",
+      "icon_scope": "297",
+      "subs": [
+        {
+          "brand": "m:tel",
+          "names": [
+            "m:tel"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "m:tel eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

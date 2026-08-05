@@ -1,0 +1,19 @@
+{
+  "mcc": "738",
+  "mnc": "040",
+  "country": {
+    "name": "Guyana",
+    "iso": "GY",
+    "code": "592",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "E-Networks",
+      "operator": "E-Networks Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

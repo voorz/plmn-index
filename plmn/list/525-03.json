@@ -1,0 +1,50 @@
+{
+  "mcc": "525",
+  "mnc": "03",
+  "country": {
+    "name": "Singapore",
+    "iso": "SG",
+    "code": "65",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "M1",
+      "operator": "M1 Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800 / LTE 2600 / 5G 2100 / 5G 3500",
+      "icon": "m1",
+      "icon_scope": "525",
+      "subs": [
+        {
+          "brand": "M1",
+          "names": [
+            "m1"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "M1",
+            "ESIM-A1-R2(PP)"
+          ]
+        },
+        {
+          "brand": "CIRCLEASIA",
+          "names": [
+            "circleasia",
+            "circles",
+            "myrepublic"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "CIRCLEASIA",
+            "Circles",
+            "MyRepublic"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "mcc": "466",
+  "mnc": "93",
+  "country": {
+    "name": "Taiwan",
+    "iso": "TW",
+    "code": "886",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Taiwan Mobile",
+      "operator": "Taiwan Mobile Co. Ltd",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900",
+      "icon": "mobitai",
+      "icon_scope": "466",
+      "subs": [
+        {
+          "brand": "XiaoSha Telecom",
+          "names": [
+            "xiaosha telecom"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    },
+    {
+      "brand": "MobiTai",
+      "operator": "Mobitai Communications",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900",
+      "icon": "mobitai",
+      "icon_scope": "466",
+      "subs": [
+        {
+          "brand": "XiaoSha Telecom",
+          "names": [
+            "xiaosha telecom"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

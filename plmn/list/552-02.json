@@ -1,0 +1,19 @@
+{
+  "mcc": "552",
+  "mnc": "02",
+  "country": {
+    "name": "Palau",
+    "iso": "PW",
+    "code": "680",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "PT Waves",
+      "operator": "Palau Equipment Company Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

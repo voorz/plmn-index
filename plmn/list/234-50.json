@@ -1,0 +1,80 @@
+{
+  "mcc": "234",
+  "mnc": "50",
+  "country": {
+    "name": "Guernsey (United Kingdom)",
+    "iso": "GG",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "JT",
+      "operator": "JT Group Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600",
+      "icon": "jt",
+      "icon_scope": "234",
+      "subs": [
+        {
+          "brand": "Flexiroam",
+          "names": [
+            "flexiroam"
+          ],
+          "gid1": "46526f616d313054",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "JT_FRX"
+          ]
+        },
+        {
+          "brand": "JT",
+          "names": [
+            "jt"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "JT_IOS_T01",
+            "Jersey_Telecom_UK_v01.01.00"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "JT",
+      "operator": "JT Group Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600",
+      "icon": "jt",
+      "icon_scope": "234",
+      "subs": [
+        {
+          "brand": "Flexiroam",
+          "names": [
+            "flexiroam"
+          ],
+          "gid1": "46526f616d313054",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "JT_FRX"
+          ]
+        },
+        {
+          "brand": "JT",
+          "names": [
+            "jt"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "JT_IOS_T01",
+            "Jersey_Telecom_UK_v01.01.00"
+          ]
+        }
+      ]
+    }
+  ]
+}

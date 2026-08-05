@@ -1,0 +1,31 @@
+{
+  "mcc": "736",
+  "mnc": "03",
+  "country": {
+    "name": "Bolivia",
+    "iso": "BO",
+    "code": "591",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Tigo",
+      "operator": "Telefónica Celular De Bolivia S.A",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / UMTS 850 / UMTS 1900 / LTE 700",
+      "icon": "tigo",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "TIGO",
+          "names": [
+            "tigo"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

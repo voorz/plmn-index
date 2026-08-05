@@ -1,0 +1,18 @@
+{
+  "mcc": "235",
+  "mnc": "08",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44"
+  },
+  "operators": [
+    {
+      "brand": "Spitfire Network Services Limited",
+      "operator": "Spitfire Network Services Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

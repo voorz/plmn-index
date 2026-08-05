@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "29",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MI Carrier Services",
+      "operator": "Mercury International Carrier Services AB",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

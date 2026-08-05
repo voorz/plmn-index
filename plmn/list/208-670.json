@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "670",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "P1 Security",
+      "operator": "P1 Security",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

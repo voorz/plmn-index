@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "80",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Flo Live Limited",
+      "operator": "Flo Live Limited",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "MVNO"
+    }
+  ]
+}

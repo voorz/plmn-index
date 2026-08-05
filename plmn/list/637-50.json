@@ -1,0 +1,18 @@
+{
+  "mcc": "637",
+  "mnc": "50",
+  "country": {
+    "name": "Somalia",
+    "iso": "SO",
+    "code": "252"
+  },
+  "operators": [
+    {
+      "brand": "Hormuud",
+      "operator": "Hormuud Telecom Somalia Inc",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS / 5G"
+    }
+  ]
+}

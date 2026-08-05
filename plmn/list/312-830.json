@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "830",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Kings County Office of Education",
+      "operator": "Kings County Office of Education",
+      "status": "Operational",
+      "type": "National",
+      "bands": "WiMAX"
+    }
+  ]
+}

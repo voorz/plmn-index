@@ -1,0 +1,19 @@
+{
+  "mcc": "730",
+  "mnc": "16",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Nomade Telecomunicaciones S.A.",
+      "operator": "Nomade Telecomunicaciones S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

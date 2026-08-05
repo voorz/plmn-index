@@ -1,0 +1,18 @@
+{
+  "mcc": "611",
+  "mnc": "01",
+  "country": {
+    "name": "Guinea",
+    "iso": "GN",
+    "code": "224"
+  },
+  "operators": [
+    {
+      "brand": "Orange",
+      "operator": "Orange S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE"
+    }
+  ]
+}

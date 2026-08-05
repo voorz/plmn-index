@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "780",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Saint Regis Mohawk Tribe",
+      "operator": "Saint Regis Mohawk Tribe",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

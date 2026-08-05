@@ -1,0 +1,19 @@
+{
+  "mcc": "282",
+  "mnc": "66",
+  "country": {
+    "name": "Georgia",
+    "iso": "GE",
+    "code": "995",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Icecell Telecom LLC",
+      "operator": "Icecell Telecom LLC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

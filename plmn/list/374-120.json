@@ -1,0 +1,19 @@
+{
+  "mcc": "374",
+  "mnc": "120",
+  "country": {
+    "name": "Trinidad and Tobago",
+    "iso": "TT",
+    "code": "1868",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "bmobile",
+      "operator": "TSTT",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900"
+    }
+  ]
+}

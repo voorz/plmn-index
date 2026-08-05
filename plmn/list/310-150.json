@@ -1,0 +1,34 @@
+{
+  "mcc": "310",
+  "mnc": "150",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "AT&T",
+      "operator": "AT&T Mobility",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / UMTS 850 / UMTS 1900",
+      "icon": "at-and-t",
+      "icon_scope": "310",
+      "subs": [
+        {
+          "brand": "Cricket",
+          "names": [
+            "cricket"
+          ],
+          "gid1": "63ff",
+          "gid2": "ffff",
+          "profile_names": [
+            "Cricket"
+          ]
+        }
+      ]
+    }
+  ]
+}

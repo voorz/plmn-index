@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "36",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Alai",
+      "operator": "ALAI OPERADOR DE TELECOMUNICACIONES, S.L",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "01",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telia",
+      "operator": "Telia Sverige AB",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2600 / 5G 700"
+    }
+  ]
+}

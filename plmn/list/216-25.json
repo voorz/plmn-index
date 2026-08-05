@@ -1,0 +1,19 @@
+{
+  "mcc": "216",
+  "mnc": "25",
+  "country": {
+    "name": "Hungary",
+    "iso": "HU",
+    "code": "36",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Yettel Hungary",
+      "operator": "Telenor Magyarország Zrt.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

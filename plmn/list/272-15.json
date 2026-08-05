@@ -1,0 +1,19 @@
+{
+  "mcc": "272",
+  "mnc": "15",
+  "country": {
+    "name": "Ireland",
+    "iso": "IE",
+    "code": "353",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Virgin Mobile",
+      "operator": "UPC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

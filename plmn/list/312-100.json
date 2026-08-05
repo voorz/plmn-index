@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "100",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "AT&T Mobility",
+      "operator": "ClearSky Technologies, Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

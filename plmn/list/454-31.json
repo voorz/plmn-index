@@ -1,0 +1,77 @@
+{
+  "mcc": "454",
+  "mnc": "31",
+  "country": {
+    "name": "Hong Kong",
+    "iso": "HK",
+    "code": "852",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "CTExcel",
+      "operator": "China Telecom Global Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "ctexcel",
+      "icon_scope": "454",
+      "subs": [
+        {
+          "brand": "CTExcel",
+          "names": [
+            "ctexcel",
+            "esim",
+            "esim",
+            "talk2all",
+            "cte"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "129_1732760466434",
+            "CTETEST",
+            "CTExcel",
+            "JOYTEL_BLANK_QRCODE_appletV4",
+            "CTESPNTEST",
+            "ESIM",
+            "CTG",
+            "19_1727152406260"
+          ]
+        },
+        {
+          "brand": "infra",
+          "names": [
+            "infra",
+            "tgt"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "infra",
+            "TUGE"
+          ]
+        },
+        {
+          "brand": "BillionConnect",
+          "names": [
+            "billionconnect",
+            "roamify",
+            "ucloudlink",
+            "ctexcel",
+            "trip",
+            "dosirak"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "BillionConnect",
+            "uCloudlink",
+            "Roamify",
+            "AsiaCentralTelecom"
+          ]
+        }
+      ]
+    }
+  ]
+}

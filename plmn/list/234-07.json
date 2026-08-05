@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "07",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone UK",
+      "operator": "Vodafone",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

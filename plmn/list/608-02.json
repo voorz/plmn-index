@@ -1,0 +1,18 @@
+{
+  "mcc": "608",
+  "mnc": "02",
+  "country": {
+    "name": "Senegal",
+    "iso": "SN",
+    "code": "221"
+  },
+  "operators": [
+    {
+      "brand": "Free",
+      "operator": "Saga Africa Holdings Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800"
+    }
+  ]
+}

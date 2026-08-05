@@ -1,0 +1,19 @@
+{
+  "mcc": "724",
+  "mnc": "54",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Conecta",
+      "operator": "PORTO SEGURO TELECOMUNICAÇÔES",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

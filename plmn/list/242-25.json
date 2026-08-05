@@ -1,0 +1,19 @@
+{
+  "mcc": "242",
+  "mnc": "25",
+  "country": {
+    "name": "Norway",
+    "iso": "NO",
+    "code": "47",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "CYFOR",
+      "operator": "Cyberforsvaret",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

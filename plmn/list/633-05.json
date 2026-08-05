@@ -1,0 +1,19 @@
+{
+  "mcc": "633",
+  "mnc": "05",
+  "country": {
+    "name": "Seychelles",
+    "iso": "SC",
+    "code": "248",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Intelvision",
+      "operator": "Intelvision Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

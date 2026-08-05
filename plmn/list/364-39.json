@@ -1,0 +1,35 @@
+{
+  "mcc": "364",
+  "mnc": "39",
+  "country": {
+    "name": "Bahamas",
+    "iso": "BS",
+    "code": "1242",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "BTC",
+      "operator": "The Bahamas Telecommunications Company Ltd (BaTelCo)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / LTE 700 / LTE 1700",
+      "icon": "btc",
+      "icon_scope": "364",
+      "subs": [
+        {
+          "brand": "Liberty BTC",
+          "names": [
+            "liberty btc"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "8901391290001789887F",
+            "8901391290001519151F"
+          ]
+        }
+      ]
+    }
+  ]
+}

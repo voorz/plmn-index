@@ -1,0 +1,35 @@
+{
+  "mcc": "280",
+  "mnc": "01",
+  "country": {
+    "name": "Cyprus",
+    "iso": "CY",
+    "code": "357",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Cytamobile-Vodafone",
+      "operator": "Cyprus Telecommunications Authority",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 700 / 5G 3500",
+      "icon": "cytamobile-vodafone",
+      "icon_scope": "280",
+      "subs": [
+        {
+          "brand": "Cytamobile-Vodafone",
+          "names": [
+            "cytamobile-vodafone"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "Airport_campaign",
+            "Prepaid_eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

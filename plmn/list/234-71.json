@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "71",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Home Office",
+      "operator": "Home Office",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

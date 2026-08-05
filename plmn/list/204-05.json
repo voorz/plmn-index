@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "05",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "ElephantTalk",
+      "operator": "Elephant Talk Communications Premium Rate Services",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

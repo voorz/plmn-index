@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "16",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "TeleCable",
+      "operator": "R Cable y Telecomunicaciones Galicia S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

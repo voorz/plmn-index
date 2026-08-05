@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "640",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Numerex",
+      "operator": "Numerex",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

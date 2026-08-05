@@ -1,0 +1,19 @@
+{
+  "mcc": "293",
+  "mnc": "64",
+  "country": {
+    "name": "Slovenia",
+    "iso": "SI",
+    "code": "386",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "T-2",
+      "operator": "T-2 d.o.o.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100 / LTE 2100 / 5G 2300 / 5G 3500"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "220",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Custer Telephone Co-op (CTCI)",
+      "operator": "Custer Telephone Co-op (CTCI)",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "404",
+  "mnc": "48",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "code": "91",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Dishnet Wireless",
+      "operator": "Unknown",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

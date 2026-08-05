@@ -1,0 +1,78 @@
+{
+  "mcc": "470",
+  "mnc": "04",
+  "country": {
+    "name": "Bangladesh",
+    "iso": "BD",
+    "code": "880",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Teletalk",
+      "operator": "Teletalk Bangladesh Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 1800",
+      "icon": "teletalk",
+      "icon_scope": "470",
+      "subs": [
+        {
+          "brand": "Teletalk",
+          "names": [
+            "teletalk"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Teletalk General 01"
+          ]
+        },
+        {
+          "brand": "Teletalk",
+          "names": [
+            "teletalk"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Teletalk General 02"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "TeleTalk",
+      "operator": "Teletalk Bangladesh Limited",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / UMTS 2100 / LTE 1800",
+      "icon": "teletalk",
+      "icon_scope": "470",
+      "subs": [
+        {
+          "brand": "Teletalk",
+          "names": [
+            "teletalk"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Teletalk General 01"
+          ]
+        },
+        {
+          "brand": "Teletalk",
+          "names": [
+            "teletalk"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Teletalk General 02"
+          ]
+        }
+      ]
+    }
+  ]
+}

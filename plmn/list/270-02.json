@@ -1,0 +1,93 @@
+{
+  "mcc": "270",
+  "mnc": "02",
+  "country": {
+    "name": "Luxembourg",
+    "iso": "LU",
+    "code": "352",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MTX Connect S.à r.l.",
+      "operator": "MTX Connect S.à r.l.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "mtx-connect",
+      "icon_scope": "270",
+      "subs": [
+        {
+          "brand": "MTXC",
+          "names": [
+            "mtxc"
+          ],
+          "gid1": "",
+          "gid2": ""
+        },
+        {
+          "brand": "MTXC",
+          "names": [
+            "mtxc"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "MTXC_T01"
+          ]
+        },
+        {
+          "brand": "MTXC",
+          "names": [
+            "mtxc"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "MTX_LUXEMBOURG_PROFILE_TYPE_1"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "MTX Connect",
+      "operator": "MTX Connect S.a.r.l.",
+      "status": "",
+      "type": "",
+      "icon": "mtx-connect",
+      "icon_scope": "270",
+      "subs": [
+        {
+          "brand": "MTXC",
+          "names": [
+            "mtxc"
+          ],
+          "gid1": "",
+          "gid2": ""
+        },
+        {
+          "brand": "MTXC",
+          "names": [
+            "mtxc"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "MTXC_T01"
+          ]
+        },
+        {
+          "brand": "MTXC",
+          "names": [
+            "mtxc"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "MTX_LUXEMBOURG_PROFILE_TYPE_1"
+          ]
+        }
+      ]
+    }
+  ]
+}

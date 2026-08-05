@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "12",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Cyfrowy Polsat",
+      "operator": "Cyfrowy Polsat S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

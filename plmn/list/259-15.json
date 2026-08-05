@@ -1,0 +1,19 @@
+{
+  "mcc": "259",
+  "mnc": "15",
+  "country": {
+    "name": "Moldova",
+    "iso": "MD",
+    "code": "373",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "IDC",
+      "operator": "Interdnestrcom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 800 / LTE 1800"
+    }
+  ]
+}

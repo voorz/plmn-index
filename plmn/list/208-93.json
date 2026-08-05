@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "93",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Thales Communications & Security SAS",
+      "operator": "Thales Communications & Security SAS",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

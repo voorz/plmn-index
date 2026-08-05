@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "51",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Ligado Networks Subsidiary LLC",
+      "operator": "Ligado Networks Subsidiary LLC",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Satellite"
+    }
+  ]
+}

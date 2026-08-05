@@ -1,0 +1,19 @@
+{
+  "mcc": "732",
+  "mnc": "230",
+  "country": {
+    "name": "Colombia",
+    "iso": "CO",
+    "code": "57",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Setroc Mobile",
+      "operator": "Setroc Mobile Group SAS",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

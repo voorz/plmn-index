@@ -1,0 +1,35 @@
+{
+  "mcc": "231",
+  "mnc": "06",
+  "country": {
+    "name": "Slovakia",
+    "iso": "SK",
+    "code": "421",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "O2",
+      "operator": "O2 Slovakia",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 800 / LTE 1800 / TD-LTE 3500 / TD-LTE 3700 / 5G 3500",
+      "icon": "o2",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Radost",
+          "names": [
+            "radost",
+            "o2 sk"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "O2 SK eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

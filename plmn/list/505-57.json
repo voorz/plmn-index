@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "57",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "CiFi",
+      "operator": "Christmas Island Fibre Internet",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

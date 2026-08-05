@@ -1,0 +1,56 @@
+{
+  "mcc": "283",
+  "mnc": "01",
+  "country": {
+    "name": "Armenia",
+    "iso": "AM",
+    "code": "374",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Team",
+      "operator": "Telecom Armenia",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 450 / LTE 1800",
+      "icon": "beeline",
+      "icon_scope": "283",
+      "subs": [
+        {
+          "brand": "Team",
+          "names": [
+            "team"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Team"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Beeline",
+      "operator": "Veon Armenia CJSC",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 450 / LTE 1800",
+      "icon": "beeline",
+      "icon_scope": "283",
+      "subs": [
+        {
+          "brand": "Team",
+          "names": [
+            "team"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Team"
+          ]
+        }
+      ]
+    }
+  ]
+}

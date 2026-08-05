@@ -1,0 +1,19 @@
+{
+  "mcc": "655",
+  "mnc": "46",
+  "country": {
+    "name": "South Africa",
+    "iso": "ZA",
+    "code": "27",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "AngloGold Ashanti",
+      "operator": "SMS Cellular Services (Pty) Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "520",
+  "mnc": "23",
+  "country": {
+    "name": "Thailand",
+    "iso": "TH",
+    "code": "66",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "AIS GSM 1800",
+      "operator": "Digital Phone Company Ltd.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

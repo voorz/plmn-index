@@ -1,0 +1,165 @@
+{
+  "mcc": "260",
+  "mnc": "06",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Play",
+      "operator": "P4 Sp. z o.o.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500",
+      "icon": "play",
+      "icon_scope": "260",
+      "subs": [
+        {
+          "brand": "Carrier",
+          "names": [
+            "carrier",
+            "global",
+            "redtea mobile",
+            "travel",
+            "roamic",
+            "esim",
+            "yhm",
+            "airsime"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Roamic_APP",
+            "ESIM_ACCESS_CARRIER",
+            "Klook_app",
+            "CUniq",
+            "Bondio",
+            "Global1SIM_Single_SP05",
+            "RTG_Android"
+          ]
+        },
+        {
+          "brand": "airalo",
+          "names": [
+            "airalo"
+          ],
+          "gid1": "616972616c6f31ffffffffffffffff",
+          "gid2": "616972616c6f32ffffffffffffffff",
+          "profile_names": [
+            "Telna_MI7_airalo_SPN_GID_CP_GP1_v02.08.10"
+          ]
+        },
+        {
+          "brand": "aloSIM",
+          "names": [
+            "alosim"
+          ],
+          "gid1": "616c6f73696d31ffffffffffffffff",
+          "gid2": "616c6f73696d32ffffffffffffffff",
+          "profile_names": [
+            "Telna_MI7_aloSIM_SPN_GID_CP_v02.08.12"
+          ]
+        },
+        {
+          "brand": "BNE SIM",
+          "names": [
+            "bne sim"
+          ],
+          "gid1": "626e6573696d31ffffffffffffffff",
+          "gid2": "626e6573696d32ffffffffffffffff",
+          "profile_names": [
+            "Telna_MI7_BNE_SIM_SPN_GID_GP1_v02.08.04.01",
+            "Telna_MI7_Connect_SPN_GID_v02.08.13"
+          ]
+        },
+        {
+          "brand": "fonus",
+          "names": [
+            "fonus"
+          ],
+          "gid1": "636f6e6e65637431",
+          "gid2": "636f6e6e65637431",
+          "profile_names": [
+            "fonus_26006_002"
+          ]
+        },
+        {
+          "brand": "Connect",
+          "names": [
+            "connect",
+            "nomad",
+            "globalyo",
+            "esimcard.com"
+          ],
+          "gid1": "636f6e6e65637431ffffffffffffff",
+          "gid2": "636f6e6e65637432ffffffffffffff",
+          "profile_names": [
+            "Telna_MI7_Connect_SPN_GID_CP_Hubby2Go_v02.08.16",
+            "Telna_MI7_Connect_SPN_GID_v02.08.13",
+            "Telna_MI_Circle_Auto_APN_SPN_GID_GP1_v02.04.01",
+            "Telna_WZ-Si-YO_7-ES-v22-0_v03.08.28",
+            "Telna_Connect_eSIMPLIFIED_IMSI7_v03.08.27",
+            "Telna_MI7_Connect_SPN_GID_GP1_v02.08.07",
+            "Telna_eSIM BAP - EasySim - IMSI7_v04.08.08"
+          ]
+        },
+        {
+          "brand": "tgt",
+          "names": [
+            "tgt",
+            "infra"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "infra",
+            "TUGE"
+          ]
+        },
+        {
+          "brand": "Play",
+          "names": [
+            "play",
+            "virgin mobile",
+            "mobile vikings",
+            "pr1v"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "Mobile Vikings",
+            "PR1V",
+            "Play",
+            "Virgin Mobile"
+          ]
+        },
+        {
+          "brand": "Bondio",
+          "names": [
+            "bondio"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "single_imsi_dynamic"
+          ]
+        },
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "S11 Applet 2.0",
+            "Roamability"
+          ]
+        }
+      ]
+    }
+  ]
+}

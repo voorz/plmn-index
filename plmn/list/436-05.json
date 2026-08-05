@@ -1,0 +1,19 @@
+{
+  "mcc": "436",
+  "mnc": "05",
+  "country": {
+    "name": "Tajikistan",
+    "iso": "TJ",
+    "code": "992",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "ZET-Mobile",
+      "operator": "Tacom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 2100"
+    }
+  ]
+}

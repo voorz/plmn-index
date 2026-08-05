@@ -1,0 +1,19 @@
+{
+  "mcc": "405",
+  "mnc": "07",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "code": "91",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Reliance",
+      "operator": "Haryana",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "454",
+  "mnc": "21",
+  "country": {
+    "name": "Hong Kong",
+    "iso": "HK",
+    "code": "852",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "VNET Group Limited",
+      "operator": "VNET Group Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

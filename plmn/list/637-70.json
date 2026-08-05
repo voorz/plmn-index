@@ -1,0 +1,18 @@
+{
+  "mcc": "637",
+  "mnc": "70",
+  "country": {
+    "name": "Somalia",
+    "iso": "SO",
+    "code": "252"
+  },
+  "operators": [
+    {
+      "brand": "Onkod",
+      "operator": "Onkod Telecom Ltd.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "541",
+  "mnc": "07",
+  "country": {
+    "name": "Vanuatu",
+    "iso": "VU",
+    "code": "678"
+  },
+  "operators": [
+    {
+      "brand": "WanTok",
+      "operator": "WanTok Vanuatu Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 2300"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "mcc": "414",
+  "mnc": "06",
+  "country": {
+    "name": "Myanmar",
+    "iso": "MM",
+    "code": "95",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "ATOM",
+      "operator": "M1 Group",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 1800 / LTE 2100",
+      "icon": "telenor",
+      "icon_scope": "414",
+      "subs": [
+        {
+          "brand": "ATOM",
+          "names": [
+            "atom"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "ATOM"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Telenor",
+      "operator": "Telenor Myanmar",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / UMTS 2100 / LTE 1800 / LTE 2100",
+      "icon": "telenor",
+      "icon_scope": "414",
+      "subs": [
+        {
+          "brand": "ATOM",
+          "names": [
+            "atom"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "ATOM"
+          ]
+        }
+      ]
+    }
+  ]
+}

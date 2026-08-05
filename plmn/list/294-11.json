@@ -1,0 +1,19 @@
+{
+  "mcc": "294",
+  "mnc": "11",
+  "country": {
+    "name": "North Macedonia",
+    "iso": "MK",
+    "code": "389",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Mobik",
+      "operator": "MOBIK TELEKOMUNIKACII DOOEL Skopje",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

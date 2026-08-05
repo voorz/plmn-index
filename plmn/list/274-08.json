@@ -1,0 +1,19 @@
+{
+  "mcc": "274",
+  "mnc": "08",
+  "country": {
+    "name": "Iceland",
+    "iso": "IS",
+    "code": "354",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "On-waves",
+      "operator": "Iceland Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

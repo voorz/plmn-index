@@ -1,0 +1,56 @@
+{
+  "mcc": "730",
+  "mnc": "01",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Entel",
+      "operator": "Entel Telefonía Móvil S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 1900 / LTE 700 / LTE 1900 / LTE 2600 / 5G 3500",
+      "icon": "entel",
+      "icon_scope": "730",
+      "subs": [
+        {
+          "brand": "Entel Chile",
+          "names": [
+            "entel chile"
+          ],
+          "gid1": "10ffffffff",
+          "gid2": "3733303130",
+          "profile_names": [
+            "Consumer eSIM para teléfono"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "entel",
+      "operator": "Entel Telefonía Móvil S.A.",
+      "status": "",
+      "type": "",
+      "bands": "GSM 1900 / UMTS 1900 / LTE 700 / LTE 2600",
+      "icon": "entel",
+      "icon_scope": "730",
+      "subs": [
+        {
+          "brand": "Entel Chile",
+          "names": [
+            "entel chile"
+          ],
+          "gid1": "10ffffffff",
+          "gid2": "3733303130",
+          "profile_names": [
+            "Consumer eSIM para teléfono"
+          ]
+        }
+      ]
+    }
+  ]
+}

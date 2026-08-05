@@ -1,0 +1,34 @@
+{
+  "mcc": "510",
+  "mnc": "89",
+  "country": {
+    "name": "Indonesia",
+    "iso": "ID",
+    "code": "62",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "3",
+      "operator": "PT Hutchison 3 Indonesia",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / LTE 1800",
+      "icon": "3",
+      "icon_scope": "510",
+      "subs": [
+        {
+          "brand": "3SinyalKuatHemat",
+          "names": [
+            "3sinyalkuathemat"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "3_eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "19",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Mixe Communication Solutions B.V.",
+      "operator": "Mixe Communication Solutions B.V.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

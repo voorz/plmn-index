@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "22",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Transatel Mobile",
+      "operator": "Transatel",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

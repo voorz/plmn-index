@@ -1,0 +1,19 @@
+{
+  "mcc": "655",
+  "mnc": "16",
+  "country": {
+    "name": "South Africa",
+    "iso": "ZA",
+    "code": "27",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Phoenix System Integration (Pty) Ltd",
+      "operator": "Phoenix System Integration (Pty) Ltd",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

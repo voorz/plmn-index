@@ -1,0 +1,45 @@
+{
+  "mcc": "260",
+  "mnc": "02",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "T-Mobile",
+      "operator": "T-Mobile Polska S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / LTE 2100 / 5G 2100 / 5G 3500",
+      "icon": "t-mobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "T-Mobile.pl",
+          "names": [
+            "t-mobile.pl"
+          ],
+          "gid1": "10",
+          "gid2": "",
+          "profile_names": [
+            "T-Mobile.pl"
+          ]
+        },
+        {
+          "brand": "T-Mobile.pl",
+          "names": [
+            "t-mobile.pl"
+          ],
+          "gid1": "14",
+          "gid2": "",
+          "profile_names": [
+            "T-Mobile.pl"
+          ]
+        }
+      ]
+    }
+  ]
+}

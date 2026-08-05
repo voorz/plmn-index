@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "06",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "Arian-Tel",
+      "operator": "Ertebatat-e Arian Tel Co.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

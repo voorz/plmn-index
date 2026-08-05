@@ -1,0 +1,18 @@
+{
+  "mcc": "342",
+  "mnc": "646",
+  "country": {
+    "name": "Barbados",
+    "iso": "BB",
+    "code": "1246"
+  },
+  "operators": [
+    {
+      "brand": "KW Telecommunications Inc.",
+      "operator": "KW Telecommunications Inc.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "LTE 700"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "547",
+  "mnc": "15",
+  "country": {
+    "name": "French Polynesia (France)",
+    "iso": "PF",
+    "code": "689",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "Pacific Mobile Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 2100"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "470",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Viya",
+      "operator": "Vitelcom Cellular Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / TD-LTE 2500"
+    }
+  ]
+}

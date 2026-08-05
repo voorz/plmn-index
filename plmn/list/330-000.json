@@ -1,0 +1,18 @@
+{
+  "mcc": "330",
+  "mnc": "000",
+  "country": {
+    "name": "Puerto Rico",
+    "iso": "PR",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Open Mobile",
+      "operator": "PR Wireless",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA 1900"
+    }
+  ]
+}

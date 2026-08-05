@@ -1,0 +1,19 @@
+{
+  "mcc": "222",
+  "mnc": "34",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "BT Mobile/BT Enìa",
+      "operator": "BT Italia S.p.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

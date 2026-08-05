@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "730",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Triangle Communication System Inc.",
+      "operator": "Triangle Communication System Inc.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA"
+    }
+  ]
+}

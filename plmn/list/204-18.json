@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "18",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Ziggo",
+      "operator": "Ziggo Services B.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "452",
+  "mnc": "03",
+  "country": {
+    "name": "Vietnam",
+    "iso": "VN",
+    "code": "84",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "S-Fone",
+      "operator": "S-Telecom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA2000 800"
+    }
+  ]
+}

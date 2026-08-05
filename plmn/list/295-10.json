@@ -1,0 +1,19 @@
+{
+  "mcc": "295",
+  "mnc": "10",
+  "country": {
+    "name": "Liechtenstein",
+    "iso": "LI",
+    "code": "423",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Soracom LI Ltd.",
+      "operator": "Soracom LI Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "365",
+  "mnc": "840",
+  "country": {
+    "name": "Anguilla (United Kingdom)",
+    "iso": "AI",
+    "code": "1264"
+  },
+  "operators": [
+    {
+      "brand": "FLOW",
+      "operator": "Cable & Wireless",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / UMTS 1900 / LTE 700"
+    }
+  ]
+}

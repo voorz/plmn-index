@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "360",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "MiKe",
+      "operator": "Telus Mobility",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "iDEN 800"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "370",
+  "mnc": "03",
+  "country": {
+    "name": "Dominican Republic",
+    "iso": "DO",
+    "code": "1809",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Altice",
+      "operator": "Altice Group",
+      "status": "Operational",
+      "type": "National",
+      "bands": "AMPS / CDMA 850"
+    }
+  ]
+}

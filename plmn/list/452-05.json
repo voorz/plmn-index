@@ -1,0 +1,36 @@
+{
+  "mcc": "452",
+  "mnc": "05",
+  "country": {
+    "name": "Vietnam",
+    "iso": "VN",
+    "code": "84",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Vietnamobile",
+      "operator": "Hanoi Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100",
+      "icon": "vietnamobile",
+      "icon_scope": "452",
+      "subs": [
+        {
+          "brand": "Vietnamobile",
+          "names": [
+            "vietnamobile"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "profilename",
+            "Vietnamobile",
+            "KGVNVM020002_VietnaMobile KG eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "744",
+  "mnc": "01",
+  "country": {
+    "name": "Paraguay",
+    "iso": "PY",
+    "code": "595",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "VOX",
+      "operator": "Hola Paraguay S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 900 / UMTS 1900 / LTE 1700"
+    }
+  ]
+}

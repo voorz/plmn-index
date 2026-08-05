@@ -1,0 +1,18 @@
+{
+  "mcc": "541",
+  "mnc": "01",
+  "country": {
+    "name": "Vanuatu",
+    "iso": "VU",
+    "code": "678"
+  },
+  "operators": [
+    {
+      "brand": "SMILE",
+      "operator": "Telecom Vanuatu Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 700"
+    }
+  ]
+}

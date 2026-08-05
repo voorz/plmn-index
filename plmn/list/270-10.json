@@ -1,0 +1,19 @@
+{
+  "mcc": "270",
+  "mnc": "10",
+  "country": {
+    "name": "Luxembourg",
+    "iso": "LU",
+    "code": "352",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Blue Communications",
+      "operator": "Blue Communications",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

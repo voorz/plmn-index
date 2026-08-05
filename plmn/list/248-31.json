@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "31",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "YATECO OÜ",
+      "operator": "YATECO OÜ",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

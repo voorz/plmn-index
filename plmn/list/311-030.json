@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "030",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Indigo Wireless",
+      "operator": "Americell PA 3 Partnership",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850"
+    }
+  ]
+}

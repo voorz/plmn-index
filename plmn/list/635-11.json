@@ -1,0 +1,19 @@
+{
+  "mcc": "635",
+  "mnc": "11",
+  "country": {
+    "name": "Rwanda",
+    "iso": "RW",
+    "code": "250",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Liquid Telecom",
+      "operator": "Liquid Telecom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA"
+    }
+  ]
+}

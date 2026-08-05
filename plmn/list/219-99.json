@@ -1,0 +1,19 @@
+{
+  "mcc": "219",
+  "mnc": "99",
+  "country": {
+    "name": "Croatia",
+    "iso": "HR",
+    "code": "385",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Markoja d.o.o.",
+      "operator": "Markoja d.o.o.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "mcc": "655",
+  "mnc": "10",
+  "country": {
+    "name": "South Africa",
+    "iso": "ZA",
+    "code": "27",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "MTN",
+      "operator": "MTN Group",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / 5G 700 / 5G 1800 / 5G 2100 / 5G 3500 / 5G 28000",
+      "icon": "mtn",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Melon Mobile",
+          "names": [
+            "melon mobile",
+            "mtn sa",
+            "airmobile",
+            "megsapp"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "MTN-SA",
+            "VAL_eSIM_AIRM_p",
+            "Air Mobile",
+            "VAL_eSIM_p"
+          ]
+        }
+      ]
+    }
+  ]
+}

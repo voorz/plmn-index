@@ -1,0 +1,19 @@
+{
+  "mcc": "219",
+  "mnc": "55",
+  "country": {
+    "name": "Croatia",
+    "iso": "HR",
+    "code": "385",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "DIGICOM d.o.o.",
+      "operator": "DIGICOM d.o.o.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "5G 3500"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "440",
+  "mnc": "08",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "KDDI",
+      "operator": "Panasonic Connect Co., Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

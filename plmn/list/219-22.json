@@ -1,0 +1,19 @@
+{
+  "mcc": "219",
+  "mnc": "22",
+  "country": {
+    "name": "Croatia",
+    "iso": "HR",
+    "code": "385",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Mobile One",
+      "operator": "Mobile One Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

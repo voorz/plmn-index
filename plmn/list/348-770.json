@@ -1,0 +1,18 @@
+{
+  "mcc": "348",
+  "mnc": "770",
+  "country": {
+    "name": "British Virgin Islands (United Kingdom)",
+    "iso": "VG",
+    "code": "284"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel (BVI) Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / GSM 1900 / UMTS 1900 / LTE 700 / LTE 1700"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "219",
+  "mnc": "15",
+  "country": {
+    "name": "Croatia",
+    "iso": "HR",
+    "code": "385",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "BSG Estonia OÜ",
+      "operator": "BSG Estonia OÜ",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

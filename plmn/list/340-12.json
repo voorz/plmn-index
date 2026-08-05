@@ -1,0 +1,18 @@
+{
+  "mcc": "340",
+  "mnc": "12",
+  "country": {
+    "name": "French Antilles (France)",
+    "iso": "BL/GF/GP/MF/MQ",
+    "code": "596"
+  },
+  "operators": [
+    {
+      "brand": "UTS Caraibe",
+      "operator": "Martinique Téléphone Mobile",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

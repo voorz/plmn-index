@@ -1,0 +1,18 @@
+{
+  "mcc": "376",
+  "mnc": "350",
+  "country": {
+    "name": "Turks and Caicos Islands",
+    "iso": "TC",
+    "code": "1340"
+  },
+  "operators": [
+    {
+      "brand": "FLOW",
+      "operator": "Cable & Wireless West Indies Ltd (Turks & Caicos)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / LTE 700"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "71",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "KOOHE NOOR",
+      "operator": "ERTEBATAT KOOHE NOOR",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

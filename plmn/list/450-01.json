@@ -1,0 +1,19 @@
+{
+  "mcc": "450",
+  "mnc": "01",
+  "country": {
+    "name": "South Korea",
+    "iso": "KR",
+    "code": "82",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Globalstar Asia Pacific",
+      "operator": "Globalstar Asia Pacific",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Satellite"
+    }
+  ]
+}

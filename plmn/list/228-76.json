@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "76",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "1GLOBAL Operations (Switzerland) GmbH",
+      "operator": "1GLOBAL Operations (Switzerland) GmbH",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

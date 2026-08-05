@@ -1,0 +1,18 @@
+{
+  "mcc": "603",
+  "mnc": "21",
+  "country": {
+    "name": "Algeria",
+    "iso": "DZ",
+    "code": "213"
+  },
+  "operators": [
+    {
+      "brand": "ANESRIF",
+      "operator": "Anesrif",
+      "status": "Ongoing",
+      "type": "National",
+      "bands": "GSM-R"
+    }
+  ]
+}

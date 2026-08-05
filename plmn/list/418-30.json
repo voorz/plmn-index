@@ -1,0 +1,19 @@
+{
+  "mcc": "418",
+  "mnc": "30",
+  "country": {
+    "name": "Iraq",
+    "iso": "IQ",
+    "code": "964",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Zain",
+      "operator": "Zain Iraq",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100"
+    }
+  ]
+}

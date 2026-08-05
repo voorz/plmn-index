@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "76",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Polkomtel Sp. z o.o.",
+      "operator": "Polkomtel Sp. z o.o.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "238",
+  "mnc": "01",
+  "country": {
+    "name": "Denmark (Kingdom of Denmark)",
+    "iso": "DK",
+    "code": "45",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "TDC",
+      "operator": "TDC A/S",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 800 / LTE 1800 / LTE 2600 / 5G 700 / 5G 3500"
+    }
+  ]
+}

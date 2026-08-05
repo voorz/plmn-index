@@ -1,0 +1,19 @@
+{
+  "mcc": "250",
+  "mnc": "10",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "DTC",
+      "operator": "Dontelekom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

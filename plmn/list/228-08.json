@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "08",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Tele4u",
+      "operator": "Sunrise Communications AG",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

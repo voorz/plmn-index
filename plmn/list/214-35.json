@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "35",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "SUMA movil",
+      "operator": "INGENIUM OUTSOURCING SERVICES, S.L.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "mcc": "334",
+  "mnc": "130",
+  "country": {
+    "name": "Mexico",
+    "iso": "MX",
+    "code": "52",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "ALESTRA SERVICIOS MÓVILES, S.A. DE C.V.",
+      "operator": "ALESTRA SERVICIOS MÓVILES, S.A. DE C.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown",
+      "icon": "axtel",
+      "icon_scope": "334",
+      "subs": [
+        {
+          "brand": "Tokamovil",
+          "names": [
+            "tokamovil"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "AL.04"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Axtel",
+      "operator": "Axtel, S.A.B. de C.V.",
+      "status": "",
+      "type": "",
+      "icon": "axtel",
+      "icon_scope": "334",
+      "subs": [
+        {
+          "brand": "Tokamovil",
+          "names": [
+            "tokamovil"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "AL.04"
+          ]
+        }
+      ]
+    }
+  ]
+}

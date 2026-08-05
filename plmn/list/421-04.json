@@ -1,0 +1,18 @@
+{
+  "mcc": "421",
+  "mnc": "04",
+  "country": {
+    "name": "Yemen",
+    "iso": "YE",
+    "code": "967"
+  },
+  "operators": [
+    {
+      "brand": "Y",
+      "operator": "HiTS-UNITEL",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

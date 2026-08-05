@@ -1,0 +1,18 @@
+{
+  "mcc": "616",
+  "mnc": "01",
+  "country": {
+    "name": "Benin",
+    "iso": "BJ",
+    "code": "229"
+  },
+  "operators": [
+    {
+      "brand": "Libercom",
+      "operator": "Benin Telecoms Mobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800 / CDMA / WiMAX"
+    }
+  ]
+}

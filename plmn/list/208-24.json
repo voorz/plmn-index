@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "24",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Sierra Wireless",
+      "operator": "Sierra Wireless France",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

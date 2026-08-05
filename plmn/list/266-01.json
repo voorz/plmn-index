@@ -1,0 +1,34 @@
+{
+  "mcc": "266",
+  "mnc": "01",
+  "country": {
+    "name": "Gibraltar (United Kingdom)",
+    "iso": "GI",
+    "code": "350",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "GibTel",
+      "operator": "Gibtelecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600",
+      "icon": "gibtel",
+      "icon_scope": "266",
+      "subs": [
+        {
+          "brand": "GIBTEL",
+          "names": [
+            "gibtel"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "GIBTEL"
+          ]
+        }
+      ]
+    }
+  ]
+}

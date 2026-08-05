@@ -1,0 +1,19 @@
+{
+  "mcc": "460",
+  "mnc": "20",
+  "country": {
+    "name": "China",
+    "iso": "CN",
+    "code": "86",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "China Tietong",
+      "operator": "China Tietong",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R"
+    }
+  ]
+}

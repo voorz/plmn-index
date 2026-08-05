@@ -1,0 +1,18 @@
+{
+  "mcc": "540",
+  "mnc": "02",
+  "country": {
+    "name": "Solomon Islands",
+    "iso": "SB",
+    "code": "677"
+  },
+  "operators": [
+    {
+      "brand": "BeMobile",
+      "operator": "BMobile (SI) Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100"
+    }
+  ]
+}

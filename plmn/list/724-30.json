@@ -1,0 +1,19 @@
+{
+  "mcc": "724",
+  "mnc": "30",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Oi",
+      "operator": "TNL PCS Oi",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

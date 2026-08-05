@@ -1,0 +1,19 @@
+{
+  "mcc": "425",
+  "mnc": "28",
+  "country": {
+    "name": "Israel",
+    "iso": "IL",
+    "code": "970",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "PHI Networks",
+      "operator": "PHI Networks",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "LTE 1800 / 5G 2600 / 5G 3500"
+    }
+  ]
+}

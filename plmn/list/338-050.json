@@ -1,0 +1,78 @@
+{
+  "mcc": "338",
+  "mnc": "050",
+  "country": {
+    "name": "Bermuda",
+    "iso": "BM",
+    "code": "1876",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / 5G 3500",
+      "icon": "digicel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "DIGICEL",
+          "names": [
+            "digicel"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "02.05"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Digicel",
+      "operator": "Digicel (Turks & Caicos) Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1900 / LTE 700 / LTE 1700",
+      "icon": "digicel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "DIGICEL",
+          "names": [
+            "digicel"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "02.05"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Digicel Bermuda",
+      "operator": "Digicel Bermuda",
+      "status": "",
+      "type": "",
+      "bands": "GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700",
+      "icon": "digicel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "DIGICEL",
+          "names": [
+            "digicel"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "02.05"
+          ]
+        }
+      ]
+    }
+  ]
+}

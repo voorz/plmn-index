@@ -1,0 +1,19 @@
+{
+  "mcc": "202",
+  "mnc": "11",
+  "country": {
+    "name": "Greece",
+    "iso": "GR",
+    "code": "30",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "interConnect",
+      "operator": "interConnect",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

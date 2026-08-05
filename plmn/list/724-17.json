@@ -1,0 +1,34 @@
+{
+  "mcc": "724",
+  "mnc": "17",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Surf Telecom",
+      "operator": "Correios Celula",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "surf-telecom",
+      "icon_scope": "724",
+      "subs": [
+        {
+          "brand": "Chip Virtual",
+          "names": [
+            "chip virtual"
+          ],
+          "gid1": "ffffffffffffffffff",
+          "gid2": "ffffffffffffffffff",
+          "profile_names": [
+            "Surf"
+          ]
+        }
+      ]
+    }
+  ]
+}

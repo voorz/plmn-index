@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "28",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "LINK Mobility",
+      "operator": "LINK Mobile A/S",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "272",
+  "mnc": "09",
+  "country": {
+    "name": "Ireland",
+    "iso": "IE",
+    "code": "353",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Clever Communications Ltd.",
+      "operator": "Clever Communications Ltd.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

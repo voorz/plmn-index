@@ -1,0 +1,19 @@
+{
+  "mcc": "238",
+  "mnc": "11",
+  "country": {
+    "name": "Denmark (Kingdom of Denmark)",
+    "iso": "DK",
+    "code": "45",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "SINE",
+      "operator": "Dansk Beredskabskommunikation A/S",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TETRA"
+    }
+  ]
+}

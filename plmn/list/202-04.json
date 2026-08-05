@@ -1,0 +1,19 @@
+{
+  "mcc": "202",
+  "mnc": "04",
+  "country": {
+    "name": "Greece",
+    "iso": "GR",
+    "code": "30",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "OSE",
+      "operator": "OSE",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "GSM-R"
+    }
+  ]
+}

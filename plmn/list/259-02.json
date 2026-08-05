@@ -1,0 +1,19 @@
+{
+  "mcc": "259",
+  "mnc": "02",
+  "country": {
+    "name": "Moldova",
+    "iso": "MD",
+    "code": "373",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Moldcell",
+      "operator": "Moldcell",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600 / 5G 2100"
+    }
+  ]
+}

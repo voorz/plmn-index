@@ -1,0 +1,19 @@
+{
+  "mcc": "510",
+  "mnc": "08",
+  "country": {
+    "name": "Indonesia",
+    "iso": "ID",
+    "code": "62",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "AXIS",
+      "operator": "PT Natrindo Telepon Seluler",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 2100"
+    }
+  ]
+}

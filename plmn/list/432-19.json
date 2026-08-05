@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "19",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "Espadan",
+      "operator": "Mobile Telecommunications Company of Esfahan",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

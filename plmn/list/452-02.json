@@ -1,0 +1,67 @@
+{
+  "mcc": "452",
+  "mnc": "02",
+  "country": {
+    "name": "Vietnam",
+    "iso": "VN",
+    "code": "84",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Vinaphone",
+      "operator": "Vietnam Telecom Services Company",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 900 / UMTS 2100 / LTE 900 / 5G 3700",
+      "icon": "vinaphone",
+      "icon_scope": "452",
+      "subs": [
+        {
+          "brand": "VNPT",
+          "names": [
+            "vnpt",
+            "vacay",
+            "bytesim"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "VNPT",
+            "JOYTEL_BLANK_QRCODE_appletV4",
+            "CITIC_45202App",
+            "CITIC_45202",
+            "ESIM"
+          ]
+        },
+        {
+          "brand": "BillionConnect",
+          "names": [
+            "billionconnect",
+            "trip"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "BillionConnect",
+            "Vinaphone",
+            "Dosirak",
+            "AsiaCentralTelecom",
+            "uCloudlink"
+          ]
+        },
+        {
+          "brand": "VINAPHONE",
+          "names": [
+            "vinaphone"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "VNPT eSIM 01"
+          ]
+        }
+      ]
+    }
+  ]
+}

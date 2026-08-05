@@ -1,0 +1,36 @@
+{
+  "mcc": "425",
+  "mnc": "01",
+  "country": {
+    "name": "Israel",
+    "iso": "IL",
+    "code": "970",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Partner",
+      "operator": "Partner Communications Company Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100 / 5G 2600 / 5G 3500",
+      "icon": "partner",
+      "icon_scope": "425",
+      "subs": [
+        {
+          "brand": "Partner",
+          "names": [
+            "partner",
+            "esim"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Esim-National",
+            "S1 Applet 1.9 SAME_EID_MID"
+          ]
+        }
+      ]
+    }
+  ]
+}

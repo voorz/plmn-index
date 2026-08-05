@@ -1,0 +1,19 @@
+{
+  "mcc": "255",
+  "mnc": "10",
+  "country": {
+    "name": "Ukraine",
+    "iso": "UA",
+    "code": "380",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Atlantis Telecom LLC",
+      "operator": "Atlantis Telecom LLC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

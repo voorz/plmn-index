@@ -1,0 +1,18 @@
+{
+  "mcc": "653",
+  "mnc": "10",
+  "country": {
+    "name": "Eswatini",
+    "iso": "SZ",
+    "code": "268"
+  },
+  "operators": [
+    {
+      "brand": "MTN Eswatini",
+      "operator": "MTN Eswatini Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 1800"
+    }
+  ]
+}

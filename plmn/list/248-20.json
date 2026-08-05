@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "20",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "DOTT Telecom OÜ",
+      "operator": "DOTT Telecom OÜ",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

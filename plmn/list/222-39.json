@@ -1,0 +1,19 @@
+{
+  "mcc": "222",
+  "mnc": "39",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "SMS Italia",
+      "operator": "SMS Group",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

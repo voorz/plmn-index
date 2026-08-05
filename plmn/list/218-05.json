@@ -1,0 +1,62 @@
+{
+  "mcc": "218",
+  "mnc": "05",
+  "country": {
+    "name": "Bosnia and Herzegovina",
+    "iso": "BA",
+    "code": "387",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "m:tel",
+      "operator": "RS Telecommunications JSC Banja Luka",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE",
+      "icon": "novotel",
+      "icon_scope": "218",
+      "subs": [
+        {
+          "brand": "Novotel",
+          "names": [
+            "novotel"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Trasna_Novotel_eSIM_Prepaid_v1.1",
+            "Mtel_BiH_eSIM_Prepaid_web_v1.1"
+          ],
+          "icon": "novotel",
+          "icon_scope": "218"
+        }
+      ]
+    },
+    {
+      "brand": "m:tel BiH",
+      "operator": "RS Telecommunications JSC Banja Luka",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100",
+      "icon": "novotel",
+      "icon_scope": "218",
+      "subs": [
+        {
+          "brand": "Novotel",
+          "names": [
+            "novotel"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Trasna_Novotel_eSIM_Prepaid_v1.1",
+            "Mtel_BiH_eSIM_Prepaid_web_v1.1"
+          ],
+          "icon": "novotel",
+          "icon_scope": "218"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "222",
+  "mnc": "37",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Wind Tre",
+      "operator": "Wind Tre S.p.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

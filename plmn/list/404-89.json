@@ -1,0 +1,49 @@
+{
+  "mcc": "404",
+  "mnc": "89",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "code": "91",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Idea",
+      "operator": "Vodafone Idea Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
+      "icon": "vi",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vi",
+          "names": [
+            "vi"
+          ],
+          "gid1": "ff",
+          "gid2": "ff"
+        }
+      ]
+    },
+    {
+      "brand": "IDEA",
+      "operator": "Uttar Pradesh (East)",
+      "status": "",
+      "type": "",
+      "icon": "vi",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vi",
+          "names": [
+            "vi"
+          ],
+          "gid1": "ff",
+          "gid2": "ff"
+        }
+      ]
+    }
+  ]
+}

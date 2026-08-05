@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "07",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Kõu",
+      "operator": "Televõrgu AS",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA2000 450"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "mcc": "259",
+  "mnc": "05",
+  "country": {
+    "name": "Moldova",
+    "iso": "MD",
+    "code": "373",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Moldtelecom",
+      "operator": "Moldtelecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 900 / UMTS 2100 / LTE 1800",
+      "icon": "unit",
+      "icon_scope": "259",
+      "subs": [
+        {
+          "brand": "Moldtelecom",
+          "names": [
+            "moldtelecom"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "MoldTelecom_eSIMCons_4GLTEProfile_MLU00268_Qty_100001",
+            "Moldtelecom_eUICC_v01.13_Order01"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "none",
+          "gid2": "none",
+          "profile_names": [
+            "MoldTelecom_eSIMCons_4GLTEProfile_MLU00268_Qty_100001",
+            "Moldtelecom_eUICC_v01.13_Order01"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Unité",
+      "operator": "Moldtelecom",
+      "status": "",
+      "type": "",
+      "bands": "UMTS 900 / UMTS 2100 / LTE 1800",
+      "icon": "unit",
+      "icon_scope": "259",
+      "subs": [
+        {
+          "brand": "Moldtelecom",
+          "names": [
+            "moldtelecom"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "MoldTelecom_eSIMCons_4GLTEProfile_MLU00268_Qty_100001",
+            "Moldtelecom_eUICC_v01.13_Order01"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "none",
+          "gid2": "none",
+          "profile_names": [
+            "MoldTelecom_eSIMCons_4GLTEProfile_MLU00268_Qty_100001",
+            "Moldtelecom_eUICC_v01.13_Order01"
+          ]
+        }
+      ]
+    }
+  ]
+}

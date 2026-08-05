@@ -1,0 +1,32 @@
+{
+  "mcc": "712",
+  "mnc": "03",
+  "country": {
+    "name": "Costa Rica",
+    "iso": "CR",
+    "code": "506",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Claro",
+      "operator": "Claro CR Telecomunicaciones (Aló)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 2100 / LTE 1800",
+      "icon": "claro",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "claroCENAMcostarica",
+          "names": [
+            "clarocenamcostarica",
+            "claro"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

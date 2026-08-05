@@ -1,0 +1,31 @@
+{
+  "mcc": "734",
+  "mnc": "06",
+  "country": {
+    "name": "Venezuela",
+    "iso": "VE",
+    "code": "58",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Movilnet",
+      "operator": "Telecomunicaciones Movilnet",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / UMTS 1900 / LTE 1700",
+      "icon": "movilnet",
+      "icon_scope": "734",
+      "subs": [
+        {
+          "brand": "eSIM MOVILNET",
+          "names": [
+            "esim movilnet"
+          ],
+          "gid1": "00000000",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "17",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Baltergo OÜ",
+      "operator": "Baltergo OÜ",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

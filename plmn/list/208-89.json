@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "89",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Hub One",
+      "operator": "Hub One",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

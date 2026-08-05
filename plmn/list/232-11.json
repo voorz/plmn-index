@@ -1,0 +1,38 @@
+{
+  "mcc": "232",
+  "mnc": "11",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "bob",
+      "operator": "A1 Telekom Austria",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "bob",
+      "icon_scope": "232",
+      "subs": [
+        {
+          "brand": "bob",
+          "names": [
+            "bob"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "bob_A5823270048656",
+            "bob_A5823270051296",
+            "bob_A5819101176989",
+            "bob_A5823270052617",
+            "bob_A5819101177045"
+          ]
+        }
+      ]
+    }
+  ]
+}

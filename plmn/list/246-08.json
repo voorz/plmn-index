@@ -1,0 +1,19 @@
+{
+  "mcc": "246",
+  "mnc": "08",
+  "country": {
+    "name": "Lithuania",
+    "iso": "LT",
+    "code": "370",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MEZON",
+      "operator": "UAB Bitė Lietuva",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "WiMAX 3500 / TD-LTE 2300 / 5G 2300"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "66",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Utility Connect B.V.",
+      "operator": "Utility Connect B.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA 450"
+    }
+  ]
+}

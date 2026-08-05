@@ -1,0 +1,56 @@
+{
+  "mcc": "283",
+  "mnc": "05",
+  "country": {
+    "name": "Armenia",
+    "iso": "AM",
+    "code": "374",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Viva Armenia",
+      "operator": "K Telecom CJSC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600 / 5G 800",
+      "icon": "vivacell-mts",
+      "icon_scope": "283",
+      "subs": [
+        {
+          "brand": "Viva",
+          "names": [
+            "viva"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Viva-Reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "VivaCell-MTS",
+      "operator": "K Telecom CJSC",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600",
+      "icon": "vivacell-mts",
+      "icon_scope": "283",
+      "subs": [
+        {
+          "brand": "Viva",
+          "names": [
+            "viva"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Viva-Reuse"
+          ]
+        }
+      ]
+    }
+  ]
+}

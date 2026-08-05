@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "21",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Queensland Rail",
+      "operator": "Queensland Rail",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "GSM-R 1800"
+    }
+  ]
+}

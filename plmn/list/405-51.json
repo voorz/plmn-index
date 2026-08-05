@@ -1,0 +1,50 @@
+{
+  "mcc": "405",
+  "mnc": "51",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "code": "91",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "AirTel (West Bengal)",
+      "operator": "Bharti Airtel Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300",
+      "icon": "airtel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "airtel",
+          "names": [
+            "airtel"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff"
+        }
+      ]
+    },
+    {
+      "brand": "AirTel",
+      "operator": "West Bengal",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900",
+      "icon": "airtel",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "airtel",
+          "names": [
+            "airtel"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff"
+        }
+      ]
+    }
+  ]
+}

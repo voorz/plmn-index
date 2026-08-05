@@ -1,0 +1,19 @@
+{
+  "mcc": "338",
+  "mnc": "020",
+  "country": {
+    "name": "Jamaica",
+    "iso": "JM",
+    "code": "1876",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "FLOW",
+      "operator": "LIME (Cable & Wireless)",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

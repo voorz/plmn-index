@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "760",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Public Mobile",
+      "operator": "Telus Mobility",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

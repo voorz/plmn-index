@@ -1,0 +1,19 @@
+{
+  "mcc": "647",
+  "mnc": "10",
+  "country": {
+    "name": "French Departments and Territories in the Indian Ocean (France)",
+    "iso": "YT/RE",
+    "code": "262",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "SFR Réunion",
+      "operator": "Société Réunionnaise du Radiotéléphone",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+    }
+  ]
+}

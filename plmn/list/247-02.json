@@ -1,0 +1,36 @@
+{
+  "mcc": "247",
+  "mnc": "02",
+  "country": {
+    "name": "Latvia",
+    "iso": "LV",
+    "code": "371",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Tele2",
+      "operator": "Tele2",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2600 / 5G 700 / 5G 3500",
+      "icon": "tele2",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Zelta Zivtina",
+          "names": [
+            "zelta zivtina"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "T2_LV_Pre",
+            "T2_LV_Ico",
+            "T2_LV_Pos"
+          ]
+        }
+      ]
+    }
+  ]
+}

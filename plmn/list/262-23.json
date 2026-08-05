@@ -1,0 +1,82 @@
+{
+  "mcc": "262",
+  "mnc": "23",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "1&1",
+      "operator": "Drillisch Online AG",
+      "status": "Operational",
+      "type": "National",
+      "bands": "5G 3500 / MVNO",
+      "icon": "gmx",
+      "icon_scope": "262",
+      "subs": [
+        {
+          "brand": "GMX FreePhone",
+          "names": [
+            "gmx freephone",
+            "1&1",
+            "willkommen",
+            "sim24",
+            "winsim",
+            "premiumsim",
+            "web.de esim",
+            "yourfone",
+            "maxxim",
+            "smartmobil.de",
+            "handyvertrag.de",
+            "blacksim",
+            "simplytel"
+          ],
+          "gid1": "ffffffffffffffffffffffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffffffffffffffffffffffff",
+          "profile_names": [
+            "1&1",
+            "Drillisch sim.de"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "GMX",
+      "operator": "Drillisch Online AG",
+      "status": "",
+      "type": "",
+      "bands": "MVNO",
+      "icon": "gmx",
+      "icon_scope": "262",
+      "subs": [
+        {
+          "brand": "GMX FreePhone",
+          "names": [
+            "gmx freephone",
+            "1&1",
+            "willkommen",
+            "sim24",
+            "winsim",
+            "premiumsim",
+            "web.de esim",
+            "yourfone",
+            "maxxim",
+            "smartmobil.de",
+            "handyvertrag.de",
+            "blacksim",
+            "simplytel"
+          ],
+          "gid1": "ffffffffffffffffffffffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffffffffffffffffffffffff",
+          "profile_names": [
+            "1&1",
+            "Drillisch sim.de"
+          ]
+        }
+      ]
+    }
+  ]
+}

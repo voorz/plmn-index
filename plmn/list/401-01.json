@@ -1,0 +1,36 @@
+{
+  "mcc": "401",
+  "mnc": "01",
+  "country": {
+    "name": "Kazakhstan",
+    "iso": "KZ",
+    "code": "7",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Beeline",
+      "operator": "KaR-Tel LLP",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100",
+      "icon": "beeline",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim",
+            "izi"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "eSIM",
+            "IZI_eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

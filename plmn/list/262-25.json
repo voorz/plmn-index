@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "25",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MTEL",
+      "operator": "MTEL Deutschland GmbH",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

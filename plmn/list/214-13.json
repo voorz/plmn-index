@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "13",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "FOOTBALLERISTA MOBILE SPAIN, S.A.",
+      "operator": "FOOTBALLERISTA MOBILE SPAIN, S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

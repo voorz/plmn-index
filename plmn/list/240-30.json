@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "30",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "NextGen Mobile Ltd (CardBoardFish)",
+      "operator": "Teracom AB",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

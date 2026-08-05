@@ -1,0 +1,19 @@
+{
+  "mcc": "284",
+  "mnc": "07",
+  "country": {
+    "name": "Bulgaria",
+    "iso": "BG",
+    "code": "359",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "НКЖИ",
+      "operator": "НАЦИОНАЛНА КОМПАНИЯ ЖЕЛЕЗОПЪТНА ИНФРАСТРУКТУРА",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R"
+    }
+  ]
+}

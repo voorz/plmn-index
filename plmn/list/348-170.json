@@ -1,0 +1,18 @@
+{
+  "mcc": "348",
+  "mnc": "170",
+  "country": {
+    "name": "British Virgin Islands (United Kingdom)",
+    "iso": "VG",
+    "code": "284"
+  },
+  "operators": [
+    {
+      "brand": "FLOW",
+      "operator": "Cable & Wireless",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / LTE 700 / LTE 1900"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "414",
+  "mnc": "23",
+  "country": {
+    "name": "Myanmar",
+    "iso": "MM",
+    "code": "95",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Global Technology Co., Ltd",
+      "operator": "Global Technology Co., Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

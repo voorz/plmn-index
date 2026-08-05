@@ -1,0 +1,36 @@
+{
+  "mcc": "515",
+  "mnc": "02",
+  "country": {
+    "name": "Philippines",
+    "iso": "PH",
+    "code": "63",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Globe",
+      "operator": "Globe Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 700 / LTE 1800 / TD-LTE 2300 / TD-LTE 2500 / 5G 3500",
+      "icon": "globe",
+      "icon_scope": "515",
+      "subs": [
+        {
+          "brand": "GLOBE",
+          "names": [
+            "globe",
+            "globe philippines",
+            "gomo"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Globe Philippines ODC"
+          ]
+        }
+      ]
+    }
+  ]
+}

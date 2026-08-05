@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "03",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "Parsian Hamrah Lotus",
+      "operator": "Parsian Hamrah Lotus",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

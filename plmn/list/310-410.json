@@ -1,0 +1,42 @@
+{
+  "mcc": "310",
+  "mnc": "410",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "AT&T",
+      "operator": "AT&T Mobility",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 850 / LTE 1700 / LTE 1900 / LTE 2300 / 5G 850 / 5G 3700 / 5G 39000",
+      "icon": "at-and-t",
+      "icon_scope": "310",
+      "subs": [
+        {
+          "brand": "Consumer Cellular",
+          "names": [
+            "consumer cellular"
+          ],
+          "gid1": "2ac9",
+          "gid2": "ffff"
+        },
+        {
+          "brand": "AT&T",
+          "names": [
+            "at&t"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "AT&T"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "232",
+  "mnc": "27",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Tismi",
+      "operator": "TISMI B.V.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

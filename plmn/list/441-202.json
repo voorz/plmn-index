@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "202",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "Sony Wireless Communications Inc.",
+      "operator": "Sony Wireless Communications Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

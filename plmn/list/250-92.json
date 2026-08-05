@@ -1,0 +1,19 @@
+{
+  "mcc": "250",
+  "mnc": "92",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Printelefone",
+      "operator": "Primtelefon",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

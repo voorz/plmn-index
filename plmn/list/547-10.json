@@ -1,0 +1,19 @@
+{
+  "mcc": "547",
+  "mnc": "10",
+  "country": {
+    "name": "French Polynesia (France)",
+    "iso": "PF",
+    "code": "689",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Mara Telecom",
+      "operator": "Mara Telecom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

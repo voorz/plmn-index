@@ -1,0 +1,18 @@
+{
+  "mcc": "372",
+  "mnc": "03",
+  "country": {
+    "name": "Haiti",
+    "iso": "HT",
+    "code": "509"
+  },
+  "operators": [
+    {
+      "brand": "Natcom",
+      "operator": "NATCOM S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UTMS 2100 / LTE 800"
+    }
+  ]
+}

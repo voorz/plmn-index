@@ -1,0 +1,52 @@
+{
+  "mcc": "460",
+  "mnc": "01",
+  "country": {
+    "name": "China",
+    "iso": "CN",
+    "code": "86",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "China Unicom",
+      "operator": "China Unicom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 900 / LTE 1800 / LTE 2100 /TD-LTE 2300 / TD-LTE 2500 /5G 700 / 5G 2100 / 5G 3500",
+      "icon": "china-unicom",
+      "icon_scope": "460",
+      "subs": [
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim",
+            "中国联通"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "NekoMobile",
+            "89860117838016800801",
+            "89860123801147041564",
+            "GJC Test 01"
+          ]
+        },
+        {
+          "brand": "CHINAUNICOM",
+          "names": [
+            "chinaunicom"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "89860120331580010473.der",
+            "89860124817000436617",
+            "89860121003600007131.der",
+            "89860124818000328697"
+          ]
+        }
+      ]
+    }
+  ]
+}

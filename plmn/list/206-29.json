@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "29",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "TISMI",
+      "operator": "TISMI",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

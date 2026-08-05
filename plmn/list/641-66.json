@@ -1,0 +1,19 @@
+{
+  "mcc": "641",
+  "mnc": "66",
+  "country": {
+    "name": "Uganda",
+    "iso": "UG",
+    "code": "256",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "i-Tel",
+      "operator": "i-Tel Ltd",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

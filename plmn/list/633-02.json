@@ -1,0 +1,19 @@
+{
+  "mcc": "633",
+  "mnc": "02",
+  "country": {
+    "name": "Seychelles",
+    "iso": "SC",
+    "code": "248",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Mediatech",
+      "operator": "Mediatech International",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "250",
+  "mnc": "14",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MegaFon",
+      "operator": "MegaFon OJSC",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / TD-LTE 2600"
+    }
+  ]
+}

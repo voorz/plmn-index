@@ -1,0 +1,18 @@
+{
+  "mcc": "346",
+  "mnc": "007",
+  "country": {
+    "name": "Cayman Islands (United Kingdom)",
+    "iso": "KY",
+    "code": "1345"
+  },
+  "operators": [
+    {
+      "brand": "Paradise Mobile Limited",
+      "operator": "Paradise Mobile Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "5G"
+    }
+  ]
+}

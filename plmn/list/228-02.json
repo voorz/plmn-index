@@ -1,0 +1,53 @@
+{
+  "mcc": "228",
+  "mnc": "02",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Sunrise",
+      "operator": "Sunrise UPC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500",
+      "icon": "sunrise",
+      "icon_scope": "228",
+      "subs": [
+        {
+          "brand": "yallo eSIM",
+          "names": [
+            "yallo esim",
+            "sunrise",
+            "lebara esim",
+            "dr esim",
+            "talktalk esim",
+            "swype esim",
+            "aldi",
+            "galaxus"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "yallo Prepaid eSIM",
+            "Lebara Prepaid eSIM",
+            "Sunrise eSIM 5G",
+            "Sunrise eSIM",
+            "yallo Postpaid eSIM",
+            "ALDI",
+            "DR eSIM",
+            "TalkTalk Postpaid eSIM",
+            "GMVNE eSIM",
+            "Swype eSIM",
+            "Galaxus",
+            "TalkTalk Prepaid eSIM",
+            "Lebara Postpaid eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

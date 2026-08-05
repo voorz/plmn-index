@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "59",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Bird B.V.",
+      "operator": "Bird B.V.",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "72",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Ericsson GmbH",
+      "operator": "Ericsson GmbH",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

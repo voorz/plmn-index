@@ -1,0 +1,34 @@
+{
+  "mcc": "748",
+  "mnc": "01",
+  "country": {
+    "name": "Uruguay",
+    "iso": "UY",
+    "code": "598",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Antel",
+      "operator": "Administración Nacional de Telecomunicaciones",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 850 / UMTS 2100 / LTE 700 / LTE 1700 / 5G 3500 / 5G 28000",
+      "icon": "antel",
+      "icon_scope": "748",
+      "subs": [
+        {
+          "brand": "AntelUruguay",
+          "names": [
+            "anteluruguay"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "CE HERCULES PROD (NO PHYSICAL)"
+          ]
+        }
+      ]
+    }
+  ]
+}

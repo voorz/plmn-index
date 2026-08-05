@@ -1,0 +1,18 @@
+{
+  "mcc": "616",
+  "mnc": "02",
+  "country": {
+    "name": "Benin",
+    "iso": "BJ",
+    "code": "229"
+  },
+  "operators": [
+    {
+      "brand": "Moov",
+      "operator": "Telecel Benin",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100"
+    }
+  ]
+}

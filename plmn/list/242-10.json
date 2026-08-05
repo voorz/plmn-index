@@ -1,0 +1,19 @@
+{
+  "mcc": "242",
+  "mnc": "10",
+  "country": {
+    "name": "Norway",
+    "iso": "NO",
+    "code": "47",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Nkom",
+      "operator": "Nasjonal kommunikasjonsmyndighet",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

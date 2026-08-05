@@ -1,0 +1,18 @@
+{
+  "mcc": "514",
+  "mnc": "03",
+  "country": {
+    "name": "East Timor",
+    "iso": "TL",
+    "code": "670"
+  },
+  "operators": [
+    {
+      "brand": "Telemor",
+      "operator": "Viettel Timor-Leste",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS / LTE 1800"
+    }
+  ]
+}

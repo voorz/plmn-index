@@ -1,0 +1,19 @@
+{
+  "mcc": "607",
+  "mnc": "02",
+  "country": {
+    "name": "Gambia",
+    "iso": "GM",
+    "code": "220",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Africell",
+      "operator": "Africell",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

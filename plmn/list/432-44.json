@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "44",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "Mobinnet",
+      "operator": "Ertebatat Mobinnet",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 3500"
+    }
+  ]
+}

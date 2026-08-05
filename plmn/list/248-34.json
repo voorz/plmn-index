@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "34",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Nettora Systems OÜ",
+      "operator": "Nettora Systems OÜ",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

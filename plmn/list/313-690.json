@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "690",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Shenandoah Cable Television, LLC",
+      "operator": "Shenandoah Cable Television, LLC",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

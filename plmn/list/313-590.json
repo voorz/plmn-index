@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "590",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Southern LINC",
+      "operator": "Southern Communications Services, Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

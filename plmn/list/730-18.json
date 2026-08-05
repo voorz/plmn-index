@@ -1,0 +1,19 @@
+{
+  "mcc": "730",
+  "mnc": "18",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Empresas Bunker S.A.",
+      "operator": "Empresas Bunker S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

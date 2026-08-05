@@ -1,0 +1,34 @@
+{
+  "mcc": "732",
+  "mnc": "101",
+  "country": {
+    "name": "Colombia",
+    "iso": "CO",
+    "code": "57",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Claro",
+      "operator": "Comunicacion Celular S.A. (Comcel)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / UMTS 1900 / LTE 1700 / LTE 2600 / 5G 3500",
+      "icon": "claro",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Claro Colombia",
+          "names": [
+            "claro colombia"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Claro Colombia Hercules"
+          ]
+        }
+      ]
+    }
+  ]
+}

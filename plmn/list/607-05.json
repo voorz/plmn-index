@@ -1,0 +1,19 @@
+{
+  "mcc": "607",
+  "mnc": "05",
+  "country": {
+    "name": "Gambia",
+    "iso": "GM",
+    "code": "220",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Gamtel-Ecowan",
+      "operator": "Gamtel-Ecowan",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "WiMAX / LTE"
+    }
+  ]
+}

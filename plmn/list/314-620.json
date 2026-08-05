@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "620",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Memphis Light, Gas and Water",
+      "operator": "Memphis Light, Gas and Water",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

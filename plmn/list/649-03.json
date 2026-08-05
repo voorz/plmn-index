@@ -1,0 +1,18 @@
+{
+  "mcc": "649",
+  "mnc": "03",
+  "country": {
+    "name": "Namibia",
+    "iso": "NA",
+    "code": "264"
+  },
+  "operators": [
+    {
+      "brand": "TN Mobile",
+      "operator": "Telecom Namibia",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / TD-LTE 2600"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "282",
+  "mnc": "08",
+  "country": {
+    "name": "Georgia",
+    "iso": "GE",
+    "code": "995",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Silk LTE",
+      "operator": "Silknet",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 2300"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "246",
+  "mnc": "05",
+  "country": {
+    "name": "Lithuania",
+    "iso": "LT",
+    "code": "370",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "LTG Infra",
+      "operator": "Lietuvos geležinkeliai (Lithuanian Railways)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R 900"
+    }
+  ]
+}

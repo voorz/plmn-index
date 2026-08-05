@@ -1,0 +1,18 @@
+{
+  "mcc": "708",
+  "mnc": "001",
+  "country": {
+    "name": "Honduras",
+    "iso": "HN",
+    "code": "504"
+  },
+  "operators": [
+    {
+      "brand": "Claro",
+      "operator": "Servicios de Comunicaciones de Honduras S.A. de C.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 1900 / LTE 1700"
+    }
+  ]
+}

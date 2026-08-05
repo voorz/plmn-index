@@ -1,0 +1,19 @@
+{
+  "mcc": "732",
+  "mnc": "142",
+  "country": {
+    "name": "Colombia",
+    "iso": "CO",
+    "code": "57",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "UNE",
+      "operator": "Une EPM Telecomunicaciones S.A. E.S.P.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

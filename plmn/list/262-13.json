@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "13",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "BAAINBw",
+      "operator": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

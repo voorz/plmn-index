@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "550",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Mile High Networks LLC",
+      "operator": "Mile High Networks LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "76",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "A1 Telekom Austria AG",
+      "operator": "A1 Telekom Austria AG",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

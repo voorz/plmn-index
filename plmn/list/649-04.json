@@ -1,0 +1,18 @@
+{
+  "mcc": "649",
+  "mnc": "04",
+  "country": {
+    "name": "Namibia",
+    "iso": "NA",
+    "code": "264"
+  },
+  "operators": [
+    {
+      "brand": "Paratus Telecommunications (Pty)",
+      "operator": "Paratus Telecommunications (Pty)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "WiMAX 2500 / TD-LTE"
+    }
+  ]
+}

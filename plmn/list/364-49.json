@@ -1,0 +1,19 @@
+{
+  "mcc": "364",
+  "mnc": "49",
+  "country": {
+    "name": "Bahamas",
+    "iso": "BS",
+    "code": "1242",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Aliv",
+      "operator": "Cable Bahamas Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / LTE 700 / LTE 1700"
+    }
+  ]
+}

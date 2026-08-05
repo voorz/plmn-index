@@ -1,0 +1,18 @@
+{
+  "mcc": "537",
+  "mnc": "02",
+  "country": {
+    "name": "Papua New Guinea",
+    "iso": "PG",
+    "code": "675"
+  },
+  "operators": [
+    {
+      "brand": "citifon",
+      "operator": "Telikom PNG Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA2000 450 / LTE 700"
+    }
+  ]
+}

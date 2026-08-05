@@ -1,0 +1,34 @@
+{
+  "mcc": "400",
+  "mnc": "02",
+  "country": {
+    "name": "Azerbaijan",
+    "iso": "AZ",
+    "code": "994",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Bakcell",
+      "operator": "Bakcell LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800",
+      "icon": "bakcell",
+      "icon_scope": "400",
+      "subs": [
+        {
+          "brand": "Bakcell",
+          "names": [
+            "bakcell"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Bakcell_Azerbaijan_v01.01.01"
+          ]
+        }
+      ]
+    }
+  ]
+}

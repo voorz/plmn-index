@@ -1,0 +1,129 @@
+{
+  "mcc": "206",
+  "mnc": "01",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Proximus",
+      "operator": "Proximus SA",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2600 / 5G 2100 / 5G 3500",
+      "icon": "proximus",
+      "icon_scope": "206",
+      "subs": [
+        {
+          "brand": "Carrier",
+          "names": [
+            "carrier",
+            "roamic",
+            "redtea mobile",
+            "travel",
+            "eiotclub",
+            "slick",
+            "redteago",
+            "avoapp",
+            "talk2all",
+            "vacay"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "DXY-BICS",
+            "Slick",
+            "ESIM_ACCESS_CARRIER",
+            "EIOTCLUB",
+            "Klook_app",
+            "Roamic_APP",
+            "SmartTraveller",
+            "Telcovillage-XAAX-206-01",
+            "RedteaGO"
+          ]
+        },
+        {
+          "brand": "Proximus",
+          "names": [
+            "proximus"
+          ],
+          "gid1": "0409",
+          "gid2": "0409",
+          "profile_names": [
+            "P_Proximus_1.0"
+          ]
+        },
+        {
+          "brand": "eSIM Go",
+          "names": [
+            "esim go",
+            "acmesim",
+            "pocket esim",
+            "nextsim eu",
+            "esimatic"
+          ],
+          "gid1": "0409",
+          "gid2": "ffff",
+          "profile_names": [
+            "eSIM Go"
+          ]
+        },
+        {
+          "brand": "Roamless",
+          "names": [
+            "roamless"
+          ],
+          "gid1": "4d2e3f1a6b7c8d9e",
+          "gid2": "5a6b7c8d9e0f1a2b",
+          "profile_names": [
+            "Roamless",
+            "Roamless_Turkey_DI_v01.02.00"
+          ]
+        },
+        {
+          "brand": "Proximus",
+          "names": [
+            "proximus"
+          ],
+          "gid1": "505258524553ffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Proximus_eSIM_20.01"
+          ]
+        },
+        {
+          "brand": "Mobile Vikings",
+          "names": [
+            "mobile vikings"
+          ],
+          "gid1": "ffffffffff",
+          "gid2": "ffffffffff",
+          "profile_names": [
+            "eSIM MV"
+          ]
+        },
+        {
+          "brand": "Firsty",
+          "names": [
+            "firsty",
+            "bics",
+            "nomad",
+            "orbitmobile"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Firsty",
+            "BICS",
+            "NOMAD",
+            "ORBITMOBILE",
+            "Kite"
+          ]
+        }
+      ]
+    }
+  ]
+}

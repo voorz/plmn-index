@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "10",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Intergo Telecom OÜ",
+      "operator": "Intergo Telecom OÜ",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

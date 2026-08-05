@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "14",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "6GMOBILE BV",
+      "operator": "Venus & Mercury Telecom",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "5G"
+    }
+  ]
+}

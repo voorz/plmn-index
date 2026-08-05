@@ -1,0 +1,19 @@
+{
+  "mcc": "242",
+  "mnc": "20",
+  "country": {
+    "name": "Norway",
+    "iso": "NO",
+    "code": "47",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "BANE NOR",
+      "operator": "Jernbaneverket AS",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R 900"
+    }
+  ]
+}

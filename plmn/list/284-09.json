@@ -1,0 +1,19 @@
+{
+  "mcc": "284",
+  "mnc": "09",
+  "country": {
+    "name": "Bulgaria",
+    "iso": "BG",
+    "code": "359",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "COMPATEL LIMITED",
+      "operator": "COMPATEL LIMITED",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

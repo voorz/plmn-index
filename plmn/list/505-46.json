@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "46",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "AngloGold Ashanti Australia Ltd",
+      "operator": "AngloGold Ashanti Australia Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

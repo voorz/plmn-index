@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "480",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Qiniq",
+      "operator": "SSi Connexions",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / LTE 2600"
+    }
+  ]
+}

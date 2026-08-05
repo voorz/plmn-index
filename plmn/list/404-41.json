@@ -1,0 +1,19 @@
+{
+  "mcc": "404",
+  "mnc": "41",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "code": "91",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Aircel",
+      "operator": "Chennai",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

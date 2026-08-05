@@ -1,0 +1,42 @@
+{
+  "mcc": "525",
+  "mnc": "10",
+  "country": {
+    "name": "Singapore",
+    "iso": "SG",
+    "code": "65",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "SIMBA",
+      "operator": "Simba Telecom Pte Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 900 / TD-LTE 2300 / TD-LTE 2500 / 5G 2100 / 5G 26000 / 5G 28000",
+      "icon": "simba",
+      "icon_scope": "525",
+      "subs": [
+        {
+          "brand": "GOOSE",
+          "names": [
+            "goose"
+          ],
+          "gid1": "00000000",
+          "gid2": "00000000"
+        },
+        {
+          "brand": "SIMBA",
+          "names": [
+            "simba"
+          ],
+          "gid1": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "profile_names": [
+            "Simba_Telecom_Singapore_MI_5G_AP_v01.04.01"
+          ]
+        }
+      ]
+    }
+  ]
+}

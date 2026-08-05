@@ -1,0 +1,19 @@
+{
+  "mcc": "334",
+  "mnc": "230",
+  "country": {
+    "name": "Mexico",
+    "iso": "MX",
+    "code": "52",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "VINOC, S.A.P.I. de C.V.",
+      "operator": "VINOC, S.A.P.I. de C.V.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "238",
+  "mnc": "40",
+  "country": {
+    "name": "Denmark (Kingdom of Denmark)",
+    "iso": "DK",
+    "code": "45",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Ericsson Danmark A/S",
+      "operator": "Ericsson Danmark A/S",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

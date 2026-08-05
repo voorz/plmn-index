@@ -1,0 +1,19 @@
+{
+  "mcc": "246",
+  "mnc": "04",
+  "country": {
+    "name": "Lithuania",
+    "iso": "LT",
+    "code": "370",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Informatikos ir ryšių departamentas prie LR vidaus reikalų ministerija (Ministry of the Interior)",
+      "operator": "Informatikos ir ryšių departamentas prie LR vidaus reikalų ministerija (Ministry of the Interior)",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

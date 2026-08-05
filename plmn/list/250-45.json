@@ -1,0 +1,93 @@
+{
+  "mcc": "250",
+  "mnc": "45",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Gazprombank Mobile",
+      "operator": "PJSC New Mobile Communications",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "gpb-mobile",
+      "icon_scope": "250",
+      "subs": [
+        {
+          "brand": "GPB Mobile",
+          "names": [
+            "gpb mobile"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "2044_GPB",
+            "2045_GPB",
+            "1904_GPB",
+            "2009_GPB",
+            "2013_GPB",
+            "1996_GPB",
+            "2024_GPB",
+            "1909_GPB",
+            "2042_GPB",
+            "2146_GPB",
+            "2005_GPB",
+            "1912_GPB",
+            "2014_GPB",
+            "1805_GPB",
+            "2403_GPB",
+            "2154_GPB",
+            "2068_GPB",
+            "2054_GPB",
+            "2142_GPB",
+            "1911_GPB"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "GPB Mobile",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "gpb-mobile",
+      "icon_scope": "250",
+      "subs": [
+        {
+          "brand": "GPB Mobile",
+          "names": [
+            "gpb mobile"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "2044_GPB",
+            "2045_GPB",
+            "1904_GPB",
+            "2009_GPB",
+            "2013_GPB",
+            "1996_GPB",
+            "2024_GPB",
+            "1909_GPB",
+            "2042_GPB",
+            "2146_GPB",
+            "2005_GPB",
+            "1912_GPB",
+            "2014_GPB",
+            "1805_GPB",
+            "2403_GPB",
+            "2154_GPB",
+            "2068_GPB",
+            "2054_GPB",
+            "2142_GPB",
+            "1911_GPB"
+          ]
+        }
+      ]
+    }
+  ]
+}

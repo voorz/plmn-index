@@ -1,0 +1,19 @@
+{
+  "mcc": "242",
+  "mnc": "24",
+  "country": {
+    "name": "Norway",
+    "iso": "NO",
+    "code": "47",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Mobile Norway AS",
+      "operator": "Mobile Norway AS",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

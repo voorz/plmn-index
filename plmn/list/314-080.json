@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "080",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Texas A&M University",
+      "operator": "Texas A&M University",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

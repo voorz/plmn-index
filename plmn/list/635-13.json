@@ -1,0 +1,19 @@
+{
+  "mcc": "635",
+  "mnc": "13",
+  "country": {
+    "name": "Rwanda",
+    "iso": "RW",
+    "code": "250",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Airtel",
+      "operator": "Airtel RWANDA",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "282",
+  "mnc": "18",
+  "country": {
+    "name": "Georgia",
+    "iso": "GE",
+    "code": "995",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Lagi Ltd.",
+      "operator": "Lagi Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

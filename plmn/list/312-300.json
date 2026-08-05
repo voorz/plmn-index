@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "300",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "telna Mobile",
+      "operator": "Telecom North America Mobile, Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

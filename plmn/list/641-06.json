@@ -1,0 +1,19 @@
+{
+  "mcc": "641",
+  "mnc": "06",
+  "country": {
+    "name": "Uganda",
+    "iso": "UG",
+    "code": "256",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Savanna Fibre Limited",
+      "operator": "Savanna Fibre Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

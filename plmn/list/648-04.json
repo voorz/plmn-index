@@ -1,0 +1,34 @@
+{
+  "mcc": "648",
+  "mnc": "04",
+  "country": {
+    "name": "Zimbabwe",
+    "iso": "ZW",
+    "code": "263",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Econet",
+      "operator": "Econet Wireless",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G",
+      "icon": "econet",
+      "icon_scope": "648",
+      "subs": [
+        {
+          "brand": "ECONET",
+          "names": [
+            "econet"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Econet_Zimbabwe_ND_Generic_QR_Code_v01.02.00"
+          ]
+        }
+      ]
+    }
+  ]
+}

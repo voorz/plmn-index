@@ -1,0 +1,19 @@
+{
+  "mcc": "219",
+  "mnc": "30",
+  "country": {
+    "name": "Croatia",
+    "iso": "HR",
+    "code": "385",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "INNOVACOM OÜ",
+      "operator": "INNOVACOM OÜ",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

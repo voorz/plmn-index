@@ -1,0 +1,19 @@
+{
+  "mcc": "255",
+  "mnc": "04",
+  "country": {
+    "name": "Ukraine",
+    "iso": "UA",
+    "code": "380",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Intertelecom",
+      "operator": "International Telecommunications",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

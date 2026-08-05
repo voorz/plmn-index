@@ -1,0 +1,19 @@
+{
+  "mcc": "250",
+  "mnc": "91",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Sonic Duo",
+      "operator": "Sonic Duo CJSC",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

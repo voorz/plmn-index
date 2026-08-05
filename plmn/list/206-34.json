@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "34",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "onoff",
+      "operator": "ONOFFAPP OÜ",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

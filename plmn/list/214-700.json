@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "700",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Iberdrola",
+      "operator": "Iberdrola",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

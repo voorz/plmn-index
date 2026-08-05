@@ -1,0 +1,19 @@
+{
+  "mcc": "274",
+  "mnc": "22",
+  "country": {
+    "name": "Iceland",
+    "iso": "IS",
+    "code": "354",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Landhelgisgæslan (Icelandic Coast Guard)",
+      "operator": "Landhelgisgæslan (Icelandic Coast Guard)",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

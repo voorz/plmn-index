@@ -1,0 +1,19 @@
+{
+  "mcc": "748",
+  "mnc": "03",
+  "country": {
+    "name": "Uruguay",
+    "iso": "UY",
+    "code": "598",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Antel",
+      "operator": "Administración Nacional de Telecomunicaciones",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

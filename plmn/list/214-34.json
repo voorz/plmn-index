@@ -1,0 +1,56 @@
+{
+  "mcc": "214",
+  "mnc": "34",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "ION MOBILE",
+      "operator": "Aire Networks del Mediterráneo, S.L.U.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 2600",
+      "icon": "aire",
+      "icon_scope": "214",
+      "subs": [
+        {
+          "brand": "mobile",
+          "names": [
+            "mobile"
+          ],
+          "gid1": "01",
+          "gid2": "",
+          "profile_names": [
+            "AireNetworksIPP"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Aire",
+      "operator": "Aire Networks del Mediterráneo, S.L.U.",
+      "status": "",
+      "type": "",
+      "bands": "LTE 2600",
+      "icon": "aire",
+      "icon_scope": "214",
+      "subs": [
+        {
+          "brand": "mobile",
+          "names": [
+            "mobile"
+          ],
+          "gid1": "01",
+          "gid2": "",
+          "profile_names": [
+            "AireNetworksIPP"
+          ]
+        }
+      ]
+    }
+  ]
+}

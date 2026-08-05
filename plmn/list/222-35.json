@@ -1,0 +1,47 @@
+{
+  "mcc": "222",
+  "mnc": "35",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Lycamobile",
+      "operator": "Lycamobile S.r.l.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "lycamobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "LYC40268_5K_GEN_ITA_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250912",
+            "LYC37665_10K_GEN_ITA_V1.0_V1.6.0_DI_SMENU_SIMFILES_20230112",
+            "LYC38892_3K_GEN_ITA_V1.0_V1.8.0_DI_SMENU_SIMFILES_20250108"
+          ]
+        },
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "",
+          "profile_names": [
+            "LycaMobile"
+          ]
+        }
+      ]
+    }
+  ]
+}

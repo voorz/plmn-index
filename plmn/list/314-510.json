@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "510",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "SI Wireless LLC",
+      "operator": "SI Wireless LLC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

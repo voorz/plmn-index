@@ -1,0 +1,19 @@
+{
+  "mcc": "362",
+  "mnc": "76",
+  "country": {
+    "name": "Former Netherlands Antilles (Kingdom of the Netherlands)",
+    "iso": "BQ/CW/SX",
+    "code": "599",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Antiliano Por N.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

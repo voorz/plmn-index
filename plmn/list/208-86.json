@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "86",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "SEM@FOR77",
+      "operator": "SEM@FOR77",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

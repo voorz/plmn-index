@@ -1,0 +1,34 @@
+{
+  "mcc": "302",
+  "mnc": "490",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Freedom Mobile",
+      "operator": "Quebecor",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 1700 / LTE 700 / LTE 1700 / LTE 2600 / 5G 600 / 5G 1700",
+      "icon": "freedom-mobile",
+      "icon_scope": "302",
+      "subs": [
+        {
+          "brand": "Freedom",
+          "names": [
+            "freedom"
+          ],
+          "gid1": "ffffff0000ffffffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "Freedom"
+          ]
+        }
+      ]
+    }
+  ]
+}

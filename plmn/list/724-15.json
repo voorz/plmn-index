@@ -1,0 +1,19 @@
+{
+  "mcc": "724",
+  "mnc": "15",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Sercomtel",
+      "operator": "Sercomtel Celular",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 850"
+    }
+  ]
+}

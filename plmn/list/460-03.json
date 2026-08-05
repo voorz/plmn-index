@@ -1,0 +1,31 @@
+{
+  "mcc": "460",
+  "mnc": "03",
+  "country": {
+    "name": "China",
+    "iso": "CN",
+    "code": "86",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "China Telecom",
+      "operator": "China Telecom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA 800",
+      "icon": "china-telecom",
+      "icon_scope": "460",
+      "subs": [
+        {
+          "brand": "SakiMobi",
+          "names": [
+            "sakimobi"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

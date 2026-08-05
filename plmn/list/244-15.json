@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "15",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telit",
+      "operator": "Telit Wireless Solutions GmbH",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

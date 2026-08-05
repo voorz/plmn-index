@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "870",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "ElektraFi LLC",
+      "operator": "ElektraFi LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "5G 3500"
+    }
+  ]
+}

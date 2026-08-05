@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "218",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "KDDI Corporation",
+      "operator": "KDDI Corporation",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

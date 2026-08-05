@@ -1,0 +1,43 @@
+{
+  "mcc": "425",
+  "mnc": "26",
+  "country": {
+    "name": "Israel",
+    "iso": "IL",
+    "code": "970",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Annatel",
+      "operator": "LB Annatel Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "annatel",
+      "icon_scope": "425",
+      "subs": [
+        {
+          "brand": "Annatel",
+          "names": [
+            "annatel",
+            "easy"
+          ],
+          "gid1": "",
+          "gid2": ""
+        },
+        {
+          "brand": "Annatel",
+          "names": [
+            "annatel"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Annatel_Israel_SI_v01.03.01"
+          ]
+        }
+      ]
+    }
+  ]
+}

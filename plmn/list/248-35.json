@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "35",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Teliqon Communications OÜ",
+      "operator": "Teliqon Communications OÜ",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

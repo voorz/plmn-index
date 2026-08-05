@@ -1,0 +1,46 @@
+{
+  "mcc": "255",
+  "mnc": "03",
+  "country": {
+    "name": "Ukraine",
+    "iso": "UA",
+    "code": "380",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Kyivstar",
+      "operator": "PRJSC \"Kyivstar\"",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / LTE 2600 / 5G 3500",
+      "icon": "kyivstar",
+      "icon_scope": "255",
+      "subs": [
+        {
+          "brand": "KYIVSTAR",
+          "names": [
+            "kyivstar"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "KS_OA_23_01",
+            "Kyivstar"
+          ]
+        },
+        {
+          "brand": "Kyivstar",
+          "names": [
+            "kyivstar"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "Kyivstar_Ukraine_v01.03.00"
+          ]
+        }
+      ]
+    }
+  ]
+}

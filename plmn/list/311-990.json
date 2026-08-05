@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "990",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "VTel Wireless",
+      "operator": "VTel Wireless",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 1700"
+    }
+  ]
+}

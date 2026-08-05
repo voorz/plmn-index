@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "710",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Losange",
+      "operator": "Losange",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

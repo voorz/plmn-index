@@ -1,0 +1,19 @@
+{
+  "mcc": "250",
+  "mnc": "23",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Thuraya",
+      "operator": "GTNT",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Satellite MVNO"
+    }
+  ]
+}

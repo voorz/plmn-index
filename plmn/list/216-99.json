@@ -1,0 +1,19 @@
+{
+  "mcc": "216",
+  "mnc": "99",
+  "country": {
+    "name": "Hungary",
+    "iso": "HU",
+    "code": "36",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MAV GSM-R",
+      "operator": "MÁV Infrastructure Co. Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R 900"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "255",
+  "mnc": "21",
+  "country": {
+    "name": "Ukraine",
+    "iso": "UA",
+    "code": "380",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "PEOPLEnet",
+      "operator": "PRJSC \"Telesystems of Ukraine\"",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA 800"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "790",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "NetSet",
+      "operator": "Xplore Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "WiMAX / TD-LTE 3500"
+    }
+  ]
+}

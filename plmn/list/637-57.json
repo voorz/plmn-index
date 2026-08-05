@@ -1,0 +1,18 @@
+{
+  "mcc": "637",
+  "mnc": "57",
+  "country": {
+    "name": "Somalia",
+    "iso": "SO",
+    "code": "252"
+  },
+  "operators": [
+    {
+      "brand": "UNITEL",
+      "operator": "UNITEL S.a.r.l.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

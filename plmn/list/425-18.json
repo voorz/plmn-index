@@ -1,0 +1,19 @@
+{
+  "mcc": "425",
+  "mnc": "18",
+  "country": {
+    "name": "Israel",
+    "iso": "IL",
+    "code": "970",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Cellact Communications",
+      "operator": "Cellact Communications Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

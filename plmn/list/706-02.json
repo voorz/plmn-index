@@ -1,0 +1,19 @@
+{
+  "mcc": "706",
+  "mnc": "02",
+  "country": {
+    "name": "El Salvador",
+    "iso": "SV",
+    "code": "503",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel, S.A. de C.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900"
+    }
+  ]
+}

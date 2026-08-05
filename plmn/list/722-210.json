@@ -1,0 +1,19 @@
+{
+  "mcc": "722",
+  "mnc": "210",
+  "country": {
+    "name": "Argentina",
+    "iso": "AR",
+    "code": "54",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "IMOWI",
+      "operator": "Cámara de Cooperativas de Telecomunicaciones (CATEL)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

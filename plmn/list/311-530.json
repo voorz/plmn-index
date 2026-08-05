@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "530",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "WorldCell Solutions LLC",
+      "operator": "WorldCell Solutions LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1900"
+    }
+  ]
+}

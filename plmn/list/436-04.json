@@ -1,0 +1,19 @@
+{
+  "mcc": "436",
+  "mnc": "04",
+  "country": {
+    "name": "Tajikistan",
+    "iso": "TJ",
+    "code": "992",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Babilon-M",
+      "operator": "Babilon-Mobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100"
+    }
+  ]
+}

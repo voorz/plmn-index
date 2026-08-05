@@ -1,0 +1,34 @@
+{
+  "mcc": "231",
+  "mnc": "03",
+  "country": {
+    "name": "Slovakia",
+    "iso": "SK",
+    "code": "421",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "4ka",
+      "operator": "SWAN Mobile, a.s.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800 / TD-LTE 3500 / TD-LTE 3700 / 5G 3500",
+      "icon": "4ka",
+      "icon_scope": "231",
+      "subs": [
+        {
+          "brand": "4KA",
+          "names": [
+            "4ka"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "Swan eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

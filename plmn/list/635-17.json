@@ -1,0 +1,19 @@
+{
+  "mcc": "635",
+  "mnc": "17",
+  "country": {
+    "name": "Rwanda",
+    "iso": "RW",
+    "code": "250",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "KTRN",
+      "operator": "KT Rwanda Networks",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 800 / LTE 1800"
+    }
+  ]
+}

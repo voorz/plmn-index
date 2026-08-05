@@ -1,0 +1,18 @@
+{
+  "mcc": "541",
+  "mnc": "05",
+  "country": {
+    "name": "Vanuatu",
+    "iso": "VU",
+    "code": "678"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel Vanuatu Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / LTE 700"
+    }
+  ]
+}

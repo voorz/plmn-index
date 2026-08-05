@@ -1,0 +1,34 @@
+{
+  "mcc": "417",
+  "mnc": "02",
+  "country": {
+    "name": "Syria",
+    "iso": "SY",
+    "code": "963",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "MTN",
+      "operator": "MTN Syria/TeleInvest",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800",
+      "icon": "mtn",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "MTN",
+          "names": [
+            "mtn"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "MTN_HBSYMT020024_PROFILE_41702"
+          ]
+        }
+      ]
+    }
+  ]
+}

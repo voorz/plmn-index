@@ -1,0 +1,19 @@
+{
+  "mcc": "460",
+  "mnc": "06",
+  "country": {
+    "name": "China",
+    "iso": "CN",
+    "code": "86",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "China Unicom",
+      "operator": "China Unicom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 /UMTS 2100"
+    }
+  ]
+}

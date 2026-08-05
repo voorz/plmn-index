@@ -1,0 +1,19 @@
+{
+  "mcc": "530",
+  "mnc": "00",
+  "country": {
+    "name": "New Zealand",
+    "iso": "NZ",
+    "code": "64",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Spark",
+      "operator": "Spark New Zealand",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "AMPS 800 / TDMA 800"
+    }
+  ]
+}

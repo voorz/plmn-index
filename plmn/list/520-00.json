@@ -1,0 +1,19 @@
+{
+  "mcc": "520",
+  "mnc": "00",
+  "country": {
+    "name": "Thailand",
+    "iso": "TH",
+    "code": "66",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "TrueMove H / my by NT",
+      "operator": "National Telecom Public Company Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 850"
+    }
+  ]
+}

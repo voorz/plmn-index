@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "450",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Spectrum Wireless Holdings, LLC",
+      "operator": "Spectrum Wireless Holdings, LLC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown 3500"
+    }
+  ]
+}

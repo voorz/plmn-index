@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "20",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Enreach",
+      "operator": "Enreach Germany GmbH",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

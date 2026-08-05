@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "730",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "TextNow, Inc.",
+      "operator": "TextNow, Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "542",
+  "mnc": "03",
+  "country": {
+    "name": "Fiji",
+    "iso": "FJ",
+    "code": "679"
+  },
+  "operators": [
+    {
+      "brand": "TFL",
+      "operator": "Telecom Fiji Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA2000 850 / LTE 700"
+    }
+  ]
+}

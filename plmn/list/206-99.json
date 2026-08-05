@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "99",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Lancelot",
+      "operator": "e-BO Enterprises",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "5G"
+    }
+  ]
+}

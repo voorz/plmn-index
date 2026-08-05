@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "60",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Sunrise",
+      "operator": "Sunrise Communications AG",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

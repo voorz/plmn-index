@@ -1,0 +1,31 @@
+{
+  "mcc": "732",
+  "mnc": "187",
+  "country": {
+    "name": "Colombia",
+    "iso": "CO",
+    "code": "57",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "eTb",
+      "operator": "Empresa de Telecomunicaciones de Bogotá S.A. ESP",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1700",
+      "icon": "etb",
+      "icon_scope": "732",
+      "subs": [
+        {
+          "brand": "ETB",
+          "names": [
+            "etb"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

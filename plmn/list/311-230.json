@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "230",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "C Spire",
+      "operator": "Cellular South Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 850 / LTE 1700 / LTE 1900 / TD-LTE 2500"
+    }
+  ]
+}

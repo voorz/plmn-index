@@ -1,0 +1,18 @@
+{
+  "mcc": "628",
+  "mnc": "04",
+  "country": {
+    "name": "Gabon",
+    "iso": "GA",
+    "code": "241"
+  },
+  "operators": [
+    {
+      "brand": "Azur",
+      "operator": "USAN Gabon S.A.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "07",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "IN&Phone",
+      "operator": "IN&Phone SA",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

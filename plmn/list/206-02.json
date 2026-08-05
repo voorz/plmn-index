@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "02",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Infrabel",
+      "operator": "Infrabel",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R"
+    }
+  ]
+}

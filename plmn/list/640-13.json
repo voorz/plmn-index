@@ -1,0 +1,19 @@
+{
+  "mcc": "640",
+  "mnc": "13",
+  "country": {
+    "name": "Tanzania",
+    "iso": "TZ",
+    "code": "255",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Cootel",
+      "operator": "Wiafrica Tanzania Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

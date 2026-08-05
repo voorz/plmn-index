@@ -1,0 +1,56 @@
+{
+  "mcc": "262",
+  "mnc": "02",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "Vodafone D2 GmbH",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 1800 / 5G 3500",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vodafone DE",
+          "names": [
+            "vodafone de",
+            "klarmobil",
+            "lidl",
+            "simon mobile",
+            "freenet",
+            "otelo-vodafone.de",
+            "naked mobile"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Vodafone eSIM",
+            "LIDL eSIM",
+            "otelo eSIM",
+            "SIMon mobile eSIM",
+            "klarmobil eSIM",
+            "freenet eSIM",
+            "NAKED eSIM",
+            "89492021176030505099"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "none",
+          "gid2": "none",
+          "profile_names": [
+            "Vodafone eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

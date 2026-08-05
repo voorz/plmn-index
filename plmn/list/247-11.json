@@ -1,0 +1,19 @@
+{
+  "mcc": "247",
+  "mnc": "11",
+  "country": {
+    "name": "Latvia",
+    "iso": "LV",
+    "code": "371",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "LMT",
+      "operator": "Latvian Mobile Telephone",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

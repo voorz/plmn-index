@@ -1,0 +1,35 @@
+{
+  "mcc": "222",
+  "mnc": "50",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Iliad",
+      "operator": "Iliad Italia S.p.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500",
+      "icon": "iliad",
+      "icon_scope": "222",
+      "subs": [
+        {
+          "brand": "Iliad Italy",
+          "names": [
+            "iliad italy"
+          ],
+          "gid1": "f003",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "iliad",
+            "iliadbusiness eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "510",
+  "mnc": "07",
+  "country": {
+    "name": "Indonesia",
+    "iso": "ID",
+    "code": "62",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "TelkomFlexi",
+      "operator": "PT Telkom Indonesia Tbk",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA2000 800"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "25",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "thulium Sp. z o.o.",
+      "operator": "thulium Sp. z o.o.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

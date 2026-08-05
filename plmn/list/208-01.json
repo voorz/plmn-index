@@ -1,0 +1,175 @@
+{
+  "mcc": "208",
+  "mnc": "01",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Orange",
+      "operator": "Orange S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 2100 / 5G 3500",
+      "icon": "orange-france",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Roamic",
+          "names": [
+            "roamic",
+            "esim",
+            "vocom",
+            "webbing",
+            "esim",
+            "sooty",
+            "bondio",
+            "global",
+            "telwel",
+            "manet travel",
+            "roamic",
+            "yolla"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Roamic_APP",
+            "JOYTEL_CSL_appletV4",
+            "160_1707095421548",
+            "Addevice-TOB2wApp6",
+            "Orange",
+            "JOYTEL_BLANK_QRCODE_appletV4",
+            "RakutenPhase3Profile",
+            "WEBBING",
+            "ONF_SP2_Single",
+            "19_1716862260386",
+            "ESIM",
+            "Bytetravel-20801",
+            "1ESIM-Anex-Reuse_1",
+            "Global1SIM_Single_SP05",
+            "ESIM_ACCESS_CARRIER",
+            "Centup",
+            "Quantek_LP_TOB1",
+            "Yolla_Reuse_208_01",
+            "RTG_Android"
+          ]
+        },
+        {
+          "brand": "Holafly",
+          "names": [
+            "holafly"
+          ],
+          "gid1": "0407ffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Holafly"
+          ],
+          "icon": "holafly",
+          "icon_scope": "worldwide"
+        },
+        {
+          "brand": "Airalo",
+          "names": [
+            "airalo",
+            "flexiroam",
+            "voye",
+            "webbing"
+          ],
+          "gid1": "536e617065",
+          "gid2": "",
+          "profile_names": [
+            "WEBBING"
+          ]
+        },
+        {
+          "brand": "Saily",
+          "names": [
+            "saily"
+          ],
+          "gid1": "536e617065",
+          "gid2": "536e617065000012",
+          "profile_names": [
+            "WEBBING"
+          ]
+        },
+        {
+          "brand": "Voye",
+          "names": [
+            "voye"
+          ],
+          "gid1": "536e617065",
+          "gid2": "536e617065000014",
+          "profile_names": [
+            "WEBBING"
+          ]
+        },
+        {
+          "brand": "Flexiroam",
+          "names": [
+            "flexiroam"
+          ],
+          "gid1": "536e617065",
+          "gid2": "536e617065000015",
+          "profile_names": [
+            "WEBBING"
+          ]
+        },
+        {
+          "brand": "Airalo",
+          "names": [
+            "airalo",
+            "webbing",
+            "truely",
+            "connect"
+          ],
+          "gid1": "536e617065",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "WEBBING"
+          ]
+        },
+        {
+          "brand": "Orange F",
+          "names": [
+            "orange f",
+            "mobile",
+            "orange"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "Mobile",
+            "Orange F",
+            "Orange"
+          ]
+        },
+        {
+          "brand": "H3",
+          "names": [
+            "h3"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "H3",
+            "single_imsi_dynamic"
+          ]
+        },
+        {
+          "brand": "SCT",
+          "names": [
+            "sct"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "HongKongSCT"
+          ]
+        }
+      ]
+    }
+  ]
+}

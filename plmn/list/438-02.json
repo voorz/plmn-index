@@ -1,0 +1,18 @@
+{
+  "mcc": "438",
+  "mnc": "02",
+  "country": {
+    "name": "Turkmenistan",
+    "iso": "TM",
+    "code": "993"
+  },
+  "operators": [
+    {
+      "brand": "TM-Cell",
+      "operator": "Altyn Asyr",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600"
+    }
+  ]
+}

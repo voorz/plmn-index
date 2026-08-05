@@ -1,0 +1,19 @@
+{
+  "mcc": "724",
+  "mnc": "35",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Telcom Telecomunicações",
+      "operator": "Telcom Telecomunicações",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

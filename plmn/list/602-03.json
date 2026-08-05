@@ -1,0 +1,56 @@
+{
+  "mcc": "602",
+  "mnc": "03",
+  "country": {
+    "name": "Egypt",
+    "iso": "EG",
+    "code": "20",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "e&",
+      "operator": "e& Egypt",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 2500",
+      "icon": "etisalat",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "e& Egypt",
+          "names": [
+            "e& egypt"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "e& Egypt"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Etisalat",
+      "operator": "Etisalat Egypt",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800",
+      "icon": "etisalat",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "e& Egypt",
+          "names": [
+            "e& egypt"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "e& Egypt"
+          ]
+        }
+      ]
+    }
+  ]
+}

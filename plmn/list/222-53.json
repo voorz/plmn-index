@@ -1,0 +1,56 @@
+{
+  "mcc": "222",
+  "mnc": "53",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "CoopVoce",
+      "operator": "Coop Italia S.c.a.r.l.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "coop-voce",
+      "icon_scope": "222",
+      "subs": [
+        {
+          "brand": "CoopVoce",
+          "names": [
+            "coopvoce"
+          ],
+          "gid1": "434f4f50ffffffffff",
+          "gid2": "ffffffffffffffffff",
+          "profile_names": [
+            "eSIM CoopVoce"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "COOP Voce",
+      "operator": "COOP Voce",
+      "status": "",
+      "type": "",
+      "bands": "MVNO",
+      "icon": "coop-voce",
+      "icon_scope": "222",
+      "subs": [
+        {
+          "brand": "CoopVoce",
+          "names": [
+            "coopvoce"
+          ],
+          "gid1": "434f4f50ffffffffff",
+          "gid2": "ffffffffffffffffff",
+          "profile_names": [
+            "eSIM CoopVoce"
+          ]
+        }
+      ]
+    }
+  ]
+}

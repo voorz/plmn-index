@@ -1,0 +1,18 @@
+{
+  "mcc": "360",
+  "mnc": "110",
+  "country": {
+    "name": "Saint Vincent and the Grenadines",
+    "iso": "VC",
+    "code": "1784"
+  },
+  "operators": [
+    {
+      "brand": "FLOW",
+      "operator": "Cable & Wireless (St. Vincent & the Grenadines) Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700"
+    }
+  ]
+}

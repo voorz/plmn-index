@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "19",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Simyo",
+      "operator": "Orange España Virtual Sl.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

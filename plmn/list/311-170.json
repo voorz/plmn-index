@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "170",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "PetroCom",
+      "operator": "Tampnet",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / LTE"
+    }
+  ]
+}

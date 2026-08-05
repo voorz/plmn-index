@@ -1,0 +1,19 @@
+{
+  "mcc": "450",
+  "mnc": "03",
+  "country": {
+    "name": "South Korea",
+    "iso": "KR",
+    "code": "82",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Power 017",
+      "operator": "Shinsegi Telecom, Inc.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA 850"
+    }
+  ]
+}

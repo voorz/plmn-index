@@ -1,0 +1,19 @@
+{
+  "mcc": "255",
+  "mnc": "702",
+  "country": {
+    "name": "Ukraine",
+    "iso": "UA",
+    "code": "380",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Limited Liability Company \"J&W\"",
+      "operator": "Limited Liability Company \"J&W\"",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

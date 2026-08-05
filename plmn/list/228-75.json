@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "75",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telecom Liechtenstein AG",
+      "operator": "Telecom Liechtenstein AG",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

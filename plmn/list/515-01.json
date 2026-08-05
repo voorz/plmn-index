@@ -1,0 +1,19 @@
+{
+  "mcc": "515",
+  "mnc": "01",
+  "country": {
+    "name": "Philippines",
+    "iso": "PH",
+    "code": "63",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "G Starlink",
+      "operator": "Globe Telecom via Starlink",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500"
+    }
+  ]
+}

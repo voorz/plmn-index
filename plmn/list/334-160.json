@@ -1,0 +1,19 @@
+{
+  "mcc": "334",
+  "mnc": "160",
+  "country": {
+    "name": "Mexico",
+    "iso": "MX",
+    "code": "52",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Televisión Internacional, S.A. de C.V.",
+      "operator": "Televisión Internacional, S.A. de C.V.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

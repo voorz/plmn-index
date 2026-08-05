@@ -1,0 +1,18 @@
+{
+  "mcc": "620",
+  "mnc": "15",
+  "country": {
+    "name": "Ghana",
+    "iso": "GH",
+    "code": "233"
+  },
+  "operators": [
+    {
+      "brand": "Lebara",
+      "operator": "Lebara",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

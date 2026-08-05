@@ -1,0 +1,18 @@
+{
+  "mcc": "634",
+  "mnc": "03",
+  "country": {
+    "name": "Sudan",
+    "iso": "SD",
+    "code": "249"
+  },
+  "operators": [
+    {
+      "brand": "MTN",
+      "operator": "MTN Sudan",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

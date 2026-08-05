@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "217",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "NTT docomo",
+      "operator": "NTT DoCoMo, Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

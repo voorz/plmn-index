@@ -1,0 +1,55 @@
+{
+  "mcc": "420",
+  "mnc": "09",
+  "country": {
+    "name": "Saudi Arabia",
+    "iso": "SA",
+    "code": "966",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Salam",
+      "operator": "Salam",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown",
+      "icon": "salammobile",
+      "icon_scope": "420",
+      "subs": [
+        {
+          "brand": "SalamMobile",
+          "names": [
+            "salammobile"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Physical voucher"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "SalamMobile",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "salammobile",
+      "icon_scope": "420",
+      "subs": [
+        {
+          "brand": "SalamMobile",
+          "names": [
+            "salammobile"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Physical voucher"
+          ]
+        }
+      ]
+    }
+  ]
+}

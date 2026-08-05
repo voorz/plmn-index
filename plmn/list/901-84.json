@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "84",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Telefónica Móviles España, S.A. Unipersonal",
+      "operator": "Telefónica Móviles España, S.A. Unipersonal",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

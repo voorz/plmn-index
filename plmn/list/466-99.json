@@ -1,0 +1,19 @@
+{
+  "mcc": "466",
+  "mnc": "99",
+  "country": {
+    "name": "Taiwan",
+    "iso": "TW",
+    "code": "886",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Taiwan Mobile",
+      "operator": "Taiwan Mobile Co. Ltd",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

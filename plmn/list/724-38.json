@@ -1,0 +1,19 @@
+{
+  "mcc": "724",
+  "mnc": "38",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Claro",
+      "operator": "Claro",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900"
+    }
+  ]
+}

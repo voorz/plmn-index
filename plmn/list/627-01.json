@@ -1,0 +1,18 @@
+{
+  "mcc": "627",
+  "mnc": "01",
+  "country": {
+    "name": "Equatorial Guinea",
+    "iso": "GQ",
+    "code": "240"
+  },
+  "operators": [
+    {
+      "brand": "Orange GQ",
+      "operator": "GETESA",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE"
+    }
+  ]
+}

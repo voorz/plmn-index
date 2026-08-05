@@ -1,0 +1,19 @@
+{
+  "mcc": "242",
+  "mnc": "06",
+  "country": {
+    "name": "Norway",
+    "iso": "NO",
+    "code": "47",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "ice",
+      "operator": "Lyse Tele AS",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 450"
+    }
+  ]
+}

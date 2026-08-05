@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "670",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Pine Belt Wireless",
+      "operator": "Pine Belt Cellular Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700"
+    }
+  ]
+}

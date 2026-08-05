@@ -1,0 +1,34 @@
+{
+  "mcc": "702",
+  "mnc": "69",
+  "country": {
+    "name": "Belize",
+    "iso": "BZ",
+    "code": "501",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "SMART",
+      "operator": "Speednet Communications Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA2000 850 / UMTS 850 / LTE 700",
+      "icon": "smart",
+      "icon_scope": "702",
+      "subs": [
+        {
+          "brand": "Smart!",
+          "names": [
+            "smart!"
+          ],
+          "gid1": "ffffff",
+          "gid2": "ffffff",
+          "profile_names": [
+            "profilename"
+          ]
+        }
+      ]
+    }
+  ]
+}

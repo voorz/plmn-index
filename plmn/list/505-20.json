@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "20",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Ausgrid",
+      "operator": "Ausgrid Corporation",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "98",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "private networks",
+      "operator": "private networks",
+      "status": "Operational",
+      "type": "National",
+      "bands": "5G 3500"
+    }
+  ]
+}

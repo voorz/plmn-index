@@ -1,0 +1,50 @@
+{
+  "mcc": "405",
+  "mnc": "852",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "code": "91",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Idea",
+      "operator": "Vodafone Idea Limited",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100",
+      "icon": "vi",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vi",
+          "names": [
+            "vi"
+          ],
+          "gid1": "ff",
+          "gid2": "ff"
+        }
+      ]
+    },
+    {
+      "brand": "IDEA",
+      "operator": "Tamil Nadu",
+      "status": "",
+      "type": "",
+      "bands": "GSM 1800",
+      "icon": "vi",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vi",
+          "names": [
+            "vi"
+          ],
+          "gid1": "ff",
+          "gid2": "ff"
+        }
+      ]
+    }
+  ]
+}

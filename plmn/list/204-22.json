@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "22",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Ministerie van Defensie",
+      "operator": "Ministerie van Defensie",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

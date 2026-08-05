@@ -1,0 +1,19 @@
+{
+  "mcc": "722",
+  "mnc": "01",
+  "country": {
+    "name": "Argentina",
+    "iso": "AR",
+    "code": "54",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Tuenti",
+      "operator": "Telefónica Móviles Argentina S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

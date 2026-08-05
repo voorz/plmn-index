@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "190",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "T-Mobile",
+      "operator": "T-Mobile US",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1900"
+    }
+  ]
+}

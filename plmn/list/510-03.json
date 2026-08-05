@@ -1,0 +1,19 @@
+{
+  "mcc": "510",
+  "mnc": "03",
+  "country": {
+    "name": "Indonesia",
+    "iso": "ID",
+    "code": "62",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "StarOne",
+      "operator": "PT Indosat Tbk",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA2000 800"
+    }
+  ]
+}

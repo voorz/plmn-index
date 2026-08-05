@@ -1,0 +1,47 @@
+{
+  "mcc": "222",
+  "mnc": "10",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "Vodafone Italia S.p.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 800  / LTE 1500 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 2100 / 5G 3500",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "1Mobile",
+          "names": [
+            "1mobile",
+            "vodafone it"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "eSIM 1Mobile",
+            "eSIM Vodafone"
+          ]
+        },
+        {
+          "brand": "ho.Mobile",
+          "names": [
+            "ho.mobile"
+          ],
+          "gid1": "20",
+          "gid2": "20",
+          "profile_names": [
+            "eSIM ho.Mobile"
+          ]
+        }
+      ]
+    }
+  ]
+}

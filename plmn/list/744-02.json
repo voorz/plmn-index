@@ -1,0 +1,35 @@
+{
+  "mcc": "744",
+  "mnc": "02",
+  "country": {
+    "name": "Paraguay",
+    "iso": "PY",
+    "code": "595",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Claro",
+      "operator": "AMX Paraguay S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 1900 / LTE 1700",
+      "icon": "claro",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "CLARO",
+          "names": [
+            "claro",
+            "claro"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "B11.60"
+          ]
+        }
+      ]
+    }
+  ]
+}

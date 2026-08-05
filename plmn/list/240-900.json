@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "900",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Västra Götalandsregionen",
+      "operator": "Västra Götalandsregionen",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

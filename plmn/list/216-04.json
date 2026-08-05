@@ -1,0 +1,19 @@
+{
+  "mcc": "216",
+  "mnc": "04",
+  "country": {
+    "name": "Hungary",
+    "iso": "HU",
+    "code": "36",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Pro-M PrCo. Ltd.",
+      "operator": "Pro-M PrCo. Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

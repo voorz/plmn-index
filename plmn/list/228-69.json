@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "69",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MTEL",
+      "operator": "MTEL Schweiz GmbH",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

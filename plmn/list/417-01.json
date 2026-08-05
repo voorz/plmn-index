@@ -1,0 +1,35 @@
+{
+  "mcc": "417",
+  "mnc": "01",
+  "country": {
+    "name": "Syria",
+    "iso": "SY",
+    "code": "963",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Syriatel",
+      "operator": "Syriatel Mobile Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800",
+      "icon": "syriatel",
+      "icon_scope": "417",
+      "subs": [
+        {
+          "brand": "Syriatel",
+          "names": [
+            "syriatel"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "profilename",
+            "HBSYST020026_Syria_Syriatel_eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

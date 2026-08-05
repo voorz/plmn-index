@@ -1,0 +1,19 @@
+{
+  "mcc": "414",
+  "mnc": "20",
+  "country": {
+    "name": "Myanmar",
+    "iso": "MM",
+    "code": "95",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "ACS",
+      "operator": "Amara Communication Co., Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 2600"
+    }
+  ]
+}

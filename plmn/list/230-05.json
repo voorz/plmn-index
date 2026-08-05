@@ -1,0 +1,19 @@
+{
+  "mcc": "230",
+  "mnc": "05",
+  "country": {
+    "name": "Czech Republic",
+    "iso": "CZ",
+    "code": "420",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "PODA",
+      "operator": "PODA a.s.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 3700"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "18",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "WMS",
+      "operator": "Wireless Maritime Services, LLC",
+      "status": "Operational",
+      "type": "International",
+      "bands": "GSM 900 / GSM 1900 / CDMA2000 1900 / UMTS 1900 / LTE 700"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "970",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Big River Broadband",
+      "operator": "Big River Broadband, LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1700"
+    }
+  ]
+}

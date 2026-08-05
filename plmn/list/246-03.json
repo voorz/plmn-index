@@ -1,0 +1,35 @@
+{
+  "mcc": "246",
+  "mnc": "03",
+  "country": {
+    "name": "Lithuania",
+    "iso": "LT",
+    "code": "370",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Tele2",
+      "operator": "UAB Tele2 (Tele2 AB, Sweden)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500",
+      "icon": "tele2",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Tele2",
+          "names": [
+            "tele2"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "T2_LT_Pos",
+            "T2_LT_Pre"
+          ]
+        }
+      ]
+    }
+  ]
+}

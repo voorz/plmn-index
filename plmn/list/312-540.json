@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "540",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Broadband In Hand LLC",
+      "operator": "Broadband In Hand LLC",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

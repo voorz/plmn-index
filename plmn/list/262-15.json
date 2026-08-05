@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "15",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Airdata",
+      "operator": "",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-SCDMA"
+    }
+  ]
+}

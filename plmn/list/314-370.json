@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "370",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "ITEC",
+      "operator": "Texas A&M University",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

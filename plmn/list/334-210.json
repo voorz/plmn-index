@@ -1,0 +1,19 @@
+{
+  "mcc": "334",
+  "mnc": "210",
+  "country": {
+    "name": "Mexico",
+    "iso": "MX",
+    "code": "52",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "YO Mobile",
+      "operator": "Yonder Media Mobile México, S. de R.L. de C.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

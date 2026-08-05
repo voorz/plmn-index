@@ -1,0 +1,37 @@
+{
+  "mcc": "655",
+  "mnc": "07",
+  "country": {
+    "name": "South Africa",
+    "iso": "ZA",
+    "code": "27",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Cell C",
+      "operator": "Cell C (Pty) Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / LTE 1800 / LTE 2100",
+      "icon": "cell-c",
+      "icon_scope": "655",
+      "subs": [
+        {
+          "brand": "CellC_CLLC_6.1.1",
+          "names": [
+            "cellc_cllc_6.1.1",
+            "me&you"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Cell C",
+            "ME&YOU Profile",
+            "AR_CLC_ZAF_B2C_0002"
+          ]
+        }
+      ]
+    }
+  ]
+}

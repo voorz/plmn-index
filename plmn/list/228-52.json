@@ -1,0 +1,18 @@
+{
+  "mcc": "228",
+  "mnc": "52",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Barablu",
+      "operator": "Barablu",
+      "status": "Not operational",
+      "type": "National"
+    }
+  ]
+}

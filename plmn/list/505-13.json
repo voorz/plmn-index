@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "13",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "RailCorp",
+      "operator": "Railcorp, Transport for NSW",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R 1800"
+    }
+  ]
+}

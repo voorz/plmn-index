@@ -1,0 +1,34 @@
+{
+  "mcc": "250",
+  "mnc": "01",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MTS",
+      "operator": "Mobile TeleSystems",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 / LTE 2600 / TD-LTE 2600 / 5G 4700",
+      "icon": "mts",
+      "icon_scope": "250",
+      "subs": [
+        {
+          "brand": "MTS RUS",
+          "names": [
+            "mts rus"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "MTS RUS"
+          ]
+        }
+      ]
+    }
+  ]
+}

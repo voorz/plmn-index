@@ -1,0 +1,19 @@
+{
+  "mcc": "295",
+  "mnc": "01",
+  "country": {
+    "name": "Liechtenstein",
+    "iso": "LI",
+    "code": "423",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Swisscom",
+      "operator": "Swisscom Schweiz AG",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

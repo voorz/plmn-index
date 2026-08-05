@@ -1,0 +1,19 @@
+{
+  "mcc": "440",
+  "mnc": "00",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Y!Mobile",
+      "operator": "SoftBank Corp.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "UMTS 1800"
+    }
+  ]
+}

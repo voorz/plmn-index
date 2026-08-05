@@ -1,0 +1,58 @@
+{
+  "mcc": "220",
+  "mnc": "05",
+  "country": {
+    "name": "Serbia",
+    "iso": "RS",
+    "code": "381",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "A1 SRB",
+      "operator": "A1 Srbija d.o.o.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800",
+      "icon": "one",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "A1 SRB",
+          "names": [
+            "a1 srb"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "A1RS Prepaid eSIM",
+            "Procescom_MultiIMSI"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "VIP",
+      "operator": "VIP Mobile",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800",
+      "icon": "one",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "A1 SRB",
+          "names": [
+            "a1 srb"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "A1RS Prepaid eSIM",
+            "Procescom_MultiIMSI"
+          ]
+        }
+      ]
+    }
+  ]
+}

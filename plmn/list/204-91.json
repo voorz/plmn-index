@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "91",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Enexis Netbeheer B.V.",
+      "operator": "Enexis Netbeheer B.V.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

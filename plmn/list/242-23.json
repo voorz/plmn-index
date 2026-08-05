@@ -1,0 +1,35 @@
+{
+  "mcc": "242",
+  "mnc": "23",
+  "country": {
+    "name": "Norway",
+    "iso": "NO",
+    "code": "47",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Lycamobile",
+      "operator": "Lyca Mobile Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "lycamobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "LYC37736_1K_GEN_NOR_V1.0_V1.8.0_DI_SMENU_SIMFILES_20240115",
+            "LYC37767_2K_GEN_NOR_V1.0_V1.4.0_DI_SMENU_SIMFILES_20231109"
+          ]
+        }
+      ]
+    }
+  ]
+}

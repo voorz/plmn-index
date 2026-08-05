@@ -1,0 +1,19 @@
+{
+  "mcc": "455",
+  "mnc": "04",
+  "country": {
+    "name": "Macau (Special administrative region of the People's Republic of China)",
+    "iso": "MO",
+    "code": "853",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "CTM",
+      "operator": "Companhia de Telecomunicações de Macau, S.A.R.L.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "UMTS 2100"
+    }
+  ]
+}

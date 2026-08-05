@@ -1,0 +1,19 @@
+{
+  "mcc": "220",
+  "mnc": "09",
+  "country": {
+    "name": "Serbia",
+    "iso": "RS",
+    "code": "381",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Vectone Mobile",
+      "operator": "MUNDIO MOBILE d.o.o.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

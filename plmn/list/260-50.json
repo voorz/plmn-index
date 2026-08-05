@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "50",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "eSIM Go Limited",
+      "operator": "eSIM Go Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

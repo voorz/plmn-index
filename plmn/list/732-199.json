@@ -1,0 +1,19 @@
+{
+  "mcc": "732",
+  "mnc": "199",
+  "country": {
+    "name": "Colombia",
+    "iso": "CO",
+    "code": "57",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "SUMA movil",
+      "operator": "SUMA Movil SAS",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "73",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Nokia",
+      "operator": "Nokia",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

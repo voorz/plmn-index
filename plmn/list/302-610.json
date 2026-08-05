@@ -1,0 +1,52 @@
+{
+  "mcc": "302",
+  "mnc": "610",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Bell Mobility",
+      "operator": "Bell Mobility",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 1900 / LTE 2600 / 5G 1700 / 5G 3500",
+      "icon": "bell-mobility",
+      "icon_scope": "302",
+      "subs": [
+        {
+          "brand": "Canada Mobile",
+          "names": [
+            "canada mobile",
+            "bell"
+          ],
+          "gid1": "3d",
+          "gid2": "ffff",
+          "profile_names": [
+            "BCMT5Ge002",
+            "BCMT4Ge003"
+          ]
+        },
+        {
+          "brand": "PC mobile",
+          "names": [
+            "pc mobile"
+          ],
+          "gid1": "40",
+          "gid2": "ffff"
+        },
+        {
+          "brand": "Lucky",
+          "names": [
+            "lucky"
+          ],
+          "gid1": "42",
+          "gid2": "ffff"
+        }
+      ]
+    }
+  ]
+}

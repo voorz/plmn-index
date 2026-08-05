@@ -1,0 +1,18 @@
+{
+  "mcc": "221",
+  "mnc": "02",
+  "country": {
+    "name": "Kosovo",
+    "iso": "XK",
+    "code": "383"
+  },
+  "operators": [
+    {
+      "brand": "IPKO",
+      "operator": "IPKO",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / LTE 1800"
+    }
+  ]
+}

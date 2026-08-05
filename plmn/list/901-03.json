@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "03",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Iridium",
+      "operator": "",
+      "status": "Operational",
+      "type": "International",
+      "bands": "Satellite"
+    }
+  ]
+}

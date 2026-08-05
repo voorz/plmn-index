@@ -1,0 +1,18 @@
+{
+  "mcc": "606",
+  "mnc": "00",
+  "country": {
+    "name": "Libya",
+    "iso": "LY",
+    "code": "218"
+  },
+  "operators": [
+    {
+      "brand": "Libyana",
+      "operator": "Libyana",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

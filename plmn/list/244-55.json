@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "55",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Aalto-korkeakoulusäätiö sr",
+      "operator": "Aalto-korkeakoulusäätiö sr",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

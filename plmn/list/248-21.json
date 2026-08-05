@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "21",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Trinavo LLC",
+      "operator": "Trinavo LLC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

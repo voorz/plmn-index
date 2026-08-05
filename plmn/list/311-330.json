@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "330",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Bug Tussel Wireless",
+      "operator": "Bug Tussel Wireless LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / LTE 1700 / WiMAX 3700"
+    }
+  ]
+}

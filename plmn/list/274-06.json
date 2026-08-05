@@ -1,0 +1,19 @@
+{
+  "mcc": "274",
+  "mnc": "06",
+  "country": {
+    "name": "Iceland",
+    "iso": "IS",
+    "code": "354",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Núll níu ehf",
+      "operator": "Núll níu ehf",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

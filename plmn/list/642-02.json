@@ -1,0 +1,18 @@
+{
+  "mcc": "642",
+  "mnc": "02",
+  "country": {
+    "name": "Burundi",
+    "iso": "BI",
+    "code": "257"
+  },
+  "operators": [
+    {
+      "brand": "Tempo",
+      "operator": "VTEL MEA",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

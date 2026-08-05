@@ -1,0 +1,19 @@
+{
+  "mcc": "641",
+  "mnc": "20",
+  "country": {
+    "name": "Uganda",
+    "iso": "UG",
+    "code": "256",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Hamilton Telecom Limited",
+      "operator": "Hamilton Telecom Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

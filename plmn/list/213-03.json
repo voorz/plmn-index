@@ -1,0 +1,56 @@
+{
+  "mcc": "213",
+  "mnc": "03",
+  "country": {
+    "name": "Andorra",
+    "iso": "AD",
+    "code": "376",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Som, Mobiland",
+      "operator": "Andorra Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G",
+      "icon": "mobiland",
+      "icon_scope": "213",
+      "subs": [
+        {
+          "brand": "Andorra Telecom",
+          "names": [
+            "andorra telecom"
+          ],
+          "gid1": "01",
+          "gid2": "ffffff",
+          "profile_names": [
+            "Andorra Telecom"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Mobiland",
+      "operator": "Servei De Tele. DAndorra",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800",
+      "icon": "mobiland",
+      "icon_scope": "213",
+      "subs": [
+        {
+          "brand": "Andorra Telecom",
+          "names": [
+            "andorra telecom"
+          ],
+          "gid1": "01",
+          "gid2": "ffffff",
+          "profile_names": [
+            "Andorra Telecom"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "mcc": "732",
+  "mnc": "123",
+  "country": {
+    "name": "Colombia",
+    "iso": "CO",
+    "code": "57",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Movistar",
+      "operator": "Colombia Telecomunicaciones S.A. ESP",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 850 / LTE 1700 / LTE 1900 / 5G 3500",
+      "icon": "movistar",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Movistar Colombia",
+          "names": [
+            "movistar colombia"
+          ],
+          "gid1": "01",
+          "gid2": "",
+          "profile_names": [
+            "Production Profile Virtual for orchestrator"
+          ]
+        },
+        {
+          "brand": "Movistar Colombia",
+          "names": [
+            "movistar colombia"
+          ],
+          "gid1": "10",
+          "gid2": "",
+          "profile_names": [
+            "Production Profile Virtual Pospaid for orchestrator"
+          ]
+        },
+        {
+          "brand": "Jetpac",
+          "names": [
+            "jetpac",
+            "connect"
+          ],
+          "gid1": "636f6e6e65637431ffffffffffffff",
+          "gid2": "636f6e6e65637432ffffffffffffff",
+          "profile_names": [
+            "Telna_IMSI21_Connect_v04.22.01"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "movistar",
+      "operator": "Colombia Telecomunicaciones S.A. ESP",
+      "status": "",
+      "type": "",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / LTE 1700 / LTE 1900 / CDMA 850",
+      "icon": "movistar",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Movistar Colombia",
+          "names": [
+            "movistar colombia"
+          ],
+          "gid1": "01",
+          "gid2": "",
+          "profile_names": [
+            "Production Profile Virtual for orchestrator"
+          ]
+        },
+        {
+          "brand": "Movistar Colombia",
+          "names": [
+            "movistar colombia"
+          ],
+          "gid1": "10",
+          "gid2": "",
+          "profile_names": [
+            "Production Profile Virtual Pospaid for orchestrator"
+          ]
+        },
+        {
+          "brand": "Jetpac",
+          "names": [
+            "jetpac",
+            "connect"
+          ],
+          "gid1": "636f6e6e65637431ffffffffffffff",
+          "gid2": "636f6e6e65637432ffffffffffffff",
+          "profile_names": [
+            "Telna_IMSI21_Connect_v04.22.01"
+          ]
+        }
+      ]
+    }
+  ]
+}

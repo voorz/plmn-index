@@ -1,0 +1,19 @@
+{
+  "mcc": "268",
+  "mnc": "13",
+  "country": {
+    "name": "Portugal",
+    "iso": "PT",
+    "code": "351",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "G9Telecom, S.A.",
+      "operator": "G9Telecom, S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

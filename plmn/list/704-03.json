@@ -1,0 +1,18 @@
+{
+  "mcc": "704",
+  "mnc": "03",
+  "country": {
+    "name": "Guatemala",
+    "iso": "GT",
+    "code": "502"
+  },
+  "operators": [
+    {
+      "brand": "Claro",
+      "operator": "Telecomunicaciones de Guatemala, S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA 1900 / GSM 1900 / UMTS 1900 / LTE 1900"
+    }
+  ]
+}

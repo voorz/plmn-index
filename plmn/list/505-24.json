@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "24",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Advanced Comm Tech Pty.",
+      "operator": "Advanced Communications Technologies",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

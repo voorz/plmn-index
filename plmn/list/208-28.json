@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "28",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "AIF",
+      "operator": "Airmob Infra Full",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

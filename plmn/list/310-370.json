@@ -1,0 +1,33 @@
+{
+  "mcc": "310",
+  "mnc": "370",
+  "country": {
+    "name": "Guam (United States of America)",
+    "iso": "GU",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Docomo",
+      "operator": "NTT DoCoMo Pacific",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 850 / LTE 700 / 5G"
+    },
+    {
+      "brand": "Docomo",
+      "operator": "NTT DoCoMo Pacific",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS / LTE"
+    },
+    {
+      "brand": "Docomo",
+      "operator": "NTT DoCoMo Pacific",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 850 / LTE 700"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "530",
+  "mnc": "12",
+  "country": {
+    "name": "New Zealand",
+    "iso": "NZ",
+    "code": "64",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "BAINZ",
+      "operator": "Broadband & Internet New Zealand Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "5G n78 (3.30-3.34 GHz) regional"
+    }
+  ]
+}

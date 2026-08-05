@@ -1,0 +1,19 @@
+{
+  "mcc": "219",
+  "mnc": "20",
+  "country": {
+    "name": "Croatia",
+    "iso": "HR",
+    "code": "385",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "T-Mobile HR",
+      "operator": "T-Hrvatski Telekom",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

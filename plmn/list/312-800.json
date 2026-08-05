@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "800",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Cirrus Core Networks",
+      "operator": "Cirrus Core Networks",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

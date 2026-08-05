@@ -1,0 +1,18 @@
+{
+  "mcc": "542",
+  "mnc": "01",
+  "country": {
+    "name": "Fiji",
+    "iso": "FJ",
+    "code": "679"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "Vodafone Fiji",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

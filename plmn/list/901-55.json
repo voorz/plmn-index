@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "55",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Beezz Communication Solutions Ltd.",
+      "operator": "Beezz Communication Solutions Ltd.",
+      "status": "Not operational",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

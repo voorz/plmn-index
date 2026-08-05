@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "16",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Cisco Jasper",
+      "operator": "Cisco Systems, Inc.",
+      "status": "Operational",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "418",
+  "mnc": "40",
+  "country": {
+    "name": "Iraq",
+    "iso": "IQ",
+    "code": "964",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Korek",
+      "operator": "Telecom Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100"
+    }
+  ]
+}

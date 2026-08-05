@@ -1,0 +1,197 @@
+{
+  "mcc": "232",
+  "mnc": "10",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "3",
+      "operator": "Hutchison Drei Austria",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500",
+      "icon": "3",
+      "icon_scope": "232",
+      "subs": [
+        {
+          "brand": "Redtea Mobile",
+          "names": [
+            "redtea mobile",
+            "redteago",
+            "carrier",
+            "roam",
+            "textr",
+            "roamic",
+            "vacay",
+            "slick",
+            "travel",
+            "22sim",
+            "jetfi mobile",
+            "wholesim",
+            "esim"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "RTG_Android",
+            "RedteaGO",
+            "ESIM_ACCESS_CARRIER",
+            "Metablox_APP",
+            "Klook_app",
+            "GenVoice_type_Textr",
+            "Roamic_APP",
+            "Slick",
+            "SmartTraveller",
+            "22SIM",
+            "Access_Jetfi",
+            "Centup"
+          ]
+        },
+        {
+          "brand": "educom",
+          "names": [
+            "educom"
+          ],
+          "gid1": "0000",
+          "gid2": "0000",
+          "profile_names": [
+            "educom Austria"
+          ]
+        },
+        {
+          "brand": "Eety",
+          "names": [
+            "eety"
+          ],
+          "gid1": "0304",
+          "gid2": "0304",
+          "profile_names": [
+            "Eety"
+          ]
+        },
+        {
+          "brand": "Lidl Connect",
+          "names": [
+            "lidl connect"
+          ],
+          "gid1": "0305",
+          "gid2": "0305",
+          "profile_names": [
+            "Lidl"
+          ]
+        },
+        {
+          "brand": "Data eSIM",
+          "names": [
+            "data esim"
+          ],
+          "gid1": "0409",
+          "gid2": "0409",
+          "profile_names": [
+            "HAT_1.0"
+          ]
+        },
+        {
+          "brand": "eSIM Go",
+          "names": [
+            "esim go",
+            "pocket esim",
+            "esimatic",
+            "acmesim",
+            "nextsim eu",
+            "roamingo",
+            "buddysim",
+            "lyntel"
+          ],
+          "gid1": "0409",
+          "gid2": "ffff",
+          "profile_names": [
+            "eSIM Go"
+          ]
+        },
+        {
+          "brand": "Airalo",
+          "names": [
+            "airalo"
+          ],
+          "gid1": "040c",
+          "gid2": "040c",
+          "profile_names": [
+            "Airalo"
+          ]
+        },
+        {
+          "brand": "Gist Mobile",
+          "names": [
+            "gist mobile"
+          ],
+          "gid1": "040f",
+          "gid2": "040f"
+        },
+        {
+          "brand": "eROAMING",
+          "names": [
+            "eroaming"
+          ],
+          "gid1": "0414",
+          "gid2": "0414",
+          "profile_names": [
+            "eROAMING"
+          ]
+        },
+        {
+          "brand": "Holafly",
+          "names": [
+            "holafly"
+          ],
+          "gid1": "0507",
+          "gid2": "0507",
+          "profile_names": [
+            "Holafly"
+          ],
+          "icon": "holafly",
+          "icon_scope": "worldwide"
+        },
+        {
+          "brand": "Data eSIM",
+          "names": [
+            "data esim"
+          ],
+          "gid1": "30343039",
+          "gid2": "30343039"
+        },
+        {
+          "brand": "BillionConnect",
+          "names": [
+            "billionconnect",
+            "roamify",
+            "trip",
+            "3"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "BillionConnect",
+            "Roamify",
+            "OpenRoam",
+            "3"
+          ]
+        },
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "none",
+          "gid2": "none",
+          "profile_names": [
+            "ESIM_ACCESS_CARRIER",
+            "RTG_Android"
+          ]
+        }
+      ]
+    }
+  ]
+}

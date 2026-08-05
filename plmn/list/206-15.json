@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "15",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Elephant Talk Communications Schweiz GmbH",
+      "operator": "Elephant Talk Communications Schweiz GmbH",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

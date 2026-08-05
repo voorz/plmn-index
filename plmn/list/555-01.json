@@ -1,0 +1,18 @@
+{
+  "mcc": "555",
+  "mnc": "01",
+  "country": {
+    "name": "Niue",
+    "iso": "NU",
+    "code": "683"
+  },
+  "operators": [
+    {
+      "brand": "Telecom Niue",
+      "operator": "Telecom Niue",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 700"
+    }
+  ]
+}

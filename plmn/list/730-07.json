@@ -1,0 +1,49 @@
+{
+  "mcc": "730",
+  "mnc": "07",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Movistar",
+      "operator": "Telefónica Móvil de Chile",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown",
+      "icon": "movistar",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Virgin",
+          "names": [
+            "virgin"
+          ],
+          "gid1": "10",
+          "gid2": "ff"
+        }
+      ]
+    },
+    {
+      "brand": "movistar",
+      "operator": "Telefónica Móvil de Chile",
+      "status": "",
+      "type": "",
+      "icon": "movistar",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Virgin",
+          "names": [
+            "virgin"
+          ],
+          "gid1": "10",
+          "gid2": "ff"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "16",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "NextGen Mobile Ltd.",
+      "operator": "NextGen Mobile Ltd.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

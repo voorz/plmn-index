@@ -1,0 +1,56 @@
+{
+  "mcc": "404",
+  "mnc": "13",
+  "country": {
+    "name": "India",
+    "iso": "IN",
+    "code": "91",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Vi India",
+      "operator": "Andhra Pradesh and Telangana",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vi",
+          "names": [
+            "vi"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "VIL_PR_PROD_GND_AP_1"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Vodafone India",
+      "operator": "Andhra Pradesh and Telangana",
+      "status": "",
+      "type": "",
+      "bands": "GSM 1800",
+      "icon": "vodafone",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vi",
+          "names": [
+            "vi"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "VIL_PR_PROD_GND_AP_1"
+          ]
+        }
+      ]
+    }
+  ]
+}

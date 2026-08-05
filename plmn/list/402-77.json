@@ -1,0 +1,18 @@
+{
+  "mcc": "402",
+  "mnc": "77",
+  "country": {
+    "name": "Bhutan",
+    "iso": "BT",
+    "code": "975"
+  },
+  "operators": [
+    {
+      "brand": "TashiCell",
+      "operator": "Tashi InfoComm Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 850 / LTE 700 / 3G 3500"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "440",
+  "mnc": "94",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Rakuten Mobile",
+      "operator": "Rakuten Mobile Network, Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

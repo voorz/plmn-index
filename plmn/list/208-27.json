@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "27",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Coriolis",
+      "operator": "Coriolis Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "641",
+  "mnc": "40",
+  "country": {
+    "name": "Uganda",
+    "iso": "UG",
+    "code": "256",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Civil Aviation Authority (CAA)",
+      "operator": "Civil Aviation Authority (CAA)",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

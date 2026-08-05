@@ -1,0 +1,19 @@
+{
+  "mcc": "467",
+  "mnc": "05",
+  "country": {
+    "name": "North Korea",
+    "iso": "KP",
+    "code": "850",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Koryolink",
+      "operator": "Cheo Technology Jv Company",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 2100"
+    }
+  ]
+}

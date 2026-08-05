@@ -1,0 +1,34 @@
+{
+  "mcc": "437",
+  "mnc": "09",
+  "country": {
+    "name": "Kyrgyzstan",
+    "iso": "KG",
+    "code": "996",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "O!",
+      "operator": "NurTelecom LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 2600",
+      "icon": "o",
+      "icon_scope": "437",
+      "subs": [
+        {
+          "brand": "NUR_Telecom",
+          "names": [
+            "nur_telecom"
+          ],
+          "gid1": "ff",
+          "gid2": "00",
+          "profile_names": [
+            "NUR_Telecom"
+          ]
+        }
+      ]
+    }
+  ]
+}

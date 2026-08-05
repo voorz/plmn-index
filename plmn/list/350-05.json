@@ -1,0 +1,18 @@
+{
+  "mcc": "350",
+  "mnc": "05",
+  "country": {
+    "name": "Bermuda",
+    "iso": "BM",
+    "code": "1441"
+  },
+  "operators": [
+    {
+      "brand": "Telecom Networks",
+      "operator": "Telecom Networks",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "622",
+  "mnc": "07",
+  "country": {
+    "name": "Chad",
+    "iso": "TD",
+    "code": "235"
+  },
+  "operators": [
+    {
+      "brand": "Salam",
+      "operator": "SotelTchad",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

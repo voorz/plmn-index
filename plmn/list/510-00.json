@@ -1,0 +1,19 @@
+{
+  "mcc": "510",
+  "mnc": "00",
+  "country": {
+    "name": "Indonesia",
+    "iso": "ID",
+    "code": "62",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "PSN",
+      "operator": "PT Pasifik Satelit Nusantara",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Satellite"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "mcc": "234",
+  "mnc": "40",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "spusu",
+      "operator": "MASS Response Service GmbH",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "spusu-international",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "spusu",
+          "names": [
+            "spusu"
+          ],
+          "gid1": "0048",
+          "gid2": "",
+          "profile_names": [
+            "spusu eSIM"
+          ],
+          "icon": "spusu",
+          "icon_scope": "worldwide"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "mcc": "334",
+  "mnc": "050",
+  "country": {
+    "name": "Mexico",
+    "iso": "MX",
+    "code": "52",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "AT&T / Unefon",
+      "operator": "AT&T Mexico",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / UMTS 1900 / UMTS 1700 / LTE 850 / LTE 1700 / LTE 2600 / TD-LTE 2600 / 5G 2600",
+      "icon": "at-and-t",
+      "icon_scope": "334",
+      "subs": [
+        {
+          "brand": "WIM",
+          "names": [
+            "wim"
+          ],
+          "gid1": "4f4e45ffffffffffff",
+          "gid2": "ffffffffffffffffff",
+          "profile_names": [
+            "WIM"
+          ],
+          "icon": "wim",
+          "icon_scope": "334"
+        },
+        {
+          "brand": "UBIX",
+          "names": [
+            "ubix"
+          ],
+          "gid1": "55424958ffffffffff",
+          "gid2": "ffffffffffffffffff",
+          "profile_names": [
+            "Ubix 01"
+          ]
+        },
+        {
+          "brand": "YO",
+          "names": [
+            "yo"
+          ],
+          "gid1": "594fffffffffffffff",
+          "gid2": "ffffffffffffffffff",
+          "profile_names": [
+            "buzz01"
+          ]
+        },
+        {
+          "brand": "ATTMexico",
+          "names": [
+            "attmexico"
+          ],
+          "gid1": "ffffffffffffffffff",
+          "gid2": "ffffffffffffffffff",
+          "profile_names": [
+            "Condesa_1.0",
+            "AT&T"
+          ]
+        }
+      ]
+    }
+  ]
+}

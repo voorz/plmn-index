@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "41",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "First Telecom GmbH",
+      "operator": "First Telecom GmbH",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "760",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Hologram, Inc.",
+      "operator": "Hologram, Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

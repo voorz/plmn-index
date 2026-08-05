@@ -1,0 +1,19 @@
+{
+  "mcc": "630",
+  "mnc": "01",
+  "country": {
+    "name": "Democratic Republic of the Congo",
+    "iso": "CD",
+    "code": "243",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Vodacom",
+      "operator": "Vodacom Congo RDC sprl",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / TD-LTE 3500 / WiMAX 3500"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "250",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Bell Mobility",
+      "operator": "Bell Mobility",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown 1700"
+    }
+  ]
+}

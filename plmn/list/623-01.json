@@ -1,0 +1,18 @@
+{
+  "mcc": "623",
+  "mnc": "01",
+  "country": {
+    "name": "Central African Republic",
+    "iso": "CF",
+    "code": "236"
+  },
+  "operators": [
+    {
+      "brand": "Moov",
+      "operator": "Atlantique Telecom Centrafrique SA",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

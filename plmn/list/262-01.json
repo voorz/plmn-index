@@ -1,0 +1,110 @@
+{
+  "mcc": "262",
+  "mnc": "01",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telekom",
+      "operator": "Telekom Deutschland GmbH",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 2100 / 5G 3500",
+      "icon": "telekom",
+      "icon_scope": "262",
+      "subs": [
+        {
+          "brand": "kaufland",
+          "names": [
+            "kaufland",
+            "telekom.de",
+            "bling mobile"
+          ],
+          "gid1": "01",
+          "gid2": "ff",
+          "profile_names": [
+            "Bling Mobile",
+            "Telekom.de",
+            "kaufland"
+          ]
+        },
+        {
+          "brand": "Edeka Smart",
+          "names": [
+            "edeka smart",
+            "telekom.de"
+          ],
+          "gid1": "02",
+          "gid2": "ff",
+          "profile_names": [
+            "Telekom.de",
+            "EDEKA smart"
+          ]
+        },
+        {
+          "brand": "freenet",
+          "names": [
+            "freenet"
+          ],
+          "gid1": "15",
+          "gid2": "ff",
+          "profile_names": [
+            "freenet"
+          ]
+        },
+        {
+          "brand": "klarmobil",
+          "names": [
+            "klarmobil"
+          ],
+          "gid1": "32",
+          "gid2": "ff",
+          "profile_names": [
+            "klarmobil"
+          ]
+        },
+        {
+          "brand": "Telekom.de",
+          "names": [
+            "telekom.de",
+            "congstar",
+            "fraenk"
+          ],
+          "gid1": "44",
+          "gid2": "ff",
+          "profile_names": [
+            "Congstar",
+            "fraenk",
+            "Telekom.de"
+          ]
+        },
+        {
+          "brand": "Telekom.de",
+          "names": [
+            "telekom.de"
+          ],
+          "gid1": "99",
+          "gid2": "ff",
+          "profile_names": [
+            "Telekom.de"
+          ]
+        },
+        {
+          "brand": "mobilezone",
+          "names": [
+            "mobilezone"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "mobilezone"
+          ]
+        }
+      ]
+    }
+  ]
+}

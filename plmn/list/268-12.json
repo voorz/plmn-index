@@ -1,0 +1,19 @@
+{
+  "mcc": "268",
+  "mnc": "12",
+  "country": {
+    "name": "Portugal",
+    "iso": "PT",
+    "code": "351",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Infraestruturas de Portugal, S.A.",
+      "operator": "Infraestruturas de Portugal, S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R"
+    }
+  ]
+}

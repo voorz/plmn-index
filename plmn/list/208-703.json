@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "703",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Nivertel",
+      "operator": "Nivertel",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

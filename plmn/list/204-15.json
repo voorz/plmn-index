@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "15",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Ziggo",
+      "operator": "Ziggo B.V.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 2600"
+    }
+  ]
+}

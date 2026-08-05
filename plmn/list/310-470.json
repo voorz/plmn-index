@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "470",
+  "country": {
+    "name": "Guam (United States of America)",
+    "iso": "GU",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Docomo",
+      "operator": "NTT DoCoMo Pacific",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

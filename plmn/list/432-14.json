@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "14",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "TKC/KFZO",
+      "operator": "Kish Free Zone Organization",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

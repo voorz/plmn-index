@@ -1,0 +1,19 @@
+{
+  "mcc": "460",
+  "mnc": "15",
+  "country": {
+    "name": "China",
+    "iso": "CN",
+    "code": "86",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "China Broadnet",
+      "operator": "China Broadnet",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 900 / LTE 1800 /TD-LTE 1900 / TD-LTE 2000 / TD-LTE 2300 /5G 700 / 5G 2500"
+    }
+  ]
+}

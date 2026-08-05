@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "970",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Globalstar",
+      "operator": "Globalstar",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Satellite"
+    }
+  ]
+}

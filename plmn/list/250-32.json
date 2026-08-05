@@ -1,0 +1,34 @@
+{
+  "mcc": "250",
+  "mnc": "32",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Win Mobile",
+      "operator": "K-Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600",
+      "icon": "k-telecom",
+      "icon_scope": "250",
+      "subs": [
+        {
+          "brand": "WIN-Mobile",
+          "names": [
+            "win-mobile"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "WIN-Mobile"
+          ]
+        }
+      ]
+    }
+  ]
+}

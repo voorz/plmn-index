@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "25",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Datora Mobile Telecomunicações SA",
+      "operator": "Datora Mobile Telecomunicações SA",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "645",
+  "mnc": "03",
+  "country": {
+    "name": "Zambia",
+    "iso": "ZM",
+    "code": "260",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "ZAMTEL",
+      "operator": "Zambia Telecommunications Company Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / TD-LTE 2300"
+    }
+  ]
+}

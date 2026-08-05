@@ -1,0 +1,35 @@
+{
+  "mcc": "604",
+  "mnc": "00",
+  "country": {
+    "name": "Morocco",
+    "iso": "MA",
+    "code": "212",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Orange Morocco",
+      "operator": "Médi Télécom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 700 / 5G 3500",
+      "icon": "orange",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Orange MA",
+          "names": [
+            "orange ma"
+          ],
+          "gid1": "01",
+          "gid2": "",
+          "profile_names": [
+            "Orange MA eSIM",
+            "8921200485040729576F"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "43",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telavox",
+      "operator": "Telavox AB / Telavox Oy",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

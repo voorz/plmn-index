@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "18",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Voxbone",
+      "operator": "Voxbone mobile",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

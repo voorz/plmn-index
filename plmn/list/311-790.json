@@ -1,0 +1,19 @@
+{
+  "mcc": "311",
+  "mnc": "790",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Coleman County Telephone Cooperative, Inc.",
+      "operator": "Coleman County Telephone Cooperative, Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

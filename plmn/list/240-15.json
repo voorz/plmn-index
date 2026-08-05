@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "15",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Sierra Wireless Sweden AB",
+      "operator": "Sierra Wireless Sweden AB",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

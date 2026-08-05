@@ -1,0 +1,19 @@
+{
+  "mcc": "222",
+  "mnc": "48",
+  "country": {
+    "name": "Italy",
+    "iso": "IT",
+    "code": "39",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "TIM",
+      "operator": "Telecom Italia S.p.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

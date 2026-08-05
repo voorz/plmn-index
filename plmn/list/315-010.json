@@ -1,0 +1,18 @@
+{
+  "mcc": "315",
+  "mnc": "010",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "CBRS",
+      "operator": "Citizens Broadband Radio Service",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "TD-LTE 3500"
+    }
+  ]
+}

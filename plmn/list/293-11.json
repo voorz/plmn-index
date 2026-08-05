@@ -1,0 +1,19 @@
+{
+  "mcc": "293",
+  "mnc": "11",
+  "country": {
+    "name": "Slovenia",
+    "iso": "SI",
+    "code": "386",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "BeeIN d.o.o.",
+      "operator": "BeeIN d.o.o.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "5G 700"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "mcc": "901",
+  "mnc": "99",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Athalos Global Services BV",
+      "operator": "Athalos Global Services BV",
+      "status": "Not operational",
+      "type": "International",
+      "bands": "MVNO",
+      "icon": "roamless",
+      "icon_scope": "901",
+      "subs": [
+        {
+          "brand": "Roamless",
+          "names": [
+            "roamless"
+          ],
+          "gid1": "4d2e3f1a6b7c8d9e",
+          "gid2": "5a6b7c8d9e0f1a2b",
+          "profile_names": [
+            "Roamless_Turkey_DI_v01.01.00"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Roamless",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "roamless",
+      "icon_scope": "901",
+      "subs": [
+        {
+          "brand": "Roamless",
+          "names": [
+            "roamless"
+          ],
+          "gid1": "4d2e3f1a6b7c8d9e",
+          "gid2": "5a6b7c8d9e0f1a2b",
+          "profile_names": [
+            "Roamless_Turkey_DI_v01.01.00"
+          ]
+        }
+      ]
+    }
+  ]
+}

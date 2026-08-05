@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "98",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Play",
+      "operator": "P4 Sp. z o.o.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "LTE 1800"
+    }
+  ]
+}

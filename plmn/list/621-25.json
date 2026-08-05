@@ -1,0 +1,19 @@
+{
+  "mcc": "621",
+  "mnc": "25",
+  "country": {
+    "name": "Nigeria",
+    "iso": "NG",
+    "code": "234",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Visafone",
+      "operator": "Visafone Communications Ltd.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA2000 800 / CDMA2000 1900"
+    }
+  ]
+}

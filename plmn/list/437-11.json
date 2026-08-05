@@ -1,0 +1,19 @@
+{
+  "mcc": "437",
+  "mnc": "11",
+  "country": {
+    "name": "Kyrgyzstan",
+    "iso": "KG",
+    "code": "996",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "iTel",
+      "operator": "iTel",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

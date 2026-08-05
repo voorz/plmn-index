@@ -1,0 +1,19 @@
+{
+  "mcc": "250",
+  "mnc": "15",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "SMARTS",
+      "operator": "SMARTS Ufa, SMARTS Uljanovsk",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

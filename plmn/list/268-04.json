@@ -1,0 +1,48 @@
+{
+  "mcc": "268",
+  "mnc": "04",
+  "country": {
+    "name": "Portugal",
+    "iso": "PT",
+    "code": "351",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "LycaMobile",
+      "operator": "LycaMobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "lycamobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "LYC40230_8K_GEN_PRT_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250826",
+            "LYC39407_7K_GEN_PRT_V1.0_V1.8.0_DI_SMENU_SIMFILES_20250324",
+            "LYC37698_0.5K_GEN_PRT_V1.0_V1.4.0_DI_SMENU_SIMFILES_20230811",
+            "LYC39616_7K_GEN_PRT_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250516"
+          ]
+        },
+        {
+          "brand": "LycaMobile",
+          "names": [
+            "lycamobile"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "",
+          "profile_names": [
+            "LycaMobile"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "19",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Haute-Garonne numérique",
+      "operator": "Haute-Garonne numérique",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

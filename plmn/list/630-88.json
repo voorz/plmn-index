@@ -1,0 +1,19 @@
+{
+  "mcc": "630",
+  "mnc": "88",
+  "country": {
+    "name": "Democratic Republic of the Congo",
+    "iso": "CD",
+    "code": "243",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "YTT",
+      "operator": "Yozma Timeturns sprl",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

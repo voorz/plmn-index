@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "45",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "Zi-Tel",
+      "operator": "Farabord Dadeh Haye Iranian Co.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 3500"
+    }
+  ]
+}

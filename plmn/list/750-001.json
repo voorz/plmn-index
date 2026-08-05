@@ -1,0 +1,18 @@
+{
+  "mcc": "750",
+  "mnc": "001",
+  "country": {
+    "name": "Falkland Islands (United Kingdom)",
+    "iso": "FK",
+    "code": "500"
+  },
+  "operators": [
+    {
+      "brand": "Sure",
+      "operator": "Sure South Atlantic Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 1800 / WiMAX 2400 / WiMAX 3500"
+    }
+  ]
+}

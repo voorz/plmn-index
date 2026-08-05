@@ -1,0 +1,18 @@
+{
+  "mcc": "642",
+  "mnc": "01",
+  "country": {
+    "name": "Burundi",
+    "iso": "BI",
+    "code": "257"
+  },
+  "operators": [
+    {
+      "brand": "econet Leo",
+      "operator": "Econet Wireless Burundi PLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

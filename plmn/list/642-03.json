@@ -1,0 +1,18 @@
+{
+  "mcc": "642",
+  "mnc": "03",
+  "country": {
+    "name": "Burundi",
+    "iso": "BI",
+    "code": "257"
+  },
+  "operators": [
+    {
+      "brand": "Onatel",
+      "operator": "Onatel Burundi",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

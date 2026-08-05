@@ -1,0 +1,19 @@
+{
+  "mcc": "283",
+  "mnc": "04",
+  "country": {
+    "name": "Armenia",
+    "iso": "AM",
+    "code": "374",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Karabakh Telecom",
+      "operator": "Karabakh Telecom",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900"
+    }
+  ]
+}

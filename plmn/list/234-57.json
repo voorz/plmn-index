@@ -1,0 +1,105 @@
+{
+  "mcc": "234",
+  "mnc": "57",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Sky Mobile",
+      "operator": "Sky UK Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "sky",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "eSIM Go",
+          "names": [
+            "esim go",
+            "travelesim",
+            "pocket esim",
+            "nextsim eu",
+            "esim",
+            "buddysim",
+            "esimatic",
+            "esimo",
+            "paypoint",
+            "lnvpn",
+            "22sim",
+            "acmesim",
+            "usim",
+            "esimony",
+            "lyntel"
+          ],
+          "gid1": "0409",
+          "gid2": "ffff",
+          "profile_names": [
+            "eSIM Go"
+          ]
+        },
+        {
+          "brand": "Sky",
+          "names": [
+            "sky"
+          ],
+          "gid1": "0c",
+          "gid2": "ff",
+          "profile_names": [
+            "Sky UK"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Sky",
+      "operator": "Sky UK Limited",
+      "status": "",
+      "type": "",
+      "icon": "sky",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "eSIM Go",
+          "names": [
+            "esim go",
+            "travelesim",
+            "pocket esim",
+            "nextsim eu",
+            "esim",
+            "buddysim",
+            "esimatic",
+            "esimo",
+            "paypoint",
+            "lnvpn",
+            "22sim",
+            "acmesim",
+            "usim",
+            "esimony",
+            "lyntel"
+          ],
+          "gid1": "0409",
+          "gid2": "ffff",
+          "profile_names": [
+            "eSIM Go"
+          ]
+        },
+        {
+          "brand": "Sky",
+          "names": [
+            "sky"
+          ],
+          "gid1": "0c",
+          "gid2": "ff",
+          "profile_names": [
+            "Sky UK"
+          ]
+        }
+      ]
+    }
+  ]
+}

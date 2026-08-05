@@ -1,0 +1,18 @@
+{
+  "mcc": "352",
+  "mnc": "030",
+  "country": {
+    "name": "Grenada",
+    "iso": "GD",
+    "code": "1473"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel Grenada Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1900"
+    }
+  ]
+}

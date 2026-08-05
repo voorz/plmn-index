@@ -1,0 +1,19 @@
+{
+  "mcc": "246",
+  "mnc": "06",
+  "country": {
+    "name": "Lithuania",
+    "iso": "LT",
+    "code": "370",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Mediafon",
+      "operator": "UAB Mediafon",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

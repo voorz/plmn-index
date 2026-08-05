@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "310",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "CAL.NET, Inc.",
+      "operator": "CAL.NET, Inc.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

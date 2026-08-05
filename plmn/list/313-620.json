@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "620",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "OmniProphis Corporation",
+      "operator": "OmniProphis Corporation",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown 1700"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "232",
+  "mnc": "29",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "aicall telekommunikation",
+      "operator": "aicall telekommunikation",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

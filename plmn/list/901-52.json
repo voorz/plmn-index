@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "52",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Manx Telecom Trading Ltd.",
+      "operator": "Manx Telecom Trading Ltd.",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

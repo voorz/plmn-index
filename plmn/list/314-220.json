@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "220",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Securus Technologies",
+      "operator": "Securus Technologies",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

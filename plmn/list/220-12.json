@@ -1,0 +1,19 @@
+{
+  "mcc": "220",
+  "mnc": "12",
+  "country": {
+    "name": "Serbia",
+    "iso": "RS",
+    "code": "381",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "STmobile",
+      "operator": "Sat-Trakt d.o.o. Bačka Topola",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

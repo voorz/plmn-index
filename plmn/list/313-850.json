@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "850",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Softcom Internet Communications, Inc",
+      "operator": "Softcom Internet Communications, Inc",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

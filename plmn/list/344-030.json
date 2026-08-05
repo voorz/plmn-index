@@ -1,0 +1,18 @@
+{
+  "mcc": "344",
+  "mnc": "030",
+  "country": {
+    "name": "Antigua and Barbuda",
+    "iso": "AG",
+    "code": "1268"
+  },
+  "operators": [
+    {
+      "brand": "inet",
+      "operator": "Antigua Public Utilities Authority",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

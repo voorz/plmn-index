@@ -1,0 +1,19 @@
+{
+  "mcc": "262",
+  "mnc": "42",
+  "country": {
+    "name": "Germany",
+    "iso": "DE",
+    "code": "49",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "CCC Event",
+      "operator": "Chaos Computer Club",
+      "status": "Temporary operational",
+      "type": "National",
+      "bands": "GSM 1800"
+    }
+  ]
+}

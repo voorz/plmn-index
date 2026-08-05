@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "710",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "ASTAC",
+      "operator": "Arctic Slope Telephone Association Cooperative",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / LTE"
+    }
+  ]
+}

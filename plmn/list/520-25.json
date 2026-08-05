@@ -1,0 +1,19 @@
+{
+  "mcc": "520",
+  "mnc": "25",
+  "country": {
+    "name": "Thailand",
+    "iso": "TH",
+    "code": "66",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "WE PCT",
+      "operator": "True Corporation",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "PHS 1900"
+    }
+  ]
+}

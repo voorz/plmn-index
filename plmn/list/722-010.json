@@ -1,0 +1,56 @@
+{
+  "mcc": "722",
+  "mnc": "010",
+  "country": {
+    "name": "Argentina",
+    "iso": "AR",
+    "code": "54",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Movistar & Tuenti",
+      "operator": "Telefónica Móviles Argentina S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 2600 / 5G 3500",
+      "icon": "movistar",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Tuenti Argentina",
+          "names": [
+            "tuenti argentina"
+          ],
+          "gid1": "01",
+          "gid2": "",
+          "profile_names": [
+            "Hercules"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Movistar",
+      "operator": "Telefónica Móviles Argentina S.A.",
+      "status": "",
+      "type": "",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 2600",
+      "icon": "movistar",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Tuenti Argentina",
+          "names": [
+            "tuenti argentina"
+          ],
+          "gid1": "01",
+          "gid2": "",
+          "profile_names": [
+            "Hercules"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "549",
+  "mnc": "27",
+  "country": {
+    "name": "Samoa",
+    "iso": "WS",
+    "code": "685",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone",
+      "operator": "Vodafone Samoa Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 700 / LTE 1800"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "mcc": "621",
+  "mnc": "30",
+  "country": {
+    "name": "Nigeria",
+    "iso": "NG",
+    "code": "234",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "MTN",
+      "operator": "MTN Nigeria Communications Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 2600 / TD-LTE 3500 / 5G 3500",
+      "icon": "mtn",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "MTN Nigeria",
+          "names": [
+            "mtn nigeria"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "MTN Nigeria"
+          ]
+        },
+        {
+          "brand": "MTN Nigeria",
+          "names": [
+            "mtn nigeria"
+          ],
+          "gid1": "ff",
+          "gid2": "",
+          "profile_names": [
+            "MTN_NG_ESIM_GD"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "mcc": "456",
+  "mnc": "08",
+  "country": {
+    "name": "Cambodia",
+    "iso": "KH",
+    "code": "855",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Metfone",
+      "operator": "Viettel",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800",
+      "icon": "metfone",
+      "icon_scope": "456",
+      "subs": [
+        {
+          "brand": "Metfone",
+          "names": [
+            "metfone"
+          ],
+          "gid1": "000000a1",
+          "gid2": "00000000",
+          "profile_names": [
+            "VTC 26.0"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "mcc": "232",
+  "mnc": "17",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "spusu",
+      "operator": "MASS Response Service GmbH",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "spusu",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "spusu",
+          "names": [
+            "spusu"
+          ],
+          "gid1": "0041",
+          "gid2": "",
+          "profile_names": [
+            "spusu_digital"
+          ]
+        },
+        {
+          "brand": "spusu",
+          "names": [
+            "spusu"
+          ],
+          "gid1": "c7ff",
+          "gid2": "",
+          "profile_names": [
+            "spusu_digital"
+          ]
+        }
+      ]
+    }
+  ]
+}

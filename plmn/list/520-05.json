@@ -1,0 +1,106 @@
+{
+  "mcc": "520",
+  "mnc": "05",
+  "country": {
+    "name": "Thailand",
+    "iso": "TH",
+    "code": "66",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "dtac",
+      "operator": "DTAC TriNet Company Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / 5G 700",
+      "icon": "dtac",
+      "icon_scope": "520",
+      "subs": [
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim",
+            "dtac",
+            "redtea mobile",
+            "redteago",
+            "airsime"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Klook_app",
+            "PRI_5200505",
+            "PRI_5200504",
+            "PRI_5200502",
+            "PRI_5200507",
+            "PRI_5200506",
+            "JOYTEL_BLANK_QRCODE_appletV4",
+            "PRI_5200503",
+            "PRI_5200508",
+            "eSIM"
+          ]
+        },
+        {
+          "brand": "BillionConnect",
+          "names": [
+            "billionconnect",
+            "trip"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "BillionConnect"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "dtac TriNet / LINE",
+      "operator": "DTAC TriNet Company Ltd.",
+      "status": "",
+      "type": "",
+      "bands": "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100",
+      "icon": "dtac",
+      "icon_scope": "520",
+      "subs": [
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim",
+            "dtac",
+            "redtea mobile",
+            "redteago",
+            "airsime"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Klook_app",
+            "PRI_5200505",
+            "PRI_5200504",
+            "PRI_5200502",
+            "PRI_5200507",
+            "PRI_5200506",
+            "JOYTEL_BLANK_QRCODE_appletV4",
+            "PRI_5200503",
+            "PRI_5200508",
+            "eSIM"
+          ]
+        },
+        {
+          "brand": "BillionConnect",
+          "names": [
+            "billionconnect",
+            "trip"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "BillionConnect"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "620",
+  "mnc": "16",
+  "country": {
+    "name": "Ghana",
+    "iso": "GH",
+    "code": "233"
+  },
+  "operators": [
+    {
+      "brand": "Telesol",
+      "operator": "Telesol",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800"
+    }
+  ]
+}

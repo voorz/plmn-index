@@ -1,0 +1,19 @@
+{
+  "mcc": "724",
+  "mnc": "40",
+  "country": {
+    "name": "Brazil",
+    "iso": "BR",
+    "code": "55",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Telecall",
+      "operator": "Telexperts Telecomunicações S.A",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

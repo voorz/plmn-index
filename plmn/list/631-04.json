@@ -1,0 +1,19 @@
+{
+  "mcc": "631",
+  "mnc": "04",
+  "country": {
+    "name": "Angola",
+    "iso": "AO",
+    "code": "244",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "MOVICEL",
+      "operator": "MOVICEL Telecommunications S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / LTE 1800"
+    }
+  ]
+}

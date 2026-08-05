@@ -1,0 +1,19 @@
+{
+  "mcc": "238",
+  "mnc": "88",
+  "country": {
+    "name": "Denmark (Kingdom of Denmark)",
+    "iso": "DK",
+    "code": "45",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Cobira",
+      "operator": "Cobira ApS",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

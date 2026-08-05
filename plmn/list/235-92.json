@@ -1,0 +1,17 @@
+{
+  "mcc": "235",
+  "mnc": "92",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44"
+  },
+  "operators": [
+    {
+      "brand": "Vodafone UK",
+      "operator": "Vodafone United Kingdom",
+      "status": "Not operational",
+      "type": "National"
+    }
+  ]
+}

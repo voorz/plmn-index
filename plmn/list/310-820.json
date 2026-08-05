@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "820",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Verizon Wireless",
+      "operator": "Verizon Wireless",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

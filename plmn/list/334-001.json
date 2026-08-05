@@ -1,0 +1,19 @@
+{
+  "mcc": "334",
+  "mnc": "001",
+  "country": {
+    "name": "Mexico",
+    "iso": "MX",
+    "code": "52",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Comunicaciones Digitales Del Norte, S.A. de C.V.",
+      "operator": "Comunicaciones Digitales Del Norte, S.A. de C.V.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

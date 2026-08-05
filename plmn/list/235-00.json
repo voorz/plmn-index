@@ -1,0 +1,17 @@
+{
+  "mcc": "235",
+  "mnc": "00",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44"
+  },
+  "operators": [
+    {
+      "brand": "Vectone Mobile",
+      "operator": "Mundio Mobile Limited",
+      "status": "Unknown",
+      "type": "National"
+    }
+  ]
+}

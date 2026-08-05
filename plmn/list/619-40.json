@@ -1,0 +1,18 @@
+{
+  "mcc": "619",
+  "mnc": "40",
+  "country": {
+    "name": "Sierra Leone",
+    "iso": "SL",
+    "code": "232"
+  },
+  "operators": [
+    {
+      "brand": "Datatel (SL) Ltd.",
+      "operator": "Datatel (SL) Ltd.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "GSM"
+    }
+  ]
+}

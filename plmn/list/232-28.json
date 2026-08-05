@@ -1,0 +1,19 @@
+{
+  "mcc": "232",
+  "mnc": "28",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MASS Response Service GmbH",
+      "operator": "MASS Response Service GmbH",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

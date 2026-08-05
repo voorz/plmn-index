@@ -1,0 +1,19 @@
+{
+  "mcc": "647",
+  "mnc": "04",
+  "country": {
+    "name": "French Departments and Territories in the Indian Ocean (France)",
+    "iso": "YT/RE",
+    "code": "262",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Zeop",
+      "operator": "Zeop mobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800 / LTE 2100 / LTE 2600"
+    }
+  ]
+}

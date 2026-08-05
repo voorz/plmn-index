@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "210",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Telecom Resource Center",
+      "operator": "Telecom Resource Center",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

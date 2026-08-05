@@ -1,0 +1,19 @@
+{
+  "mcc": "440",
+  "mnc": "55",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "au",
+      "operator": "KDDI Corporation",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 2100"
+    }
+  ]
+}

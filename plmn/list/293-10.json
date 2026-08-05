@@ -1,0 +1,19 @@
+{
+  "mcc": "293",
+  "mnc": "10",
+  "country": {
+    "name": "Slovenia",
+    "iso": "SI",
+    "code": "386",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Slovenske zeleznice",
+      "operator": "SŽ - Infrastruktura, d.o.o.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R"
+    }
+  ]
+}

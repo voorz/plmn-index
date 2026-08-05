@@ -1,0 +1,36 @@
+{
+  "mcc": "302",
+  "mnc": "370",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Fido",
+      "operator": "Fido Solutions (Rogers Wireless)",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "fido",
+      "icon_scope": "302",
+      "subs": [
+        {
+          "brand": "FIDO",
+          "names": [
+            "fido",
+            "fido"
+          ],
+          "gid1": "dd",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "FIDO",
+            "Fido LTE eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

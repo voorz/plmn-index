@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "90",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "Iraphone",
+      "operator": "IRAPHONE GHESHM of Iran",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

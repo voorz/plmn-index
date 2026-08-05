@@ -1,0 +1,18 @@
+{
+  "mcc": "611",
+  "mnc": "05",
+  "country": {
+    "name": "Guinea",
+    "iso": "GN",
+    "code": "224"
+  },
+  "operators": [
+    {
+      "brand": "Cellcom",
+      "operator": "Cellcom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100"
+    }
+  ]
+}

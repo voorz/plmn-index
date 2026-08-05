@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "32",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Voxbone",
+      "operator": "Voxbone SA",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "17",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Finnish Transport Infrastructure Agency",
+      "operator": "Liikennevirasto",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "624",
+  "mnc": "01",
+  "country": {
+    "name": "Cameroon",
+    "iso": "CM",
+    "code": "237"
+  },
+  "operators": [
+    {
+      "brand": "MTN Cameroon",
+      "operator": "Mobile Telephone Network Cameroon Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / TD-LTE 2500"
+    }
+  ]
+}

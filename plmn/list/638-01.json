@@ -1,0 +1,18 @@
+{
+  "mcc": "638",
+  "mnc": "01",
+  "country": {
+    "name": "Djibouti",
+    "iso": "DJ",
+    "code": "253"
+  },
+  "operators": [
+    {
+      "brand": "Evatis",
+      "operator": "Djibouti Telecom SA",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800"
+    }
+  ]
+}

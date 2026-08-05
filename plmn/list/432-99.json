@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "99",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "TCI",
+      "operator": "TCI of Iran and Rightel",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "730",
+  "mnc": "06",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Telsur",
+      "operator": "Blue Two Chile S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

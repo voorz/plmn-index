@@ -1,0 +1,19 @@
+{
+  "mcc": "639",
+  "mnc": "09",
+  "country": {
+    "name": "Kenya",
+    "iso": "KE",
+    "code": "254",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Homeland Media",
+      "operator": "Homeland Media Group Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

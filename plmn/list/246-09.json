@@ -1,0 +1,19 @@
+{
+  "mcc": "246",
+  "mnc": "09",
+  "country": {
+    "name": "Lithuania",
+    "iso": "LT",
+    "code": "370",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Interactive Digital Media GmbH",
+      "operator": "Interactive Digital Media GmbH",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

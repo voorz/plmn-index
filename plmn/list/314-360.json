@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "360",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Oceus Networks, LLC",
+      "operator": "Oceus Networks, LLC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "5G"
+    }
+  ]
+}

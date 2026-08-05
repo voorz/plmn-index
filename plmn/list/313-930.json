@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "930",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Rock Wireless",
+      "operator": "Standing Rock Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 2500"
+    }
+  ]
+}

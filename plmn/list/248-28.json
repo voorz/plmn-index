@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "28",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Nord Connect OÜ",
+      "operator": "Nord Connect OÜ",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

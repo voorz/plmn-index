@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "36",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "GlobalCell EU",
+      "operator": "GlobalCell EU",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

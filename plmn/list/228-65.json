@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "65",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Nexphone",
+      "operator": "Nexphone AG",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

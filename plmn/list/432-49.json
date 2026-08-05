@@ -1,0 +1,18 @@
+{
+  "mcc": "432",
+  "mnc": "49",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "Gostaresh Ertebatat Mabna",
+      "operator": "Gostaresh Ertebatat Mabna",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

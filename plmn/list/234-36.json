@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "36",
+  "country": {
+    "name": "Isle of Man (United Kingdom)",
+    "iso": "IM",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Sure Mobile",
+      "operator": "Sure Isle of Man Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100"
+    }
+  ]
+}

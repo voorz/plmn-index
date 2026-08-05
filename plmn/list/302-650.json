@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "650",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "TBaytel",
+      "operator": "Thunder Bay Telephone",
+      "status": "Operational",
+      "type": "National",
+      "bands": "UMTS 850 / UMTS 1900 / LTE 2600"
+    }
+  ]
+}

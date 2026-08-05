@@ -1,0 +1,18 @@
+{
+  "mcc": "350",
+  "mnc": "11",
+  "country": {
+    "name": "Bermuda",
+    "iso": "BM",
+    "code": "1441"
+  },
+  "operators": [
+    {
+      "brand": "Deltronics",
+      "operator": "Deltronics",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

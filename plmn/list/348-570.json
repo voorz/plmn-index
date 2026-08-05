@@ -1,0 +1,18 @@
+{
+  "mcc": "348",
+  "mnc": "570",
+  "country": {
+    "name": "British Virgin Islands (United Kingdom)",
+    "iso": "VG",
+    "code": "284"
+  },
+  "operators": [
+    {
+      "brand": "CCT Boatphone",
+      "operator": "Caribbean Cellular Telephone",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1900 / UMTS 850 / LTE 900 / LTE 1900"
+    }
+  ]
+}

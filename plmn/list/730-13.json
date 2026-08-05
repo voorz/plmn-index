@@ -1,0 +1,19 @@
+{
+  "mcc": "730",
+  "mnc": "13",
+  "country": {
+    "name": "Chile",
+    "iso": "CL",
+    "code": "56",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Virgin Mobile",
+      "operator": "Tribe Mobile Chile SPA",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "80",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Phonegroup SA",
+      "operator": "Phonegroup SA",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

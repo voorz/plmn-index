@@ -1,0 +1,25 @@
+{
+  "mcc": "432",
+  "mnc": "93",
+  "country": {
+    "name": "Iran",
+    "iso": "IR",
+    "code": "98"
+  },
+  "operators": [
+    {
+      "brand": "Iraphone",
+      "operator": "Iraphone",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    },
+    {
+      "brand": "Farzanegan Pars",
+      "operator": "Farzanegan Pars",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "mcc": "460",
+  "mnc": "11",
+  "country": {
+    "name": "China",
+    "iso": "CN",
+    "code": "86",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "China Telecom",
+      "operator": "China Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 850 / LTE 1800 / LTE 2100 /TD-LTE 2300 /5G 850 / 5G 2100 / 5G 3500",
+      "icon": "china-telecom",
+      "icon_scope": "460",
+      "subs": [
+        {
+          "brand": "eSIM",
+          "names": [
+            "esim",
+            "simlessly"
+          ],
+          "gid1": "",
+          "gid2": ""
+        }
+      ]
+    }
+  ]
+}

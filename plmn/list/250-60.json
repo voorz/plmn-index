@@ -1,0 +1,45 @@
+{
+  "mcc": "250",
+  "mnc": "60",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Volna mobile",
+      "operator": "KTK Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600",
+      "icon": "ktk-telecom",
+      "icon_scope": "250",
+      "subs": [
+        {
+          "brand": "Volna Mobile",
+          "names": [
+            "volna mobile"
+          ],
+          "gid1": "8adaf735e0bd60ff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Volna Mobile"
+          ]
+        },
+        {
+          "brand": "Volna Mobile",
+          "names": [
+            "volna mobile"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "Volna Mobile"
+          ]
+        }
+      ]
+    }
+  ]
+}

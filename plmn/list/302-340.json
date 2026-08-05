@@ -1,0 +1,19 @@
+{
+  "mcc": "302",
+  "mnc": "340",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Execulink",
+      "operator": "Execulink",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

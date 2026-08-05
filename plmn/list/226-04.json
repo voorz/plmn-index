@@ -1,0 +1,19 @@
+{
+  "mcc": "226",
+  "mnc": "04",
+  "country": {
+    "name": "Romania",
+    "iso": "RO",
+    "code": "40",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Cosmote/Zapp",
+      "operator": "Telekom Romania Mobile",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA 450"
+    }
+  ]
+}

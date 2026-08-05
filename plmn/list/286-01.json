@@ -1,0 +1,34 @@
+{
+  "mcc": "286",
+  "mnc": "01",
+  "country": {
+    "name": "Turkey",
+    "iso": "TR",
+    "code": "90",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Turkcell",
+      "operator": "Turkcell Iletisim Hizmetleri A.S.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500",
+      "icon": "turkcell",
+      "icon_scope": "286",
+      "subs": [
+        {
+          "brand": "Turkcell",
+          "names": [
+            "turkcell"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Turkcell"
+          ]
+        }
+      ]
+    }
+  ]
+}

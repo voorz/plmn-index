@@ -1,0 +1,31 @@
+{
+  "mcc": "736",
+  "mnc": "02",
+  "country": {
+    "name": "Bolivia",
+    "iso": "BO",
+    "code": "591",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Entel",
+      "operator": "Entel SA",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / LTE 700 / 5G 3500",
+      "icon": "entel",
+      "icon_scope": "736",
+      "subs": [
+        {
+          "brand": "ENTEL",
+          "names": [
+            "entel"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff"
+        }
+      ]
+    }
+  ]
+}

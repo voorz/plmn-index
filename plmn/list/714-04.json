@@ -1,0 +1,18 @@
+{
+  "mcc": "714",
+  "mnc": "04",
+  "country": {
+    "name": "Panama",
+    "iso": "PA",
+    "code": "507"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel Group",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 1900 / LTE 700 / LTE 1900"
+    }
+  ]
+}

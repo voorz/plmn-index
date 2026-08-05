@@ -1,0 +1,46 @@
+{
+  "mcc": "434",
+  "mnc": "05",
+  "country": {
+    "name": "Uzbekistan",
+    "iso": "UZ",
+    "code": "998",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Ucell",
+      "operator": "Coscom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600 / 5G 3500",
+      "icon": "ucell",
+      "icon_scope": "434",
+      "subs": [
+        {
+          "brand": "UCell",
+          "names": [
+            "ucell"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "UCell.UZ_eUICC_v03.00_5100211_00260_50k",
+            "UCell.UZ_eUICC_v02.00_5100111_00120_10k"
+          ]
+        },
+        {
+          "brand": "Ucell",
+          "names": [
+            "ucell"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "Ucell"
+          ]
+        }
+      ]
+    }
+  ]
+}

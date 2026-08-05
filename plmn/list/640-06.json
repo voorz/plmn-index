@@ -1,0 +1,19 @@
+{
+  "mcc": "640",
+  "mnc": "06",
+  "country": {
+    "name": "Tanzania",
+    "iso": "TZ",
+    "code": "255",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Dovetel (T) Ltd",
+      "operator": "WIA Company Limited",
+      "status": "Operational",
+      "type": "National",
+      "bands": "WiMAX / LTE"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "650",
+  "mnc": "02",
+  "country": {
+    "name": "Malawi",
+    "iso": "MW",
+    "code": "265"
+  },
+  "operators": [
+    {
+      "brand": "Access",
+      "operator": "Access Communications Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA / LTE 850"
+    }
+  ]
+}

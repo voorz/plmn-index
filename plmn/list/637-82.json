@@ -1,0 +1,18 @@
+{
+  "mcc": "637",
+  "mnc": "82",
+  "country": {
+    "name": "Somalia",
+    "iso": "SO",
+    "code": "252"
+  },
+  "operators": [
+    {
+      "brand": "Telcom",
+      "operator": "Telcom Somalia",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / CDMA2000 / LTE"
+    }
+  ]
+}

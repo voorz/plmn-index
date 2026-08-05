@@ -1,0 +1,36 @@
+{
+  "mcc": "240",
+  "mnc": "08",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Telenor",
+      "operator": "Telenor Sverige AB",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800",
+      "icon": "telenor-nordic",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Vimla",
+          "names": [
+            "vimla",
+            "telenor se"
+          ],
+          "gid1": "02",
+          "gid2": "ff",
+          "profile_names": [
+            "TNSW_Vimla",
+            "Telenor SE"
+          ]
+        }
+      ]
+    }
+  ]
+}

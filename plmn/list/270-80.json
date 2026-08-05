@@ -1,0 +1,19 @@
+{
+  "mcc": "270",
+  "mnc": "80",
+  "country": {
+    "name": "Luxembourg",
+    "iso": "LU",
+    "code": "352",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Syniverse Technologies S.à r.l.",
+      "operator": "Syniverse Technologies S.à r.l.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

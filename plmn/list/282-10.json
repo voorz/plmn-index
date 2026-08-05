@@ -1,0 +1,19 @@
+{
+  "mcc": "282",
+  "mnc": "10",
+  "country": {
+    "name": "Georgia",
+    "iso": "GE",
+    "code": "995",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Premium Net",
+      "operator": "Premium Net International SRL",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

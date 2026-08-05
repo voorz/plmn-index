@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "96",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Région Bourgogne-Franche-Comté",
+      "operator": "Région Bourgogne-Franche-Comté",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

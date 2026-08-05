@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "81",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "National Grid Telecoms Limited",
+      "operator": "National Grid Telecoms Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

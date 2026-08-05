@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "24",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "iNum",
+      "operator": "Voxbone",
+      "status": "Not operational",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

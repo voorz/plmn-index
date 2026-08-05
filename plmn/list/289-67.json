@@ -1,0 +1,34 @@
+{
+  "mcc": "289",
+  "mnc": "67",
+  "country": {
+    "name": "Abkhazia",
+    "iso": "GE-AB",
+    "code": "7",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Aquafon",
+      "operator": "Aquafon JSC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800",
+      "icon": "aquafon",
+      "icon_scope": "289",
+      "subs": [
+        {
+          "brand": "AQUAFON",
+          "names": [
+            "aquafon"
+          ],
+          "gid1": "ffffffffffffffff",
+          "gid2": "ffffffffffffffff",
+          "profile_names": [
+            "AQF000521"
+          ]
+        }
+      ]
+    }
+  ]
+}

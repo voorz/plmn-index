@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "980",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Peoples Telephone",
+      "operator": "Texas RSA 7B3",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "CDMA / LTE 700"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "00",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "Wireless City Planning Inc.",
+      "operator": "Wireless City Planning Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 2500"
+    }
+  ]
+}

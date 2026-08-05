@@ -1,0 +1,19 @@
+{
+  "mcc": "722",
+  "mnc": "350",
+  "country": {
+    "name": "Argentina",
+    "iso": "AR",
+    "code": "54",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "PORT-HABLE",
+      "operator": "Hutchison Telecommunications Argentina S.A.",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "GSM 900"
+    }
+  ]
+}

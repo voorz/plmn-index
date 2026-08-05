@@ -1,0 +1,35 @@
+{
+  "mcc": "617",
+  "mnc": "01",
+  "country": {
+    "name": "Mauritius",
+    "iso": "MU",
+    "code": "230",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "my.t",
+      "operator": "Cellplus Mobile Communications Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 3500",
+      "icon": "my-t",
+      "icon_scope": "617",
+      "subs": [
+        {
+          "brand": "my.t",
+          "names": [
+            "my.t"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "MyT_Mauritius_eSIM_Consumer_Prepaid_v02.00.00",
+            "MyT_Mauritius_eSIM_Consumer_Postpaid_v02.01.00"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "mcc": "230",
+  "mnc": "01",
+  "country": {
+    "name": "Czech Republic",
+    "iso": "CZ",
+    "code": "420",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "T-Mobile",
+      "operator": "T-Mobile Czech Republic",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 1800 / 5G 2100",
+      "icon": "t-mobile",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Mobil.cz",
+          "names": [
+            "mobil.cz",
+            "t-mobile cz",
+            "kaktus"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "T-Mobile CZ",
+            "Mobil.cz",
+            "KAKTUS"
+          ]
+        }
+      ]
+    }
+  ]
+}

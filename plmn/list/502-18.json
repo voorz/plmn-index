@@ -1,0 +1,51 @@
+{
+  "mcc": "502",
+  "mnc": "18",
+  "country": {
+    "name": "Malaysia",
+    "iso": "MY",
+    "code": "60",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "U Mobile",
+      "operator": "U Mobile Sdn Bhd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500 / 5G 28000",
+      "icon": "u-mobile",
+      "icon_scope": "502",
+      "subs": [
+        {
+          "brand": "UMobile",
+          "names": [
+            "umobile",
+            "esim",
+            "microesim"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "UMobile",
+            "UMOBILE_50218",
+            "UM_50218_applet_v0023",
+            "UMOBILE_50218App"
+          ]
+        },
+        {
+          "brand": "U Mobile",
+          "names": [
+            "u mobile"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffffff",
+          "profile_names": [
+            "U Mobile",
+            "UMobile_T01"
+          ]
+        }
+      ]
+    }
+  ]
+}

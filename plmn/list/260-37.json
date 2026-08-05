@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "37",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Lancelot B.V.",
+      "operator": "Lancelot B.V.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

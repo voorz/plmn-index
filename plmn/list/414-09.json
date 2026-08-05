@@ -1,0 +1,19 @@
+{
+  "mcc": "414",
+  "mnc": "09",
+  "country": {
+    "name": "Myanmar",
+    "iso": "MM",
+    "code": "95",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Mytel",
+      "operator": "Myanmar National Tele & Communication Co., Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 2100"
+    }
+  ]
+}

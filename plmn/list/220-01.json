@@ -1,0 +1,56 @@
+{
+  "mcc": "220",
+  "mnc": "01",
+  "country": {
+    "name": "Serbia",
+    "iso": "RS",
+    "code": "381",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Yettel",
+      "operator": "Yettel Serbia",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800",
+      "icon": "telenor",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Yettel eSIM",
+          "names": [
+            "yettel esim"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Yettel SRB"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Telenor",
+      "operator": "Telenor Serbia",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800",
+      "icon": "telenor",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Yettel eSIM",
+          "names": [
+            "yettel esim"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Yettel SRB"
+          ]
+        }
+      ]
+    }
+  ]
+}

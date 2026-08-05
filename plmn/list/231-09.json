@@ -1,0 +1,19 @@
+{
+  "mcc": "231",
+  "mnc": "09",
+  "country": {
+    "name": "Slovakia",
+    "iso": "SK",
+    "code": "421",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "DSI DATA, a.s.",
+      "operator": "DSI DATA, a.s.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

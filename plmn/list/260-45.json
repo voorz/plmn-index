@@ -1,0 +1,19 @@
+{
+  "mcc": "260",
+  "mnc": "45",
+  "country": {
+    "name": "Poland",
+    "iso": "PL",
+    "code": "48",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Virgin Mobile",
+      "operator": "P4 Sp. z o.o.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

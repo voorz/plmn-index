@@ -1,0 +1,19 @@
+{
+  "mcc": "272",
+  "mnc": "42",
+  "country": {
+    "name": "Ireland",
+    "iso": "IE",
+    "code": "353",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Imagine",
+      "operator": "Imagine Communications",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

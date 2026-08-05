@@ -1,0 +1,34 @@
+{
+  "mcc": "472",
+  "mnc": "02",
+  "country": {
+    "name": "Maldives",
+    "iso": "MV",
+    "code": "960",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Ooredoo",
+      "operator": "Ooredoo Maldives",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 1800 / LTE 2600 / 5G",
+      "icon": "ooredoo",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "Ooredoo",
+          "names": [
+            "ooredoo"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff",
+          "profile_names": [
+            "profilename"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "549",
+  "mnc": "01",
+  "country": {
+    "name": "Samoa",
+    "iso": "WS",
+    "code": "685",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel Pacific Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 1800"
+    }
+  ]
+}

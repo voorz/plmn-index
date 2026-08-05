@@ -1,0 +1,19 @@
+{
+  "mcc": "234",
+  "mnc": "86",
+  "country": {
+    "name": "United Kingdom",
+    "iso": "GB",
+    "code": "44",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "EE Limited",
+      "operator": "EE Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "232",
+  "mnc": "21",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Salzburg AG für Energie, Verkehr und Telekommunikation",
+      "operator": "Salzburg AG für Energie, Verkehr und Telekommunikation",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "37",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Tismi",
+      "operator": "Tismi BV",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

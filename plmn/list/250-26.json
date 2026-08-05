@@ -1,0 +1,67 @@
+{
+  "mcc": "250",
+  "mnc": "26",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "VTB Mobile",
+      "operator": "VTB Mobile",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "vtb",
+      "icon_scope": "250",
+      "subs": [
+        {
+          "brand": "VTB",
+          "names": [
+            "vtb"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "0127_VTB",
+            "0253_VTB",
+            "0255_VTB",
+            "0262_VTB",
+            "0058_VTB",
+            "0061_VTB",
+            "0066_VTB"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "VTB",
+      "operator": "",
+      "status": "",
+      "type": "",
+      "icon": "vtb",
+      "icon_scope": "250",
+      "subs": [
+        {
+          "brand": "VTB",
+          "names": [
+            "vtb"
+          ],
+          "gid1": "ffff",
+          "gid2": "ffff",
+          "profile_names": [
+            "0127_VTB",
+            "0253_VTB",
+            "0255_VTB",
+            "0262_VTB",
+            "0058_VTB",
+            "0061_VTB",
+            "0066_VTB"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "231",
+  "mnc": "99",
+  "country": {
+    "name": "Slovakia",
+    "iso": "SK",
+    "code": "421",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "ŽSR",
+      "operator": "Železnice Slovenskej Republiky",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM-R"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "334",
+  "mnc": "120",
+  "country": {
+    "name": "Mexico",
+    "iso": "MX",
+    "code": "52",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Quickly Phone, S.A. de C.V.",
+      "operator": "Quickly Phone, S.A. de C.V.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

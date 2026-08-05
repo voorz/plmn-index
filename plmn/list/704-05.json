@@ -1,0 +1,18 @@
+{
+  "mcc": "704",
+  "mnc": "05",
+  "country": {
+    "name": "Guatemala",
+    "iso": "GT",
+    "code": "502"
+  },
+  "operators": [
+    {
+      "brand": "RED/INTELFON",
+      "operator": "INTELFON Guatemala",
+      "status": "Operational",
+      "type": "National",
+      "bands": "iDEN 800"
+    }
+  ]
+}

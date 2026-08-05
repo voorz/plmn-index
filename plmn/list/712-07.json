@@ -1,0 +1,19 @@
+{
+  "mcc": "712",
+  "mnc": "07",
+  "country": {
+    "name": "Costa Rica",
+    "iso": "CR",
+    "code": "506",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "ring.cr",
+      "operator": "Ring Centrales de Costa Rica S.A.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

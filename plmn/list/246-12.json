@@ -1,0 +1,19 @@
+{
+  "mcc": "246",
+  "mnc": "12",
+  "country": {
+    "name": "Lithuania",
+    "iso": "LT",
+    "code": "370",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Nord connect OU",
+      "operator": "Nord connect OU",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

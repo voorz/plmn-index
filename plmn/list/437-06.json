@@ -1,0 +1,19 @@
+{
+  "mcc": "437",
+  "mnc": "06",
+  "country": {
+    "name": "Kyrgyzstan",
+    "iso": "KG",
+    "code": "996",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Kyrgyztelecom OJSC",
+      "operator": "Kyrgyztelecom OJSC",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

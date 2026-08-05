@@ -1,0 +1,35 @@
+{
+  "mcc": "228",
+  "mnc": "01",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Swisscom",
+      "operator": "Swisscom AG",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 700 / LTE 800 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 2100 / 5G 3500",
+      "icon": "swisscom",
+      "icon_scope": "228",
+      "subs": [
+        {
+          "brand": "Swisscom",
+          "names": [
+            "swisscom"
+          ],
+          "gid1": "ff",
+          "gid2": "ff",
+          "profile_names": [
+            "CHSWIC153891V2.01",
+            "CHSWIC169891V2.00 (Dynamic Data)"
+          ]
+        }
+      ]
+    }
+  ]
+}

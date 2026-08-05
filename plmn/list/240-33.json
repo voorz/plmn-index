@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "33",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Mobile Arts",
+      "operator": "Mobile Arts AB",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

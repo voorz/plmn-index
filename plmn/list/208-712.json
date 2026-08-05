@@ -1,0 +1,19 @@
+{
+  "mcc": "208",
+  "mnc": "712",
+  "country": {
+    "name": "France",
+    "iso": "FR",
+    "code": "33",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Syndicat Audois d'énergies et du Numérique",
+      "operator": "Syndicat Audois d'énergies et du Numérique",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

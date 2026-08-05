@@ -1,0 +1,48 @@
+{
+  "mcc": "302",
+  "mnc": "720",
+  "country": {
+    "name": "Canada",
+    "iso": "CA",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Rogers Wireless",
+      "operator": "Rogers Communications",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / LTE 600 / LTE 700 / LTE 850 / LTE 1700 / LTE 1900 / LTE 2600 / 5G 600 / 5G 1700 / TD-5G 2600 / 5G 3500",
+      "icon": "rogers-wireless",
+      "icon_scope": "302",
+      "subs": [
+        {
+          "brand": "ROGERS",
+          "names": [
+            "rogers",
+            "rogers canada"
+          ],
+          "gid1": "a1",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "ROGERS",
+            "ROGERS 5G eSIM",
+            "Rogers 574.00 5G VC2_3"
+          ]
+        },
+        {
+          "brand": "chatr",
+          "names": [
+            "chatr"
+          ],
+          "gid1": "d2",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "chatr eSIM"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "282",
+  "mnc": "17",
+  "country": {
+    "name": "Georgia",
+    "iso": "GE",
+    "code": "995",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "TMTECH Ltd",
+      "operator": "TMTECH Ltd",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

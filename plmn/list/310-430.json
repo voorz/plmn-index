@@ -1,0 +1,19 @@
+{
+  "mcc": "310",
+  "mnc": "430",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "GCI",
+      "operator": "GCI Communications Corp.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900 / UMTS 1900"
+    }
+  ]
+}

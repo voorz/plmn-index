@@ -1,0 +1,19 @@
+{
+  "mcc": "214",
+  "mnc": "02",
+  "country": {
+    "name": "Spain",
+    "iso": "ES",
+    "code": "34",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Cube Móvil",
+      "operator": "Olamo Mobile S.L.U.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

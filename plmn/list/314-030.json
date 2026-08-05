@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "030",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Baicells Technologies North America Inc.",
+      "operator": "Baicells Technologies North America Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

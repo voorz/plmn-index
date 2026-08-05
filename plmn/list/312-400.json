@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "400",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Mid-Rivers Wireless",
+      "operator": "Mid-Rivers Telephone Cooperative",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "LTE 700"
+    }
+  ]
+}

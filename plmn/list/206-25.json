@@ -1,0 +1,19 @@
+{
+  "mcc": "206",
+  "mnc": "25",
+  "country": {
+    "name": "Belgium",
+    "iso": "BE",
+    "code": "32",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Dense Air",
+      "operator": "Citymesh Air",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "5G 2600"
+    }
+  ]
+}

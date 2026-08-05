@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "680",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Xfinity",
+      "operator": "Comcast OTR1 LLC",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

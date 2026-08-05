@@ -1,0 +1,19 @@
+{
+  "mcc": "278",
+  "mnc": "30",
+  "country": {
+    "name": "Malta",
+    "iso": "MT",
+    "code": "356",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "GO",
+      "operator": "Mobile Communications Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

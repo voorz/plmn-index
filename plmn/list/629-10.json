@@ -1,0 +1,18 @@
+{
+  "mcc": "629",
+  "mnc": "10",
+  "country": {
+    "name": "Congo",
+    "iso": "CG",
+    "code": "242"
+  },
+  "operators": [
+    {
+      "brand": "Libertis Telecom",
+      "operator": "MTN CONGO S.A",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600 / 5G 3500"
+    }
+  ]
+}

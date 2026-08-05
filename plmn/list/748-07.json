@@ -1,0 +1,32 @@
+{
+  "mcc": "748",
+  "mnc": "07",
+  "country": {
+    "name": "Uruguay",
+    "iso": "UY",
+    "code": "598",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Movistar",
+      "operator": "Telefónica Móviles Uruguay",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 850 / GSM 1900 / UMTS 850 / LTE 1900 / 5G 3500",
+      "icon": "movistar",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "",
+          "names": [],
+          "gid1": "01",
+          "gid2": "",
+          "profile_names": [
+            "HERCULES PROFILE PRODUCTION - ES2+"
+          ]
+        }
+      ]
+    }
+  ]
+}

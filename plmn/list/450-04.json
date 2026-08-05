@@ -1,0 +1,19 @@
+{
+  "mcc": "450",
+  "mnc": "04",
+  "country": {
+    "name": "South Korea",
+    "iso": "KR",
+    "code": "82",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "KT",
+      "operator": "KT",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 1800"
+    }
+  ]
+}

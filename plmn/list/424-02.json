@@ -1,0 +1,35 @@
+{
+  "mcc": "424",
+  "mnc": "02",
+  "country": {
+    "name": "United Arab Emirates",
+    "iso": "AE",
+    "code": "971",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Etisalat",
+      "operator": "Emirates Telecom Corp",
+      "status": "Operational",
+      "type": "National",
+      "bands": "LTE 800 / LTE 1800 / LTE 2600 / 5G 2500 / 5G 3500",
+      "icon": "etisalat",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "etisalat",
+          "names": [
+            "etisalat"
+          ],
+          "gid1": "ffffff",
+          "gid2": "ffffff",
+          "profile_names": [
+            "Unified",
+            "Type-2"
+          ]
+        }
+      ]
+    }
+  ]
+}

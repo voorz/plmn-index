@@ -1,0 +1,19 @@
+{
+  "mcc": "272",
+  "mnc": "11",
+  "country": {
+    "name": "Ireland",
+    "iso": "IE",
+    "code": "353",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Tesco Mobile",
+      "operator": "Liffey Telecom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

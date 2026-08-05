@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "48",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Com4",
+      "operator": "Communication for Devices in Sweden AB",
+      "status": "Unknown",
+      "type": "International",
+      "bands": "Unknown"
+    }
+  ]
+}

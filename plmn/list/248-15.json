@@ -1,0 +1,19 @@
+{
+  "mcc": "248",
+  "mnc": "15",
+  "country": {
+    "name": "Estonia",
+    "iso": "EE",
+    "code": "372",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "BSG Estonia OÜ",
+      "operator": "BSG Estonia OÜ",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

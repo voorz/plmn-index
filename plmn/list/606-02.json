@@ -1,0 +1,18 @@
+{
+  "mcc": "606",
+  "mnc": "02",
+  "country": {
+    "name": "Libya",
+    "iso": "LY",
+    "code": "218"
+  },
+  "operators": [
+    {
+      "brand": "Al-Jeel Phone",
+      "operator": "Al-Jeel Al-Jadeed",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO"
+    }
+  ]
+}

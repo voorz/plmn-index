@@ -1,0 +1,58 @@
+{
+  "mcc": "242",
+  "mnc": "05",
+  "country": {
+    "name": "Norway",
+    "iso": "NO",
+    "code": "47",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "OneCall / MyCall",
+      "operator": "Telia Norge AS",
+      "status": "Operational",
+      "type": "National",
+      "bands": "MVNO",
+      "icon": "telia",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "MyCall",
+          "names": [
+            "mycall"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "MyCall",
+            "OneCall"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Telia",
+      "operator": "Telia Norge AS",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / UMTS 900 / UMTS 2100",
+      "icon": "telia",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "MyCall",
+          "names": [
+            "mycall"
+          ],
+          "gid1": "ffffffffffffffffffff",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "MyCall",
+            "OneCall"
+          ]
+        }
+      ]
+    }
+  ]
+}

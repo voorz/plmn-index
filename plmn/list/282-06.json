@@ -1,0 +1,19 @@
+{
+  "mcc": "282",
+  "mnc": "06",
+  "country": {
+    "name": "Georgia",
+    "iso": "GE",
+    "code": "995",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "JSC Compatel",
+      "operator": "JSC Compatel",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

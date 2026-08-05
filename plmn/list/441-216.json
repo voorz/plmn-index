@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "216",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "Eureka Wireless K.K.",
+      "operator": "Eureka Wireless K.K.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

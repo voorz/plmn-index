@@ -1,0 +1,18 @@
+{
+  "mcc": "376",
+  "mnc": "360",
+  "country": {
+    "name": "Turks and Caicos Islands",
+    "iso": "TC",
+    "code": "1340"
+  },
+  "operators": [
+    {
+      "brand": "Digicel",
+      "operator": "Digicel (Turks & Caicos) Limited",
+      "status": "Reserved",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

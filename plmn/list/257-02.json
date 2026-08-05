@@ -1,0 +1,34 @@
+{
+  "mcc": "257",
+  "mnc": "02",
+  "country": {
+    "name": "Belarus",
+    "iso": "BY",
+    "code": "375",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "MTS",
+      "operator": "Mobile TeleSystems",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100",
+      "icon": "mts",
+      "icon_scope": "257",
+      "subs": [
+        {
+          "brand": "MTS.BY",
+          "names": [
+            "mts.by"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "MTS.BY"
+          ]
+        }
+      ]
+    }
+  ]
+}

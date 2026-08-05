@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "590",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "Lynk Global, Inc.",
+      "operator": "Lynk Global, Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Satellite"
+    }
+  ]
+}

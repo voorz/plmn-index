@@ -1,0 +1,18 @@
+{
+  "mcc": "643",
+  "mnc": "01",
+  "country": {
+    "name": "Mozambique",
+    "iso": "MZ",
+    "code": "258"
+  },
+  "operators": [
+    {
+      "brand": "tmCel",
+      "operator": "Moçambique Telecom S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / 5G"
+    }
+  ]
+}

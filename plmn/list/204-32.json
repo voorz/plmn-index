@@ -1,0 +1,19 @@
+{
+  "mcc": "204",
+  "mnc": "32",
+  "country": {
+    "name": "Netherlands (Kingdom of the Netherlands)",
+    "iso": "NL",
+    "code": "31",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Cubic Telecom Limited",
+      "operator": "Cubic Telecom Limited",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

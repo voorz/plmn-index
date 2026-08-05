@@ -1,0 +1,19 @@
+{
+  "mcc": "901",
+  "mnc": "31",
+  "country": {
+    "name": "Worldwide",
+    "iso": "UN",
+    "code": "870",
+    "region": "Worldwide"
+  },
+  "operators": [
+    {
+      "brand": "Orange",
+      "operator": "Orange S.A.",
+      "status": "Operational",
+      "type": "International",
+      "bands": "GSM 900"
+    }
+  ]
+}

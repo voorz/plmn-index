@@ -1,0 +1,19 @@
+{
+  "mcc": "220",
+  "mnc": "20",
+  "country": {
+    "name": "Serbia",
+    "iso": "RS",
+    "code": "381",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "A1 SRB",
+      "operator": "A1 Srbija d.o.o.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "228",
+  "mnc": "57",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Mitto AG",
+      "operator": "Mitto AG",
+      "status": "Unknown",
+      "type": "National"
+    }
+  ]
+}

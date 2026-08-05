@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "230",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Velocity Communications Inc.",
+      "operator": "Velocity Communications Inc.",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "LTE"
+    }
+  ]
+}

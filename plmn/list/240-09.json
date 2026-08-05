@@ -1,0 +1,19 @@
+{
+  "mcc": "240",
+  "mnc": "09",
+  "country": {
+    "name": "Sweden",
+    "iso": "SE",
+    "code": "46",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Com4",
+      "operator": "Communication for Devices in Sweden AB",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

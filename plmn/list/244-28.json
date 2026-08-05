@@ -1,0 +1,19 @@
+{
+  "mcc": "244",
+  "mnc": "28",
+  "country": {
+    "name": "Finland",
+    "iso": "FI",
+    "code": "358",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Teknologian tutkimuskeskus VTT Oy",
+      "operator": "Teknologian tutkimuskeskus VTT Oy",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

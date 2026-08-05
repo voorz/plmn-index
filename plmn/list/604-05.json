@@ -1,0 +1,19 @@
+{
+  "mcc": "604",
+  "mnc": "05",
+  "country": {
+    "name": "Morocco",
+    "iso": "MA",
+    "code": "212",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "INWI",
+      "operator": "Wana Corporate",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 700 / 5G 3500"
+    }
+  ]
+}

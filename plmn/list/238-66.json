@@ -1,0 +1,19 @@
+{
+  "mcc": "238",
+  "mnc": "66",
+  "country": {
+    "name": "Denmark (Kingdom of Denmark)",
+    "iso": "DK",
+    "code": "45",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "TT-Netværket P/S",
+      "operator": "TT-Netværket P/S",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / 5G 1800 / 5G 3500"
+    }
+  ]
+}

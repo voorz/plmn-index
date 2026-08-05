@@ -1,0 +1,19 @@
+{
+  "mcc": "313",
+  "mnc": "800",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Wireless Technologies of Nebraska",
+      "operator": "Wireless Technologies of Nebraska",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

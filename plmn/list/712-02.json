@@ -1,0 +1,19 @@
+{
+  "mcc": "712",
+  "mnc": "02",
+  "country": {
+    "name": "Costa Rica",
+    "iso": "CR",
+    "code": "506",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Kölbi ICE",
+      "operator": "Instituto Costarricense de Electricidad",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1800 / UMTS 850 / LTE 1800 / LTE 2600"
+    }
+  ]
+}

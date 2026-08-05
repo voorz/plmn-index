@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "11",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Swisscom Broadcast AG",
+      "operator": "Swisscom Broadcast AG",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

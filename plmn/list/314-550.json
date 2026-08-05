@@ -1,0 +1,18 @@
+{
+  "mcc": "314",
+  "mnc": "550",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": ""
+  },
+  "operators": [
+    {
+      "brand": "REALLY",
+      "operator": "Really Communications",
+      "status": "Operational",
+      "type": "National",
+      "bands": "3G 3500"
+    }
+  ]
+}

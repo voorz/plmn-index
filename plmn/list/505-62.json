@@ -1,0 +1,19 @@
+{
+  "mcc": "505",
+  "mnc": "62",
+  "country": {
+    "name": "Australia",
+    "iso": "AU/CC/CX",
+    "code": "61",
+    "region": "Oceania"
+  },
+  "operators": [
+    {
+      "brand": "NBN",
+      "operator": "NBN_Co",
+      "status": "Operational",
+      "type": "National",
+      "bands": "TD-LTE 2300 / TD-LTE 3500 / 5G 28000"
+    }
+  ]
+}

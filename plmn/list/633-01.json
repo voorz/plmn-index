@@ -1,0 +1,19 @@
+{
+  "mcc": "633",
+  "mnc": "01",
+  "country": {
+    "name": "Seychelles",
+    "iso": "SC",
+    "code": "248",
+    "region": "Africa"
+  },
+  "operators": [
+    {
+      "brand": "Cable & Wireless",
+      "operator": "Cable & Wireless Seychelles",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS / 5G"
+    }
+  ]
+}

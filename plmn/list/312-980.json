@@ -1,0 +1,19 @@
+{
+  "mcc": "312",
+  "mnc": "980",
+  "country": {
+    "name": "United States of America",
+    "iso": "US",
+    "code": "1",
+    "region": "North America and the Caribbean"
+  },
+  "operators": [
+    {
+      "brand": "Mark Twain Communications Company",
+      "operator": "Mark Twain Communications Company",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

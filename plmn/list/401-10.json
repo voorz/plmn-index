@@ -1,0 +1,19 @@
+{
+  "mcc": "401",
+  "mnc": "10",
+  "country": {
+    "name": "Kazakhstan",
+    "iso": "KZ",
+    "code": "7",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Freedom Telecom Operations LLP",
+      "operator": "Freedom Telecom Operations LLP",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "5G"
+    }
+  ]
+}

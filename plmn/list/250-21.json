@@ -1,0 +1,19 @@
+{
+  "mcc": "250",
+  "mnc": "21",
+  "country": {
+    "name": "Russian Federation",
+    "iso": "RU",
+    "code": "79",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "GlobalTel",
+      "operator": "JSC \"GlobalTel\" Archived 2018-06-11 at the Wayback Machine",
+      "status": "Operational",
+      "type": "National",
+      "bands": "Satellite"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mcc": "732",
+  "mnc": "002",
+  "country": {
+    "name": "Colombia",
+    "iso": "CO",
+    "code": "57",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Edatel",
+      "operator": "Edatel S.A. ESP",
+      "status": "Unknown",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

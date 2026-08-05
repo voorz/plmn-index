@@ -1,0 +1,19 @@
+{
+  "mcc": "434",
+  "mnc": "03",
+  "country": {
+    "name": "Uzbekistan",
+    "iso": "UZ",
+    "code": "998",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "UzMobile",
+      "operator": "Uzbektelekom",
+      "status": "Operational",
+      "type": "National",
+      "bands": "CDMA 450"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mcc": "441",
+  "mnc": "205",
+  "country": {
+    "name": "Japan",
+    "iso": "JP",
+    "code": "81"
+  },
+  "operators": [
+    {
+      "brand": "Katch Network Inc.",
+      "operator": "Katch Network Inc.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "5G 4700"
+    }
+  ]
+}

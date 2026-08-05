@@ -1,0 +1,19 @@
+{
+  "mcc": "228",
+  "mnc": "10",
+  "country": {
+    "name": "Switzerland",
+    "iso": "CH",
+    "code": "41",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Stadt Polizei Zürich",
+      "operator": "Stadt Polizei Zürich",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

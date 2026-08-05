@@ -1,0 +1,19 @@
+{
+  "mcc": "415",
+  "mnc": "38",
+  "country": {
+    "name": "Lebanon",
+    "iso": "LB",
+    "code": "961",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Libancell",
+      "operator": "",
+      "status": "UNKNOWN",
+      "type": "National",
+      "bands": "UNKNOWN"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "mcc": "425",
+  "mnc": "05",
+  "country": {
+    "name": "Israel",
+    "iso": "IL",
+    "code": "970",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Jawwal",
+      "operator": "Palestine Cellular Communications Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100",
+      "icon": "jawwal",
+      "icon_scope": "425",
+      "subs": [
+        {
+          "brand": "JAWWAL-PS",
+          "names": [
+            "jawwal-ps"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff"
+        }
+      ]
+    },
+    {
+      "brand": "Jawwal",
+      "operator": "Palestine Cellular Communications, Ltd.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100",
+      "icon": "jawwal",
+      "icon_scope": "425",
+      "subs": [
+        {
+          "brand": "JAWWAL-PS",
+          "names": [
+            "jawwal-ps"
+          ],
+          "gid1": "ffffffff",
+          "gid2": "ffffffff"
+        }
+      ]
+    }
+  ]
+}

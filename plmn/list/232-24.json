@@ -1,0 +1,19 @@
+{
+  "mcc": "232",
+  "mnc": "24",
+  "country": {
+    "name": "Austria",
+    "iso": "AT",
+    "code": "43",
+    "region": "Europe"
+  },
+  "operators": [
+    {
+      "brand": "Smartel Services",
+      "operator": "Smartel Services GmbH",
+      "status": "Not operational",
+      "type": "National",
+      "bands": "Unknown"
+    }
+  ]
+}

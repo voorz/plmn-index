@@ -1,0 +1,34 @@
+{
+  "mcc": "413",
+  "mnc": "08",
+  "country": {
+    "name": "Sri Lanka",
+    "iso": "LK",
+    "code": "94",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "Hutch",
+      "operator": "Hutchison Telecommunications Lanka (Pvt) Ltd",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / UMTS 2100 / LTE 900 / LTE 1800",
+      "icon": "hutch",
+      "icon_scope": "413",
+      "subs": [
+        {
+          "brand": "Hutch",
+          "names": [
+            "hutch"
+          ],
+          "gid1": "",
+          "gid2": "",
+          "profile_names": [
+            "Hutch_Default"
+          ]
+        }
+      ]
+    }
+  ]
+}

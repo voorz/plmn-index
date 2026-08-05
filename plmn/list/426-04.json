@@ -1,0 +1,58 @@
+{
+  "mcc": "426",
+  "mnc": "04",
+  "country": {
+    "name": "Bahrain",
+    "iso": "BH",
+    "code": "973",
+    "region": "Asia and the Middle East"
+  },
+  "operators": [
+    {
+      "brand": "stc",
+      "operator": "Stc Bahrain",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 3500",
+      "icon": "stc",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "stc",
+          "names": [
+            "stc"
+          ],
+          "gid1": "ffffffffffffffff00a1",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "STC_Bahrain_eSIM_2.0_v001.01",
+            "STC_Bahrain_eSIM_2.0_v002"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "STC",
+      "operator": "STC Bahrain",
+      "status": "",
+      "type": "",
+      "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 3500",
+      "icon": "stc",
+      "icon_scope": "worldwide",
+      "subs": [
+        {
+          "brand": "stc",
+          "names": [
+            "stc"
+          ],
+          "gid1": "ffffffffffffffff00a1",
+          "gid2": "ffffffffffffffffffff",
+          "profile_names": [
+            "STC_Bahrain_eSIM_2.0_v001.01",
+            "STC_Bahrain_eSIM_2.0_v002"
+          ]
+        }
+      ]
+    }
+  ]
+}

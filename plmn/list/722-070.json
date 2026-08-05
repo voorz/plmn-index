@@ -1,0 +1,19 @@
+{
+  "mcc": "722",
+  "mnc": "070",
+  "country": {
+    "name": "Argentina",
+    "iso": "AR",
+    "code": "54",
+    "region": "South and Central America"
+  },
+  "operators": [
+    {
+      "brand": "Movistar",
+      "operator": "Telefónica Móviles Argentina S.A.",
+      "status": "Operational",
+      "type": "National",
+      "bands": "GSM 1900"
+    }
+  ]
+}
