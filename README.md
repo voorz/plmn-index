@@ -141,3 +141,4 @@ This project is built upon the work of the following communities:
 - [iebb](https://github.com/iebb) — [NekokoLPA2](https://github.com/iebb/NekokoLPA2)
 - [mcc-mnc.com](https://mcc-mnc.com) — MCC/MNC database
 - [Wikipedia](https://en.wikipedia.org/wiki/Mobile_country_code) — Mobile Country Code reference
+- [flagcdn](https://flagcdn.com/) — Flags API & CDN
